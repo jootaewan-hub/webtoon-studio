@@ -764,7 +764,7 @@
 - 대사(립싱크·VO):
   - [narration] 내레이션: 밤 열 시 반, 침실의 불은 꺼져 있었고 통창이 조명을 대신했다.
   - [narration] 내레이션: 에어컨은 꺼져 있었고, 방 안에는 샤워 직후의 습기와 재스민 향 바디오일 냄새가 남아 있었다. 아이가 외가에 간 집은 이상할 만큼 조용했다. 냉장고 모터 소리까지 들렸다.
-  - [sfx] SFX(아주 작게, 회색): 우웅—
+  - [sfx] SFX(아주 작게, 회색): 웅웅—
 - 인물 시트:
 - 유진: Seo Yu-jin, fictional adult character, not resembling any real person. A 33-year-old Korean woman, former flight attendant, 172 cm, the tallest woman of the cast. Soft glamorous hourglass on a tall frame: full heavy bust, long slender cinched waist, rounded hips, and very long straight legs, her strongest silhouette point. Narrow straight shoulders with deep collarbones; ramrod-straight back, chin slightly tucked. Soft, slightly rounded oval face; languid down-turned eyes with long lashes that never smile even when her lips do; long thin groomed arched brows; slim straight nose; full lips in muted rose-red. Smooth fair skin (#F5D5BE). Wavy bob between chin and collarbone, dark espresso brown (#3A2A22), with soft side-swept bangs. Marks: small pearl stud earrings, two piercing holes in the right earlobe, a tiny mole at the tip of the left collarbone, long pale hands, short almond nude-beige nails, thin wedding band. Habit: polite closed-lip smile with cool unsmiling eyes; sits upright, knees together, legs slanted to one side.
 - 금지·수위:
@@ -1210,7 +1210,7 @@
 - 연기·화면: F.I. 위아래 2분할. 위: C2 창턱 높이에서 본 통창, 손바닥 자국 두 개와 동그란 김 자국이 천천히 줄어든다(같은 자리 세 단계 잔상). 아래: 대리석 바닥에 벗어 던진 차콜 슬랙스, 주머니가 떨리며 천 사이로 세컨폰 화면 빛이 샌다. 냉장고 효과음은 위 칸, 진동 효과음은 아래 칸에 붓 효과음(East Sea Dokdo). 내레이션 박스 위 칸 좌상, 아래 칸 우하.
 - 대사(립싱크·VO):
   - [narration] 내레이션: 그리고 정적이 왔다.
-  - [sfx] SFX(작게, 회색): 우웅—
+  - [sfx] SFX(작게, 회색): 웅웅—
   - [sfx] SFX(작게): 징— 징—
   - [narration] 내레이션: 세컨폰이었다.
 - 인물 시트:
@@ -5368,7 +5368,7 @@
 - 장면 연출 메모: 장소 3(B1 중앙 복도, C3 방향으로 복도 끝 필라테스룸 유리문) / 조명: sets에 복도 줄이 없어 필라테스룸 4000K 차가운 흰빛을 준용, 회상 컷은 탈채도 / 의상: 하린 연회색 반팔 티 #D5D8DC(제안)·금테 타원 안경·백팩 / 트랙: 1 / 감정 목표: 알아채고도 넘기는 첫 연애, 그리고 등 뒤에서 열리는 문.
 - 연기·화면: 노란 말풍선 메신저 느낌의 가상 UI, 펼친 원서 사진 프로필. 메시지와 시각 21:52는 식자로 얹는다. 효과음은 붓 효과음(East Sea Dokdo), 화면 테두리에 진동선.
 - 대사(립싱크·VO):
-  - [sfx] SFX(작게): 지잉
+  - [sfx] SFX(작게): 징—
   - [dialogue] 문자(도겸→하린): 자기 운동 잘했어? 오늘은 일찍 자.
 - 인물 시트:
 - 도겸: Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
@@ -5726,7 +5726,7 @@
 - 연기·화면: 가로 3분할. ① 분수 광장 바닥에서 올려다본 물줄기가 솟는다. ② 같은 구도에서 물줄기가 꺼지고 물방울만 떨어진다. ③ 유진의 무릎 위 휴대폰이 진동선과 함께 켜지고 키즈카페 할인 알림 아래 잠금화면이 보인다. 효과음은 붓 효과음(East Sea Dokdo), ①과 ③에만.
 - 대사(립싱크·VO):
   - [sfx] SFX: 솨아—
-  - [sfx] SFX(작게): 지잉
+  - [sfx] SFX(작게): 징—
 - 인물 시트:
 - 유진: Seo Yu-jin, fictional adult character, not resembling any real person. A 33-year-old Korean woman, former flight attendant, 172 cm, the tallest woman of the cast. Soft glamorous hourglass on a tall frame: full heavy bust, long slender cinched waist, rounded hips, and very long straight legs, her strongest silhouette point. Narrow straight shoulders with deep collarbones; ramrod-straight back, chin slightly tucked. Soft, slightly rounded oval face; languid down-turned eyes with long lashes that never smile even when her lips do; long thin groomed arched brows; slim straight nose; full lips in muted rose-red. Smooth fair skin (#F5D5BE). Wavy bob between chin and collarbone, dark espresso brown (#3A2A22), with soft side-swept bangs. Marks: small pearl stud earrings, two piercing holes in the right earlobe, a tiny mole at the tip of the left collarbone, long pale hands, short almond nude-beige nails, thin wedding band. Habit: polite closed-lip smile with cool unsmiling eyes; sits upright, knees together, legs slanted to one side.
 - 금지·수위:
@@ -6589,14 +6589,14 @@
 
 ## 4-023 (4화. 비밀방 / S#5 반쪽짜리 문장 (304동 1204호 식탁·베란다, 9월 19일 토 오후 5:50))
 - 샷·앵글·인물: CU · 아이레벨 · 미란(중)
-- 샷 길이: 3.5초 @24fps (84프레임)
+- 샷 길이: 3.4초 @24fps (81프레임)
 - 카메라: slow push-in
 - 레이어: BG / 인물 / FX / 레터링
 - 장면 연출 메모: 장소 짧게 A(1204호, 카메라 C2 식탁 옆, 서쪽 창 너머 좁은 베란다) · 조명: 서쪽 낮은 해 2500K가 버건디 커튼을 지나 붉게, 베란다의 미란은 역광 실루엣에 가깝게 · 의상: S#2와 같음 · 트랙: 1(4-024는 트랙2) · 감정 목표: '너한테만' 다음 말이 끊기고, 유진은 그 말을 이미 안다. 엄마 전화의 소동으로 숨을 돌린 뒤 다음 문(부녀회장)을 연다. 아이들은 전화 목소리로만 나온다(화면에 없음).
 - 연기·화면: 미란이 빈 잔을 내려놓고 몸을 앞으로 기울여 말을 꺼낸다. 말풍선 마지막 글자 뒤가 진동 효과선에 잘려 나가고, 식탁 위 미란의 휴대폰이 진동하며 미끄러진다. 효과음은 붓 효과음(East Sea Dokdo) 작게, 말풍선 우상.
 - 대사(립싱크·VO):
   - [dialogue] 미란: 그 사람이 나한테 그랬거든. 너한테만…
-  - [sfx] SFX(작게): 드르르
+  - [sfx] SFX(작게): 징—
 - 인물 시트:
 - 미란: Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
 - 금지·수위:
@@ -6681,7 +6681,7 @@
   - [narration] 내레이션: 밤 열한 시 십 분, 101동 3801호의 불은 다 꺼져 있었다.
   - [narration] 내레이션: 식탁 위에는 따라 놓고 마시지 않은 와인 한 잔이 있었다.
   - [sfx] SFX(작게, 회색): 쌕… 쌕
-  - [sfx] SFX: 삐리릭
+  - [sfx] SFX: 삐, 삐, 삐, 삐
   - [narration] 내레이션: 회색 병의 냄새가 먼저 들어왔다. 오늘은 틀리지 않았다.
 - 인물 시트:
 - 도겸: Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
@@ -7334,7 +7334,7 @@
 - 연기·화면: 5층 복도(C4), 엘리베이터 쪽에서 502호 문과 비상계단 문을 본다. 같은 칸 안에 센서등이 켜진 상태와 꺼진 상태를 위아래로 겹쳐 깜박임을 보여 주고, 문 앞에 선 유진과 세라의 그림자가 늘었다 줄어든다. 문이 열리며 노란 스탠드 빛이 복도 바닥에 사다리꼴로 새어 나오고, 어디선가 울리는 탈수 진동은 바닥을 따라 붓 효과음(East Sea Dokdo)으로.
 - 대사(립싱크·VO):
   - [narration] 내레이션: 밤 여덟 시, 412동 502호 현관 앞 복도에는 센서등이 켜졌다 꺼지기를 반복했다.
-  - [sfx] SFX(작게, 회색): 우우웅— 덜덜덜
+  - [sfx] SFX(작게, 회색): 덜컹덜컹
   - [narration] 내레이션: 문이 열리자 책상 스탠드 불빛과 식은 커피 냄새가 새어 나왔다.
 - 인물 시트:
 - 유진: Seo Yu-jin, fictional adult character, not resembling any real person. A 33-year-old Korean woman, former flight attendant, 172 cm, the tallest woman of the cast. Soft glamorous hourglass on a tall frame: full heavy bust, long slender cinched waist, rounded hips, and very long straight legs, her strongest silhouette point. Narrow straight shoulders with deep collarbones; ramrod-straight back, chin slightly tucked. Soft, slightly rounded oval face; languid down-turned eyes with long lashes that never smile even when her lips do; long thin groomed arched brows; slim straight nose; full lips in muted rose-red. Smooth fair skin (#F5D5BE). Wavy bob between chin and collarbone, dark espresso brown (#3A2A22), with soft side-swept bangs. Marks: small pearl stud earrings, two piercing holes in the right earlobe, a tiny mole at the tip of the left collarbone, long pale hands, short almond nude-beige nails, thin wedding band. Habit: polite closed-lip smile with cool unsmiling eyes; sits upright, knees together, legs slanted to one side.
@@ -8880,7 +8880,7 @@
 - 연기·화면: 정문 안쪽(C1)에서 본 마감 후의 바. 블라인드 너머 상가 거리는 불이 다 꺼졌고 정문 유리에 연휴 영업 팻말이 등을 보인다. 붉은 펜던트 세 개의 원뿔 안 카운터 끝에 미란의 작은 실루엣, 왼쪽 안쪽 셀러 옆에 오크 와인 상자들. 효과음은 붓 효과음(East Sea Dokdo), 내레이션 좌상 둘.
 - 대사(립싱크·VO):
   - [narration] 내레이션: 연휴에도 문을 연 건 미란의 고집이었다. 영업이 끝난 와인바에는 붉은 펜던트 조명 세 개만 켜져 있었다.
-  - [sfx] SFX(작게, 회색): 우웅—
+  - [sfx] SFX(작게, 회색): 웅웅—
   - [narration] 내레이션: 와인 셀러의 컴프레서가 낮게 떨었고, 오크통 냄새와 식은 치즈 냄새가 공기 아래쪽에 고여 있었다.
 - 인물 시트:
 - 미란: Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
@@ -8983,7 +8983,7 @@
 - 대사(립싱크·VO):
   - [dialogue] 미란: 그럼 영수증 보여 줘.
   - [dialogue] 도겸: 다음 주에.
-  - [sfx] SFX(중간, 적색): 하하하
+  - [sfx] SFX(중간, 버건디): 하하하
 - 인물 시트:
 - 도겸: Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
 - 미란: Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
@@ -9209,7 +9209,7 @@
 - 연기·화면: 위아래 2단. 위: 정적. 그의 가슴에 이마를 댄 미란의 머리칼을 그가 쓸어내리고(셔츠 깃의 붉은 립), 미란은 대답 대신 셀러 쪽을 본다. 아래 INS: 빈 와인 상자 틈에서 휴대폰 화면이 붉게 깜빡인다, '녹음 00:41:12'(식자). 효과음은 붓 효과음(East Sea Dokdo) 작게, 말풍선 위칸 좌상, 내레이션 위칸 상단과 아래칸 하단.
 - 대사(립싱크·VO):
   - [narration] 내레이션: 그다음은 조용했다.
-  - [sfx] SFX(작게, 회색): 우웅—
+  - [sfx] SFX(작게, 회색): 웅웅—
   - [dialogue] 도겸: 자기, 오늘 왜 이렇게 다정해?
   - [narration] 내레이션: 남자 거짓말은 와인이랑 같았다. 열어 봐야 알았다. 그녀는 이미 코르크를 따 놓았다.
 - 인물 시트:
@@ -10308,7 +10308,7 @@
 - 연기·화면: 가로 2분할. 좌: 무릎 위 세컨폰이 네 번 연달아 떨며 진동선이 네 겹 퍼지고, 반 박자 늦게 메인폰이 한 번 떤다(대시보드 시계 18:30, 식자). 우: 메인폰 메신저 화면(노란 말풍선 메신저 느낌의 가상 UI), 회색 #9A9EA3 테두리 말풍선 하나와 흐린 가족사진 프로필 썸네일, 메시지는 식자. 효과음은 붓 효과음(East Sea Dokdo), 좌칸에 네 개를 계단식으로, 하나는 떨어뜨려 작게.
 - 대사(립싱크·VO):
   - [narration] 내레이션: 18시 30분. 세컨폰이 네 번 연달아 떨었다. 반 박자 늦게 메인폰이 한 번 떨었다.
-  - [sfx] SFX(작게): 지잉, 지잉, 지잉, 지잉… 지잉
+  - [sfx] SFX(작게): 징—, 징—, 징—, 징—… 징—
   - [dialogue] 문자(유진→도겸): 여보, 오늘 제 생일이에요. 일곱 시까지 집으로 와요. 지호는 외갓집에 보냈어요.
 - 인물 시트:
 - 도겸: Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
@@ -10579,7 +10579,7 @@
 - 연기·화면: [트랙2] 가로 2분할. 좌: 그의 코앞에서 문이 닫히고 앞머리 한 가닥이 바람에 날린다, 눈은 점, 겨드랑이에 상자가 하나 빠진 자리를 점선으로. 우: 비상계단을 두 칸씩 뛰어 내려가는 다리 잔상과 처진 주머니. 효과음은 코미디 고딕(Black Han Sans), 좌칸 크게 우칸 작게.
 - 대사(립싱크·VO):
   - [sfx] SFX(대형): 쾅
-  - [sfx] SFX: 다다다닥
+  - [sfx] SFX: 타다다닥
 - 인물 시트:
 - 도겸: Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
 - 금지·수위:
@@ -10931,7 +10931,7 @@
 - 장면 연출 메모: 장소 4(412동 502호 현관과 5층 복도, 카메라 C4)·장소 8(412동 B2 홀 옆 비상계단) · 조명: 5층 복도 센서 다운라이트 4000K가 위에서, 현관 안쪽은 어둡다 · 의상: 하린 하늘색 홀터넥 니트 미니 드레스 #9EC8EA(목 뒤에서 묶음, 어깨·쇄골·팔 드러남, 치맛단 허벅지 위)·안경 벗음(작은 클러치 안에 얇은 금테 타원 안경)·풀어 내린 검정 긴 생머리 #1C1F26·손목 검정 머리끈·피부 #F7DCC8 / 도겸 S#1과 같음(겨드랑이 상자 셋, 무릎이 후들거림) · 트랙: 2(6-031·6-032는 트랙1) · 감정 목표: 안경을 벗은 낯선 얼굴. 그가 처음으로 '모르는 사람'을 본다.
 - 연기·화면: [트랙2] 닫힌 502호 문 앞에서 눈을 두 번 깜빡이는 도겸. 머리 위에 물음표 하나, 하늘색 플랫 배경, 겨드랑이 상자 셋. 의상 색은 본편과 같다. 효과음은 코미디 고딕(Black Han Sans), 문틀에 작게.
 - 대사(립싱크·VO):
-  - [sfx] SFX(작게): 탁
+  - [sfx] SFX(작게): 철컥
 - 인물 시트:
 - 도겸: Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
 - 금지·수위:
@@ -11078,7 +11078,7 @@
 - 연기·화면: 가로 2분할. 좌: 양손의 휴대폰 두 대가 동시에 떨며 진동선이 다섯 겹 퍼진다(왼손 시계와 흉터). 우: 두 화면(가상 UI). 메인폰에 회색 점 말풍선 하나, 세컨폰 대화방 목록에 버건디·민트·하늘색·금색 점 미리보기 넷, 다섯 칸에 같은 문장(식자). 효과음은 붓 효과음(East Sea Dokdo), 좌칸 테두리를 따라 다섯 번.
 - 대사(립싱크·VO):
   - [narration] 내레이션: 손에 쥔 휴대폰 두 대가 동시에 떨었다. 다섯 번.
-  - [sfx] SFX(작게): 지잉 지잉 지잉 지잉 지잉
+  - [sfx] SFX(작게): 징— 징— 징— 징— 징—
   - [narration] 내레이션: 다섯 개의 말풍선에 같은 문장이 적혀 있었다.
   - [dialogue] 문자(다섯→도겸): 와인바 '미란'으로 와. 일곱 시 반.
 - 인물 시트:

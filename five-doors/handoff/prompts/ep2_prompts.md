@@ -1,0 +1,2059 @@
+# 2화 컷별 이미지 프롬프트 — 「단톡방에 그 남자가 있다」
+
+컷마다 '프롬프트' 상자 안을 **그대로** 복사해 ChatGPT 이미지 생성에 붙인다. 상자 아래 '레퍼런스'의 확정 이미지를 함께 첨부한다.
+상자는 `style_lock.md` 트랙 문구 → CHARACTER LOCK → SET LOCK → (소품 클로즈업이면) PROP LOCK → 장면 조명·의상 → 컷 지시 → 금지 문구 순서로 조립했다(AGENTS.md).
+말풍선·효과음·내레이션은 그림에 넣지 않는다. 아래 '레터링'은 Codex가 나중에 얹는다.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#1 열린 채 멈춘 문 (503동 24층 엘리베이터 홀, 9월 2일 수 오후 4:41)
+
+### 2-001 (800×1240, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-001 — 세로 웹툰 컷 800×1240px. 샷: LS · 아이레벨 · 도겸(전경·좌), 고미숙(후경·좌), 남정애(후경·중), 백지연(후경·우). 화면: 1화 마지막 컷을 2402호 문 앞(C4)에서 다시 잡는다. 도겸의 등과 옆구리에 낀 보자기 상자가 전경에 크게 걸리고, 열린 엘리베이터 문 안에서 쏟아지는 흰 빛 속에 50대 여자 셋이 정지해 서 있다. 천장 센서등이 한 번 더 밝아지며 흰 섬광 링이 생긴다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 엘리베이터 문은 열린 채로 멈춰 있었다. 아무도 닫힘 버튼을 누르지 않았다. / SFX(작게, 흰색): 지잉
+
+### 2-002 (800×760, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-002 — 세로 웹툰 컷 800×760px. 샷: MS · 아이레벨 · 고미숙(좌), 남정애(중), 백지연(우). 화면: 가로 3분할. 좌: '부녀회 회의 자료' 파일 뭉치를 가슴에 안은 고미숙(돋보기 안경줄), 중: 떡집 상자 뚜껑 틈으로 김이 가늘게 새는 남정애, 우: 휴대폰 렌즈를 도겸의 가슴께에 겨눈 백지연(렌즈 유리에 풀린 단추 두 개가 비친다). 칸마다
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 세 사람의 얼굴은 단지 소식지에서 본 적이 있었다. 파일을 안은 사람은 부녀회 총무 고미숙, 떡 상자는 감사 남정애, 휴대폰은 홍보 담당 백지연이었다. / 내레이션: 세 사람 모두 그를 몰랐다. 3,012세대는 그런 숫자였다.
+
+### 2-003 (800×600, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-003 — 세로 웹툰 컷 800×600px. 샷: BS · 아이레벨 · 도겸(좌), 남정애(우). 화면: 가로 2분할 숏·리버스숏. 좌: 도겸이 이마의 머리 한 가닥을 넘기고 왼손으로 귓불을 만지며 허리를 숙인다(눈은 공손하게 내리깔고 왼쪽 입꼬리만 살짝). 우: 남정애가 떡 상자를 고쳐 들며 한쪽 눈썹을 올리고 고개를 기울인다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
+- 레터링: 도겸: 어머니 심부름 왔습니다. / 남정애: 어머님이 누구신데요?
+
+### 2-004 (800×440, 트랙 2 코미디 셀, 태그: intimate)
+
+```text
+Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-tone cel shading, high-saturation flat colors, simple speed lines or focus lines, slightly exaggerated expression (chibi-lite deformation allowed only for the face and hands), same character design and outfit colors as the main style, plain flat color background, no text.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-004 — 세로 웹툰 컷 800×440px. 샷: CU · 아이레벨 · 도겸(중). 화면: 입이 반쯤 열린 채 멈춘 얼굴. 흰 단색 배경에 집중선, 눈동자가 점으로 줄고 관자놀이에 큰 땀방울 두 개, 귓불을 쥔 손가락이 그대로 굳어 있다. 얼굴과 손만 과장하고 셔츠 색은 본편과 같다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
+- 레터링: (무음)
+
+### 2-005 (800×1400, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Jeong Hye-suk, fictional adult character, not resembling any real person. A 42-year-old Korean woman, elegant wealthy housewife and residents' association president, 166 cm, a slightly shorter 7.5-head figure. Warm mature hourglass with weight: full heavy bust, softly cinched waist, wide round hips, smooth calves in sheer stockings, a long graceful neck; a slow, low-centered, unhurried body. Soft rounded face with a still-firm jawline and fine smile lines at the eyes; long narrow eyes with elegant winged eyeliner; high thin painted arched brows; straight nose; plump wine-red lips. Well-kept skin (#F0CDB4). Dark chocolate hair (#2B1D16) in a loose low chignon at the nape with a few strands falling. Signature: a single strand of 44 pearls restrung on a visibly new bright-white silk thread, pearl stud earrings, glossy red nails, a faint pale mark on the bare left ring finger. Habits: covers her mouth with her hand when she smiles, fingers drift up to the pearls, looks down with her chin raised, perches on the edges of beds and tables.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-005 — 세로 웹툰 컷 800×1400px. 샷: FS · 아이레벨 · 도겸(전경·좌), 혜숙(후경·중), 고미숙(우·전경). 화면: 도겸의 등 뒤로 2402호 현관문이 열리고 혜숙이 들어선다. 네이비 저지 원피스가 가슴의 굴곡과 잘록한 허리, 둥근 골반을 끊김 없이 감싸 흐르고, 다시 틀어 올린 시뇽에 몇 가닥이 흘러내린다. 쇄골 아래 진주가 있던 자리를 홀 조명이 하얗게 비워 둔다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(중간, 회색): 철컥 / 내레이션: 혜숙은 오 분 만에 다른 사람이 되어 있었다. 목에는 아무것도 없었다. / 혜숙: 얘, 어머님께 잘 받았다고 전해 드려.
+
+### 2-006 (800×560, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Jeong Hye-suk, fictional adult character, not resembling any real person. A 42-year-old Korean woman, elegant wealthy housewife and residents' association president, 166 cm, a slightly shorter 7.5-head figure. Warm mature hourglass with weight: full heavy bust, softly cinched waist, wide round hips, smooth calves in sheer stockings, a long graceful neck; a slow, low-centered, unhurried body. Soft rounded face with a still-firm jawline and fine smile lines at the eyes; long narrow eyes with elegant winged eyeliner; high thin painted arched brows; straight nose; plump wine-red lips. Well-kept skin (#F0CDB4). Dark chocolate hair (#2B1D16) in a loose low chignon at the nape with a few strands falling. Signature: a single strand of 44 pearls restrung on a visibly new bright-white silk thread, pearl stud earrings, glossy red nails, a faint pale mark on the bare left ring finger. Habits: covers her mouth with her hand when she smiles, fingers drift up to the pearls, looks down with her chin raised, perches on the edges of beds and tables.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-006 — 세로 웹툰 컷 800×560px. 샷: MS · 아이레벨 · 혜숙(좌), 고미숙(중), 남정애(우). 화면: 혜숙이 몸을 임원들 쪽으로 돌리며 밝게 웃는다. 목소리가 크고 밝다(거짓말할 때의 혜숙). 한 손은 도겸 쪽을 가볍게 가리키고, 남정애의 의심하던 눈썹이 내려간다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
+- 레터링: 혜숙: 우리 교회 권사님 아드님이야. 추석이라고 인사 왔어.
+
+### 2-007 (800×480, 트랙 2 코미디 셀, 태그: 없음)
+
+```text
+Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-tone cel shading, high-saturation flat colors, simple speed lines or focus lines, slightly exaggerated expression (chibi-lite deformation allowed only for the face and hands), same character design and outfit colors as the main style, plain flat color background, no text.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-007 — 세로 웹툰 컷 800×480px. 샷: BS · 아이레벨 · 백지연(중). 화면: 백지연이 휴대폰을 가슴께로 내리며 다른 손으로 볼을 감싼다. 레몬색 플랫 배경에 하트 반짝이 효과선, 눈이 반달로 휜다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대)
+- 레터링: 백지연: 어머, 효자네.
+
+### 2-008 (800×1440, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+PROP LOCK: single strand of 44 white 8mm pearls, collarbone-to-below length, small gold clasp; after episode 4 restrung on noticeably bright white new thread
+
+PROP LOCK: gold-and-steel two-tone oyster-style luxury wristwatch without any logo on a man's left wrist; a 1.5cm faint pink crescent-shaped burn scar between the left thumb and index finger, always visible in the same frame as the watch
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-008 — 세로 웹툰 컷 800×1440px. 샷: INS · 로우 · 도겸(전경), 고미숙(후경·우). 화면: 세로로 이어지는 한 동작. 위: 고개를 한 번 더 숙이는 도겸의 접어 올린 소맷단에서 하얀 진주 한 알이 빠져나온다(시계와 흉터가 같은 프레임). 가운데: 대리석 위에서 한 번 튄 진주가 또르르 구른다(바닥 높이 로우, 홀 조명 반사). 아래: 고미숙의 베이지 구두 앞코에 부딪혀 멈춘다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P4_*_v*.png (approved); refs/props/P3_*_v*.png (approved)
+- 레터링: SFX(작게, 흰색): 톡 / SFX(작게): 또르르
+
+### 2-009 (800×640, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-009 — 세로 웹툰 컷 800×640px. 샷: MS · 하이 · 고미숙(중), 도겸(좌·전경). 화면: 고미숙이 허리를 굽혀 진주를 엄지와 검지로 집어 들고 눈높이로 올려 본다. 돋보기 안경줄이 흔들린다. 전경의 도겸은 등을 굳히고 시선만 진주로 내린다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
+- 레터링: 고미숙: 진주네?
+
+### 2-010 (800×720, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Jeong Hye-suk, fictional adult character, not resembling any real person. A 42-year-old Korean woman, elegant wealthy housewife and residents' association president, 166 cm, a slightly shorter 7.5-head figure. Warm mature hourglass with weight: full heavy bust, softly cinched waist, wide round hips, smooth calves in sheer stockings, a long graceful neck; a slow, low-centered, unhurried body. Soft rounded face with a still-firm jawline and fine smile lines at the eyes; long narrow eyes with elegant winged eyeliner; high thin painted arched brows; straight nose; plump wine-red lips. Well-kept skin (#F0CDB4). Dark chocolate hair (#2B1D16) in a loose low chignon at the nape with a few strands falling. Signature: a single strand of 44 pearls restrung on a visibly new bright-white silk thread, pearl stud earrings, glossy red nails, a faint pale mark on the bare left ring finger. Habits: covers her mouth with her hand when she smiles, fingers drift up to the pearls, looks down with her chin raised, perches on the edges of beds and tables.
+
+Unit 2402 on the 24th floor of a new 2024-built Korean apartment tower, a wealthy middle-aged woman's home of about 114 square meters. Polished white marble floor, cream walls, a south-facing living room window about 5 m wide with charcoal blackout curtains over sheer white curtains. A white leather sofa against the right wall faces a beige marble feature wall with a TV and a round wall clock, a rectangular glass coffee table between them. The entry hall has a dark walnut console with a white lily arrangement and a framed photo. Master bedroom: a queen bed on thin metal legs, headboard against the wall, facing the window.
+
+PROP LOCK: single strand of 44 white 8mm pearls, collarbone-to-below length, small gold clasp; after episode 4 restrung on noticeably bright white new thread
+
+장면(조명·의상 고정값): 장소 5(503동 2402호 +24층 엘리베이터 홀, 카메라 C4) · 조명: 홀 센서 다운라이트 3500K 위에서, 열린 엘리베이터 문 안의 밝은 빛이 대리석 바닥으로 쏟아진다 · 의상: 도겸 흰 셔츠 #F4F4F2(단추 두 개 풂, 소매 팔뚝까지 접음, 땀에 젖은 관자놀이)·차콜 슬랙스 #2B2F3A·왼손 금장 콤비 시계와 흉터·한우 보자기 상자 / 혜숙 네이비 저지 원피스 #1F2A44(목은 비어 있음, 새 립, 다크초콜릿 #2B1D16 시뇽을 다시 틀어 올림) / 고미숙 베이지 카디건·흑발 숏커트 #2A2422·안경줄 / 남정애 꽃무늬 블라우스·뽀글 파마 #3B2A22 / 백지연 트렌치·레이어드컷 #6A4A35 · 트랙: 1(2-004, 2-007은 트랙2) · 감정 목표: 1화 마지막 1초를 길게 늘였다가 혜숙의 즉흥 거짓말로 풀고, 진주 한 알로 다시 조인다.
+
+컷 2-010 — 세로 웹툰 컷 800×720px. 샷: CU · 아이레벨 · 혜숙(중). 화면: 가로 2분할. 좌: 혜숙의 목소리가 한 톤 낮아진다. 날개형 아이라인 아래 눈은 웃지 않고, 진주알을 받아 손바닥에 쥔다(빨간 손톱). 우: 다른 손으로 입을 가리고 웃으며 임원들을 현관 안으로 들인다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P4_*_v*.png (approved)
+- 레터링: 혜숙: 내 거야. 줄이 오래돼서. / 혜숙: 들어와들. 떡은 식탁에 놓고.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#2 거울 속의 남자 (503동 엘리베이터 안, 9월 2일 수 오후 4:42)
+
+### 2-011 (800×1000, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Underground parking level B2, zone B, of a new 2024-built Korean mega apartment complex. A low concrete ceiling with exposed ducts and jet fans, two long rows of linear tube lights, square concrete columns wrapped with orange zone bands at waist height, a glossy green epoxy floor with white parking lines, slightly wet and reflective. An exit ramp curving upward at the far end. Behind, a glass automatic door into a bright elevator lobby and the mouth of a long white underground corridor that links the fifteen apartment buildings. Cool, humming, damp and empty.
+
+장면(조명·의상 고정값): 장소 8(엘리베이터 홀 규격·503동 B2 직행 엘리베이터 안) · 조명: sets 8에 시각 줄 없음, 24층 홀 3500K에 맞춘 천장 다운라이트를 위에서, 뒷벽 거울에 반사(콘티 지정) · 의상: 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·보자기 상자 / 순옥(인서트, 실루엣) 분홍 세신복 #E9A6B3 · 트랙: 1 · 감정 목표: 위기를 넘긴 안도 뒤에, 혜숙이 마음에 들면서도 불안한 그의 속과 '어머니'라는 단어의 아이러니를 조용히 박는다.
+
+컷 2-011 — 세로 웹툰 컷 800×1000px. 샷: MS · 아이레벨 · 도겸(중). 화면: 도겸이 엘리베이터 안으로 들어가 B2 버튼을 누르고, 닫히는 문틈으로 홀의 흰 빛이 가늘어진다. 뒷벽 거울에 비친 그는 아직도 왼손으로 귓불을 쥐고 있다. 라벤더 방향제 통이 구석 벽에 붙어 있다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(작게): 스르륵 / 내레이션: 거울 속의 남자는 아직도 귓불을 쥐고 있었다.
+
+### 2-012 (800×680, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Underground parking level B2, zone B, of a new 2024-built Korean mega apartment complex. A low concrete ceiling with exposed ducts and jet fans, two long rows of linear tube lights, square concrete columns wrapped with orange zone bands at waist height, a glossy green epoxy floor with white parking lines, slightly wet and reflective. An exit ramp curving upward at the far end. Behind, a glass automatic door into a bright elevator lobby and the mouth of a long white underground corridor that links the fifteen apartment buildings. Cool, humming, damp and empty.
+
+장면(조명·의상 고정값): 장소 8(엘리베이터 홀 규격·503동 B2 직행 엘리베이터 안) · 조명: sets 8에 시각 줄 없음, 24층 홀 3500K에 맞춘 천장 다운라이트를 위에서, 뒷벽 거울에 반사(콘티 지정) · 의상: 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·보자기 상자 / 순옥(인서트, 실루엣) 분홍 세신복 #E9A6B3 · 트랙: 1 · 감정 목표: 위기를 넘긴 안도 뒤에, 혜숙이 마음에 들면서도 불안한 그의 속과 '어머니'라는 단어의 아이러니를 조용히 박는다.
+
+컷 2-012 — 세로 웹툰 컷 800×680px. 샷: CU · 오버숄더(도겸 너머) · 도겸(중). 화면: 거울 속 얼굴. 왼쪽 입꼬리가 올라갔다가 중간에서 멈추고 눈썹 사이가 아주 조금 좁아진다. 귓불에서 손이 천천히 내려온다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 혜숙은 그의 어머니가 그가 고등학생 때 돌아가신 줄 알았다. 그래서 망설임 없이 없는 권사님을 하나 만들어 주었다. / 내레이션: 거짓말을 할 줄 아는 여자였다. 그는 그 점이 마음에 들었고, 동시에 조금 불안했다.
+
+### 2-013 (800×760, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+Underground parking level B2, zone B, of a new 2024-built Korean mega apartment complex. A low concrete ceiling with exposed ducts and jet fans, two long rows of linear tube lights, square concrete columns wrapped with orange zone bands at waist height, a glossy green epoxy floor with white parking lines, slightly wet and reflective. An exit ramp curving upward at the far end. Behind, a glass automatic door into a bright elevator lobby and the mouth of a long white underground corridor that links the fifteen apartment buildings. Cool, humming, damp and empty.
+
+PROP LOCK: a green Korean exfoliating scrub mitt (Italy towel); a white cotton handkerchief folded neatly four times
+
+장면(조명·의상 고정값): 장소 8(엘리베이터 홀 규격·503동 B2 직행 엘리베이터 안) · 조명: sets 8에 시각 줄 없음, 24층 홀 3500K에 맞춘 천장 다운라이트를 위에서, 뒷벽 거울에 반사(콘티 지정) · 의상: 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·보자기 상자 / 순옥(인서트, 실루엣) 분홍 세신복 #E9A6B3 · 트랙: 1 · 감정 목표: 위기를 넘긴 안도 뒤에, 혜숙이 마음에 들면서도 불안한 그의 속과 '어머니'라는 단어의 아이러니를 조용히 박는다.
+
+컷 2-013 — 세로 웹툰 컷 800×760px. 샷: INS · 아이레벨 · 순옥(우·실루엣). 화면: 가로 2분할. 좌: 층수 표시가 24에서 23, 붉은 LED). 우: 같은 시각 지하 1층, 하얀 김 속에서 분홍 세신복 소매와 이태리타월을 감은 굵은 손만 흐릿하게 움직인다(얼굴 없음, 손님 몸 없음).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/props/P10_*_v*.png (approved)
+- 레터링: 내레이션: 어머니 심부름 왔습니다. 그 문장에서 사실은 '어머니'라는 단어 하나뿐이었다. / 내레이션: 그 어머니는 지금 이 단지의 지하 1층에서 남의 등을 밀고 있었다.
+
+### 2-014 (800×600, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Underground parking level B2, zone B, of a new 2024-built Korean mega apartment complex. A low concrete ceiling with exposed ducts and jet fans, two long rows of linear tube lights, square concrete columns wrapped with orange zone bands at waist height, a glossy green epoxy floor with white parking lines, slightly wet and reflective. An exit ramp curving upward at the far end. Behind, a glass automatic door into a bright elevator lobby and the mouth of a long white underground corridor that links the fifteen apartment buildings. Cool, humming, damp and empty.
+
+PROP LOCK: two smartphones with no logos: the main phone in matte black (used only with the wife), the second phone in matte grey; any screen shows a fictional generic messenger or calendar UI made of color blocks only, no readable text
+
+PROP LOCK: gold-and-steel two-tone oyster-style luxury wristwatch without any logo on a man's left wrist; a 1.5cm faint pink crescent-shaped burn scar between the left thumb and index finger, always visible in the same frame as the watch
+
+장면(조명·의상 고정값): 장소 8(엘리베이터 홀 규격·503동 B2 직행 엘리베이터 안) · 조명: sets 8에 시각 줄 없음, 24층 홀 3500K에 맞춘 천장 다운라이트를 위에서, 뒷벽 거울에 반사(콘티 지정) · 의상: 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·보자기 상자 / 순옥(인서트, 실루엣) 분홍 세신복 #E9A6B3 · 트랙: 1 · 감정 목표: 위기를 넘긴 안도 뒤에, 혜숙이 마음에 들면서도 불안한 그의 속과 '어머니'라는 단어의 아이러니를 조용히 박는다.
+
+컷 2-014 — 세로 웹툰 컷 800×600px. 샷: INS · POV(도겸) · 인물 없음. 화면: 무광 그레이 세컨폰 캘린더 화면. 가상 UI). 화면 아래 가장자리에 도겸의 왼손 엄지와 흉터가 걸린다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved); refs/props/P3_*_v*.png (approved)
+- 레터링: 내레이션: 엘리베이터가 내려가는 동안 그는 세컨폰을 열었다. 금요일 새벽 한 시, 버건디.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#3 간판 꺼진 와인바 (퍼스트 애비뉴 1층 와인바 '미란', 9월 4일 금 새벽 1:20)
+
+### 2-015 (800×1400, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C1·C2) · 조명: 간판 꺼짐, 카운터 위 붉은 펜던트 가운데 세 개만(약 1800K)과 셀러 안 LED 4000K, 위에서 좁은 원뿔로 떨어지고 원뿔 밖은 어둠, 카운터 아래 식기세척기 초록 점 · 의상: 미란 검은 오프숄더 블라우스 #151214·버건디 슬릿 롱스커트 #6E1A2A(허벅지 중간 슬릿)·허리 뒤로 꽉 묶은 검정 앞치마·하이힐·붉은 립·와인색 손톱 #5A1A26·와인브라운 웨이브 #4A2418 / 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 감정 목표: 마감 후 붉은 바의 나른함 아래, 다시는 기대지 않겠다던 여자의 3년이 깔려 있다는 걸 보여 준다.
+
+컷 2-015 — 세로 웹툰 컷 800×1400px. 샷: LS · 아이레벨 · 미란(후경·우). 화면: 정문 안쪽(C1)에서 본 빈 바. 블라인드는 내려가 있고, 오른쪽 카운터 위 붉은 펜던트 세 개만 좁은 원뿔을 떨어뜨리며, 왼쪽 벨벳 소파와 셀러의 차가운 흰빛이 깊어진다. 원뿔 안 카운터 끝에서 미란이 잔을 닦는 작은 실루엣.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 새벽 한 시 이십 분, 퍼스트 애비뉴 1층 와인바 '미란'의 간판 불은 꺼져 있었다. / SFX(작게, 회색): 웅웅 / SFX(작게, 금색): 뿌우—
+
+### 2-016 (800×1240, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C1·C2) · 조명: 간판 꺼짐, 카운터 위 붉은 펜던트 가운데 세 개만(약 1800K)과 셀러 안 LED 4000K, 위에서 좁은 원뿔로 떨어지고 원뿔 밖은 어둠, 카운터 아래 식기세척기 초록 점 · 의상: 미란 검은 오프숄더 블라우스 #151214·버건디 슬릿 롱스커트 #6E1A2A(허벅지 중간 슬릿)·허리 뒤로 꽉 묶은 검정 앞치마·하이힐·붉은 립·와인색 손톱 #5A1A26·와인브라운 웨이브 #4A2418 / 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 감정 목표: 마감 후 붉은 바의 나른함 아래, 다시는 기대지 않겠다던 여자의 3년이 깔려 있다는 걸 보여 준다.
+
+컷 2-016 — 세로 웹툰 컷 800×1240px. 샷: FS · 로우 · 미란(중). 화면: 카운터 상판 높이에서 올려다본 미란. 마른 행주로 닦은 잔을 머리 위 랙에 거꾸로 거는 중이라 팔이 올라가 있고, 오프숄더가 둥근 어깨와 쇄골을 드러낸 채 가슴의 볼륨에서 겨우 멈춰 있다. 앞치마 끈이 허리를 조여 넓게 퍼지는 골반과 슬릿 사이 허벅지 선이 붉게 빛난다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(작게, 흰색): 쨍 / 내레이션: 붉은 립은 아홉 시간째 그대로였다. 미란은 립스틱만큼은 고치지 않아도 되는 걸로 샀다.
+
+### 2-017 (800×640, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C1·C2) · 조명: 간판 꺼짐, 카운터 위 붉은 펜던트 가운데 세 개만(약 1800K)과 셀러 안 LED 4000K, 위에서 좁은 원뿔로 떨어지고 원뿔 밖은 어둠, 카운터 아래 식기세척기 초록 점 · 의상: 미란 검은 오프숄더 블라우스 #151214·버건디 슬릿 롱스커트 #6E1A2A(허벅지 중간 슬릿)·허리 뒤로 꽉 묶은 검정 앞치마·하이힐·붉은 립·와인색 손톱 #5A1A26·와인브라운 웨이브 #4A2418 / 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 감정 목표: 마감 후 붉은 바의 나른함 아래, 다시는 기대지 않겠다던 여자의 3년이 깔려 있다는 걸 보여 준다.
+
+컷 2-017 — 세로 웹툰 컷 800×640px. 샷: CU · 아이레벨 · 미란(중). 화면: 닦던 잔에 비친 미란의 얼굴. 반쯤 감긴 나른한 눈, 행주를 쥔 손이 한 박자 멈춘다. 아이는 그리지 않는다(내레이션으로만).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 소이는 304동 집에서 외할머니와 자고 있었다. 금요일 새벽마다 엄마가 하는 말이 있었다. / 미란 어머니(V.O.): 너 또 남자 잘못 만나면 그땐 나 안 본다.
+
+### 2-018 (800×600, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C1·C2) · 조명: 간판 꺼짐, 카운터 위 붉은 펜던트 가운데 세 개만(약 1800K)과 셀러 안 LED 4000K, 위에서 좁은 원뿔로 떨어지고 원뿔 밖은 어둠, 카운터 아래 식기세척기 초록 점 · 의상: 미란 검은 오프숄더 블라우스 #151214·버건디 슬릿 롱스커트 #6E1A2A(허벅지 중간 슬릿)·허리 뒤로 꽉 묶은 검정 앞치마·하이힐·붉은 립·와인색 손톱 #5A1A26·와인브라운 웨이브 #4A2418 / 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 감정 목표: 마감 후 붉은 바의 나른함 아래, 다시는 기대지 않겠다던 여자의 3년이 깔려 있다는 걸 보여 준다.
+
+컷 2-018 — 세로 웹툰 컷 800×600px. 샷: INS · 하이 · 인물 없음. 화면: 카운터 정문 쪽 끝에 놓인 리모델링 견적서. '합계 32, 000, 옆에 오프너와 빈 잔 두 개.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 카운터 끝에는 리모델링 견적서가 놓여 있었다. 3,200만 원. 전남편은 가게 보증금을 들고 나갔다. / 내레이션: 그 뒤로 미란은 다시는 남자한테 기대지 않겠다고 했다. 그 말을 한 지 3년이 됐다.
+
+### 2-019 (800×960, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C1·C2) · 조명: 간판 꺼짐, 카운터 위 붉은 펜던트 가운데 세 개만(약 1800K)과 셀러 안 LED 4000K, 위에서 좁은 원뿔로 떨어지고 원뿔 밖은 어둠, 카운터 아래 식기세척기 초록 점 · 의상: 미란 검은 오프숄더 블라우스 #151214·버건디 슬릿 롱스커트 #6E1A2A(허벅지 중간 슬릿)·허리 뒤로 꽉 묶은 검정 앞치마·하이힐·붉은 립·와인색 손톱 #5A1A26·와인브라운 웨이브 #4A2418 / 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 감정 목표: 마감 후 붉은 바의 나른함 아래, 다시는 기대지 않겠다던 여자의 3년이 깔려 있다는 걸 보여 준다.
+
+컷 2-019 — 세로 웹툰 컷 800×960px. 샷: MS · 아이레벨 · 미란(전경·좌), 도겸(후경·우·실루엣). 화면: 카운터 안쪽 끝의 스틸 뒷문이 열리고 서비스 복도의 형광빛을 등진 도겸의 실루엣이 선다. 미란은 고개만 돌려 어깨 너머로 웃는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 뒷문이 열렸다. / 미란: 자기야, 왔어? 자기한테서 차 냄새 난다.
+
+### 2-020 (800×680, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C1·C2) · 조명: 간판 꺼짐, 카운터 위 붉은 펜던트 가운데 세 개만(약 1800K)과 셀러 안 LED 4000K, 위에서 좁은 원뿔로 떨어지고 원뿔 밖은 어둠, 카운터 아래 식기세척기 초록 점 · 의상: 미란 검은 오프숄더 블라우스 #151214·버건디 슬릿 롱스커트 #6E1A2A(허벅지 중간 슬릿)·허리 뒤로 꽉 묶은 검정 앞치마·하이힐·붉은 립·와인색 손톱 #5A1A26·와인브라운 웨이브 #4A2418 / 도겸 흰 셔츠 #F4F4F2·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 감정 목표: 마감 후 붉은 바의 나른함 아래, 다시는 기대지 않겠다던 여자의 3년이 깔려 있다는 걸 보여 준다.
+
+컷 2-020 — 세로 웹툰 컷 800×680px. 샷: BS · 아이레벨 · 도겸(좌), 미란(우). 화면: 가로 2분할. 좌: 붉은 원뿔 안으로 들어선 도겸이 머리 한 가닥을 넘기고 왼손으로 귓불을 만진다. 우: 미란이 반달 눈으로 웃으며 그 손을 턱으로 가리킨다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 도겸: 현장 차 탔어. / 미란: 자기는 피곤하면 귀를 만지더라. / 내레이션: 그녀는 그게 귀여웠다.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#4 열어 봐야 아는 것 (와인바 '미란' 카운터, 9월 4일 금 새벽 1:30)
+
+### 2-021 (800×520, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+PROP LOCK: gold-and-steel two-tone oyster-style luxury wristwatch without any logo on a man's left wrist; a 1.5cm faint pink crescent-shaped burn scar between the left thumb and index finger, always visible in the same frame as the watch
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C2) · 조명: 붉은 펜던트 가운데 세 개(약 1800K) 위에서 좁은 원뿔, 셀러 LED 4000K가 배경에 차갑게 · 의상: 미란 검은 오프숄더 #151214·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마·붉은 립 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·금장 콤비 시계와 흉터 · 트랙: 1 · 감정 목표: 같은 작업 멘트가 와인처럼 부드럽게 넘어가고, 미란이 3년의 다짐을 삼키는 한 박자와 '손 사진'이라는 복선을 남긴다.
+
+컷 2-021 — 세로 웹툰 컷 800×520px. 샷: INS · 하이 · 미란(중). 화면: 와인색 손톱의 손이 새 병 목을 쥐고 오프너 스크루를 꽂는다. 손등 바깥의 가는 코르크 흉터, 붉은 빛이 병 유리에 길게 맺힌다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
+- 레터링: 미란: 남자 거짓말은 와인이랑 같아. 열어 봐야 알아.
+
+### 2-022 (800×600, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C2) · 조명: 붉은 펜던트 가운데 세 개(약 1800K) 위에서 좁은 원뿔, 셀러 LED 4000K가 배경에 차갑게 · 의상: 미란 검은 오프숄더 #151214·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마·붉은 립 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·금장 콤비 시계와 흉터 · 트랙: 1 · 감정 목표: 같은 작업 멘트가 와인처럼 부드럽게 넘어가고, 미란이 3년의 다짐을 삼키는 한 박자와 '손 사진'이라는 복선을 남긴다.
+
+컷 2-022 — 세로 웹툰 컷 800×600px. 샷: BS · 아이레벨 · 도겸(우). 화면: 가로 2분할. 좌: 코르크가 빠지는 ECU. 우: 카운터에 팔꿈치를 기댄 도겸이 눈을 오래 맞추며 왼쪽 입꼬리만 올린다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(대형, 크림색): 퐁 / 도겸: 그럼 나도 열어 봐.
+
+### 2-023 (800×1280, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C2) · 조명: 붉은 펜던트 가운데 세 개(약 1800K) 위에서 좁은 원뿔, 셀러 LED 4000K가 배경에 차갑게 · 의상: 미란 검은 오프숄더 #151214·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마·붉은 립 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·금장 콤비 시계와 흉터 · 트랙: 1 · 감정 목표: 같은 작업 멘트가 와인처럼 부드럽게 넘어가고, 미란이 3년의 다짐을 삼키는 한 박자와 '손 사진'이라는 복선을 남긴다.
+
+컷 2-023 — 세로 웹툰 컷 800×1280px. 샷: MS · 아이레벨 · 미란(중), 도겸(우·전경). 화면: 미란이 고개를 젖히고 소리 내어 웃는다. 긴 웨이브 머리가 등 뒤로 쏟아지고 쇄골이 붉게 빛난다. 그녀가 잔 두 개에 따르며 손목으로 잔을 한 바퀴 돌리는 사이, 전경의 도겸이 잔을 받는다(붉은 와인이 유리 벽을 타고 올랐다 내려온다).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 도겸: 너한테만 하는 얘긴데. 나 사실 아버지랑 사이 안 좋아. 회사 물려받기 싫어.
+
+### 2-024 (800×720, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C2) · 조명: 붉은 펜던트 가운데 세 개(약 1800K) 위에서 좁은 원뿔, 셀러 LED 4000K가 배경에 차갑게 · 의상: 미란 검은 오프숄더 #151214·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마·붉은 립 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·금장 콤비 시계와 흉터 · 트랙: 1 · 감정 목표: 같은 작업 멘트가 와인처럼 부드럽게 넘어가고, 미란이 3년의 다짐을 삼키는 한 박자와 '손 사진'이라는 복선을 남긴다.
+
+컷 2-024 — 세로 웹툰 컷 800×720px. 샷: BS · 오버숄더(미란 너머) · 미란(좌), 도겸(우). 화면: 가로 2분할 숏·리버스숏. 좌: 미란이 잔 너머로 눈을 가늘게 뜨고 장난스럽게 웃는다(입가 오른쪽 아래 작은 점). 우: 도겸이 카운터 끝의 견적서를 집어 들고 가볍게 흔든다, 걷은 소매 아래 핏줄 선 팔뚝과 시계, 시선은 견적서가 아니라 미란의 눈.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 회장님 아들이 그런 소리 하면 욕먹어, 자기야. / 도겸: 리모델링 대금은 내가 처리할게. 아버지 회사 협력업체 쓰면 단가가 달라. 3천이면 돼.
+
+### 2-025 (800×760, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C2) · 조명: 붉은 펜던트 가운데 세 개(약 1800K) 위에서 좁은 원뿔, 셀러 LED 4000K가 배경에 차갑게 · 의상: 미란 검은 오프숄더 #151214·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마·붉은 립 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·금장 콤비 시계와 흉터 · 트랙: 1 · 감정 목표: 같은 작업 멘트가 와인처럼 부드럽게 넘어가고, 미란이 3년의 다짐을 삼키는 한 박자와 '손 사진'이라는 복선을 남긴다.
+
+컷 2-025 — 세로 웹툰 컷 800×760px. 샷: CU · 아이레벨 · 미란(중). 화면: 전경에 잔을 돌리다 멈춘 미란의 손목(와인이 유리 벽에서 천천히 내려온다), 그 너머로 미란이 침을 한 번 삼키고 와인을 마신다. 목선이 움직이고 눈이 잠깐 내려갔다가 다시 그를 본다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 3년 전에 한 말이 잠깐 목에 걸렸다가 와인과 함께 넘어갔다. / 미란: 3천. 내일 보낼게. 대신 자기가 책임져.
+
+### 2-026 (800×600, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C2) · 조명: 붉은 펜던트 가운데 세 개(약 1800K) 위에서 좁은 원뿔, 셀러 LED 4000K가 배경에 차갑게 · 의상: 미란 검은 오프숄더 #151214·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마·붉은 립 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·금장 콤비 시계와 흉터 · 트랙: 1 · 감정 목표: 같은 작업 멘트가 와인처럼 부드럽게 넘어가고, 미란이 3년의 다짐을 삼키는 한 박자와 '손 사진'이라는 복선을 남긴다.
+
+컷 2-026 — 세로 웹툰 컷 800×600px. 샷: BS · 아이레벨 · 미란(좌), 도겸(우). 화면: 가로 2분할. 좌: 미란이 휴대폰을 들어 카메라를 켠다. 우: 도겸이 손바닥으로 렌즈를 가볍게 막으며 웃는다(손바닥 너머 눈만).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 우리 사진 한 장 찍자. / 도겸: 얼굴은 안 돼. 아버지 쪽 사람들 눈이 많아.
+
+### 2-027 (800×840, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C2) · 조명: 붉은 펜던트 가운데 세 개(약 1800K) 위에서 좁은 원뿔, 셀러 LED 4000K가 배경에 차갑게 · 의상: 미란 검은 오프숄더 #151214·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마·붉은 립 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·금장 콤비 시계와 흉터 · 트랙: 1 · 감정 목표: 같은 작업 멘트가 와인처럼 부드럽게 넘어가고, 미란이 3년의 다짐을 삼키는 한 박자와 '손 사진'이라는 복선을 남긴다.
+
+컷 2-027 — 세로 웹툰 컷 800×840px. 샷: MS · 측면 · 미란(중), 도겸(우). 화면: 미란이 블라우스를 한쪽 어깨 아래로 조금 더 끌어내리고 그의 왼손을 집어 자기 맨어깨에 얹는다. 붉은 빛이 맨살 위에서 둥글게 번진다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 그럼 손이라도.
+
+### 2-028 (800×800, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+PROP LOCK: two smartphones with no logos: the main phone in matte black (used only with the wife), the second phone in matte grey; any screen shows a fictional generic messenger or calendar UI made of color blocks only, no readable text
+
+PROP LOCK: gold-and-steel two-tone oyster-style luxury wristwatch without any logo on a man's left wrist; a 1.5cm faint pink crescent-shaped burn scar between the left thumb and index finger, always visible in the same frame as the watch
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C2) · 조명: 붉은 펜던트 가운데 세 개(약 1800K) 위에서 좁은 원뿔, 셀러 LED 4000K가 배경에 차갑게 · 의상: 미란 검은 오프숄더 #151214·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마·붉은 립 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·금장 콤비 시계와 흉터 · 트랙: 1 · 감정 목표: 같은 작업 멘트가 와인처럼 부드럽게 넘어가고, 미란이 3년의 다짐을 삼키는 한 박자와 '손 사진'이라는 복선을 남긴다.
+
+컷 2-028 — 세로 웹툰 컷 800×800px. 샷: INS · POV(미란) · 미란(중), 도겸(우). 화면: 휴대폰 화면 속 사진. 붉은 조명, 맨어깨, 그 위에 얹힌 남자의 손, 금빛 시계, 그리고 시계 바로 아래 엄지·검지 사이의 작은 초승달 흉터가 아주 작게 같은 프레임에 들어온다(아무도 주목하지 않는다).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved); refs/props/P3_*_v*.png (approved)
+- 레터링: 내레이션: 붉은 조명, 맨살, 남자의 손, 금빛 시계. / SFX(작게, 흰색): 찰칵 / 미란: 손 예쁘네, 자기.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#5 코스 (와인바 '미란' 카운터 위, 9월 4일 금 새벽 1:45)
+
+### 2-029 (800×1200, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-029 — 세로 웹툰 컷 800×1200px. 샷: MS · 측면 · 미란(좌), 도겸(우). 화면: 미란이 카운터를 짚고 가볍게 몸을 띄워 걸터앉고, 도겸이 그녀의 무릎 사이로 들어선다. 슬릿이 저절로 갈라지며 허벅지가 붉은 빛 아래 통째로 드러나고, 하이힐 뒤꿈치가 그의 허벅지 뒤에 걸려 그를 당긴다. 위쪽 전경에 랙의 잔들이 흐리게 걸린다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: (무음)
+
+### 2-030 (800×640, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-030 — 세로 웹툰 컷 800×640px. 샷: CU · 측면 · 미란(좌), 도겸(우). 화면: 와인을 한 모금 머금은 미란이 그에게 입을 맞춘다. 두 얼굴은 붉은 역광 실루엣이고, 입술이 닿는 선과 그녀의 감긴 속눈썹에만 빛이 걸린다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 탄닌의 떫은맛과 그녀의 립스틱이 같이 넘어왔다.
+
+### 2-031 (800×680, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+PROP LOCK: gold-and-steel two-tone oyster-style luxury wristwatch without any logo on a man's left wrist; a 1.5cm faint pink crescent-shaped burn scar between the left thumb and index finger, always visible in the same frame as the watch
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-031 — 세로 웹툰 컷 800×680px. 샷: INS · 뒷모습 · 미란(중). 화면: 가로 2분할. 좌: 그녀 허리 뒤 앞치마 매듭을 더듬는 그의 손(시계와 흉터). 우: 끈 한쪽이 당겨지고 매듭이 한 번에 풀려 검정 앞치마가 헥사곤 타일 바닥에 떨어진다. 속삭임 점선.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
+- 레터링: 미란(속삭임): 앞치마 끈은 손님한테 안 맡기는데. / SFX(작게): 스륵
+
+### 2-032 (800×1520, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-032 — 세로 웹툰 컷 800×1520px. 샷: MS · 오버숄더(도겸 너머) · 미란(중), 도겸(전경·실루엣). 화면: 그가 오프숄더를 아래로 끌어내리자 붉은 조명이 그녀의 맨어깨와 쇄골을 한꺼번에 덮친다. 그의 넓은 어깨와 뒷머리가 전경 실루엣으로 가슴 앞을 가리고, 그의 손은 그녀의 갈비뼈 옆에 머물고 손목과 시계만 붉은 빛 안에 있다. 그의 입술이 쇄골의 오목한 곳에서 가슴의 둥근 윗선으로 옮겨 가고, 미란은 두 팔을 뒤로 짚고 몸을 젖힌다. 웨이브 머리가 카운터 위로 쏟아져 잔 받침을 쓸고.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 자기, 서두르지 마. 우리 가게는 코스야.
+
+### 2-033 (800×1080, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-033 — 세로 웹툰 컷 800×1080px. 샷: MS · 로우 · 미란(중), 도겸(후경·실루엣). 화면: 카운터 상판 높이(C3)에서. 미란이 카운터에서 미끄러져 내려와 몸을 돌리고 두 팔꿈치를 원목 위에 놓는다. 그의 손이 슬릿 사이로 허리를 붙잡고, 걷어 올린 버건디 자락이 상판 가장자리 위에서 출렁인다. 허리선 아래는 상판 그림자로 자른다. 미란이 어깨 너머로 돌아보며 웃는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: (무음)
+
+### 2-034 (800×760, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-034 — 세로 웹툰 컷 800×760px. 샷: INS · 앙각 · 미란(하단). 화면: 위아래 2분할. 위: 머리 위 랙에 거꾸로 걸린 잔들이 떨리며 울린다. 처음엔 띄엄띄엄, 같은 칸 안에서 오른쪽으로 갈수록 촘촘해진다. 아래: 미란의 손바닥이 카운터 원목을 치며 박자를 센다(와인색 손톱). 쨍은 위칸, 탁은 아래칸.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(작게→중간, 흰색): 쨍… 쨍… 쨍, 쨍, 쨍 / SFX: 탁, 탁 / 미란: 자기, 박자 놓쳤어.
+
+### 2-035 (800×960, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-035 — 세로 웹툰 컷 800×960px. 샷: ECU · 측면 · 미란(좌), 도겸(우). 화면: 가로 3분할. 1: 미란의 관자놀이에 맺힌 땀방울. 2: 그의 흰 셔츠 깃에 번지는 붉은 립스틱. 3: 미란이 고개를 한껏 젖히는 측면 실루엣(목선과 턱만 붉게).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 그는 그녀가 친 박자로 돌아갔다. / 내레이션: 미란의 웃음이 숨으로 바뀌고, 숨이 길고 낮은 소리로 바뀌었다.
+
+### 2-036 (800×1600, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-036 — 세로 웹툰 컷 800×1600px. 샷: INS · 로우 · 인물 없음. 화면: C3 상판 끝 로우 앵글. 위아래로 긴 여백). 아래: 헥사곤 타일 위에서 산산이 깨진 잔과 떨어진 앞치마가 한 화면에 놓인다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(대형, 적색): 쨍그랑
+
+### 2-037 (800×1000, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C3·C2) · 조명: 붉은 펜던트 가운데 세 개의 좁은 원뿔(약 1800K)만, 원뿔 밖 완전한 어둠, 셀러 LED는 먼 배경 · 의상: 미란 검은 오프숄더 #151214(끌어내려짐)·버건디 슬릿 롱스커트 #6E1A2A·검정 앞치마(바닥으로)·하이힐·붉은 립 / 도겸 흰 셔츠 #F4F4F2(깃에 립스틱 번짐)·금장 콤비 시계 · 트랙: 1 · 수위 장치: 랙의 거꾸로 걸린 잔 전경, 붉은 원뿔 실루엣, 카운터 상판으로 하반신 자르기, 떨어진 앞치마·깨진 잔으로 컷 넘기기 · 감정 목표: 박자를 세는 쪽은 그녀다. 코스처럼 띄엄띄엄 시작해 촘촘해지고, 잔 하나가 깨지며 뚝 끊긴다.
+
+컷 2-037 — 세로 웹툰 컷 800×1000px. 샷: MS · 하이 · 미란(중). 화면: 정적. 미란이 카운터에 이마를 대고 한참 숨을 고른다. 흐트러진 머리가 상판에 퍼지고, 땀이 맺힌 맨등과 어깨만 붉은 원뿔 안에 있다(상판 아래는 어둠). 카운터 아래 식기세척기 초록 표시등이 깜박이고.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(작게, 금색): 뿌우우— (끊김) / SFX(작게, 초록): 삐, 삐, 삐 / 미란: 잔 하나, 4만 2천 원. 자기 앞으로 달아 놓는다.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#6 숨김 앨범 (와인바 '미란' 벨벳 소파, 9월 4일 금 새벽 2:20)
+
+### 2-038 (800×1080, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C4) · 조명: 붉은 펜던트 가운데 세 개와 셀러 LED 4000K, 소파 쪽은 펜던트 원뿔 가장자리의 약한 붉은 빛, 휴대폰 화면의 차가운 흰빛 · 의상: 미란 블라우스를 끌어올린 검은 오프숄더 #151214·버건디 스커트 #6E1A2A·맨발에 하이힐은 바닥에 / 도겸 흰 셔츠 #F4F4F2(단추 두 개, 깃에 립스틱)·금장 콤비 시계 · 트랙: 1 · 감정 목표: 잠든 남자의 무방비와, 그 얼굴을 몰래 '열어 두는' 미란의 본능. 3화 사진의 원본.
+
+컷 2-038 — 세로 웹툰 컷 800×1080px. 샷: MS · 아이레벨 · 도겸(후경·중), 미란(전경·우). 화면: 소파 옆(C4) 앉은 눈높이. 버건디 벨벳 소파에 다리를 넓게 벌리고 등을 기댄 채 잠든 도겸, 팔걸이에 늘어진 왼손목의 시계. 전경에서는 블라우스를 끌어올린 미란이 쪼그려 깨진 잔을 쓰레받기에 쓸어 담는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 도겸은 벨벳 소파에 등을 기대고 앉았다가 이 분 만에 잠들었다. 대리운전 네 콜 뒤의 잠이었다.
+
+### 2-039 (800×600, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C4) · 조명: 붉은 펜던트 가운데 세 개와 셀러 LED 4000K, 소파 쪽은 펜던트 원뿔 가장자리의 약한 붉은 빛, 휴대폰 화면의 차가운 흰빛 · 의상: 미란 블라우스를 끌어올린 검은 오프숄더 #151214·버건디 스커트 #6E1A2A·맨발에 하이힐은 바닥에 / 도겸 흰 셔츠 #F4F4F2(단추 두 개, 깃에 립스틱)·금장 콤비 시계 · 트랙: 1 · 감정 목표: 잠든 남자의 무방비와, 그 얼굴을 몰래 '열어 두는' 미란의 본능. 3화 사진의 원본.
+
+컷 2-039 — 세로 웹툰 컷 800×600px. 샷: MS · 아이레벨 · 미란(좌), 도겸(우). 화면: 미란이 그의 잠든 얼굴 앞에 쪼그려 앉아 휴대폰을 든다. 반쯤 감긴 눈으로 그의 얼굴을 오래 본다. 이마에 흘러내린 머리 한 가닥, 셔츠 단추 두 개, 짙은 눈썹.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대)
+- 레터링: (무음)
+
+### 2-040 (800×640, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+PROP LOCK: two smartphones with no logos: the main phone in matte black (used only with the wife), the second phone in matte grey; any screen shows a fictional generic messenger or calendar UI made of color blocks only, no readable text
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C4) · 조명: 붉은 펜던트 가운데 세 개와 셀러 LED 4000K, 소파 쪽은 펜던트 원뿔 가장자리의 약한 붉은 빛, 휴대폰 화면의 차가운 흰빛 · 의상: 미란 블라우스를 끌어올린 검은 오프숄더 #151214·버건디 스커트 #6E1A2A·맨발에 하이힐은 바닥에 / 도겸 흰 셔츠 #F4F4F2(단추 두 개, 깃에 립스틱)·금장 콤비 시계 · 트랙: 1 · 감정 목표: 잠든 남자의 무방비와, 그 얼굴을 몰래 '열어 두는' 미란의 본능. 3화 사진의 원본.
+
+컷 2-040 — 세로 웹툰 컷 800×640px. 샷: INS · POV(미란) · 도겸(중). 화면: 가로 2분할. 좌: 휴대폰 설정 화면에서 플래시 끔, 셔터음 끔 토글을 엄지가 차례로 민다(가상 UI. 우: 화면 속 잠든 얼굴.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved)
+- 레터링: SFX(아주 작게, 회색): 찰칵
+
+### 2-041 (800×880, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Small Korean wine bar called Miran on the ground floor of a new apartment complex shopping street, about 7 m wide and 12 m deep. A dark walnut bar counter 6 m long runs along the right wall with six bar stools, an overhead rack of upside-down wine glasses, and five red glass pendant lamps in a row above it. Behind the counter, a back-bar shelf with a blank chalkboard menu. Along the left wall: a small round marble corner table near the front, a burgundy velvet Chesterfield sofa, and two tall glass-door wine cellars at the back. Dark burgundy hexagon floor tiles, wooden louver blinds on the front glass.
+
+PROP LOCK: two smartphones with no logos: the main phone in matte black (used only with the wife), the second phone in matte grey; any screen shows a fictional generic messenger or calendar UI made of color blocks only, no readable text
+
+장면(조명·의상 고정값): 장소 2(와인바 '미란', 카메라 C4) · 조명: 붉은 펜던트 가운데 세 개와 셀러 LED 4000K, 소파 쪽은 펜던트 원뿔 가장자리의 약한 붉은 빛, 휴대폰 화면의 차가운 흰빛 · 의상: 미란 블라우스를 끌어올린 검은 오프숄더 #151214·버건디 스커트 #6E1A2A·맨발에 하이힐은 바닥에 / 도겸 흰 셔츠 #F4F4F2(단추 두 개, 깃에 립스틱)·금장 콤비 시계 · 트랙: 1 · 감정 목표: 잠든 남자의 무방비와, 그 얼굴을 몰래 '열어 두는' 미란의 본능. 3화 사진의 원본.
+
+컷 2-041 — 세로 웹툰 컷 800×880px. 샷: CU · 아이레벨 · 미란(중). 화면: 휴대폰 화면 빛이 미란의 얼굴을 아래에서 하얗게 비춘다. 사진이 '숨김 앨범' 폴더로 들어가는 화면이 전경에 흐리게 걸리고, 붉은 립의 입꼬리가 아주 조금 올라간다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S02_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved)
+- 레터링: 내레이션: 남자 거짓말은 와인이랑 같았다. 열어 봐야 알았다. 그녀는 그 사진을 숨김 앨범에 넣었다.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#7 22:04 (더퍼스트 클럽 지하 1층 필라테스룸 데스크, 9월 8일 화 밤 10:10)
+
+### 2-042 (800×1360, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(더퍼스트 클럽 B1 필라테스룸, 카메라 C1·C3) · 조명: 천장 꺼짐, 거울 벽 아래 간접 LED 4000K만 바닥에서 낮게 거울에 두 배로 반사, 데스크 모니터의 푸른빛, 문 위 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·블랙 하이 포니테일 #1C1F26(잔머리)·왼손목 스마트워치 · 트랙: 1 · 감정 목표: 숫자를 세는 여자가 숫자 하나를 보고도 덮는다. 불편함의 씨앗.
+
+컷 2-042 — 세로 웹툰 컷 800×1360px. 샷: LS · 아이레벨 · 세라(후경·중). 화면: 남동 모서리(C1)에서 대각선으로 본 스튜디오. 천장은 꺼지고 거울 벽 아래 LED가 바닥을 하얗게 핥으며, 리포머 여섯 대가 나란히 누워 있다. 세라가 리포머 레일에 소독 스프레이를 뿌리며 몸을 숙이자 포니테일이 어깨를 친다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 밤 열 시 십 분, 더퍼스트 클럽 지하 1층 필라테스룸의 천장 조명은 꺼져 있었다. / SFX(작게, 회색): 쉬이—
+
+### 2-043 (800×720, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(더퍼스트 클럽 B1 필라테스룸, 카메라 C1·C3) · 조명: 천장 꺼짐, 거울 벽 아래 간접 LED 4000K만 바닥에서 낮게 거울에 두 배로 반사, 데스크 모니터의 푸른빛, 문 위 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·블랙 하이 포니테일 #1C1F26(잔머리)·왼손목 스마트워치 · 트랙: 1 · 감정 목표: 숫자를 세는 여자가 숫자 하나를 보고도 덮는다. 불편함의 씨앗.
+
+컷 2-043 — 세로 웹툰 컷 800×720px. 샷: MS · 측면 · 세라(중). 화면: 레일을 닦는 세라의 측면. 피부처럼 붙은 레깅스가 허벅지와 골반 선을 그대로 따르고, 크롭 브라톱 아래 구릿빛 복근이 갈라져 있다. 입술이 박자에 맞춰 움직이고.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 세라: 하나, 둘, 셋, 넷.
+
+### 2-044 (800×640, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+PROP LOCK: two smartphones with no logos: the main phone in matte black (used only with the wife), the second phone in matte grey; any screen shows a fictional generic messenger or calendar UI made of color blocks only, no readable text
+
+장면(조명·의상 고정값): 장소 3(더퍼스트 클럽 B1 필라테스룸, 카메라 C1·C3) · 조명: 천장 꺼짐, 거울 벽 아래 간접 LED 4000K만 바닥에서 낮게 거울에 두 배로 반사, 데스크 모니터의 푸른빛, 문 위 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·블랙 하이 포니테일 #1C1F26(잔머리)·왼손목 스마트워치 · 트랙: 1 · 감정 목표: 숫자를 세는 여자가 숫자 하나를 보고도 덮는다. 불편함의 씨앗.
+
+컷 2-044 — 세로 웹툰 컷 800×640px. 샷: INS · POV(세라) · 인물 없음. 화면: 가로 2분할. 푸른빛). 우: 세라의 휴대폰 문자 화면, 22:04 '도착' 한 단어(손글씨체는 쓰지 않고 메신저 서체).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/sets/S03_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved)
+- 레터링: 문자(도겸→세라): 도착
+
+### 2-045 (800×840, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(더퍼스트 클럽 B1 필라테스룸, 카메라 C1·C3) · 조명: 천장 꺼짐, 거울 벽 아래 간접 LED 4000K만 바닥에서 낮게 거울에 두 배로 반사, 데스크 모니터의 푸른빛, 문 위 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·블랙 하이 포니테일 #1C1F26(잔머리)·왼손목 스마트워치 · 트랙: 1 · 감정 목표: 숫자를 세는 여자가 숫자 하나를 보고도 덮는다. 불편함의 씨앗.
+
+컷 2-045 — 세로 웹툰 컷 800×840px. 샷: CU · 아이레벨 · 세라(중). 화면: 모니터의 푸른빛을 받은 세라의 얼굴. 짙은 일자 눈썹 사이가 한 번 좁아졌다가 풀리고, 마우스를 쥔 손이 모니터 전원을 끈다. 화면이 꺼지며 얼굴의 푸른빛이 사라진다. 두 번째는 생각 톤.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: B2 연결통로 문은 입주민 카드가 있어야 열렸다. 그는 시행사 숙소에서 지낸다고 했다. / 내레이션: 시행사 아들이니까 마스터키쯤 있겠지. / SFX(작게): 딸깍
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#8 레슨 (필라테스룸, 9월 8일 화 밤 10:15)
+
+### 2-046 (800×1080, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C3·C1) · 조명: 거울 아래 간접 LED 4000K 바닥에서 낮게, 유리문 쪽 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 / 옷걸이: 로고 없는 블랙 퀼팅 체인 백(금색 체인)과 민트 집업 #7FD1BE · 트랙: 1(2-047은 트랙2) · 감정 목표: 직설과 카운트의 세라가, 기일 이야기 앞에서만 대답 없이 지갑을 연다.
+
+컷 2-046 — 세로 웹툰 컷 800×1080px. 샷: MS · 아이레벨 · 도겸(후경·좌), 세라(전경·우). 화면: 유리문이 열리고 민트 향이 먼저 들어온다(옅은 민트색 공기 결 효과선 한 줄). 전경 옷걸이에 로고 없는 퀼팅 체인 백과 민트 집업이 걸려 있고, 문간의 도겸이 왼쪽 입꼬리만 올려 웃는다. 데스크에 기댄 세라가 팔짱을 끼고 말한다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 세라: 가방 잘 들고 다녀요. 회원님들이 다 물어봐요. / 세라: 늦었어요. 호흡, 호흡. 숨 차 보여요.
+
+### 2-047 (800×600, 트랙 2 코미디 셀, 태그: intimate)
+
+```text
+Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-tone cel shading, high-saturation flat colors, simple speed lines or focus lines, slightly exaggerated expression (chibi-lite deformation allowed only for the face and hands), same character design and outfit colors as the main style, plain flat color background, no text.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C3·C1) · 조명: 거울 아래 간접 LED 4000K 바닥에서 낮게, 유리문 쪽 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 / 옷걸이: 로고 없는 블랙 퀼팅 체인 백(금색 체인)과 민트 집업 #7FD1BE · 트랙: 1(2-047은 트랙2) · 감정 목표: 직설과 카운트의 세라가, 기일 이야기 앞에서만 대답 없이 지갑을 연다.
+
+컷 2-047 — 세로 웹툰 컷 800×600px. 샷: BS · 아이레벨 · 도겸(좌), 세라(우). 화면: 가로 2분할. 좌: 도겸이 머리 가닥을 넘기며 귓불을 만진다(손에 작은 반짝이 효과선). 우: 세라가 그의 두 어깨를 잡아 뒤로 확 연다, 직선 효과선과 무표정, 도겸 등이 일자로 펴진다. 의상 색은 본편과 같다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 도겸: 현장 들렀다 왔어. / 세라: 귀 왜 만져요? 자세 무너져요.
+
+### 2-048 (800×680, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C3·C1) · 조명: 거울 아래 간접 LED 4000K 바닥에서 낮게, 유리문 쪽 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 / 옷걸이: 로고 없는 블랙 퀼팅 체인 백(금색 체인)과 민트 집업 #7FD1BE · 트랙: 1(2-047은 트랙2) · 감정 목표: 직설과 카운트의 세라가, 기일 이야기 앞에서만 대답 없이 지갑을 연다.
+
+컷 2-048 — 세로 웹툰 컷 800×680px. 샷: BS · 오버숄더(세라 너머) · 도겸(중), 세라(우·전경). 화면: 가로 2분할 숏·리버스숏. 좌: 어깨가 펴진 채 세라의 눈을 오래 보며 낮게 말하는 도겸. 우: 세라가 한쪽 눈썹도 움직이지 않고 짧게 받는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 도겸: 너한테만 하는 얘긴데. 나 사실 아버지랑 사이 안 좋아. 회사 물려받기 싫어. / 세라: 그럼 받지 마요. 짧게 말해요. 용건.
+
+### 2-049 (800×720, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C3·C1) · 조명: 거울 아래 간접 LED 4000K 바닥에서 낮게, 유리문 쪽 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 / 옷걸이: 로고 없는 블랙 퀼팅 체인 백(금색 체인)과 민트 집업 #7FD1BE · 트랙: 1(2-047은 트랙2) · 감정 목표: 직설과 카운트의 세라가, 기일 이야기 앞에서만 대답 없이 지갑을 연다.
+
+컷 2-049 — 세로 웹툰 컷 800×720px. 샷: CU · 아이레벨 · 도겸(중). 화면: 도겸이 눈을 내리깔고 목소리를 낮춘다. 짙은 눈썹이 조금 처지고, 흘러내린 머리 한 가닥이 눈가에 그늘을 만든다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 도겸: 이번 주가 어머니 기일이야. 납골당 꽃이랑 제사 음식 맞춰야 하는데, 내 카드는 법인 카드라 개인 결제가 안 돼.
+
+### 2-050 (800×560, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C3·C1) · 조명: 거울 아래 간접 LED 4000K 바닥에서 낮게, 유리문 쪽 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 / 옷걸이: 로고 없는 블랙 퀼팅 체인 백(금색 체인)과 민트 집업 #7FD1BE · 트랙: 1(2-047은 트랙2) · 감정 목표: 직설과 카운트의 세라가, 기일 이야기 앞에서만 대답 없이 지갑을 연다.
+
+컷 2-050 — 세로 웹툰 컷 800×560px. 샷: CU · 아이레벨 · 세라(중). 화면: 세라가 대답하지 않는다. 직선이던 시선이 그의 얼굴에서 잠깐 아래로 떨어지고, 입술이 한 번 다물린다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 고등학생 때 어머니를 잃었다는 남자였다.
+
+### 2-051 (800×760, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C3·C1) · 조명: 거울 아래 간접 LED 4000K 바닥에서 낮게, 유리문 쪽 비상구 유도등 초록 · 의상: 세라 검정 레깅스 #1B1C1F·차콜 크롭 브라톱 #2A2C30·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(단추 두 개)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 / 옷걸이: 로고 없는 블랙 퀼팅 체인 백(금색 체인)과 민트 집업 #7FD1BE · 트랙: 1(2-047은 트랙2) · 감정 목표: 직설과 카운트의 세라가, 기일 이야기 앞에서만 대답 없이 지갑을 연다.
+
+컷 2-051 — 세로 웹툰 컷 800×760px. 샷: MS · 아이레벨 · 세라(좌), 도겸(우). 화면: 가로 2분할. 좌: 세라가 체인 백에서 지갑을 꺼내 카드 한 장을 그의 가슴팍으로 던지고, 도겸이 가슴 앞에서 받는다(카드 궤적 효과선). 우: 세라가 턱으로 리포머를 가리킨다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 세라: 카드 줘요? 써요. 대신 갚아요. 비밀번호는 문자로 보낼게요. / 세라: 누워요. 레슨.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#9 여덟 개 더 (필라테스룸 리포머, 9월 8일 화 밤 10:25)
+
+### 2-052 (800×760, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C2·C1) · 조명: 천장 꺼짐, 거울 아래 간접 LED 4000K 하나가 바닥에서 낮게만, 측면 실루엣으로 굴곡만 남김 · 의상: 세라 차콜 크롭 브라톱 #2A2C30(벗겨짐)·검정 레깅스 #1B1C1F(말아 내림)·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(풀어 헤침)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 수위 장치: 거울 이음매에 몸 걸기, 바닥 간접광 측면 실루엣, 풋바·스프링·캐리지 받침 전경, 캐리지·스프링·스토퍼로 컷 넘기기 · 감정 목표: 그녀가 세고 그가 따른다. 몸이 처음으로 그녀의 것이 되는 밤, 마지막 소리는 숫자가 아니다.
+
+컷 2-052 — 세로 웹툰 컷 800×760px. 샷: INS · 로우 · 세라(좌), 도겸(우). 화면: 가로 2분할. 좌: 바닥 높이(C2)에서 세라의 손이 캐리지 아래 빨간 스프링 두 개를 건다. 우: 캐리지에 누운 도겸의 갈비뼈 위에 넓은 손바닥이 놓인다(셔츠 위).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(중간, 흰색): 철컥, 철컥 / 세라: 들이쉬고. 내쉬고. 갈비뼈 닫아요.
+
+### 2-053 (800×880, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C2·C1) · 조명: 천장 꺼짐, 거울 아래 간접 LED 4000K 하나가 바닥에서 낮게만, 측면 실루엣으로 굴곡만 남김 · 의상: 세라 차콜 크롭 브라톱 #2A2C30(벗겨짐)·검정 레깅스 #1B1C1F(말아 내림)·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(풀어 헤침)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 수위 장치: 거울 이음매에 몸 걸기, 바닥 간접광 측면 실루엣, 풋바·스프링·캐리지 받침 전경, 캐리지·스프링·스토퍼로 컷 넘기기 · 감정 목표: 그녀가 세고 그가 따른다. 몸이 처음으로 그녀의 것이 되는 밤, 마지막 소리는 숫자가 아니다.
+
+컷 2-053 — 세로 웹툰 컷 800×880px. 샷: MS · 측면 · 세라(중), 도겸(하단). 화면: 세라가 한쪽 다리를 넘겨 그의 위에 올라앉는다. 체중을 받은 캐리지가 레일 위로 한 뼘 미끄러지고 빨간 스프링이 늘어난다. 전경에 풋바가 흐리게 걸린다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(중간): 끼익
+
+### 2-054 (800×1320, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C2·C1) · 조명: 천장 꺼짐, 거울 아래 간접 LED 4000K 하나가 바닥에서 낮게만, 측면 실루엣으로 굴곡만 남김 · 의상: 세라 차콜 크롭 브라톱 #2A2C30(벗겨짐)·검정 레깅스 #1B1C1F(말아 내림)·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(풀어 헤침)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 수위 장치: 거울 이음매에 몸 걸기, 바닥 간접광 측면 실루엣, 풋바·스프링·캐리지 받침 전경, 캐리지·스프링·스토퍼로 컷 넘기기 · 감정 목표: 그녀가 세고 그가 따른다. 몸이 처음으로 그녀의 것이 되는 밤, 마지막 소리는 숫자가 아니다.
+
+컷 2-054 — 세로 웹툰 컷 800×1320px. 샷: MS · 측면 · 세라(중·실루엣), 도겸(하단). 화면: 그가 브라톱 밑단을 잡아 끌어올리고, 땀에 젖은 밴드가 피부에 달라붙자 세라가 두 팔을 들어 돕는다. 포니테일이 천을 빠져나오며 등을 철썩 친다. 벗겨지는 천과 들어 올린 팔뚝이 가슴 앞선을 가리고, 바닥 간접광은 측면에서만 들어와 등·어깨·쇄골·복근 옆선에만 림라이트를 긋고 앞면은 그늘로 남긴다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(중간): 철썩
+
+### 2-055 (800×800, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C2·C1) · 조명: 천장 꺼짐, 거울 아래 간접 LED 4000K 하나가 바닥에서 낮게만, 측면 실루엣으로 굴곡만 남김 · 의상: 세라 차콜 크롭 브라톱 #2A2C30(벗겨짐)·검정 레깅스 #1B1C1F(말아 내림)·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(풀어 헤침)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 수위 장치: 거울 이음매에 몸 걸기, 바닥 간접광 측면 실루엣, 풋바·스프링·캐리지 받침 전경, 캐리지·스프링·스토퍼로 컷 넘기기 · 감정 목표: 그녀가 세고 그가 따른다. 몸이 처음으로 그녀의 것이 되는 밤, 마지막 소리는 숫자가 아니다.
+
+컷 2-055 — 세로 웹툰 컷 800×800px. 샷: INS · 측면 · 세라(중), 도겸(하단). 화면: 가로 2분할. 좌: 레깅스 허리 밴드를 당기는 그의 손을 세라의 손이 탁 쳐 낸다. 우: 세라가 직접 레깅스를 골반 아래로 말아 내리고, 구릿빛 허리 양옆과 골반뼈 선에 붉은 밴드 자국이 남는다. 그의 엄지가 그 자국을 따라 허벅지 바깥 근육까지 간다(아래는 캐리지 받침이 자른다).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 세라: 밑에서부터. 말아서.
+
+### 2-056 (800×1600, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C2·C1) · 조명: 천장 꺼짐, 거울 아래 간접 LED 4000K 하나가 바닥에서 낮게만, 측면 실루엣으로 굴곡만 남김 · 의상: 세라 차콜 크롭 브라톱 #2A2C30(벗겨짐)·검정 레깅스 #1B1C1F(말아 내림)·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(풀어 헤침)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 수위 장치: 거울 이음매에 몸 걸기, 바닥 간접광 측면 실루엣, 풋바·스프링·캐리지 받침 전경, 캐리지·스프링·스토퍼로 컷 넘기기 · 감정 목표: 그녀가 세고 그가 따른다. 몸이 처음으로 그녀의 것이 되는 밤, 마지막 소리는 숫자가 아니다.
+
+컷 2-056 — 세로 웹툰 컷 800×1600px. 샷: LS · 아이레벨 · 세라(중), 도겸(중·하단). 화면: 남동 모서리(C1)에서 본 와이드. 거울 벽 여섯 장이 두 사람을 여섯 번 비추고, 몸은 거울 사이 세로 이음선에 걸린다. 실물 세라는 카메라에 뒷모습(곧은 척추, 허리 위 두 개의 오목한 보조개, 흔들리는 포니테일)만 보이고 허리 아래는 캐리지 받침이 가린다. 거울 여섯 장의 상은 이음선과 풋바 그림자에 가슴 높이에서 잘려 얼굴·어깨·포니테일과 그의 손만 또렷하고, 가슴 아래는 바닥 간접광의 역광 그늘로 검게 뭉갠다. 세라는 거울 속 자기를 본다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 거울 벽이 두 사람을 여섯 번 비췄다. / 내레이션: 몸은 늘 그녀의 일이었다. 오늘 밤은 그녀의 것이었다.
+
+### 2-057 (800×920, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+PROP LOCK: gold-and-steel two-tone oyster-style luxury wristwatch without any logo on a man's left wrist; a 1.5cm faint pink crescent-shaped burn scar between the left thumb and index finger, always visible in the same frame as the watch
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C2·C1) · 조명: 천장 꺼짐, 거울 아래 간접 LED 4000K 하나가 바닥에서 낮게만, 측면 실루엣으로 굴곡만 남김 · 의상: 세라 차콜 크롭 브라톱 #2A2C30(벗겨짐)·검정 레깅스 #1B1C1F(말아 내림)·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(풀어 헤침)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 수위 장치: 거울 이음매에 몸 걸기, 바닥 간접광 측면 실루엣, 풋바·스프링·캐리지 받침 전경, 캐리지·스프링·스토퍼로 컷 넘기기 · 감정 목표: 그녀가 세고 그가 따른다. 몸이 처음으로 그녀의 것이 되는 밤, 마지막 소리는 숫자가 아니다.
+
+컷 2-057 — 세로 웹툰 컷 800×920px. 샷: INS · 로우 · 세라(중). 화면: 위아래 2분할. 위: 풋바에 걸린 세라의 맨발과 레일 위를 앞뒤로 미끄러지는 캐리지. 아래: 프레임 위 경계를 명치 아래에 둔다. 땀이 복근의 굴곡을 따라 흐르고, 그녀의 허리를 붙잡은 그의 손목을 세라가 잡아 골반 위로 옮긴다(시계와 흉터). 아래칸
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
+- 레터링: SFX(중간): 끼익, 탁. 끼익, 탁. / 세라: 들이쉬고… 내쉬고. / 세라: 여덟 개 더.
+
+### 2-058 (800×720, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C2·C1) · 조명: 천장 꺼짐, 거울 아래 간접 LED 4000K 하나가 바닥에서 낮게만, 측면 실루엣으로 굴곡만 남김 · 의상: 세라 차콜 크롭 브라톱 #2A2C30(벗겨짐)·검정 레깅스 #1B1C1F(말아 내림)·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(풀어 헤침)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 수위 장치: 거울 이음매에 몸 걸기, 바닥 간접광 측면 실루엣, 풋바·스프링·캐리지 받침 전경, 캐리지·스프링·스토퍼로 컷 넘기기 · 감정 목표: 그녀가 세고 그가 따른다. 몸이 처음으로 그녀의 것이 되는 밤, 마지막 소리는 숫자가 아니다.
+
+컷 2-058 — 세로 웹툰 컷 800×720px. 샷: CU · 측면 · 도겸(좌), 세라(우). 화면: 가로 2분할. 좌: 도겸의 입술이 소리 없이 숫자를 센다. 우: 일곱 번째에서 세라의 숨이 멎는다(눈을 꼭 감고 입술이 벌어진 채 정지, 복근이 떨리고 허벅지가 그의 옆구리를 죈다).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 그는 셌다. 그녀는 세지 않았다.
+
+### 2-059 (800×1240, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C2·C1) · 조명: 천장 꺼짐, 거울 아래 간접 LED 4000K 하나가 바닥에서 낮게만, 측면 실루엣으로 굴곡만 남김 · 의상: 세라 차콜 크롭 브라톱 #2A2C30(벗겨짐)·검정 레깅스 #1B1C1F(말아 내림)·하이 포니테일 #1C1F26 / 도겸 흰 셔츠 #F4F4F2(풀어 헤침)·차콜 슬랙스 #2B2F3A·금장 콤비 시계 · 트랙: 1 · 수위 장치: 거울 이음매에 몸 걸기, 바닥 간접광 측면 실루엣, 풋바·스프링·캐리지 받침 전경, 캐리지·스프링·스토퍼로 컷 넘기기 · 감정 목표: 그녀가 세고 그가 따른다. 몸이 처음으로 그녀의 것이 되는 밤, 마지막 소리는 숫자가 아니다.
+
+컷 2-059 — 세로 웹툰 컷 800×1240px. 샷: CU · 측면 · 세라(중). 화면: 위아래 2분할. 위: 마지막 세트를 끝낸 사람처럼 세라가 고개를 젖히고 길게 숨을 뱉는다, 젖은 잔머리가 이마에 붙어 있다. 아래: 캐리지가 천천히 미끄러져 스토퍼에 닿는다(C2 로우). 환기구 바람 소리만 남는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(길게, 흰색): 후우 / SFX(작게): 탁 / 내레이션: 땀이 식으며 등이 서늘해졌다.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#10 아무것도 없는 얼굴 (필라테스룸, 9월 8일 화 밤 10:58)
+
+### 2-060 (800×1560, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C1·C3) · 조명: 거울 아래 간접 LED 4000K, 휴대폰 화면의 차가운 빛, 다시 켠 데스크 모니터의 푸른빛 · 의상: 도겸 흰 셔츠 #F4F4F2(걸치며 나감)·차콜 슬랙스 #2B2F3A / 세라 검정 레깅스 #1B1C1F를 다시 올리고 옷걸이의 민트 집업 #7FD1BE를 걸쳐 지퍼를 가슴까지 올림(노출 정리용 콘티 지정), 맨발 · 트랙: 1 · 감정 목표: 거울 여섯 장이 동시에 표정을 지우는 서늘함. 세라의 불편함이 몸으로 나오고, 기록이 그를 단지 안쪽으로 가리킨다.
+
+컷 2-060 — 세로 웹툰 컷 800×1560px. 샷: LS · 아이레벨 · 도겸(중), 세라(전경·우). 화면: 리포머 끝에 걸터앉은 도겸이 바지 주머니에서 진동하는 휴대폰을 꺼내 엄지로 넘긴다. 거울 여섯 장 속의 그 여섯 명이 동시에 표정을 지운다(여섯 얼굴 모두 무표정, 눈에 빛이 없다). 전경에는 세라의 어깨와 포니테일 끝만.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(작게, 회색): 징— / 내레이션: 거울 여섯 장 속의 남자 여섯 명이 동시에 표정을 지웠다. 아무것도 없는 얼굴이었다.
+
+### 2-061 (800×640, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C1·C3) · 조명: 거울 아래 간접 LED 4000K, 휴대폰 화면의 차가운 빛, 다시 켠 데스크 모니터의 푸른빛 · 의상: 도겸 흰 셔츠 #F4F4F2(걸치며 나감)·차콜 슬랙스 #2B2F3A / 세라 검정 레깅스 #1B1C1F를 다시 올리고 옷걸이의 민트 집업 #7FD1BE를 걸쳐 지퍼를 가슴까지 올림(노출 정리용 콘티 지정), 맨발 · 트랙: 1 · 감정 목표: 거울 여섯 장이 동시에 표정을 지우는 서늘함. 세라의 불편함이 몸으로 나오고, 기록이 그를 단지 안쪽으로 가리킨다.
+
+컷 2-061 — 세로 웹툰 컷 800×640px. 샷: CU · 아이레벨 · 세라(좌), 도겸(우). 화면: 가로 2분할. 좌: 처음 보는 얼굴을 보는 세라의 눈, 동공이 조금 커지고 입술이 다물린다. 우: 도겸이 셔츠를 걸치며 일어서고 문 쪽으로 돌아선다, 민트 향 효과선이 문틈으로 빠져나간다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 세라는 그런 얼굴을 처음 봤다. / 도겸: 현장.
+
+### 2-062 (800×1160, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C1·C3) · 조명: 거울 아래 간접 LED 4000K, 휴대폰 화면의 차가운 빛, 다시 켠 데스크 모니터의 푸른빛 · 의상: 도겸 흰 셔츠 #F4F4F2(걸치며 나감)·차콜 슬랙스 #2B2F3A / 세라 검정 레깅스 #1B1C1F를 다시 올리고 옷걸이의 민트 집업 #7FD1BE를 걸쳐 지퍼를 가슴까지 올림(노출 정리용 콘티 지정), 맨발 · 트랙: 1 · 감정 목표: 거울 여섯 장이 동시에 표정을 지우는 서늘함. 세라의 불편함이 몸으로 나오고, 기록이 그를 단지 안쪽으로 가리킨다.
+
+컷 2-062 — 세로 웹툰 컷 800×1160px. 샷: FS · 아이레벨 · 세라(중). 화면: 빈 스튜디오. 민트 집업을 걸친 세라가 맨발로 매트 위에 서서 한쪽 팔을 머리 위로 넘겨 옆구리를 길게 늘인다. 같은 칸 안에 반대쪽, 다시 반대쪽 동작을 잔상처럼 겹친다(연속 동작 3단).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 그녀는 마음이 불편할 때 스트레칭을 했다.
+
+### 2-063 (800×760, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Basement pilates studio in the community center of a new Korean apartment complex, about 8 by 8.5 meters, no windows. The left wall is a full mirror wall of six tall panels with a thin LED light strip along the floor beneath it. Six oak-frame pilates reformers with charcoal carriages and red springs stand in one row, foot bars toward the mirror. Light oak flooring with black rubber mats, recessed ceiling downlights, two ventilation grilles high on the back wall. A glass door and glass partition on the near wall, a small instructor desk with a monitor and a coat stand in the corner by the door.
+
+장면(조명·의상 고정값): 장소 3(필라테스룸, 카메라 C1·C3) · 조명: 거울 아래 간접 LED 4000K, 휴대폰 화면의 차가운 빛, 다시 켠 데스크 모니터의 푸른빛 · 의상: 도겸 흰 셔츠 #F4F4F2(걸치며 나감)·차콜 슬랙스 #2B2F3A / 세라 검정 레깅스 #1B1C1F를 다시 올리고 옷걸이의 민트 집업 #7FD1BE를 걸쳐 지퍼를 가슴까지 올림(노출 정리용 콘티 지정), 맨발 · 트랙: 1 · 감정 목표: 거울 여섯 장이 동시에 표정을 지우는 서늘함. 세라의 불편함이 몸으로 나오고, 기록이 그를 단지 안쪽으로 가리킨다.
+
+컷 2-063 — 세로 웹툰 컷 800×760px. 샷: INS · POV(세라) · 인물 없음. 화면: 다시 켠 데스크 모니터. 그 위로 22:04 줄이 그대로 있다. 화면 반사에 세라의 실루엣이 희미하게 비친다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/sets/S03_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 그는 밖으로 나가지 않았다. 단지 안으로 더 깊이 들어갔다.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#11 엎드리면 고해 (더퍼스트 클럽 지하 1층 여탕 세신실, 9월 9일 수 오전 11:00)
+
+### 2-064 (800×1360, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-064 — 세로 웹툰 컷 800×1360px. 샷: LS · 아이레벨 · 순옥(중). 화면: 열탕 턱(C1)에서 김 너머로 본 세신 코너. 천장 둥근 등이 흐린 달처럼 떠 있고, 순옥이 세신대에 뜨거운 물을 두 바가지 끼얹은 뒤 새 비닐을 편다. 화면 앞쪽 3분의 1은 두꺼운 김.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 오전 열한 시, 더퍼스트 클럽 지하 1층 여탕 세신실은 김으로 하얗게 차 있었다. / SFX(작게, 회색): 쿨렁쿨렁 / SFX(작게): 딱
+
+### 2-065 (800×960, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Seo Yu-jin, fictional adult character, not resembling any real person. A 33-year-old Korean woman, former flight attendant, 172 cm, the tallest woman of the cast. Soft glamorous hourglass on a tall frame: full heavy bust, long slender cinched waist, rounded hips, and very long straight legs, her strongest silhouette point. Narrow straight shoulders with deep collarbones; ramrod-straight back, chin slightly tucked. Soft, slightly rounded oval face; languid down-turned eyes with long lashes that never smile even when her lips do; long thin groomed arched brows; slim straight nose; full lips in muted rose-red. Smooth fair skin (#F5D5BE). Wavy bob between chin and collarbone, dark espresso brown (#3A2A22), with soft side-swept bangs. Marks: small pearl stud earrings, two piercing holes in the right earlobe, a tiny mole at the tip of the left collarbone, long pale hands, short almond nude-beige nails, thin wedding band. Habit: polite closed-lip smile with cool unsmiling eyes; sits upright, knees together, legs slanted to one side.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-065 — 세로 웹툰 컷 800×960px. 샷: INS · 부감 · 순옥(우), 유진(중·뒷모습). 화면: 회상 톤(가장자리 흐린 비네트, 채도 낮춤). 세신대에 말없이 엎드린 젊은 여자의 흰 등과 흑갈 웨이브 단발 끝만, 허리 아래는 수건. 그 등을 미는 순옥의 손이 손가락을 펴고 힘을 뺀 모양이다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/yujin_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 2년 동안 이 세신대에 단지의 등이 다 누웠다. 101동 펜트하우스의 젊은 며느리는 격주 화요일에 왔다. 며느리는 말이 없었다. / 내레이션: 순옥은 그 등을 밀 때마다 손에서 힘을 뺐다. 며느리는 이 세신사가 시어머니라는 걸 몰랐다.
+
+### 2-066 (800×1080, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-066 — 세로 웹툰 컷 800×1080px. 샷: MS · 하이 · 세라(중), 순옥(우). 화면: 현재. 세라가 엎드린다. 구릿빛 등이 수건처럼 반듯하고 날개뼈가 선명하며, 허리 아래는 흰 수건이 덮는다. 세라는 팔에 뺨을 대고 반대쪽을 본다(얼굴이 순옥에게 안 보인다). 이태리타월을 감은 순옥의 손이 어깻죽지에 닿고.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 세라: 이모, 오늘 세게요. / 내레이션: 손님들은 세신대에 엎드리면 말이 많아졌다. 얼굴이 보이지 않으면 사람은 고해를 했다. / 세라: 이모, 저 남자 생겼어요. 회장님 아들. 이 단지 지은 회사요.
+
+### 2-067 (800×1560, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-067 — 세로 웹툰 컷 800×1560px. 샷: CU · 아이레벨 · 순옥(중). 화면: 김 사이로 드러난 순옥의 옆얼굴. 짙은 일자 눈썹, 늘 다문 얇은 입술, 시선은 등에만 있다. 화면 하단 전경에 어깻죽지를 밀어 내려가는 굵은 손(손마디가 굵고 손톱은 물에 불어 하얗다)이 멈추지 않는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 순옥의 손은 멈추지 않았다. 2년 전, 이 단지 세신사 자리에 이력서를 냈다고 말했을 때 아들은 전화기 너머에서 한참 말이 없다가 이렇게만 말했다. / 도겸(전화): 엄마, 아는 척하지 마. 거기선 내가 회장님 아들이야. / 내레이션: 순옥은 그 말을 수건처럼 반듯하게 접어 넣어 두었다. 이 단지에 회장님 아들이 하나뿐이겠는가. 그녀는 그렇게 생각하기로 했다.
+
+### 2-068 (800×600, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-068 — 세로 웹툰 컷 800×600px. 샷: BS · 하이 · 세라(좌), 순옥(우). 화면: 가로 2분할. 좌: 팔에 뺨을 댄 세라가 들뜬 눈으로 말한다. 우: 순옥의 입만 짧게 움직이고 눈은 내려가 있다. 우상(작게).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 세라: 가방도 사 줬어요. 샤넬. 회원님들이 다 물어봐요. / 순옥: 좋겠네.
+
+### 2-069 (800×880, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+PROP LOCK: black quilted lambskin-style shoulder bag with a gold chain strap, no logo, the quilting stitches slightly uneven
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-069 — 세로 웹툰 컷 800×880px. 샷: INS · 아이레벨 · 인물 없음. 화면: 회상 컷(짧게, 채도 낮춤). 탈의실 옷장 앞 고리에 걸린 로고 없는 블랙 퀼팅 체인 백, 금색 체인이 걸리는 순간 가볍게 흔들린다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P7_*_v*.png (approved)
+- 레터링: SFX(작게, 금색): 찰랑 / 내레이션: 순옥은 탈의실 옷장 앞에 걸려 있던 그 가방을 본 적이 있었다. 체인이 너무 가벼워서 걸 때마다 찰랑 소리가 났다. / 내레이션: 사십 년 동안 남의 옷장 앞을 지나다닌 사람은 가방이 내는 소리를 알았다. 진짜는 그렇게 가볍게 울지 않았다.
+
+### 2-070 (800×720, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+PROP LOCK: a green Korean exfoliating scrub mitt (Italy towel); a white cotton handkerchief folded neatly four times
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-070 — 세로 웹툰 컷 800×720px. 샷: INS · 부감 · 순옥(중), 세라(하단). 화면: 이태리타월이 날갯죽지를 지나 척추를 따라 내려간다. 비닐 위로 물이 흐르고 김이 손목에 감긴다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P10_*_v*.png (approved)
+- 레터링: 세라: 너한테만 하는 얘긴데, 그러더라고요. 아버지랑 사이 안 좋대요. / 세라: 어머니는 고등학교 때 돌아가셨대요. 이번 주가 기일이래서 제 카드로 제사 음식 했어요.
+
+### 2-071 (800×920, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-071 — 세로 웹툰 컷 800×920px. 샷: CU · 아이레벨 · 순옥(중). 화면: 위아래 2분할. 위: 순옥의 손이 아주 잠깐 등 위에 머물고 입이 열린다, 말끝을 흐린다. 아래: 김 속 순옥의 얼굴, 코에서 짧은 바람이 새어 나온다(입꼬리는 움직이지 않는다).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 순옥: …기일이 언젠데. / 세라: 이번 토요일이요. / 내레이션: 이번 토요일에 순옥은 아침 여섯 시부터 밤 여섯 시까지 이 자리에 서 있을 예정이었다. 제사상을 받을 사람은 그날 남의 등 마흔 개를 밀 것이다. / SFX(아주 작게): 픽
+
+### 2-072 (800×640, 트랙 2 코미디 셀, 태그: 없음)
+
+```text
+Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-tone cel shading, high-saturation flat colors, simple speed lines or focus lines, slightly exaggerated expression (chibi-lite deformation allowed only for the face and hands), same character design and outfit colors as the main style, plain flat color background, no text.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-072 — 세로 웹툰 컷 800×640px. 샷: BS · 아이레벨 · 세라(좌), 순옥(우). 화면: 가로 2분할. 좌: 세라가 고개를 돌려 눈을 동그랗게 뜬다(물음표 효과선, 크림색 플랫 배경). 우: 순옥이 눈을 내린 채 무표정으로 짧게 답한다(입만 작게). 의상 색은 본편과 같다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 세라: 이모, 웃었어요? / 순옥: 때가 많이 나와서.
+
+### 2-073 (800×560, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나 세신실, 카메라 C1·C2·C3) · 조명: 천장 둥근 방습 등 5000K가 김에 확산되어 흐린 달처럼 헤일로, 위에서, 김 짙음 · 의상: 순옥 분홍 세신복 #E9A6B3(반팔·반바지)·망사 헤어캡·희끗한 단발 파마 #8E8A86·초록 이태리타월·오른손목 파스 / 세라 흰 목욕 수건(허리 아래 덮음)·젖은 포니테일 #1C1F26 / 유진(회상 인서트) 흰 수건·흑갈 웨이브 단발 #3A2A22 · 트랙: 1(2-072는 트랙2) · 노출 관리: 화면 앞 두꺼운 김 층, 엎드린 등과 어깨만, 허리 아래 수건, 반투명 유리 칸막이, 순옥의 손 클로즈업 중심, 관능 톤 없음 · 감정 목표: 얼굴이 안 보이는 고해와, 말 대신 손으로 듣는 어머니. 자기 기일 이야기에 새어 나오는 짧은 바람.
+
+컷 2-073 — 세로 웹툰 컷 800×560px. 샷: INS · 하이 · 순옥(중), 세라(하단). 화면: 순옥이 타월 쥔 손에 힘을 준다. 손등 힘줄과 손목 파스, 등 위 타월 아래로 굵은 압력선. 웃음 섞인 흔들림 효과선.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/sera_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 세라: 아야!
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#12 엇갈리는 두 등 (여탕 세신실 입구, 9월 9일 수 오전 11:38)
+
+### 2-074 (800×1000, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나, 욕장 유리 미닫이 앞, 카메라 C1 방향 반대) · 조명: 둥근 방습 등 5000K, 김에 확산, 미닫이 쪽은 탈의실 빛이 조금 더 밝음 · 의상: 세라 흰 목욕 수건(겨드랑이에서 허벅지까지 두름)·젖은 포니테일 #1C1F26 / 미란 흰 목욕 수건(같은 방식)·방수팩 휴대폰·와인브라운 웨이브를 집게로 올림 #4A2418 / 순옥 분홍 세신복 #E9A6B3 · 트랙: 1 · 노출 관리: 수건을 두른 상태로만, 김 층 전경 · 감정 목표: 서로 딱 그만큼만 아는 두 여자, 둘 다를 조금 더 알게 된 한 사람.
+
+컷 2-074 — 세로 웹툰 컷 800×1000px. 샷: MS · 아이레벨 · 세라(좌), 미란(우). 화면: 김 속. 수건을 두르고 나가는 세라와, 유리 미닫이를 열고 들어오는 미란이 마주친다. 두 사람 다 수건 위로 어깨와 쇄골만 보인다. 시각 캡션은 좌상 박스.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 열한 시 삼십팔 분. / 세라: 어, 사장님.
+
+### 2-075 (800×520, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나, 욕장 유리 미닫이 앞, 카메라 C1 방향 반대) · 조명: 둥근 방습 등 5000K, 김에 확산, 미닫이 쪽은 탈의실 빛이 조금 더 밝음 · 의상: 세라 흰 목욕 수건(겨드랑이에서 허벅지까지 두름)·젖은 포니테일 #1C1F26 / 미란 흰 목욕 수건(같은 방식)·방수팩 휴대폰·와인브라운 웨이브를 집게로 올림 #4A2418 / 순옥 분홍 세신복 #E9A6B3 · 트랙: 1 · 노출 관리: 수건을 두른 상태로만, 김 층 전경 · 감정 목표: 서로 딱 그만큼만 아는 두 여자, 둘 다를 조금 더 알게 된 한 사람.
+
+컷 2-075 — 세로 웹툰 컷 800×520px. 샷: BS · 아이레벨 · 미란(중). 화면: 미란이 반달 눈으로 웃으며 턱으로 세신대 쪽을 가리킨다. 방수팩 휴대폰을 쥔 손.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 쌤도 세신 받아?
+
+### 2-076 (800×640, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나, 욕장 유리 미닫이 앞, 카메라 C1 방향 반대) · 조명: 둥근 방습 등 5000K, 김에 확산, 미닫이 쪽은 탈의실 빛이 조금 더 밝음 · 의상: 세라 흰 목욕 수건(겨드랑이에서 허벅지까지 두름)·젖은 포니테일 #1C1F26 / 미란 흰 목욕 수건(같은 방식)·방수팩 휴대폰·와인브라운 웨이브를 집게로 올림 #4A2418 / 순옥 분홍 세신복 #E9A6B3 · 트랙: 1 · 노출 관리: 수건을 두른 상태로만, 김 층 전경 · 감정 목표: 서로 딱 그만큼만 아는 두 여자, 둘 다를 조금 더 알게 된 한 사람.
+
+컷 2-076 — 세로 웹툰 컷 800×640px. 샷: MS · 측면 · 세라(좌), 미란(우). 화면: 두 사람이 고개를 까딱하고 엇갈린다. 세라의 포니테일과 미란의 올린 머리가 김 속에서 반대 방향으로 멀어진다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 두 사람은 고개를 까딱하고 엇갈렸다. 와인바 사장과 필라테스 강사. 단지 안에서 서로 아는 건 딱 그만큼이었다.
+
+### 2-077 (800×1040, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Oh Se-ra, fictional adult character, not resembling any real person. A 28-year-old Korean woman, pilates instructor and former rhythmic gymnast, 168 cm. Toned athletic-curvy body: high, firm, rounded bust, defined abs, small waist, visible hip-bone lines, round firm glutes, strong outer thighs, straight legs, square shoulders with sharp shoulder blades. Two distinct Venus dimples on the lower back just above the waistband, her signature, visible in every back view. Heart-shaped face, bright round eyes, thick short straight brows, small slightly upturned nose with light freckles across the bridge, even full lips with only lip balm. Warm tan bronze skin (#D9A982). Black (#1C1F26) straight hair to mid-back tied in a high bouncy ponytail with loose baby hairs at the temples. Smartwatch on the left wrist, a hair tie, short clear nails, a small surgical scar on the inner left ankle. Habits: spine always upright, walks silently with the ponytail swinging, short laugh through the nose, stretches when annoyed.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(사우나, 욕장 유리 미닫이 앞, 카메라 C1 방향 반대) · 조명: 둥근 방습 등 5000K, 김에 확산, 미닫이 쪽은 탈의실 빛이 조금 더 밝음 · 의상: 세라 흰 목욕 수건(겨드랑이에서 허벅지까지 두름)·젖은 포니테일 #1C1F26 / 미란 흰 목욕 수건(같은 방식)·방수팩 휴대폰·와인브라운 웨이브를 집게로 올림 #4A2418 / 순옥 분홍 세신복 #E9A6B3 · 트랙: 1 · 노출 관리: 수건을 두른 상태로만, 김 층 전경 · 감정 목표: 서로 딱 그만큼만 아는 두 여자, 둘 다를 조금 더 알게 된 한 사람.
+
+컷 2-077 — 세로 웹툰 컷 800×1040px. 샷: MS · 뒷모습 · 순옥(중), 세라(좌·후경), 미란(우·후경). 화면: 세신 코너에 선 순옥의 등 너머로, 멀어지는 세라의 등과 다가오는 미란의 실루엣이 김 속에 좌우로 갈라져 있다. 순옥은 젖은 이태리타월을 쥔 채 두 쪽을 번갈아 본다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sera_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 순옥은 두 사람의 등을 다 알았다. 그리고 지금은 그보다 조금 더 알았다.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#13 같은 문장, 같은 순서 (여탕 세신실, 9월 9일 수 오전 11:40)
+
+### 2-078 (800×1240, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-078 — 세로 웹툰 컷 800×1240px. 샷: MS · 하이 · 미란(중), 순옥(우). 화면: 새 비닐을 갈자 김이 크게 일고, 미란이 웃으며 엎드린다. 곡선이 많은 등, 허리선 위 등 아래쪽에 카운터 모서리에 눌린 붉은 자국이 희미하다. 순옥의 타월이 그 자국을 피해 옆으로 돈다. 시각 캡션
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 열한 시 사십 분. / SFX(작게): 하하 / 미란: 이모, 나 남자 생겼다?
+
+### 2-079 (800×560, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-079 — 세로 웹툰 컷 800×560px. 샷: INS · 하이 · 순옥(중), 미란(하단). 화면: 미란의 견갑골 위에서 순옥의 손이 아주 조금 느려진다(같은 칸 안에서 손의 잔상 간격이 좁아진다).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 회장님 아들이야. 이 단지 지은 회사.
+
+### 2-080 (800×1120, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-080 — 세로 웹툰 컷 800×1120px. 샷: CU · 아이레벨 · 순옥(중). 화면: 김 속 순옥의 얼굴. 말끝을 흐리는 짧은 대답 뒤, 같은 문장이 들려오자 눈이 등에서 떨어지지 않은 채 고정된다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 순옥: …그래. / 미란: 너한테만 하는 얘긴데, 그러더라. 아버지랑 사이 안 좋대. / 내레이션: 사십 분 만에 같은 문장이었다. 순서도 같았다. 토씨 하나 다르지 않았다. / 내레이션: 아들은 어릴 때도 받아쓰기를 잘했다.
+
+### 2-081 (800×600, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-081 — 세로 웹툰 컷 800×600px. 샷: BS · 하이 · 미란(좌), 순옥(우). 화면: 가로 2분할. 좌: 팔에 턱을 괸 미란이 고개만 비스듬히 돌려 묻는다(순옥 얼굴은 보지 못한다). 우: 순옥이 시선을 내린 채 짧게 받는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 어머니는 고등학교 때 돌아가셨대. 짠하지, 이모? / 순옥: …짠하네.
+
+### 2-082 (800×720, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-082 — 세로 웹툰 컷 800×720px. 샷: CU · 하이 · 미란(중). 화면: 비닐에 뺨을 댄 미란의 옆얼굴, 반쯤 감긴 눈과 기대에 찬 입꼬리. 3년 전 다짐을 넘은 사람의 가벼운 목소리.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 우리 가게 리모델링도 자기가 해 준대. 아버지 회사 협력업체라 싸게. 나 그래서 3천 보냈잖아. 이모, 나 이번엔 잘 고른 것 같지?
+
+### 2-083 (800×1360, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-083 — 세로 웹툰 컷 800×1360px. 샷: MS · 하이 · 순옥(우), 미란(하단). 화면: 순옥이 대답 대신 바가지로 뜨거운 물을 떠 미란의 등에 붓는다. 김이 확 올라와 두 사람 사이를 하얗게 가리고, 화면 위쪽 절반이 김으로 찬다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: SFX(대형, 흰색): 촤아 / 내레이션: 어떤 대답은 김 속에서만 할 수 있었다. 순옥은 아무 말도 하지 않았다. 그것이 그녀의 대답이었다.
+
+### 2-084 (800×880, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-084 — 세로 웹툰 컷 800×880px. 샷: MS · 하이 · 미란(중), 순옥(우). 화면: 미란이 세신대 옆 선반으로 팔을 뻗어 방수팩에 든 휴대폰을 집고, 엄지로 몇 번 넘긴 뒤 화면을 순옥 쪽으로 돌린다. 미란은 엎드린 채 팔만 들어 올린다(수건 그대로).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 얼굴은 절대 못 찍게 해. 근데 손은 찍었지. / 미란: 손 예쁘지, 이모? 자기도 봐 봐.
+
+### 2-085 (800×760, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+PROP LOCK: two smartphones with no logos: the main phone in matte black (used only with the wife), the second phone in matte grey; any screen shows a fictional generic messenger or calendar UI made of color blocks only, no readable text
+
+PROP LOCK: gold-and-steel two-tone oyster-style luxury wristwatch without any logo on a man's left wrist; a 1.5cm faint pink crescent-shaped burn scar between the left thumb and index finger, always visible in the same frame as the watch
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-085 — 세로 웹툰 컷 800×760px. 샷: INS · POV(순옥) · 인물 없음. 화면: 방수팩의 물방울 너머 휴대폰 화면. 2-028과 같은 사진: 붉은 조명, 맨어깨, 그 위에 얹힌 남자의 손, 손목의 금빛 시계. 김이 화면 가장자리를 흐리게 덮는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved); refs/props/P3_*_v*.png (approved)
+- 레터링: 내레이션: 붉은 조명. 맨어깨. 그 위에 얹힌 남자의 손. 그리고 손목의 금빛 시계.
+
+### 2-086 (800×480, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-086 — 세로 웹툰 컷 800×480px. 샷: ECU · 아이레벨 · 순옥(중). 화면: 순옥의 눈. 작고 처진 눈의 동공에 붉은 화면이 비친다. 짙은 일자 눈썹은 움직이지 않는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 순옥은 그 시계를 알았다. 지하 1층 복도에서 1미터 거리로 엇갈릴 때마다, 휴대폰을 쥔 그 손목에서 번쩍이던 시계였다.
+
+### 2-087 (800×1200, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+PROP LOCK: gold-and-steel two-tone oyster-style luxury wristwatch without any logo on a man's left wrist; a 1.5cm faint pink crescent-shaped burn scar between the left thumb and index finger, always visible in the same frame as the watch
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2·C3) · 조명: 둥근 방습 등 5000K 위에서, 새 비닐을 갈자 김이 크게 일어나 빛이 둥글게 번짐, 바가지 물로 김이 '확' 폭발 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·와인브라운 웨이브 #4A2418을 올림·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 엎드린 등만(곡선은 허리선까지), 허리 아래 수건, 김 전경, 휴대폰 사진은 맨어깨와 손까지만, 순옥의 손·눈 클로즈업 중심 · 감정 목표: 사십 분 만의 반복이 '받아쓰기'로 들리고, 대답 대신 뜨거운 물. 사진 한 장으로 의심이 확신으로 닫힌다.
+
+컷 2-087 — 세로 웹툰 컷 800×1200px. 샷: INS · POV(순옥) · 인물 없음. 화면: 화면 확대. 시계 바로 아래, 엄지와 검지 사이의 작은 연분홍 초승달 흉터 하나만 크게 남고 주변은 붉게 흐려진다. 흉터 아래로 긴 여백.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
+- 레터링: 내레이션: 그리고 시계 아래, 엄지와 검지 사이의 작은 초승달 모양 흉터.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#14 찬물 대야 (회상, 동네 목욕탕 보일러실, 2001년 겨울 밤)
+
+### 2-088 (800×1080, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+장면(조명·의상 고정값): 장소 sets 범위 밖(7-1 참고, 7번 SET LOCK 미사용, 콘티 지정: 송원 '청수탕' 보일러실) · 조명: 보일러 화구의 주황 불빛 하나(약 1900K)가 아래에서, 끓는 주전자 김, 바깥은 겨울밤 어둠 · 의상: 순옥(36) 늘어난 면 티·몸빼 바지 #C9B79C·짙은 머리 / 도겸(7) 두꺼운 겨울 내복(콘티 지정) · 트랙: 1(회상 톤, 채도 낮추고 필름 그레인) · 감정 목표: 아이의 손을 끝까지 놓지 않았던 어머니의 손. 관능 요소 없음, 아이는 이 회상 씬에만 둔다.
+
+컷 2-088 — 세로 웹툰 컷 800×1080px. 샷: LS · 아이레벨 · 도겸(중). 화면: 보일러 화구의 주황 불빛, 그 위에서 끓는 주전자의 김. 일곱 살 도겸이 왼손을 감싸 쥐고 울며 주저앉는다(화상은 그리지 않고 감싼 손만).
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved)
+- 레터링: 내레이션: 일곱 살 겨울, 동네 목욕탕 보일러실에서 끓는 주전자를 잡았던 손이었다. / SFX(대형, 적색): 으아앙
+
+### 2-089 (800×880, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+장면(조명·의상 고정값): 장소 sets 범위 밖(7-1 참고, 7번 SET LOCK 미사용, 콘티 지정: 송원 '청수탕' 보일러실) · 조명: 보일러 화구의 주황 불빛 하나(약 1900K)가 아래에서, 끓는 주전자 김, 바깥은 겨울밤 어둠 · 의상: 순옥(36) 늘어난 면 티·몸빼 바지 #C9B79C·짙은 머리 / 도겸(7) 두꺼운 겨울 내복(콘티 지정) · 트랙: 1(회상 톤, 채도 낮추고 필름 그레인) · 감정 목표: 아이의 손을 끝까지 놓지 않았던 어머니의 손. 관능 요소 없음, 아이는 이 회상 씬에만 둔다.
+
+컷 2-089 — 세로 웹툰 컷 800×880px. 샷: MS · 하이 · 순옥(좌), 도겸(우). 화면: 젊은 순옥(36)이 무릎을 꿇고 아이의 손을 찬물 대야에 담근다. 같은 짙은 일자 눈썹, 덜 굽은 등. 아이는 얼굴을 찡그리고 울고, 순옥은 이를 악문 채 손목을 놓지 않는다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved)
+- 레터링: 내레이션: 순옥은 그 손을 찬물 대야에 한 시간 동안 담그고 있었다.
+
+### 2-090 (800×560, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+장면(조명·의상 고정값): 장소 sets 범위 밖(7-1 참고, 7번 SET LOCK 미사용, 콘티 지정: 송원 '청수탕' 보일러실) · 조명: 보일러 화구의 주황 불빛 하나(약 1900K)가 아래에서, 끓는 주전자 김, 바깥은 겨울밤 어둠 · 의상: 순옥(36) 늘어난 면 티·몸빼 바지 #C9B79C·짙은 머리 / 도겸(7) 두꺼운 겨울 내복(콘티 지정) · 트랙: 1(회상 톤, 채도 낮추고 필름 그레인) · 감정 목표: 아이의 손을 끝까지 놓지 않았던 어머니의 손. 관능 요소 없음, 아이는 이 회상 씬에만 둔다.
+
+컷 2-090 — 세로 웹툰 컷 800×560px. 샷: INS · 부감 · 순옥(중), 도겸(중). 화면: 물속. 굵은 어른 손이 작은 왼손을 감싸 쥐고 있고, 엄지와 검지 사이가 물 아래에서 흔들린다. 수면에 주황 불빛이 일렁인다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved)
+- 레터링: (무음)
+
+### 2-091 (800×1240, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Han Do-gyeom, fictional adult character, not resembling any real person. A 32-year-old Korean man, 182 cm, lean long-limbed build: broad straight shoulders, broad flat chest, waist clearly narrower than the shoulders, long hard forearms with visible veins and long calves; a night driver's body, not a gym body. Softly handsome long face with an angular jaw, thick straight dark eyebrows, warm long monolid eyes that hold eye contact, faint shadows under the eyes, a high straight nose, thin lips; when he smiles only the LEFT corner of the mouth lifts. Warm beige skin (#E8C29E). Short two-block undercut slicked back, jet black (#1C1F26), with one loose strand falling over the forehead. Signature, always together: a two-tone gold-and-steel wristwatch (no logo) on the LEFT wrist, and right below it a 1.5 cm pale-pink crescent burn scar on the web between the left thumb and index finger. Default look: white shirt (#F4F4F2), top two buttons open, sleeves rolled to the forearm. No rings. Relaxed, unhurried posture; leans back deep.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+장면(조명·의상 고정값): 장소 sets 범위 밖(7-1 참고, 7번 SET LOCK 미사용, 콘티 지정: 송원 '청수탕' 보일러실) · 조명: 보일러 화구의 주황 불빛 하나(약 1900K)가 아래에서, 끓는 주전자 김, 바깥은 겨울밤 어둠 · 의상: 순옥(36) 늘어난 면 티·몸빼 바지 #C9B79C·짙은 머리 / 도겸(7) 두꺼운 겨울 내복(콘티 지정) · 트랙: 1(회상 톤, 채도 낮추고 필름 그레인) · 감정 목표: 아이의 손을 끝까지 놓지 않았던 어머니의 손. 관능 요소 없음, 아이는 이 회상 씬에만 둔다.
+
+컷 2-091 — 세로 웹툰 컷 800×1240px. 샷: MS · 아이레벨 · 순옥(좌), 도겸(우). 화면: 시간 경과 디졸브(같은 구도의 겹침). 아이가 울다 지쳐 순옥의 무릎에 뺨을 대고 잠들었고, 순옥의 한 손은 아직 대야 속에서 아이의 손을 쥐고 있다. 보일러 불빛이 사그라져 있다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved)
+- 레터링: 내레이션: 아이가 울다 지쳐 잠들 때까지 놓지 않았다.
+
+
+## 2화. 영업 끝난 바, 마감 후 스튜디오 / S#15 처음으로 씻긴 손 (여탕 세신실, 9월 9일 수 오전 11:42)
+
+### 2-092 (800×640, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+PROP LOCK: a green Korean exfoliating scrub mitt (Italy towel); a white cotton handkerchief folded neatly four times
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2) · 조명: 둥근 방습 등 5000K 위에서, 김이 천천히 내려앉아 공기가 투명해짐 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 등 가운데의 손과 타월만, 미란은 등·뒷머리만 · 감정 목표: 모든 소리가 펌프 하나로 줄어드는 정지. 회차 끝 훅은 순옥의 움직이지 않는 얼굴.
+
+컷 2-092 — 세로 웹툰 컷 800×640px. 샷: INS · 하이 · 순옥(중), 미란(하단). 화면: 미란의 등 한가운데에서 멈춘 이태리타월. 순옥의 굵은 손등에 힘줄이 서 있고, 타월 아래 비닐 위 물방울만 움직인다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P10_*_v*.png (approved)
+- 레터링: 내레이션: 이태리타월이 미란의 등 한가운데에서 멈췄다.
+
+### 2-093 (800×1120, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2) · 조명: 둥근 방습 등 5000K 위에서, 김이 천천히 내려앉아 공기가 투명해짐 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 등 가운데의 손과 타월만, 미란은 등·뒷머리만 · 감정 목표: 모든 소리가 펌프 하나로 줄어드는 정지. 회차 끝 훅은 순옥의 움직이지 않는 얼굴.
+
+컷 2-093 — 세로 웹툰 컷 800×1120px. 샷: LS · 로우 · 순옥(우), 미란(중). 화면: 세신대 머리 쪽(C2) 로우 앵글. 김이 천천히 내려앉아 공기가 투명해지고, 서 있는 순옥과 엎드린 미란, 선반의 휴대폰이 선명해진다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 내레이션: 김이 천천히 내려앉았다. 펌프 소리만 계속 돌았다. / SFX(작게, 반복, 회색): 쿨렁… 쿨렁…
+
+### 2-094 (800×520, 트랙 1 본편, 태그: 없음)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Cha Mi-ran, fictional adult character, not resembling any real person. A 35-year-old Korean woman, wine bar owner, 165 cm, a slightly shorter 7.5-head figure. The most pronounced hourglass of the cast: large heavy bust, sharply cinched waist, wide flaring hips, full thighs, a back full of curves. Sharper oval face with soft cheekbones; heavy-lidded, half-closed sultry eyes with smoky eye makeup that curve into crescents only when she laughs out loud; thick bold arched brows; rounded nose; full lips in a long-lasting deep red lipstick. Warm skin (#F2CDB0) that glows under red light. Side-parted voluminous vintage waves, dark wine-brown (#4A2418), falling below the chest. Marks: a small beauty mark below the right corner of her mouth, a thin pale scar on the outer back of her right hand, wine-colored nails (#5A1A26), thin gold hoop earrings. Habits: swirls a wine glass with a loose flexible wrist, throws her head back to laugh, smiles back over her shoulder, sways her hips when she walks in heels.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2) · 조명: 둥근 방습 등 5000K 위에서, 김이 천천히 내려앉아 공기가 투명해짐 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 등 가운데의 손과 타월만, 미란은 등·뒷머리만 · 감정 목표: 모든 소리가 펌프 하나로 줄어드는 정지. 회차 끝 훅은 순옥의 움직이지 않는 얼굴.
+
+컷 2-094 — 세로 웹툰 컷 800×520px. 샷: BS · 하이 · 미란(중). 화면: 엎드린 채 팔에 뺨을 대고 있던 미란이 고개를 반쯤 든다. 순옥의 얼굴은 프레임 밖이다.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다
+- 레퍼런스: refs/characters/miran_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대)
+- 레터링: 미란: 이모?
+
+### 2-095 (800×1800, 트랙 1 본편, 태그: intimate)
+
+```text
+Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
+
+Park Sun-ok, fictional adult character, not resembling any real person. A 61-year-old Korean woman, a bathhouse body-scrub attendant for forty years, 155 cm, a compact 6.5-head build, shorter and sturdier than the rest of the cast. Solid working body: broad shoulders, thick forearms, thick calves, a slightly stooped back, plain unglamorous figure. Round face with cheeks flushed by steam and sun; THICK STRAIGHT dark eyebrows, the same family brows as her son; small droopy eyes; a wide nose; thin lips always pressed shut. Weathered warm skin (#E3B48E) with a reddish steam flush, lined by age and labor. Short graying permed bob (#8E8A86), under a mesh hair cap at work. Signature: thick, firm, warm hands with big knuckles, scrub-mitt calluses on the palms, very short water-softened nails, a pain-relief patch on the right wrist. Habits: silent, eyes lowered to towels, backs and hands; folds a towel in half and in half again with all four corners matching. Never sensual, always dignified.
+
+The scrub corner of a women's bathhouse in the basement sauna of a new Korean apartment complex community center. Wet pale aqua-white tiles on walls and floor, thick white steam hanging everywhere, round ceiling lights glowing like blurred moons through the steam, no windows. Two scrub tables covered with clear plastic sheets, plastic basins and dippers stacked on a wall shelf, a bar of mugwort soap, folded white towels. Right beside the scrub corner, a hot bath with a tiled rim to sit on and water circulating from a spout; a row of low seated shower stations along the far wall, a frosted glass half partition.
+
+PROP LOCK: a green Korean exfoliating scrub mitt (Italy towel); a white cotton handkerchief folded neatly four times
+
+장면(조명·의상 고정값): 장소 7(세신실, 카메라 C2) · 조명: 둥근 방습 등 5000K 위에서, 김이 천천히 내려앉아 공기가 투명해짐 · 의상: 순옥 분홍 세신복 #E9A6B3·망사 헤어캡·초록 이태리타월 / 미란 흰 목욕 수건(허리 아래 덮음)·방수팩 휴대폰 · 트랙: 1 · 노출 관리: 등 가운데의 손과 타월만, 미란은 등·뒷머리만 · 감정 목표: 모든 소리가 펌프 하나로 줄어드는 정지. 회차 끝 훅은 순옥의 움직이지 않는 얼굴.
+
+컷 2-095 — 세로 웹툰 컷 800×1800px. 샷: CU · 아이레벨 · 순옥(중). 화면: 회차 끝 훅. 김이 걷힌 투명한 공기 속 순옥의 얼굴이 정면으로 움직이지 않는다. 짙은 일자 눈썹, 다문 입술, 젖은 볼, 눈은 아무 데도 보지 않는다. 화면 아래로 이태리타월을 감은 손이 등 위에 멈춘 채 걸리고.
+
+no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, fictional adult characters only.
+```
+
+- 수위·금지: 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품) / 실제 브랜드 로고·엠블럼, 실제 화폐 도안, 법원·경찰·교도소 휘장 금지(로고 없는 시계, 퀼팅 체인 백, 도안 없는 소품용 지폐) / 이미지 안에 말풍선·글자·간판 문구를 넣지 않는다(레터링은 후공정) / 미성년으로 보이는 표현 금지 — 하린(25)은 성인 체형·성숙한 표정 / 아이(지호 5세, 소이 7세)는 관능 장면과 같은 컷·공간에 두지 않는다 / 허용: 몸 라인이 드러나는 의상, 속옷·슬립, 옷이 벗겨지는 과정, 드러난 등·어깨·쇄골·허리·허벅지, 시트로 가린 나신, 역광 실루엣, 손과 입술, 땀과 숨 / 금지: 성기, 유두 노출, 삽입·성행위의 직접 묘사, 체액 / 생성기가 거절하면 가림 소품(시트·커튼·와인잔·셔츠 자락) → 실루엣 → 손·입술·사물 인서트 순서로 바꾼다
+- 레퍼런스: refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P10_*_v*.png (approved)
+- 레터링: 내레이션: 순옥은 그 손을 알았다. 서른두 해 전, 처음으로 씻긴 손이었다.
+

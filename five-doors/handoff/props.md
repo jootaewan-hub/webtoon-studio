@@ -78,6 +78,7 @@ Prop design sheet for a Korean adult webtoon, semi-realistic glossy digital pain
 - **화면 그리기 규칙**
   - 앱 화면은 실제 앱 UI를 베끼지 않는다. 노란 말풍선 메신저 '느낌'의 가상 UI로 그린다.
   - 글자는 Codex가 나중에 얹는다.
+- **PROP LOCK**: `two smartphones with no logos: the main phone in matte black (used only with the wife), the second phone in matte grey; any screen shows a fictional generic messenger or calendar UI made of color blocks only, no readable text`  *(G12 인계 때 고정값에서 한 줄로 정리)*
 ```text
 [공통 시작 문구] Two smartphones side by side, one matte black, one matte grey, no logos. Screens show: (1) a generic messenger profile screen with four alternate profile photos (wine glass, gym dumbbells, stack of books, golf course) — fictional UI, no readable text; (2) a calendar month view with days color-blocked in grey, burgundy, mint, sky blue and gold. Leave text areas blank.
 ```
@@ -88,6 +89,7 @@ Prop design sheet for a Korean adult webtoon, semi-realistic glossy digital pain
   - 6화: 긴 진주 드롭 귀걸이.
   - 오른쪽 귓불에 피어싱 구멍이 두 개 있다.
   - 1·4화에는 왼쪽부터 빼고, 6화에는 처음으로 오른쪽부터 뺀다.
+- **PROP LOCK**: `Yujin's pearl earrings: small white pearl studs by default; long white pearl drop earrings in episode 6; two piercing holes on her right earlobe`  *(G12 인계 때 고정값에서 한 줄로 정리)*
 ```text
 [공통 시작 문구] Sheet: (1) small pearl stud earrings, (2) long pearl drop earrings, (3) close-up of a woman's slender pale hand with short nude almond nails removing a pearl earring, soft side light.
 ```
@@ -95,6 +97,7 @@ Prop design sheet for a Korean adult webtoon, semi-realistic glossy digital pain
 ## P7. 퀼팅 체인 백(짝퉁) — 세라
 - **역할**: 2화에 그가 선물한다. 5화에 혜숙이 박음질을 보고 짝퉁이라고 판정한다.
 - **고정값**: 블랙 퀼팅 램스킨풍 숄더백, 금색 체인. 로고는 없다. 박음질 간격이 고르지 않다(판정 포인트).
+- **PROP LOCK**: `black quilted lambskin-style shoulder bag with a gold chain strap, no logo, the quilting stitches slightly uneven`  *(G12 인계 때 고정값에서 한 줄로 정리)*
 ```text
 [공통 시작 문구] Black quilted shoulder bag with gold chain strap, no logo; detail close-up showing slightly uneven, irregular stitching along the quilting and a woman's red-nailed fingertip tracing the stitches.
 ```
@@ -107,6 +110,7 @@ Prop design sheet for a Korean adult webtoon, semi-realistic glossy digital pain
   - 보리차 = 하늘색(하린)
   - 카스텔라 = 금색(혜숙)
 - **그리기 규칙**: 화면은 색 블록만 그리고 글자는 비워 둔다(레터링 단계에서 얹는다).
+- **PROP LOCK**: `a generic spreadsheet weekly grid on a screen, cells color-blocked in grey #9A9EA3, burgundy #7A1E2E, mint #7FD1BE, sky blue #9CC7E8 and gold #C9A45C, small snack icons, no readable text`  *(G12 인계 때 고정값에서 한 줄로 정리)*
 ```text
 [공통 시작 문구] A laptop screen showing a generic spreadsheet weekly grid, cells color-blocked in grey, burgundy, mint, sky blue and gold, cute snack icons (milk carton, grape juice box, banana milk, barley tea cup, castella cake slice) in some cells, no readable text, on a kitchen island at night.
 ```
@@ -117,6 +121,7 @@ Prop design sheet for a Korean adult webtoon, semi-realistic glossy digital pain
   - 손목의 검정 머리끈.
   - 두꺼운 법전(포스트잇과 형광펜 자국).
   - 커터칼(6화 쇼핑백 개봉).
+- **PROP LOCK**: `thin gold oval metal-frame glasses; a black hair tie on the wrist; a thick law code book with colorful sticky tabs and highlighter marks`  *(G12 인계 때 고정값에서 한 줄로 정리)*
 ```text
 [공통 시작 문구] Sheet: (1) thin gold oval metal-frame glasses, (2) a black hair tie on a slender pale wrist, (3) a thick law code book with colorful sticky tabs and highlighter marks under a desk lamp at 2 a.m., (4) a yellow box cutter.
 ```
@@ -125,6 +130,7 @@ Prop design sheet for a Korean adult webtoon, semi-realistic glossy digital pain
 - **고정값**
   - 초록 이태리타월.
   - 6화 법정에 남는 것: 반듯하게 네 번 접은 흰 면 손수건* 한 장이 빈 의자 위에 놓인다.
+- **PROP LOCK**: `a green Korean exfoliating scrub mitt (Italy towel); a white cotton handkerchief folded neatly four times`  *(G12 인계 때 고정값에서 한 줄로 정리)*
 ```text
 [공통 시작 문구] Sheet: (1) a green Korean exfoliating scrub mitt on a wet tiled bench with a plastic bowl, (2) a neatly folded white cotton handkerchief left alone on an empty wooden courtroom bench seat, cool window light.
 ```

@@ -43,17 +43,31 @@ Codex는 그림 자체를 판단하지 않는다. 다음 일을 맡는다.
 - 다섯 여자가 함께 나오는 컷은 대표 색(회색·버건디·민트·하늘색·금색)이 각각 보이는지 확인한다.
 - 수위 규칙 위반이 의심되면 `rejected`로 두고 이유를 남긴다. 직접 고치거나 피해 가는 프롬프트를 만들지 않는다. 가림 장치 대안만 제안한다.
 
-## 컷 단계 (콘티가 추가된 뒤)
-1. 콘티 표(`| 컷 | 크기 | 샷·앵글·인물 | 화면·연출 | 대사·내레이션·SFX |`)를 파싱한다.
-2. 컷마다 위 규칙으로 프롬프트를 조립해 `prompts/ep<회차>.jsonl`로 낸다. 필드는 `cut`, `size`, `track`, `prompt`, `refs`(업로드할 레퍼런스 파일 목록)다.
-3. 사람이나 ChatGPT가 이미지를 생성하면 `renders/`에 규칙대로 저장하고 매니페스트를 갱신한다.
-4. 레터링
-   - 대사는 Gowun Dodum, 내레이션은 Gowun Batang 박스에 얹는다.
-   - 효과음은 본편이면 East Sea Dokdo, 코미디면 Black Han Sans, 손글씨는 Nanum Pen Script를 쓴다.
-   - 말풍선 꼬리는 화자 입을 향하고, 한 컷에 말풍선은 2개를 넘기지 않는다.
+## 컷 단계 (콘티·프롬프트 완료 — 2026-10-07)
+1. 컷 프롬프트는 이미 조립되어 있다: `prompts/ep<회차>.jsonl`(1화 파일에 표지 0-001~0-003 포함).
+   - 한 줄이 컷 하나다. 필드는 다음과 같다.
+     - `cut`, `size`(예 `800x1200`), `track`(1·2·3), `chapter`, `scene`, `flags`(`intimate`·`child_present`·`violence`)
+     - `characters`(id), `sets`(S01~S10·SA·SB·SC), `props`(P1~P10)
+     - `prompt`(그대로 생성기에 넣는 문자열), `safety`(금지·수위 규칙)
+     - `refs`(첨부할 확정 레퍼런스 경로 패턴), `lettering`(레터링 줄)
+   - 사람이 읽는 같은 내용이 `prompts/ep<회차>_prompts.md`에 있다.
+   - LOCK이나 콘티를 고쳤으면 원본 저장소에서 다시 만든다. `five-doors/storyboard`에서 `build_kit_data.py` → `kit.py import --replace`를 돌리고, 이어서 `five-doors/tools/build_handoff.py`를 돌린다. 직접 고치지 않는다.
+2. `refs` 패턴에 맞는 `approved` 레퍼런스를 매니페스트에서 찾아 생성 요청에 첨부한다. 없으면 그 컷은 `todo`로 둔다.
+3. 생성 결과는 `renders/ep<회차>/<컷번호>_v<N>.png`로 저장하고, 매니페스트 해당 줄(`kind=cut`)의 status를 갱신한다.
+4. 레터링: `storyboard/cuts.json`의 `lines`를 쓴다. 줄 종류(`type`)는 dialogue·narration·thought·whisper·sfx·caption이다.
+   - 대사는 Gowun Dodum, 내레이션은 Gowun Batang 박스에 넣는다.
+   - 효과음은 본편이면 East Sea Dokdo, [트랙2] 컷이면 Black Han Sans, 손글씨는 Nanum Pen Script다.
+   - 크기·색은 SFX 괄호값을 따른다(`story/sfx_list.md`, `story/direction.md` 5절).
+   - 화자 표기에 따라 말풍선이 정해진다.
+     - `(전화)`: 톱니 풍선
+     - `(V.O.)`: 점선 풍선
+     - `문자(…)`: 가상 UI 말풍선
+     - `다섯:`: 풍선 하나에 꼬리 다섯, 꼬리 끝에 대표 색 점
+   - 말풍선 위치는 콘티 화면 칸의 지시(좌상·우하 등)를 따르고, 한 컷에 대사 풍선은 2개까지만 둔다.
 5. 조립
-   - 회차별 세로 스크롤 이미지: 폭 800px, 컷 사이 여백은 기본 40px, 장면 전환 120px, 반전 직전 240px.
-   - 쇼츠용 9:16 컷 묶음.
+   - 회차별 세로 스크롤 이미지: 폭 800px. 컷 사이 여백은 기본 40px, 장면 전환 120px, 반전 직전·충격 직후 240px, 회차 끝 360px.
+   - 쇼츠용 9:16 컷 묶음은 원본 저장소 킷 `five-doors/storyboard/outputs/shorts`의 대본과 `shorts_ffmpeg/` 스크립트를 쓴다.
+6. 애니·모션코믹: `anim/storyboard_anim.md`(샷 번호 `<회차>S<씬>-<번호>`, 24fps)와 `anim/sound_cues.md`(타임코드)를 기준으로 한다.
 
 ## 금지
 - 실제 브랜드 로고, 실제 화폐 도안의 정밀 재현, 실존 인물과 닮은 얼굴.

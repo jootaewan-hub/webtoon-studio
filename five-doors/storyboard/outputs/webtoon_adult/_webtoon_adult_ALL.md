@@ -1070,7 +1070,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 **레터링(후공정)**
   - [narration] 내레이션: 밤 열 시 반, 침실의 불은 꺼져 있었고 통창이 조명을 대신했다.
   - [narration] 내레이션: 에어컨은 꺼져 있었고, 방 안에는 샤워 직후의 습기와 재스민 향 바디오일 냄새가 남아 있었다. 아이가 외가에 간 집은 이상할 만큼 조용했다. 냉장고 모터 소리까지 들렸다.
-  - [sfx] SFX(아주 작게, 회색): 우웅—
+  - [sfx] SFX(아주 작게, 회색): 웅웅—
 
 **금지·수위**
 - 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품)
@@ -1676,7 +1676,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 
 **레터링(후공정)**
   - [narration] 내레이션: 그리고 정적이 왔다.
-  - [sfx] SFX(작게, 회색): 우웅—
+  - [sfx] SFX(작게, 회색): 웅웅—
   - [sfx] SFX(작게): 징— 징—
   - [narration] 내레이션: 세컨폰이었다.
 
@@ -7403,7 +7403,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(작게): 지잉
+  - [sfx] SFX(작게): 징—
   - [dialogue] 문자(도겸→하린): 자기 운동 잘했어? 오늘은 일찍 자.
 
 **금지·수위**
@@ -7896,7 +7896,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 
 **레터링(후공정)**
   - [sfx] SFX: 솨아—
-  - [sfx] SFX(작게): 지잉
+  - [sfx] SFX(작게): 징—
 
 **금지·수위**
 - 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품)
@@ -9093,7 +9093,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 
 **레터링(후공정)**
   - [dialogue] 미란: 그 사람이 나한테 그랬거든. 너한테만…
-  - [sfx] SFX(작게): 드르르
+  - [sfx] SFX(작게): 징—
 
 **금지·수위**
 - 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품)
@@ -9211,7 +9211,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
   - [narration] 내레이션: 밤 열한 시 십 분, 101동 3801호의 불은 다 꺼져 있었다.
   - [narration] 내레이션: 식탁 위에는 따라 놓고 마시지 않은 와인 한 잔이 있었다.
   - [sfx] SFX(작게, 회색): 쌕… 쌕
-  - [sfx] SFX: 삐리릭
+  - [sfx] SFX: 삐, 삐, 삐, 삐
   - [narration] 내레이션: 회색 병의 냄새가 먼저 들어왔다. 오늘은 틀리지 않았다.
 
 **금지·수위**
@@ -10096,7 +10096,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 
 **레터링(후공정)**
   - [narration] 내레이션: 밤 여덟 시, 412동 502호 현관 앞 복도에는 센서등이 켜졌다 꺼지기를 반복했다.
-  - [sfx] SFX(작게, 회색): 우우웅— 덜덜덜
+  - [sfx] SFX(작게, 회색): 덜컹덜컹
   - [narration] 내레이션: 문이 열리자 책상 스탠드 불빛과 식은 커피 냄새가 새어 나왔다.
 
 **금지·수위**
@@ -12197,7 +12197,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 
 **레터링(후공정)**
   - [narration] 내레이션: 연휴에도 문을 연 건 미란의 고집이었다. 영업이 끝난 와인바에는 붉은 펜던트 조명 세 개만 켜져 있었다.
-  - [sfx] SFX(작게, 회색): 우웅—
+  - [sfx] SFX(작게, 회색): 웅웅—
   - [narration] 내레이션: 와인 셀러의 컴프레서가 낮게 떨었고, 오크통 냄새와 식은 치즈 냄새가 공기 아래쪽에 고여 있었다.
 
 **금지·수위**
@@ -12341,7 +12341,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 **레터링(후공정)**
   - [dialogue] 미란: 그럼 영수증 보여 줘.
   - [dialogue] 도겸: 다음 주에.
-  - [sfx] SFX(중간, 적색): 하하하
+  - [sfx] SFX(중간, 버건디): 하하하
 
 **금지·수위**
 - 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품)
@@ -12647,7 +12647,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 
 **레터링(후공정)**
   - [narration] 내레이션: 그다음은 조용했다.
-  - [sfx] SFX(작게, 회색): 우웅—
+  - [sfx] SFX(작게, 회색): 웅웅—
   - [dialogue] 도겸: 자기, 오늘 왜 이렇게 다정해?
   - [narration] 내레이션: 남자 거짓말은 와인이랑 같았다. 열어 봐야 알았다. 그녀는 이미 코르크를 따 놓았다.
 
@@ -14162,7 +14162,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 
 **레터링(후공정)**
   - [narration] 내레이션: 18시 30분. 세컨폰이 네 번 연달아 떨었다. 반 박자 늦게 메인폰이 한 번 떨었다.
-  - [sfx] SFX(작게): 지잉, 지잉, 지잉, 지잉… 지잉
+  - [sfx] SFX(작게): 징—, 징—, 징—, 징—… 징—
   - [dialogue] 문자(유진→도겸): 여보, 오늘 제 생일이에요. 일곱 시까지 집으로 와요. 지호는 외갓집에 보냈어요.
 
 **금지·수위**
@@ -14536,7 +14536,7 @@ Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-t
 
 **레터링(후공정)**
   - [sfx] SFX(대형): 쾅
-  - [sfx] SFX: 다다다닥
+  - [sfx] SFX: 타다다닥
 
 **금지·수위**
 - 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품)
@@ -15028,7 +15028,7 @@ Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-t
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(작게): 탁
+  - [sfx] SFX(작게): 철컥
 
 **금지·수위**
 - 모든 얼굴은 창작된 성인 — 실존 인물·유명인과 닮게 만들지 않는다(실화 모티프 작품)
@@ -15232,7 +15232,7 @@ Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush grad
 
 **레터링(후공정)**
   - [narration] 내레이션: 손에 쥔 휴대폰 두 대가 동시에 떨었다. 다섯 번.
-  - [sfx] SFX(작게): 지잉 지잉 지잉 지잉 지잉
+  - [sfx] SFX(작게): 징— 징— 징— 징— 징—
   - [narration] 내레이션: 다섯 개의 말풍선에 같은 문장이 적혀 있었다.
   - [dialogue] 문자(다섯→도겸): 와인바 '미란'으로 와. 일곱 시 반.
 
