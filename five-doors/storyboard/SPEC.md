@@ -7,7 +7,7 @@
 - `handoff/sets.md`: 장소. 평면 배치, 회차·시각별 조명, 카메라 자리, 수위 장치.
 - `handoff/props.md`: 소품 고정값.
 - `handoff/style_lock.md`: 트랙 1·2·3, 레터링 폰트, 수위 규칙.
-- `/home/claude/webtoon-adaptation-kit/references/storyboard_spec.md`: 킷 형식의 원본 규격. 아래와 다르면 **이 문서가 우선**이다.
+- `../.claude/skills/webtoon-adaptation-kit/references/storyboard_spec.md`(저장소 루트 기준 `.claude/skills/webtoon-adaptation-kit/references/storyboard_spec.md`): 킷 형식의 원본 규격. 아래와 다르면 **이 문서가 우선**이다.
 
 ## 목표
 웹소설에 삽화를 붙인 느낌이 나지 않게, 실제 웹툰처럼 동작·감정·시선 단위로 쪼갠다.
