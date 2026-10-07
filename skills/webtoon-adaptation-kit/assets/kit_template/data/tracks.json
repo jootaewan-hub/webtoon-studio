@@ -1,0 +1,39 @@
+{
+  "tracks": {
+    "webtoon_real": {
+      "title": "실사 웹툰 이미지",
+      "brief": "사진처럼 사실적인 시네마틱 스틸로 각 컷을 만든다. 얼굴은 모두 창작된 가상 인물이어야 하며, 같은 인물은 캐릭터 시트의 외형 고정값으로 컷마다 일관되게 유지한다.",
+      "style": "Photorealistic cinematic still, 35mm film look, 1990s Korea, natural skin texture, consistent fictional characters (not resembling any real person), Korean webtoon vertical panel composition"
+    },
+    "webtoon_adult": {
+      "title": "성인 웹툰 이미지 (19세 드라마)",
+      "brief": "19세 이용가 드라마 톤. 감각적인 조명, 밀착된 구도, 시선과 손 연기로 긴장감을 높인다. 수위 상한은 콘티와 같다: 정사 장면은 실루엣·역광·신체 일부 클로즈업·소품으로만 암시하고, 노출과 행위의 직접 묘사는 하지 않는다.",
+      "style": "Mature romance-thriller webtoon, sensual moody lighting, intimate framing implied through silhouettes, hands, rings and props, fictional adult characters only"
+    },
+    "shorts": {
+      "title": "쇼츠 (9:16 세로 영상)",
+      "brief": "장별로 1편씩, 편당 60초 안팎. 컷 이미지를 9:16으로 재프레이밍해 켄번스·줌·흔들림으로 움직이고, 내레이션은 VO, 대사는 자막으로 넣는다. 첫 2초에 훅(가장 강한 대사나 효과음 컷)을 배치한다."
+    },
+    "anim": {
+      "title": "애니메이션 샷 리스트",
+      "brief": "24fps 기준 샷 리스트. 컷당 샷 길이·카메라·레이어 구성·립싱크 대사를 제공한다. 2D 리미티드 애니메이션(배경 고정 + 인물/FX 레이어) 기준."
+    }
+  },
+  "global_negative": [
+    "실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)",
+    "실제 병원·방송사·브랜드 로고 금지",
+    "미성년자로 보이는 인물 금지",
+    "이미지 안에 말풍선·글자 넣지 말 것 (레터링은 후공정)"
+  ],
+  "intimate_rule": [
+    "노출 없음: 실루엣·역광·손·반지·흘러내린 옷·소품으로만 암시",
+    "성기·가슴 노출, 성행위의 직접 묘사 금지"
+  ],
+  "violence_rule": [
+    "타격 순간은 집중선·실루엣·효과음으로만 처리",
+    "상처·출혈·두개골 손상 묘사 금지"
+  ],
+  "self_harm_rule": [
+    "투신 순간 묘사 금지: 남겨진 구두·유서와 이후 헤엄치는 장면으로만 연결"
+  ]
+}

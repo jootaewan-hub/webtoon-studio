@@ -1,0 +1,5 @@
+file,kind,subject,variant,track,prompt_ref,tool,status,approved_by,notes
+refs/characters/yujin_turnaround_v1.png,character,yujin,turnaround,1,characters/yujin.md#턴어라운드,ChatGPT,todo,,
+refs/characters/yujin_expressions_v1.png,character,yujin,expressions,1,characters/yujin.md#표정,ChatGPT,todo,,
+refs/props/P2_shoppingbag_v1.png,prop,P2,sheet,1,props.md#P2,ChatGPT,todo,,
+refs/sets/S01_penthouse_night_v1.png,set,S01,night,1,sets.md#1,ChatGPT,todo,,

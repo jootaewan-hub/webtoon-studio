@@ -1,0 +1,197 @@
+[
+ {
+  "id": "mujin",
+  "name": "무진",
+  "age": "30대 초반",
+  "adult": true,
+  "height": "175cm",
+  "build": "slim",
+  "head_ratio": 7,
+  "hair": "side",
+  "hair_color": "#1C1F26",
+  "skin": "#F2D2B6",
+  "face": "갸름한 얼굴, 가는 눈, 둥근 금속테 안경(렌즈 반사광), 긴 손가락",
+  "accessories": [
+   "glasses"
+  ],
+  "outfits": [
+   {
+    "label": "수술복",
+    "color": "#6DB6A8"
+   },
+   {
+    "label": "갈색 점퍼",
+    "color": "#7A5A3C"
+   },
+   {
+    "label": "수의 4519",
+    "color": "#8E9AAA"
+   },
+   {
+    "label": "흰 가운",
+    "color": "#F4F4F2"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "입꼬리만 웃음",
+   "당황",
+   "분노",
+   "식은땀",
+   "공허"
+  ],
+  "acting": "감정은 안경 반사광과 입꼬리로만. 큰 표정 금지(데포르메 리액션 컷 제외)",
+  "variants": [
+   {
+    "label": "A 마른 안경 범생",
+    "build": "slim",
+    "hair": "side"
+   },
+   {
+    "label": "B 단단한 올백",
+    "build": "average",
+    "hair": "slick"
+   }
+  ]
+ },
+ {
+  "id": "seohee",
+  "name": "서희",
+  "age": "20대 후반",
+  "adult": true,
+  "height": "165cm",
+  "build": "curvy",
+  "head_ratio": 7.5,
+  "hair": "pony",
+  "hair_color": "#4A2E22",
+  "skin": "#F5D5BE",
+  "face": "살짝 처진 눈매, 긴 속눈썹, 도톰한 입술에 은은한 붉은 립스틱, 왼손 결혼반지",
+  "accessories": [
+   "cap"
+  ],
+  "outfits": [
+   {
+    "label": "1990년대 간호사복",
+    "color": "#FFFFFF",
+    "bottom": "skirt"
+   },
+   {
+    "label": "사복 원피스",
+    "color": "#8C2F3C"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "곁눈 미소",
+   "당황",
+   "분노",
+   "식은땀",
+   "슬픔"
+  ],
+  "acting": "매력은 노출이 아니라 실루엣·자세·시선. 일할 땐 완벽한 무표정",
+  "legwear": "#F4F4F2"
+ },
+ {
+  "id": "jeongman",
+  "name": "정만",
+  "age": "30대 중반",
+  "adult": true,
+  "height": "172cm",
+  "build": "stocky",
+  "head_ratio": 6.5,
+  "hair": "buzz",
+  "hair_color": "#2B2F3A",
+  "skin": "#E8C29E",
+  "face": "순한 눈매, 목격 후 그늘진 얼굴, 수술 후 오른쪽 귀 위 수술 자국",
+  "accessories": [
+   "scar_r"
+  ],
+  "outfits": [
+   {
+    "label": "회청색 셔츠",
+    "color": "#5E7F99"
+   },
+   {
+    "label": "환자복",
+    "color": "#B9C7D6"
+   }
+  ],
+  "expressions": [
+   "웃음",
+   "당황",
+   "공허",
+   "분노",
+   "슬픔",
+   "겁"
+  ],
+  "acting": "선량함이 먼저 보여야 비극이 산다"
+ },
+ {
+  "id": "newnurse",
+  "name": "신입 간호사",
+  "age": "20대 초반(신규 1년 차)",
+  "adult": true,
+  "height": "158cm",
+  "build": "petite",
+  "head_ratio": 6.5,
+  "hair": "bob",
+  "hair_color": "#3A2A20",
+  "skin": "#F7DCC8",
+  "face": "동그란 눈, 웃을 때 보조개, 볼 홍조, 귀에 꽂은 볼펜",
+  "accessories": [
+   "cap"
+  ],
+  "outfits": [
+   {
+    "label": "간호사복",
+    "color": "#FFFFFF",
+    "bottom": "skirt"
+   }
+  ],
+  "expressions": [
+   "발랄",
+   "웃음",
+   "놀람",
+   "식은땀",
+   "울먹",
+   "단호"
+  ],
+  "acting": "큰 리액션, 해맑음. 코믹 톤, 성적 연출 없음",
+  "legwear": "#F4F4F2"
+ },
+ {
+  "id": "bang",
+  "name": "방주먹",
+  "age": "40대",
+  "adult": true,
+  "height": "178cm",
+  "build": "stocky",
+  "head_ratio": 7,
+  "hair": "slick",
+  "hair_color": "#1C1F26",
+  "skin": "#E3B48E",
+  "face": "웃을 때 눈이 반짝, 굵은 목",
+  "accessories": [
+   "chain",
+   "shades"
+  ],
+  "outfits": [
+   {
+    "label": "검은 정장",
+    "color": "#23262D"
+   },
+   {
+    "label": "수의 7703",
+    "color": "#8E9AAA"
+   }
+  ],
+  "expressions": [
+   "웃음",
+   "무표정",
+   "분노",
+   "입꼬리",
+   "놀람",
+   "단호"
+  ]
+ }
+]

@@ -1,0 +1,329 @@
+[
+ {
+  "id": "dogyeom",
+  "name": "한도겸",
+  "age": "32세",
+  "adult": true,
+  "height": "182cm",
+  "build": "average",
+  "head_ratio": 8,
+  "hair": "slick",
+  "hair_color": "#1C1F26",
+  "skin": "#E8C29E",
+  "face": "미남형, 이마에 흘러내린 머리 한 가닥, 눈을 오래 맞추는 긴 눈, 왼쪽 입꼬리 웃음, 소매 걷은 팔뚝에 시계와 화상 흉터",
+  "accessories": [
+   "watch"
+  ],
+  "outfits": [
+   {
+    "label": "단추 두 개 푼 흰 셔츠 + 차콜 슬랙스",
+    "color": "#F4F4F2",
+    "pants": "#2B2F3A"
+   },
+   {
+    "label": "흰 셔츠 + 네이비 재킷(6화)",
+    "color": "#1F2C46",
+    "pants": "#2B2F3A"
+   },
+   {
+    "label": "형광 연두 대리운전 조끼",
+    "color": "#C8E62E",
+    "pants": "#2B2F3A"
+   },
+   {
+    "label": "연한 수용복(법정)",
+    "color": "#BFC8C2",
+    "pants": "#BFC8C2"
+   }
+  ],
+  "expressions": [
+   "입꼬리만 웃음",
+   "무표정",
+   "곁눈 미소",
+   "당황",
+   "식은땀",
+   "공허"
+  ],
+  "acting": "여자 앞에서는 눈을 오래 맞추고 상대의 속도를 그대로 따라감. 혼자일 때는 무표정하게 휴대폰만 넘김. 거짓말할 때 귓불, 긴장하면 셔츠 단추를 채웠다 다시 풂, 이기고 있다고 믿을 때 휘파람"
+ },
+ {
+  "id": "yujin",
+  "name": "서유진",
+  "age": "33세",
+  "adult": true,
+  "height": "172cm",
+  "build": "curvy",
+  "head_ratio": 8,
+  "hair": "bob",
+  "hair_color": "#3A2A22",
+  "skin": "#F5D5BE",
+  "face": "부드러운 계란형, 나른하게 처진 눈매(눈은 웃지 않음), 도톰한 뮤트 로즈레드 입술, 옆으로 넘긴 앞머리 웨이브 단발",
+  "accessories": [
+   "earring"
+  ],
+  "legwear": "#F5D5BE",
+  "outfits": [
+   {
+    "label": "하이웨이스트 와이드 슬랙스 + 크롭 니트(3화)",
+    "color": "#BFC1C4",
+    "pants": "#EAE3D6"
+   },
+   {
+    "label": "검은 실크 슬립(1화 밤)",
+    "color": "#141416",
+    "bottom": "skirt"
+   },
+   {
+    "label": "은회색 실크 드레스(6화)",
+    "color": "#C9CCD1",
+    "bottom": "long_skirt"
+   },
+   {
+    "label": "회색 실크 슬립 드레스(5화)",
+    "color": "#A7A9AC",
+    "bottom": "skirt"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "미소(눈은 안 웃음)",
+   "단호",
+   "곁눈 미소",
+   "슬픔",
+   "환한 웃음"
+  ],
+  "acting": "승무원 자세(등 펴고 턱 당김), 화날수록 공손해짐, 결정적 순간 귀걸이를 뺌(1·4화 왼→오, 6화 오→왼), 손이 떨리지 않음"
+ },
+ {
+  "id": "miran",
+  "name": "차미란",
+  "age": "35세",
+  "adult": true,
+  "height": "165cm",
+  "build": "curvy",
+  "head_ratio": 7.5,
+  "hair": "long",
+  "hair_color": "#4A2418",
+  "skin": "#F2CDB0",
+  "face": "날카로운 계란형, 스모키 아이, 반쯤 감긴 나른한 눈(크게 웃을 때 반달), 옆가르마 빈티지 웨이브",
+  "accessories": [
+   "earring"
+  ],
+  "legwear": "#F2CDB0",
+  "outfits": [
+   {
+    "label": "검은 오프숄더 + 버건디 슬릿 롱스커트 + 앞치마(2화)",
+    "color": "#6E1A2A",
+    "bottom": "long_skirt"
+   },
+   {
+    "label": "흰 오프숄더 + 검정 슬릿 롱스커트(3화 놀이터)",
+    "color": "#F5F1EA",
+    "bottom": "long_skirt"
+   },
+   {
+    "label": "버건디 저지 랩 원피스(5화)",
+    "color": "#741C2C",
+    "bottom": "skirt"
+   },
+   {
+    "label": "버건디 벨벳 슬립 드레스(6화)",
+    "color": "#5E1324",
+    "bottom": "skirt"
+   }
+  ],
+  "expressions": [
+   "웃음",
+   "곁눈 미소",
+   "당황",
+   "분노",
+   "슬픔",
+   "단호"
+  ],
+  "acting": "손목으로 잔을 돌리고 생각할 땐 멈춤, 고개를 젖히고 웃음, 손바닥으로 카운터를 치며 박자를 셈, 카운터에 가볍게 걸터앉음"
+ },
+ {
+  "id": "sera",
+  "name": "오세라",
+  "age": "28세",
+  "adult": true,
+  "height": "168cm",
+  "build": "curvy",
+  "head_ratio": 8,
+  "hair": "pony",
+  "hair_color": "#1C1F26",
+  "skin": "#D9A982",
+  "face": "하트형 얼굴, 밝고 동그란 눈, 옅은 주근깨, 잔머리 하이 포니테일",
+  "accessories": [
+   "smartwatch"
+  ],
+  "outfits": [
+   {
+    "label": "검정 레깅스 + 크롭 브라톱(2화)",
+    "color": "#2A2C30",
+    "pants": "#1B1C1F"
+   },
+   {
+    "label": "민트 크롭 브라톱 + 하이웨이스트 레깅스(5화)",
+    "color": "#8FD8C4",
+    "pants": "#1B1C1F"
+   },
+   {
+    "label": "민트 컷아웃 바디콘 드레스(6화)",
+    "color": "#76CDB8",
+    "bottom": "skirt"
+   },
+   {
+    "label": "회색 크롭 브라톱 + 레깅스(4화)",
+    "color": "#8D9096",
+    "pants": "#1B1C1F"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "단호",
+   "분노",
+   "곁눈 미소",
+   "놀람",
+   "웃음"
+  ],
+  "acting": "자세가 늘 바르고 화나면 스트레칭(옆구리·목·일자 다리·종아리), '호흡, 호흡', 숫자를 세며 주도, 상체를 숙여 냄새를 맡음"
+ },
+ {
+  "id": "harin",
+  "name": "윤하린",
+  "age": "25세(로스쿨생)",
+  "adult": true,
+  "height": "163cm",
+  "build": "slim",
+  "head_ratio": 7.5,
+  "hair": "long",
+  "hair_color": "#1C1F26",
+  "skin": "#F7DCC8",
+  "face": "갸름한 계란형, 나른한 눈, 얇은 금테 타원 안경, 평소 하프업",
+  "accessories": [
+   "glasses"
+  ],
+  "legwear": "#F7DCC8",
+  "outfits": [
+   {
+    "label": "하늘색 슬리브리스 니트 + 니트 미니스커트(5화)",
+    "color": "#A9CBE6",
+    "bottom": "skirt"
+   },
+   {
+    "label": "그의 흰 셔츠 한 장(3화)",
+    "color": "#F4F4F2",
+    "bottom": "skirt"
+   },
+   {
+    "label": "슬리브리스 골지 니트 + 트레이닝 반바지(3화)",
+    "color": "#DCCFB8",
+    "pants": "#8A8F98"
+   },
+   {
+    "label": "하늘색 홀터넥 니트 미니 드레스(6화)",
+    "color": "#9EC8EA",
+    "bottom": "skirt"
+   }
+  ],
+  "expressions": [
+   "당황",
+   "식은땀",
+   "울먹",
+   "단호",
+   "곁눈 미소",
+   "웃음"
+  ],
+  "acting": "이미 올라간 안경을 또 밀어 올림, 당황하면 말이 빨라짐, 결심하면 손목 머리끈으로 머리를 높이 묶음, 화나면 조문을 또박또박 읽음"
+ },
+ {
+  "id": "hyesuk",
+  "name": "정혜숙",
+  "age": "42세",
+  "adult": true,
+  "height": "166cm",
+  "build": "curvy",
+  "head_ratio": 7.5,
+  "hair": "slick",
+  "hair_color": "#2B1D16",
+  "skin": "#F0CDB4",
+  "face": "둥글고 부드러운 얼굴, 웃음 주름, 날개형 아이라인, 낮은 시뇽에 흘러내린 몇 가닥",
+  "accessories": [
+   "chain",
+   "earring"
+  ],
+  "legwear": "#E8C8B0",
+  "outfits": [
+   {
+    "label": "아이보리 실크 블라우스 + 검정 펜슬스커트(1화)",
+    "color": "#EFE6D2",
+    "bottom": "skirt"
+   },
+   {
+    "label": "네이비 저지 원피스(2·4화)",
+    "color": "#1F2A44",
+    "bottom": "skirt"
+   },
+   {
+    "label": "와인색 저지 원피스(5화)",
+    "color": "#6B2236",
+    "bottom": "skirt"
+   },
+   {
+    "label": "금색 시퀸 오프숄더 원피스(6화)",
+    "color": "#CFA950",
+    "bottom": "skirt"
+   }
+  ],
+  "expressions": [
+   "곁눈 미소",
+   "손으로 가린 미소",
+   "무표정",
+   "단호",
+   "당황",
+   "슬픔"
+  ],
+  "acting": "웃을 때 손으로 입을 가림, 화날수록 목소리가 낮아짐, 목걸이를 만짐, 손가락 하나로 액자를 엎는 지시하는 손, 걸터앉아 턱을 듦"
+ },
+ {
+  "id": "sunok",
+  "name": "박순옥",
+  "age": "61세",
+  "adult": true,
+  "height": "155cm",
+  "build": "stocky",
+  "head_ratio": 6.5,
+  "hair": "bob",
+  "hair_color": "#8E8A86",
+  "skin": "#E3B48E",
+  "face": "둥근 얼굴, 짙은 일자 눈썹(아들·지호와 같음), 작고 처진 눈, 늘 다문 얇은 입술. 두껍고 단단한 따뜻한 손, 굵은 손마디, 희끗한 단발 파마",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "분홍 세신복",
+    "color": "#E9A6B3",
+    "pants": "#E9A6B3"
+   },
+   {
+    "label": "법정 외출복(회색 패딩 점퍼)",
+    "color": "#6E6F73",
+    "pants": "#2B2F3A"
+   },
+   {
+    "label": "회상 2001 목욕탕 작업복(36세)",
+    "color": "#C9B79C",
+    "pants": "#5B4A6B"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "공허",
+   "슬픔",
+   "단호",
+   "놀람",
+   "웃음"
+  ],
+  "acting": "말이 없음, 수건을 반으로 다시 반으로 접어 네 모서리를 맞춤, 대답 대신 바가지로 뜨거운 물을 부음, 며느리 등을 밀 때만 손에서 힘을 뺌"
+ }
+]

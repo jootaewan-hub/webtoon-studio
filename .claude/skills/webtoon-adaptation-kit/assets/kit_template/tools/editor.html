@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>웹툰 킷 편집기</title>
+<style>
+:root{--bg:#F1F2F4;--panel:#fff;--text:#1C1F26;--muted:#5D6470;--line:#D3D7DD;--acc:#2F6FDE;--warn:#C93A46}
+@media (prefers-color-scheme: dark){:root{--bg:#14171C;--panel:#1E2228;--text:#E8EAEE;--muted:#9AA1AC;--line:#343A44;--acc:#6F9BFF}}
+*{box-sizing:border-box}body{margin:0;font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',sans-serif;background:var(--bg);color:var(--text)}
+header{position:sticky;top:0;z-index:5;display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px 14px;background:var(--panel);border-bottom:1px solid var(--line)}
+header h1{font-size:16px;margin:0 12px 0 0}
+button,select,input[type=file]{font:inherit;font-size:13px;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--text);cursor:pointer}
+button.pri{background:var(--acc);color:#fff;border-color:var(--acc)}
+.app{display:grid;grid-template-columns:300px 1fr;height:calc(100vh - 54px)}
+@media (max-width:820px){.app{grid-template-columns:1fr;height:auto}.list{max-height:40vh}}
+.list{overflow:auto;border-right:1px solid var(--line);background:var(--panel)}
+.item{display:grid;grid-template-columns:54px 1fr;gap:8px;padding:8px 10px;border-bottom:1px solid var(--line);cursor:pointer}
+.item.on{background:color-mix(in srgb,var(--acc) 14%,transparent)}
+.item img{width:54px;height:54px;object-fit:cover;border:1px solid var(--line);border-radius:4px;background:#fff}
+.item b{font-size:13px}.item span{display:block;font-size:12px;color:var(--muted);line-height:1.35;max-height:2.7em;overflow:hidden}
+.tag{display:inline-block;font-size:10px;padding:1px 5px;border-radius:3px;background:var(--warn);color:#fff;margin-left:4px}
+.main{overflow:auto;padding:16px}
+.row{display:grid;grid-template-columns:minmax(220px,340px) 1fr;gap:16px}
+@media (max-width:1100px){.row{grid-template-columns:1fr}}
+.imgs{display:flex;flex-direction:column;gap:10px}
+.imgs figure{margin:0;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:6px}
+.imgs img{width:100%;display:block;background:#fff}
+.imgs figcaption{font-size:12px;color:var(--muted);margin-top:4px}
+label{display:block;font-size:12px;color:var(--muted);margin:12px 0 4px}
+textarea,input[type=text],input[type=number]{width:100%;font:inherit;font-size:14px;padding:8px;border:1px solid var(--line);border-radius:6px;background:var(--panel);color:var(--text)}
+textarea{min-height:90px;line-height:1.5}
+.flags label{display:inline-flex;gap:4px;align-items:center;margin-right:12px;color:var(--text);font-size:13px}
+pre{white-space:pre-wrap;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:10px;font-size:12px;line-height:1.5;max-height:340px;overflow:auto}
+.hint{font-size:12px;color:var(--muted)}
+#toast{position:fixed;right:16px;bottom:16px;background:#1C1F26;color:#fff;padding:8px 12px;border-radius:6px;font-size:13px;opacity:0;transition:opacity .2s}
+</style>
+</head>
+<body>
+<header>
+<h1>웹툰 킷 편집기</h1>
+<select id="chap"></select>
+<select id="track"></select>
+<button id="copy" class="pri">이 컷 프롬프트 복사</button>
+<button id="dlTrack">트랙 전체 프롬프트(.md)</button>
+<button id="dlJson">cuts.json 내려받기</button>
+<label style="margin:0" class="hint">불러오기 <input type="file" id="load" accept=".json"></label>
+</header>
+<div class="app"><nav class="list" id="list"></nav><main class="main" id="main"><p class="hint">왼쪽에서 컷을 고르세요.</p></main></div>
+<div id="toast"></div>
+<script>
+const KIT=/*__KIT_DATA__*/null;
+const LS='webtoonkit.cuts.v1';
+let D=KIT||{cuts:[],characters:[],style:{},tracks:{tracks:{},global_negative:[],intimate_rule:[],violence_rule:[],self_harm_rule:[]}};
+try{const s=localStorage.getItem(LS);if(s){const saved=JSON.parse(s);const m=Object.fromEntries(saved.map(c=>[c.id,c]));D.cuts=D.cuts.map(c=>m[c.id]?{...c,...m[c.id]}:c)}}catch(e){}
+let sel=null;
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const toast=t=>{const e=$('#toast');e.textContent=t;e.style.opacity=1;setTimeout(()=>e.style.opacity=0,1600)};
+const persist=()=>{try{localStorage.setItem(LS,JSON.stringify(D.cuts))}catch(e){}};
+const linesToText=ls=>(ls||[]).map(l=>[l.type,l.speaker,l.text].join(' | ')).join('\n');
+const textToLines=t=>t.split('\n').map(s=>s.trim()).filter(Boolean).map(s=>{const p=s.split('|').map(x=>x.trim());return p.length>=3?{type:p[0],speaker:p[1],text:p.slice(2).join(' | ')}:{type:'dialogue',speaker:'',text:s}});
+const dur=c=>{const n=(c.lines||[]).reduce((a,l)=>a+l.text.length,0);return Math.round(Math.min(8,Math.max(1.5,1.2+n*0.075+(c.height||800)/1600))*10)/10};
+const SC={ECU:'slow push-in (macro)',CU:'slow push-in',INS:'insert hold, rack focus',BS:'static hold, subtle parallax',MS:'static hold, subtle parallax',FS:'slow pan',LS:'slow tilt down',ELS:'slow tilt down',TXT:'hold, text fade'};
+const camera=c=>{const t=c.screen||'';if(t.includes('집중선'))return'snap zoom + shake 4f';if(t.includes('분할'))return'cut sequence (split)';const m=(c.shot||'').match(/^\s*(ECU|CU|BS|MS|FS|LS|ELS|INS|TXT)\b/);if(m)return SC[m[1]];if(t.includes('클로즈업'))return'slow push-in';if(t.includes('집중선'))return'snap zoom + shake 4f';if(t.includes('원경')||(c.height||0)>=1100)return'slow tilt down';if(t.includes('분할'))return'cut sequence (split)';return'static hold, subtle parallax'};
+function who(c){const txt=(c.screen||c.summary||'')+JSON.stringify(c.lines||[]);return D.characters.filter(h=>txt.includes(h.name)||(h.aliases||[]).some(a=>txt.includes(a))).map(h=>`- ${h.name}: ${h.look}`).join('\n')}
+function neg(c){const T=D.tracks;let r=[...(T.global_negative||[])];const f=c.flags||[];if(f.includes('intimate'))r=r.concat(T.intimate_rule||[]);if(f.includes('violence'))r=r.concat(T.violence_rule||[]);if(f.includes('self_harm_theme'))r=r.concat(T.self_harm_rule||[]);return r.map(x=>'- '+x).join('\n')}
+function prompt(tr,c){
+  const t=(D.tracks.tracks||{})[tr]||{};const L=(c.lines||[]).map(l=>`  - [${l.type}] ${l.speaker?l.speaker+': ':''}${l.text}`).join('\n');
+  const scr=c.screen||c.summary||'';const note=(c.notes||{})[tr]?`\n- 추가 지시: ${c.notes[tr]}`:'';
+  const head=`## ${c.id} (${c.chapter||''}${c.scene?' / '+c.scene:''})\n`+(c.shot?`- 샷·앵글·인물: ${c.shot}\n`:'');
+  if(tr==='webtoon_real'||tr==='webtoon_adult')return head+`**이미지 프롬프트**\n${t.style||''}\n- 캔버스: ${c.width||800}×${c.height||800} (세로 스크롤 컷)\n- 시대·장소: ${D.style.era||''}\n- 화면·연출: ${scr}\n- 등장인물(외형 고정값):\n${who(c)||'- (인물 없음 또는 실루엣)'}\n- 조명·색: ${D.style.palette_hint||''}\n- 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)${note}\n\n**레터링(후공정)**\n${L||'  - (없음)'}\n\n**금지·수위**\n${neg(c)}\n`;
+  if(tr==='shorts')return head+`- 길이: ${dur(c)}초 / 9:16 (1080×1920)\n- 카메라: ${camera(c)}\n- 화면: ${scr}${note}\n- 자막·VO:\n${L||'  - (무음)'}\n- 금지·수위:\n${neg(c)}\n`;
+  return head+`- 샷 길이: ${dur(c)}초 @24fps (${Math.round(dur(c)*24)}프레임)\n- 카메라: ${camera(c)}\n- 레이어: BG / 인물 / FX / 레터링\n- 연기·화면: ${scr}${note}\n- 대사(립싱크·VO):\n${L||'  - (없음)'}\n- 인물 시트:\n${who(c)||'- (없음)'}\n- 금지·수위:\n${neg(c)}\n`;
+}
+function initSelects(){
+  const ch=[...new Set(D.cuts.map(c=>c.chapter))];$('#chap').innerHTML='<option value="">전체 장 ('+D.cuts.length+'컷)</option>'+ch.map(c=>`<option>${esc(c)}</option>`).join('');
+  const tr=Object.entries((D.tracks||{}).tracks||{});$('#track').innerHTML=tr.map(([k,v])=>`<option value="${k}">${esc(v.title)}</option>`).join('')||'<option value="webtoon_real">실사 웹툰</option>';
+}
+function renderList(){
+  const f=$('#chap').value;
+  $('#list').innerHTML=D.cuts.filter(c=>!f||c.chapter===f).map(c=>`<div class="item${sel===c.id?' on':''}" data-id="${c.id}"><img src="../${esc(c.thumb)}" alt="" loading="lazy" onerror="this.style.visibility='hidden'"><div><b>${c.id}</b>${(c.flags||[]).includes('intimate')?'<i class="tag">19</i>':''}${(c.flags||[]).includes('violence')?'<i class="tag">폭력</i>':''}<span>${esc((c.shot?c.shot.split('·')[0].trim()+' · ':'')+(c.summary||c.screen))}</span></div></div>`).join('');
+}
+function renderMain(){
+  const c=D.cuts.find(x=>x.id===sel);if(!c)return;const tr=$('#track').value;
+  const renders=Object.keys((D.tracks||{}).tracks||{}).map(k=>`<figure><img src="../renders/${k}/${c.id}.png" alt="" onerror="this.parentElement.style.display='none'"><figcaption>${esc(D.tracks.tracks[k].title)} 결과 · renders/${k}/${c.id}.png</figcaption></figure>`).join('');
+  $('#main').innerHTML=`<h2 style="margin:0 0 4px">${c.id} <small class="hint">${esc(c.chapter)} · ${c.width}×${c.height}</small></h2>
+  <div class="row"><div class="imgs"><figure><img src="../${esc(c.thumb)}" alt="${esc(c.summary)}"><figcaption>콘티 썸네일 · ${esc(c.thumb)} (같은 이름의 파일로 교체하면 반영)</figcaption></figure>${renders}</div>
+  <div>
+  <label>장면</label><input type="text" id="f-scene" value="${esc(c.scene||'')}">
+  <label>샷 · 앵글 · 인물(위치)  — 예: BS · 오버숄더(정만 너머) · 인턴(중), 정만(좌·전경)</label><input type="text" id="f-shot" value="${esc(c.shot||'')}">
+  <label>한 줄 요약</label><input type="text" id="f-summary" value="${esc(c.summary)}">
+  <label>세로 높이(px, 폭 800 기준)</label><input type="number" id="f-height" value="${c.height}">
+  <label>화면·연출</label><textarea id="f-screen" rows="5">${esc(c.screen)}</textarea>
+  <label>대사·내레이션·SFX — 한 줄에 하나, "종류 | 화자 | 내용" (종류: dialogue, narration, sfx, thought, whisper, caption)</label><textarea id="f-lines" rows="6">${esc(linesToText(c.lines))}</textarea>
+  <div class="flags"><label>수위 태그</label>${['intimate','violence','self_harm_theme'].map(f=>`<label><input type="checkbox" data-flag="${f}" ${(c.flags||[]).includes(f)?'checked':''}>${f}</label>`).join('')}</div>
+  <label>이 트랙 전용 추가 지시 (${esc(((D.tracks.tracks||{})[tr]||{}).title||tr)})</label><textarea id="f-note" rows="3">${esc((c.notes||{})[tr]||'')}</textarea>
+  <label>미리보기 — 현재 트랙 프롬프트</label><pre id="pv"></pre>
+  </div></div>`;
+  const upd=()=>{c.scene=$('#f-scene').value;c.shot=$('#f-shot').value;c.summary=$('#f-summary').value;c.height=+$('#f-height').value||c.height;c.screen=$('#f-screen').value;c.lines=textToLines($('#f-lines').value);c.flags=[...document.querySelectorAll('[data-flag]:checked')].map(e=>e.dataset.flag);c.notes=c.notes||{};c.notes[tr]=$('#f-note').value;$('#pv').textContent=prompt(tr,c);persist();renderList()};
+  $('#main').querySelectorAll('input,textarea').forEach(e=>e.addEventListener('input',upd));$('#main').querySelectorAll('[data-flag]').forEach(e=>e.addEventListener('change',upd));
+  $('#pv').textContent=prompt(tr,c);
+}
+function download(name,text,type){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([text],{type}));a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),2000)}
+$('#list').addEventListener('click',e=>{const it=e.target.closest('.item');if(!it)return;sel=it.dataset.id;renderList();renderMain()});
+$('#chap').addEventListener('change',renderList);$('#track').addEventListener('change',renderMain);
+$('#copy').addEventListener('click',async()=>{const c=D.cuts.find(x=>x.id===sel);if(!c)return toast('컷을 먼저 고르세요');try{await navigator.clipboard.writeText(prompt($('#track').value,c));toast('복사했습니다')}catch(e){toast('복사 실패: 미리보기에서 직접 복사하세요')}});
+$('#dlTrack').addEventListener('click',()=>{const tr=$('#track').value;const t=((D.tracks.tracks||{})[tr]||{});download(`${tr}_ALL.md`,`# ${t.title||tr}\n\n${t.brief||''}\n\n`+D.cuts.map(c=>prompt(tr,c)).join('\n'),'text/markdown')});
+$('#dlJson').addEventListener('click',()=>download('cuts.json',JSON.stringify(D.cuts,null,2),'application/json'));
+$('#load').addEventListener('change',async e=>{const f=e.target.files[0];if(!f)return;try{const j=JSON.parse(await f.text());if(Array.isArray(j))D.cuts=j;else D={...D,...j};persist();initSelects();renderList();toast('불러왔습니다')}catch(err){toast('JSON을 읽지 못했습니다')}});
+initSelects();renderList();
+if(!D.cuts.length)$('#main').innerHTML='<p class="hint">데이터가 없습니다. 킷 폴더에서 <code>python kit.py editor</code>를 실행해 tools/editor_ready.html을 여시거나, 위의 “불러오기”로 data/cuts.json을 여세요.</p>';
+</script>
+</body>
+</html>
