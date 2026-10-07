@@ -19,7 +19,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 OUT = ROOT / "outputs"
-ID_RE = re.compile(r"^(?:\d-\d{2,3}|E-\d{2,3})$")
+ID_RE = re.compile(r"^(?:\d{1,3}-\d{2,3}|E-\d{2,3})$")
+LOOSE_ID_RE = re.compile(r"^[0-9A-Za-z]{1,4}-[0-9A-Za-z]{1,5}$")  # 컷 번호처럼 보이지만 형식이 어긋난 행을 경고하는 데 쓴다
+
+
+def cut_order(k):
+    """컷 번호 정렬 키: 0(표지) → 1, 2, … 10, 11 … → E(에필로그). 장·컷 모두 숫자로 비교한다."""
+    ch, _, n = k.partition("-")
+    rank = 10 ** 6 if ch == "E" else int(ch)
+    return (rank, int(n) if n.isdigit() else 0, k)
 
 # 강한 단서: 장면 전체로 전파 / 약한 단서: 해당 컷에만
 INTIMATE_STRONG = ["키스", "정사", "맨어깨", "맨살", "맨등", "몸을 섞", "허리를 감", "잇자국", "쇄골", "목덜미", "밀어붙", "가운 깃", "초록 유도등"]
@@ -100,6 +108,8 @@ def parse_storyboard(md):
             continue
         cells = [c.strip() for c in s.strip("|").split("|")]
         if len(cells) < 4 or not ID_RE.match(cells[0]):
+            if LOOSE_ID_RE.match(cells[0]):
+                print(f"[경고] 컷 번호 형식이 맞지 않아 건너뜀: {cells[0]} ({chapter})")
             continue
         if len(cells) >= 5:
             cid, size, shot, screen, lines = cells[0], cells[1], cells[2], cells[3], " | ".join(cells[4:])
@@ -163,8 +173,7 @@ def cmd_import(a):
         print(f"소설: {len(ch)}개 장 가져옴")
     elif a.novel:
         print(f"[경고] 소설 파일 없음: {a.novel}")
-    order = lambda k: (0 if k.startswith("0") else 9 if k.startswith("E") else int(k[0]), k)
-    save("cuts.json", [cuts[k] for k in sorted(cuts, key=order)])
+    save("cuts.json", [cuts[k] for k in sorted(cuts, key=cut_order)])
 
 
 # ---------- validate ----------
@@ -323,7 +332,8 @@ def cmd_editor(a):
 
 def cmd_merge(a):
     new = json.loads(Path(a.file).read_text(encoding="utf-8"))
-    new = new.get("cuts", new)
+    if isinstance(new, dict):  # 편집기는 배열을 내려받는다. {"cuts": [...]} 형식도 받는다.
+        new = new.get("cuts", [])
     cur = {c["id"]: c for c in load("cuts.json", [])}
     for c in new:
         cur[c["id"]] = {**cur.get(c["id"], {}), **c}
