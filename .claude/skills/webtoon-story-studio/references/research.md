@@ -17,6 +17,7 @@
 | 넓고 깊은 주제 조사 (여러 하위 질문) | deep-research 스킬, exa:exa-agent, brightdata live-research | 서브에이전트에 질문을 나눠 WebSearch |
 | 의학·과학 사실 (질환·수술·약물·응급 처치) | PubMed, Consensus, Clinical Trials | WebSearch(학회·정부 기관 사이트 우선) |
 | 법률·제도 (형량, 면허 취소·재교부, 재판 절차) | WebSearch(법령정보센터·법원·언론), WebFetch | 확인 안 되면 '미확인' 표기 |
+| 날짜·요일·명절 | 코드로 계산(파이썬 datetime) + 명절은 공식 달력(정부 공휴일 발표) | 계산 결과를 연표에 적고 확인 날짜를 남김 |
 | 지역 말투·사투리 | WebSearch(방언 사전·언론 기사) | 원문 표기를 그대로 살림 |
 | 시각 고증 (건물·소품·복식·차량) | 이미지 검색 도구, Adobe Stock 검색(asset_search) | WebSearch 결과의 사진 페이지 링크 |
 | 장르 관습·연출 레퍼런스 | WebSearch(작법서·인터뷰·평론) | 내부 지식, 단 출처 없음을 표시 |

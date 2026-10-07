@@ -3,11 +3,12 @@
 컷마다 '프롬프트' 상자 안을 **그대로** 복사해 ChatGPT 이미지 생성에 붙인다. 상자 아래 '레퍼런스'의 확정 이미지를 함께 첨부한다.
 상자는 `style_lock.md` 트랙 문구 → CHARACTER LOCK → SET LOCK → (소품 클로즈업이면) PROP LOCK → 장면 조명·의상 → 컷 지시 → 금지 문구 순서로 조립했다(AGENTS.md).
 말풍선·효과음·내레이션은 그림에 넣지 않는다. 아래 '레터링'은 Codex가 나중에 얹는다.
+도구 경로: A = 범용 생성기(ChatGPT 등), B = 성인 콘텐츠를 이용약관상 허용하는 도구 또는 사람 작가(이 회차 B 21컷). 생성기가 콘티와 다르게 바꾸면 그대로 쓰지 말고 무엇을 바꿨는지 기록한 뒤, 가림 장치로 다시 만들지 B로 보낼지 정한다(README 4절).
 
 
 ## 표지 / S#0 표지 (레이크시티 더퍼스트, 9월 1일 화 새벽)
 
-### 0-001 (800×1800, 트랙 1 본편, 태그: 없음)
+### 0-001 (800×1800, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -25,7 +26,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 제목: 단톡방에 그 남자가 있다 / 고지문: 실화를 모티프로 했으며, 인물·지명·회사는 모두 지어낸 것이다.
 
-### 0-002 (800×1400, 트랙 1 본편, 태그: 없음)
+### 0-002 (800×1400, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -43,7 +44,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: (무음)
 
-### 0-003 (800×1000, 트랙 1 본편, 태그: 없음)
+### 0-003 (800×1000, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -68,7 +69,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#1 관리란 결국 (지하 2층 주차장 B구역, 9월 1일 화 새벽 5:10)
 
-### 1-001 (800×1400, 트랙 1 본편, 태그: 없음)
+### 1-001 (800×1400, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -88,7 +89,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 새벽 다섯 시 십 분, 지하 2층 B구역에는 형광등이 반만 켜져 있었다. / SFX(작게, 회색): 웅웅—
 
-### 1-002 (800×760, 트랙 1 본편, 태그: intimate)
+### 1-002 (800×760, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -108,7 +109,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 오늘 밤 네 콜, 십일만 사천 원.
 
-### 1-003 (800×1040, 트랙 1 본편, 태그: 없음)
+### 1-003 (800×1040, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -128,7 +129,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: SFX(작게): 덜컥 / 내레이션: 렌치 대신 향수병 다섯 개가 누워 있었다. 회색 뚜껑, 버건디, 민트, 하늘색, 금색. / 내레이션: 캘린더 색과 같았다.
 
-### 1-004 (800×1400, 트랙 1 본편, 태그: 없음)
+### 1-004 (800×1400, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -148,7 +149,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved)
 - 레터링: 내레이션: 오늘, 9월 1일 화요일은 하루 종일 회색이었다. 밤 10시 30분 칸에는 '집'이라고만 적혀 있었다. / 내레이션: 내일 오후 두 시는 금색. 금요일 새벽 한 시는 버건디. 다음 주 화요일 밤은 민트. 그 사이사이에 하늘색이 별처럼 박혀 있었다. / 내레이션: 메인폰에는 회색만 있었다. 메인폰은 아내 전용이었고, 아내가 아는 세상은 회색 한 가지였다.
 
-### 1-005 (800×1000, 트랙 1 본편, 태그: intimate)
+### 1-005 (800×1000, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -168,7 +169,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대)
 - 레터링: SFX(작게): 칙, 칙 / 내레이션: 정품보다 조금 가벼웠지만, 무게를 재 보는 사람은 없었다.
 
-### 1-006 (800×800, 트랙 1 본편, 태그: intimate)
+### 1-006 (800×800, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -191,7 +192,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#2 회색 비단 (101동 3801호 현관·안방, 9월 1일 화 새벽 5:40)
 
-### 1-007 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-007 (800×1400, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -209,7 +210,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 38층의 새벽은 푸른색이었다. / SFX(작게, 청회색): 스으— 스으—
 
-### 1-008 (800×1040, 트랙 1 본편, 태그: intimate)
+### 1-008 (800×1040, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -229,7 +230,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 현관에는 아내가 고른 화이트머스크 디퓨저 냄새가 고여 있었다. 도겸은 그 냄새 속으로 회색 향수를 끌고 들어갔다. 둘은 잘 섞였다. 그래서 고른 향이었다. / 내레이션: 그는 지하 2층에서 곧장 101동 엘리베이터를 탔다. 1층 로비는 거치지 않았다.
 
-### 1-009 (800×1240, 트랙 1 본편, 태그: intimate)
+### 1-009 (800×1240, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -249,7 +250,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 6년을 봐 온 등이었다. / 내레이션: 그 6년 동안 그 등이 그를 향해 돌아누운 적은 없는 것 같았다.
 
-### 1-010 (800×640, 트랙 1 본편, 태그: intimate)
+### 1-010 (800×640, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -271,7 +272,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 유진: 다녀오셨어요. / 내레이션: 존댓말이었다. 아내는 화가 날수록 공손해졌다.
 
-### 1-011 (800×1000, 트랙 1 본편, 태그: intimate)
+### 1-011 (800×1000, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -296,7 +297,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#3 석 달만 (101동 3801호 거실·부엌과 아일랜드 식탁, 9월 1일 화 아침 7:00)
 
-### 1-012 (800×1280, 트랙 1 본편, 태그: child_present)
+### 1-012 (800×1280, 트랙 1 본편, 경로 A, 태그: child_present)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -316,7 +317,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: SFX(대형): 쾅! / 지호: 아빠다! / 내레이션: 다섯 살짜리는 문을 여는 법을 몰랐다. 들이받을 뿐이었다. / 내레이션: 왼쪽 입꼬리만 올라가는 웃음이었다. 아이는 그것도 아빠 웃음인 줄 알았다.
 
-### 1-013 (800×720, 트랙 1 본편, 태그: child_present)
+### 1-013 (800×720, 트랙 1 본편, 경로 A, 태그: child_present)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -336,7 +337,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: SFX(작게): 치이익—
 
-### 1-014 (800×560, 트랙 1 본편, 태그: child_present)
+### 1-014 (800×560, 트랙 1 본편, 경로 A, 태그: child_present)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -356,7 +357,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S01_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved)
 - 레터링: 내레이션: 올봄 지호의 다섯 살 생일에 셋이 찍은 가족사진이었다. / 내레이션: 보안상 바꾸는 게 좋겠다고 몇 번 말했지만 아내는 바꾸지 않았다.
 
-### 1-015 (800×800, 트랙 1 본편, 태그: child_present)
+### 1-015 (800×800, 트랙 1 본편, 경로 A, 태그: child_present)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -378,7 +379,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 지호: 아빠, 할아버지는 왜 우리 집에 안 와? / 도겸: 할아버지는 아주 먼 데서 큰 건물 짓고 계셔. / SFX(작게): 툭
 
-### 1-016 (800×640, 트랙 1 본편, 태그: child_present)
+### 1-016 (800×640, 트랙 1 본편, 경로 A, 태그: child_present)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -400,7 +401,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 유진: 엄마가 물어보셨어요. 그 지분 건. / 도겸: 아버지 회사 상장 전이라 지분이 묶였어. 석 달만.
 
-### 1-017 (800×600, 트랙 1 본편, 태그: child_present)
+### 1-017 (800×600, 트랙 1 본편, 경로 A, 태그: child_present)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -422,7 +423,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 유진: 석 달 전에도 석 달이라고 하셨어요. / 도겸: 이번엔 진짜야.
 
-### 1-018 (800×720, 트랙 1 본편, 태그: child_present)
+### 1-018 (800×720, 트랙 1 본편, 경로 A, 태그: child_present)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -442,7 +443,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 친정 돈 2억이었다. 장인은 아직 모른다고 했다. 장모는 알았다. / 내레이션: 장모는 매달 물었고, 아내는 매달 그 질문을 식탁 위로 옮겨 왔다.
 
-### 1-019 (800×1200, 트랙 1 본편, 태그: child_present)
+### 1-019 (800×1200, 트랙 1 본편, 경로 A, 태그: child_present)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -467,7 +468,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#4 모퉁이 (단지 정문 앞 셔틀버스 정류장, 9월 1일 화 아침 7:30)
 
-### 1-020 (800×1200, 트랙 1 본편, 태그: 없음)
+### 1-020 (800×1200, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -485,7 +486,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved)
 - 레터링: 내레이션: 일곱 시 반, 노란 셔틀버스가 단지 정문 앞에 섰다.
 
-### 1-021 (800×480, 트랙 1 본편, 태그: 없음)
+### 1-021 (800×480, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -503,7 +504,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved)
 - 레터링: SFX(작게): 부릉—
 
-### 1-022 (800×480, 트랙 1 본편, 태그: 없음)
+### 1-022 (800×480, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -519,7 +520,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: (없음)
 - 레터링: (무음)
 
-### 1-023 (800×760, 트랙 1 본편, 태그: 없음)
+### 1-023 (800×760, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -542,7 +543,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#5 관리의 기술 (지하 2층 B구역 운전석 → 동 연결통로 → 상가 '퍼스트 애비뉴' 무인택배함 → 더퍼스트 클럽 B1 복도, 9월 1일 화 낮)
 
-### 1-024 (800×1240, 트랙 1 본편, 태그: 없음)
+### 1-024 (800×1240, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -564,7 +565,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 오전 아홉 시 십 분, 지하 2층 B구역. / SFX(작게, 회색): 끼이익— / 내레이션: 검정 BMW의 운전석이 그의 사무실이었다. 에어컨을 약하게 틀어 두면 가죽 시트에서 아직 새 차 냄새가 났다. / 내레이션: 리스 차의 장점이었다. 다 갚기 전까지는 영원히 새 차였다.
 
-### 1-025 (800×1400, 트랙 1 본편, 태그: 없음)
+### 1-025 (800×1400, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -588,7 +589,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved)
 - 레터링: 내레이션: 규칙 1. 프로필을 섞지 말 것. / 내레이션: 세컨폰의 카카오톡에는 얼굴이 넷 있었다. 와인잔을 든 손, 케틀벨, 펼쳐 놓은 원서, 골프장 그린. / 내레이션: 미란에게는 와인, 세라에게는 운동, 하린에게는 책, 혜숙에게는 골프. 그는 엄지로 프로필을 넘기며 같은 남자를 네 번 갈아입었다.
 
-### 1-026 (800×1040, 트랙 1 본편, 태그: 없음)
+### 1-026 (800×1040, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -608,7 +609,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 규칙 2. 문장은 하나만 쓸 것. / 내레이션: 그는 키보드 상용구에 'ㄴㅎ'을 등록해 두었다. ㄴㅎ을 치면 문장이 저절로 완성됐다. 너한테만 하는 얘긴데. / 문자(도겸→하린): 너한테만 하는 얘긴데, 오늘 너 생각 많이 났어.
 
-### 1-027 (800×760, 트랙 1 본편, 태그: 없음)
+### 1-027 (800×760, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -628,7 +629,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대)
 - 레터링: 문자(도겸→세라): 너한테만 하는 얘긴데, 오늘 너 생각 많이 났어. / 문자(도겸→미란): 너한테만 하는 얘긴데, 오늘 너 생각 많이 났어. / SFX(작게): 슝, 슝, 슝
 
-### 1-028 (800×640, 트랙 2 코미디 셀, 태그: 없음)
+### 1-028 (800×640, 트랙 2 코미디 셀, 경로 A, 태그: 없음)
 
 ```text
 Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-tone cel shading, high-saturation flat colors, simple speed lines or focus lines, slightly exaggerated expression (chibi-lite deformation allowed only for the face and hands), same character design and outfit colors as the main style, plain flat color background, no text.
@@ -652,7 +653,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved)
 - 레터링: 내레이션: 전송, 전송, 전송. 숫자 '1' 세 개가 차례로 사라졌다. / 내레이션: 효율은 정직했다. 사람은 그렇지 않았지만.
 
-### 1-029 (800×1800, 트랙 1 본편, 태그: 없음)
+### 1-029 (800×1800, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -674,7 +675,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 규칙 3. 지상으로 다니지 말 것. / 내레이션: 레이크시티 더퍼스트의 열다섯 개 동은 지하 2층 주차장에서 통로로 이어져 있었다. 하늘을 보지 않으면 얼굴을 볼 사람도 없었다. / 내레이션: 304동은 3호기를 탔다. 그 엘리베이터의 CCTV는 7월부터 고장이었다. 207동은 화물용. 412동은 비상계단으로 2층까지 걸어 올라간 다음 탔다. 503동은 지하 2층에서 곧장. 24층에서 서는 사람은 거의 없었다. / 내레이션: 동마다 다른 통로, 다른 버튼, 다른 향. 그는 이 단지를 손바닥처럼 알았다. 남의 손바닥이었지만.
 
-### 1-030 (800×1240, 트랙 1 본편, 태그: 없음)
+### 1-030 (800×1240, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -700,7 +701,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대); refs/props/P7_*_v*.png (approved); refs/props/P3_*_v*.png (approved)
 - 레터링: 내레이션: 규칙 4. 선물은 가볍게, 영수증은 없이. / 내레이션: 정오, 단지 상가 '퍼스트 애비뉴'의 무인택배함. 수령인 이름은 '한 실장'이었다. / 내레이션: 정품 인증 카드도 들어 있었다. 인증 카드까지 가짜였다. / 내레이션: 세라에게 줄 가방이었다. 세라는 가방의 무게를 모를 것이다. 그녀가 아는 무게는 덤벨뿐이었다.
 
-### 1-031 (800×1200, 트랙 1 본편, 태그: 없음)
+### 1-031 (800×1200, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -724,7 +725,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 규칙 5. 아는 척하지 말 것. / 내레이션: 오후 세 시, 커뮤니티센터 '더퍼스트 클럽' 지하 1층 복도. / 내레이션: 박순옥이었다.
 
-### 1-032 (800×1240, 트랙 1 본편, 태그: 없음)
+### 1-032 (800×1240, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -748,7 +749,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/sunok_turnaround_v*.png (approved); refs/sets/S08_*_v*.png (approved, 장면 시간대); refs/sets/S07_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 2년 전 그가 한 말이 있었다. / 도겸(V.O.): 엄마, 아는 척하지 마. / 내레이션: 그가 한 말 가운데 유일하게 지켜진 말이었다. 지키는 쪽은 그가 아니었다.
 
-### 1-033 (800×1000, 트랙 1 본편, 태그: 없음)
+### 1-033 (800×1000, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -775,7 +776,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#6 하와이에서도 (101동 3801호 안방 통창 앞, 9월 1일 화 밤 10:30)
 
-### 1-034 (800×1600, 트랙 1 본편, 태그: intimate)
+### 1-034 (800×1600, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -795,7 +796,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 밤 열 시 반, 침실의 불은 꺼져 있었고 통창이 조명을 대신했다. / 내레이션: 에어컨은 꺼져 있었고, 방 안에는 샤워 직후의 습기와 재스민 향 바디오일 냄새가 남아 있었다. 아이가 외가에 간 집은 이상할 만큼 조용했다. 냉장고 모터 소리까지 들렸다. / SFX(아주 작게, 회색): 웅웅—
 
-### 1-035 (800×1240, 트랙 1 본편, 태그: intimate)
+### 1-035 (800×1240, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -817,7 +818,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 아침의 샴페인색이 아니었다. 검은색이었다. / 내레이션: 승무원 시절의 곧은 자세가 그대로였다.
 
-### 1-036 (800×800, 트랙 1 본편, 태그: intimate)
+### 1-036 (800×800, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -839,7 +840,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 유진: 오늘도 현장이었어요? / 도겸: 응.
 
-### 1-037 (800×1040, 트랙 1 본편, 태그: intimate)
+### 1-037 (800×1040, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -861,7 +862,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 도겸: 너한테만 하는 얘긴데… 나 사실 아버지랑 사이 안 좋아. 회사 물려받기 싫어.
 
-### 1-038 (800×1200, 트랙 1 본편, 태그: intimate)
+### 1-038 (800×1200, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -883,7 +884,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 유진: 그 얘기, 하와이에서도 하셨어요. / 유진: 우리 마지막으로 언제 했는지 기억하세요? / 내레이션: 끝까지 존댓말이었다.
 
-### 1-039 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-039 (800×1400, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -907,7 +908,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대); refs/props/P4_*_v*.png (approved)
 - 레터링: 내레이션: 도겸은 대답을 고르다 놓쳤다. / SFX(작게, 흰색): 딸깍, 딸깍 / 내레이션: 그것이 그녀가 결정적인 순간에만 하는 동작이라는 것을 그는 6년 동안 몰랐다.
 
-### 1-040 (800×1080, 트랙 1 본편, 태그: intimate)
+### 1-040 (800×1080, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -932,7 +933,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#7 유리 (101동 3801호 안방 통창 앞, 9월 1일 화 밤 10:40, 연속)
 
-### 1-041 (800×720, 트랙 1 본편, 태그: intimate)
+### 1-041 (800×720, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -956,7 +957,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: 내레이션: 실크 아래에서 체온이 얇게 올라왔다. / SFX(작게): 스륵
 
-### 1-042 (800×1600, 트랙 1 본편, 태그: intimate)
+### 1-042 (800×1600, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -976,7 +977,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 바닥에 검은 웅덩이가 생겼다.
 
-### 1-043 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-043 (800×1400, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -998,7 +999,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 쇄골이 깊게 패어 있었고, 가슴은 그가 기억하던 것보다 묵직하게 그의 손바닥을 채웠다.
 
-### 1-044 (800×520, 트랙 1 본편, 태그: intimate)
+### 1-044 (800×520, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1020,7 +1021,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 유진의 숨이 처음으로 흐트러졌다.
 
-### 1-045 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-045 (800×1400, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1042,7 +1043,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 유리는 차가웠고 그의 가슴은 뜨거웠다.
 
-### 1-046 (800×1000, 트랙 1 본편, 태그: intimate)
+### 1-046 (800×1000, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1066,7 +1067,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: 내레이션: 6년 동안 그녀가 먼저 길을 가르쳐 준 적은 없었다.
 
-### 1-047 (800×720, 트랙 1 본편, 태그: intimate)
+### 1-047 (800×720, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1084,7 +1085,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 리듬은 처음엔 느렸다. / 내레이션: 번지고, 사라지고. 간격이 점점 짧아졌다.
 
-### 1-048 (800×1240, 트랙 1 본편, 태그: intimate)
+### 1-048 (800×1240, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1111,7 +1112,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#8 세 걸음 (101동 3801호 안방 침대, 9월 1일 화 밤 10:50, 연속)
 
-### 1-049 (800×1000, 트랙 1 본편, 태그: intimate)
+### 1-049 (800×1000, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1133,7 +1134,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 침대까지는 다섯 걸음이었다. 두 사람은 세 걸음 만에 닿았다.
 
-### 1-050 (800×600, 트랙 1 본편, 태그: intimate)
+### 1-050 (800×600, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1155,7 +1156,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: (무음)
 
-### 1-051 (800×560, 트랙 1 본편, 태그: intimate)
+### 1-051 (800×560, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1179,7 +1180,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: 내레이션: 속도는 그녀가 정했다. 그는 따라갔다.
 
-### 1-052 (800×720, 트랙 1 본편, 태그: intimate)
+### 1-052 (800×720, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1201,7 +1202,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 마지막 순간 유진은 소리를 내지 않았다.
 
-### 1-053 (800×1600, 트랙 1 본편, 태그: intimate)
+### 1-053 (800×1600, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1219,7 +1220,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 도시 전체가 초점을 잃었다.
 
-### 1-054 (800×1240, 트랙 1 본편, 태그: intimate)
+### 1-054 (800×1240, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1239,7 +1240,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S01_*_v*.png (approved, 장면 시간대); refs/props/P5_*_v*.png (approved)
 - 레터링: 내레이션: 그리고 정적이 왔다. / SFX(작게, 회색): 웅웅— / SFX(작게): 징— 징— / 내레이션: 세컨폰이었다.
 
-### 1-055 (800×880, 트랙 1 본편, 태그: intimate)
+### 1-055 (800×880, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1261,7 +1262,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/yujin_turnaround_v*.png (approved); refs/sets/S01_*_v*.png (approved, 장면 시간대)
 - 레터링: 도겸: 현장. / 내레이션: 아무도 묻지 않았다. / 내레이션: 그는 그녀가 잠들었다고 생각했다.
 
-### 1-056 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-056 (800×1400, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1284,7 +1285,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#9 증거는 안에 (503동 2402호 현관과 거실, 9월 2일 수 오후 2:00)
 
-### 1-057 (800×1400, 트랙 1 본편, 태그: 없음)
+### 1-057 (800×1400, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1302,7 +1303,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 오후 두 시, 503동 2402호 거실의 암막 커튼은 한 뼘만 열려 있었다. / SFX(작게): 째깍, 째깍 / SFX(아주 작게): 위잉— 맴—
 
-### 1-058 (800×1000, 트랙 1 본편, 태그: intimate)
+### 1-058 (800×1000, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1324,7 +1325,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 콘솔 위 백합 꽃꽂이에서 진한 꽃가루 냄새가 났다. 도겸은 그 냄새 위에 금색 향수를 얹고 서 있었다. / SFX(작게): 철컥 / 혜숙: 얘, 벨은 누르지 마. 옆집이 귀가 밝아.
 
-### 1-059 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-059 (800×1400, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1344,7 +1345,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 마흔두 살의 몸은 서두르는 법이 없었다.
 
-### 1-060 (800×1040, 트랙 1 본편, 태그: 없음)
+### 1-060 (800×1040, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1364,7 +1365,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 혜숙: 얘, 신발은 거기 두는 거 아니야. / 내레이션: 증거는 늘 안에 넣는 것이었다. / SFX(작게): 탁 / 내레이션: 가운을 입은 남편이 대리석에 얼굴을 묻었다. 전등 스위치를 끄는 것 같은 손짓이었다.
 
-### 1-061 (800×1040, 트랙 1 본편, 태그: intimate)
+### 1-061 (800×1040, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1386,7 +1387,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 도겸: 너한테만 하는 얘긴데. 나 사실 아버지랑 사이 안 좋아. 회사 물려받기 싫어.
 
-### 1-062 (800×1200, 트랙 1 본편, 태그: intimate)
+### 1-062 (800×1200, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1411,7 +1412,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#10 진주 (503동 2402호 안방, 9월 2일 수 오후 2:10)
 
-### 1-063 (800×1240, 트랙 1 본편, 태그: intimate)
+### 1-063 (800×1240, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1433,7 +1434,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 안방 커튼도 한 뼘만 열려 있었다. / SFX(작게): 톡 / 혜숙: 천천히. 얘, 그건 그렇게 하는 거 아니야.
 
-### 1-064 (800×1240, 트랙 1 본편, 태그: intimate)
+### 1-064 (800×1240, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1455,7 +1456,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P4_*_v*.png (approved)
 - 레터링: 내레이션: 그는 진주 단추를 하나씩, 그녀가 숨을 한 번 쉴 때마다 하나씩 풀었다.
 
-### 1-065 (800×1240, 트랙 1 본편, 태그: intimate)
+### 1-065 (800×1240, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1477,7 +1478,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: SFX(중간, 금색): 지이이익— / 내레이션: 지퍼가 내려가는 소리가 길었다. / 내레이션: 펜슬스커트는 골반에 걸려 저절로 내려오지 않았다. 그 곡선은 넓고 부드러웠다.
 
-### 1-066 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-066 (800×1400, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1499,7 +1500,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: (무음)
 
-### 1-067 (800×840, 트랙 1 본편, 태그: intimate)
+### 1-067 (800×840, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1523,7 +1524,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: 내레이션: 지시하는 손이었다. / 내레이션: 서두르지 않는 손이었다.
 
-### 1-068 (800×1040, 트랙 1 본편, 태그: intimate)
+### 1-068 (800×1040, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1547,7 +1548,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P4_*_v*.png (approved)
 - 레터링: SFX(작게): 툭
 
-### 1-069 (800×1800, 트랙 1 본편, 태그: intimate)
+### 1-069 (800×1800, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1567,7 +1568,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P4_*_v*.png (approved)
 - 레터링: SFX(대형, 흰색): 타다닥, 타다닥 / 내레이션: 우박 같은 소리가 바닥 위로 흩어졌다.
 
-### 1-070 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-070 (800×1400, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1589,7 +1590,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 혜숙: 놔둬. / SFX(작게): 또르르, 또르르 / 내레이션: 그 소리가 그녀의 리듬과 겹쳤다. / 내레이션: 그녀는 느리게 시작해 아주 조금씩만 속도를 올렸다.
 
-### 1-071 (800×1400, 트랙 1 본편, 태그: intimate)
+### 1-071 (800×1400, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1611,7 +1612,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 혜숙: 옆집이 귀가 밝아. / 내레이션: 그 말을 한 사람이 먼저 무너졌다.
 
-### 1-072 (800×760, 트랙 1 본편, 태그: intimate)
+### 1-072 (800×760, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1636,7 +1637,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#11 1억 5천 (503동 2402호 안방, 9월 2일 수 오후 4:00)
 
-### 1-073 (800×1200, 트랙 1 본편, 태그: intimate)
+### 1-073 (800×1200, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1658,7 +1659,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 빛줄기는 어느새 벽에서 내려와 그녀의 어깨에 걸쳐 있었다. / 혜숙: 그 분양권 얘기, 다시 해 봐.
 
-### 1-074 (800×1000, 트랙 1 본편, 태그: intimate)
+### 1-074 (800×1000, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1680,7 +1681,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: 도겸: 아버지 회사가 다음 달에 분양하는 단지야. 로열층 물량을 내가 빼 줄 수 있어. 분양권 전매, 석 달만. 프리미엄 붙으면 바로 넘겨.
 
-### 1-075 (800×520, 트랙 1 본편, 태그: intimate)
+### 1-075 (800×520, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1702,7 +1703,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 혜숙: 얼마라고 했지? / 도겸: 1억 5천.
 
-### 1-076 (800×520, 트랙 1 본편, 태그: intimate)
+### 1-076 (800×520, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1724,7 +1725,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 혜숙: 남편은 몰라야 돼. / 도겸: 당연하지.
 
-### 1-077 (800×880, 트랙 1 본편, 태그: intimate)
+### 1-077 (800×880, 트랙 1 본편, 경로 B, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1747,7 +1748,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#12 마흔네 번째 (503동 2402호 안방 바닥, 9월 2일 수 오후 4:25)
 
-### 1-078 (800×600, 트랙 1 본편, 태그: 없음)
+### 1-078 (800×600, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1769,7 +1770,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: 혜숙: 얘, 다섯 시에 부녀회 회의야. 얼른.
 
-### 1-079 (800×1400, 트랙 2 코미디 셀, 태그: intimate)
+### 1-079 (800×1400, 트랙 2 코미디 셀, 경로 A, 태그: intimate)
 
 ```text
 Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-tone cel shading, high-saturation flat colors, simple speed lines or focus lines, slightly exaggerated expression (chibi-lite deformation allowed only for the face and hands), same character design and outfit colors as the main style, plain flat color background, no text.
@@ -1791,7 +1792,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 그다음 오 분 동안 시행사 회장의 외아들과 503동 부녀회장은 반쯤 걸친 옷차림으로 무릎을 꿇고 대리석 바닥을 기며 진주알을 주웠다. / 혜숙(속삭임): 마흔하나, 마흔둘, 마흔셋.
 
-### 1-080 (800×640, 트랙 1 본편, 태그: 없음)
+### 1-080 (800×640, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1813,7 +1814,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 혜숙: 하나 모자라. / 도겸: 침대 밑에 들어갔겠지.
 
-### 1-081 (800×1200, 트랙 1 본편, 태그: 없음)
+### 1-081 (800×1200, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1842,7 +1843,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#13 아버님께 (503동 2402호 현관, 9월 2일 수 오후 4:38)
 
-### 1-082 (800×1040, 트랙 1 본편, 태그: 없음)
+### 1-082 (800×1040, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1864,7 +1865,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/characters/hyesuk_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 혜숙: 추석 선물. 한우야. 아버님 갖다 드려.
 
-### 1-083 (800×480, 트랙 1 본편, 태그: 없음)
+### 1-083 (800×480, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1884,7 +1885,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: (무음)
 
-### 1-084 (800×640, 트랙 1 본편, 태그: 없음)
+### 1-084 (800×640, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1906,7 +1907,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: 내레이션: 그의 아버지는 해외 현장에 있었다. / 내레이션: 지도에 없는 해외 현장에.
 
-### 1-085 (800×720, 트랙 1 본편, 태그: 없음)
+### 1-085 (800×720, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1929,7 +1930,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 
 ## 1화. 너한테만 하는 얘긴데 / S#14 어머. (503동 24층 엘리베이터 홀, 9월 2일 수 오후 4:40)
 
-### 1-086 (800×1040, 트랙 1 본편, 태그: 없음)
+### 1-086 (800×1040, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1949,7 +1950,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: SFX(작게, 흰색): 지잉 / 내레이션: 라벤더 방향제 냄새 사이로 그의 목덜미에 묻은 혜숙의 향수와 백합 꽃가루 냄새가 섞여 올라왔다. / 내레이션: 지하 2층, 그리고 BMW. 다음 색은 버건디였다.
 
-### 1-087 (800×440, 트랙 1 본편, 태그: 없음)
+### 1-087 (800×440, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1967,7 +1968,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 내레이션: 누군가 아래에서 엘리베이터를 타고 올라오는 중이었다. 24층에서 서는 사람은 거의 없었다.
 
-### 1-088 (800×560, 트랙 1 본편, 태그: intimate)
+### 1-088 (800×560, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -1989,7 +1990,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P3_*_v*.png (approved)
 - 레터링: 내레이션: 두 개를 푸는 것이 그의 얼굴이었다.
 
-### 1-089 (800×400, 트랙 1 본편, 태그: 없음)
+### 1-089 (800×400, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -2007,7 +2008,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: SFX(중간, 흰색): 띵
 
-### 1-090 (800×1200, 트랙 1 본편, 태그: 없음)
+### 1-090 (800×1200, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -2025,7 +2026,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: (무음)
 
-### 1-091 (800×640, 트랙 1 본편, 태그: intimate)
+### 1-091 (800×640, 트랙 1 본편, 경로 A, 태그: intimate)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -2045,7 +2046,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/characters/dogyeom_turnaround_v*.png (approved); refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: (무음)
 
-### 1-092 (800×480, 트랙 2 코미디 셀, 태그: 없음)
+### 1-092 (800×480, 트랙 2 코미디 셀, 경로 A, 태그: 없음)
 
 ```text
 Korean webtoon comedic reaction panel, bold black ink outlines 3-4px, flat two-tone cel shading, high-saturation flat colors, simple speed lines or focus lines, slightly exaggerated expression (chibi-lite deformation allowed only for the face and hands), same character design and outfit colors as the main style, plain flat color background, no text.
@@ -2065,7 +2066,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대); refs/props/P9_*_v*.png (approved)
 - 레터링: 고미숙: 어머.
 
-### 1-093 (800×640, 트랙 1 본편, 태그: 없음)
+### 1-093 (800×640, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.
@@ -2083,7 +2084,7 @@ no text, no speech bubbles, no sound-effect lettering, no watermark, no logos, f
 - 레퍼런스: refs/sets/S05_*_v*.png (approved, 장면 시간대)
 - 레터링: 남정애: 회장님 댁에서 나오시는 거예요?
 
-### 1-094 (800×1600, 트랙 1 본편, 태그: 없음)
+### 1-094 (800×1600, 트랙 1 본편, 경로 A, 태그: 없음)
 
 ```text
 Korean adult webtoon, semi-realistic glossy digital painting, soft airbrush gradient shading, gentle rim light, fine thin warm-brown lineart, 8-head proportions, cinematic lighting, detailed fabric rendering (silk sheen, velvet depth, knit texture), smooth luminous skin, clean background painting with soft bokeh, vertical webtoon panel composition, no text, no watermark, no logos.

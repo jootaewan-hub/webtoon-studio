@@ -121,7 +121,16 @@ TEMPLATES = {
 |---|---|---|---|
 """,
     "story/pitch.md": "# 기획\n\n## 로그라인\n\n## 장르·톤\n\n## 결말 방향\n\n## 기획 의도\n- 왜 지금:\n- 무엇이 재밌나:\n- 독자:\n",
-    "story/bible.md": "# 캐릭터 바이블\n\n## 인물 이름\n- 나이·직업:\n- 욕망(겉):\n- 결핍(속):\n- 비밀:\n- 말버릇·사투리:\n- 대표 대사:\n- 관계:\n- 변화 곡선:\n- 외형 고정값: design/characters.json\n- 연기 포인트:\n",
+    "story/bible.md": ("# 캐릭터 바이블 — 「{name}」\n\n"
+        "G2에서 이 문서를 끝까지 채우고 사용자가 확인해야 G4 소설을 쓴다(references/story.md G2 완료 조건).\n\n"
+        "## 0. 이 문서를 쓰는 법\n- 기준 순서: decisions.md > 이 바이블 > 소설·대본 > 콘티\n- 작품 고정 색 코드:\n\n"
+        "## 0-1. 마스터 연표\n| 날짜(요일) | 사건 | 인물 나이 |\n|---|---|---|\n\n"
+        "## 0-2. 외형 LOCK (영어, 이미지 생성기에 그대로 붙임)\n### <id>\n```text\n<Full name>, fictional adult character, not resembling any real person. ...\n```\n\n"
+        "# 1부. 인물\n## <이름> (나이) — 한 줄 정체성\n### 1. 기본\n### 2. 성격\n### 3. 외모 고정값\n### 4. 의상 체계 (회차·장면별 의상표, HEX)\n"
+        "| 회차 | 장면 | 의상(색 HEX·재질) | 머리·화장 | 소품 |\n|---|---|---|---|---|\n"
+        "### 5. 행동·연기\n### 6. 말투 (호칭표, 대표 대사 3개)\n### 7. 관능 결 (성인 등급일 때)\n### 8. 감정 곡선\n### 9. 비밀과 거짓말\n\n"
+        "## 배경 인물\n\n# 2부. 관계\n## 2-1. 관계 매트릭스\n## 2-2. 주요 쌍의 관계사와 회차별 타임라인\n\n"
+        "# 3부. 연출·작화 대조표\n## 3-1. 인물 대비표\n## 3-2. 작품 고유 장치\n## 3-3. 작화·연출 체크리스트\n"),
     "story/synopsis.md": "# 시놉시스\n\n## 회차 구성\n",
     "story/beats.md": "# 비트 시트\n\n| 회차 | 비트 | 장면 | 감정(색 키워드) | 훅 여부 |\n|---|---|---|---|---|\n",
     "story/novel.md": "# 소설\n",
@@ -163,6 +172,11 @@ def cmd_init(a):
     for cand in (os.path.join(HERE, "md2docx.js"), os.path.join(HERE, "..", "assets", "md2docx.js")):
         if os.path.exists(cand):
             shutil.copy(cand, os.path.join(tools, "md2docx.js")); break
+    # G9~G12 도구(콘티 검사, 효과음, 연출 노트 2부, 애니 콘티, 인계 패키지)
+    for t in ("check_board.py", "sfx_tools.py", "direction_scenes.py", "anim_tools.py", "build_handoff.py"):
+        src = os.path.join(HERE, t)
+        if os.path.exists(src):
+            shutil.copy(src, os.path.join(tools, t))
     print(f"생성: {root}\n다음: source/original.md에 원문을 넣고 G0 접수부터 진행 (python tools/studio.py <명령> --dir {a.name})")
 
 # ───────────────────────── 인물 스케치 ─────────────────────────

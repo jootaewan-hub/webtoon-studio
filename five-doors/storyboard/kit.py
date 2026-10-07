@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""webtoon-kit: 소설·콘티·콘티 이미지를 실사 웹툰 / 성인 웹툰 / 쇼츠 / 애니메이션 제작용 패키지로 변환.
+"""webtoon-kit v2: 소설·콘티·콘티 이미지를 실사 웹툰 / 성인 웹툰 / 쇼츠 / 애니메이션 제작용 패키지로 변환.
+
+v2(2026-10-08): 수위 키워드·아동 장면 규칙을 data/flags.json으로, 트랙 문구 자동 전환([트랙2]/[트랙3] → tracks.json style_track2/3),
+장면 연출 메모·장소 SET LOCK(data/sets.json) 자동 첨부, child_present 규칙(tracks.json child_rule), 썸네일 선택화(style.json thumbnails).
 
 사용법 (킷 폴더에서 실행, Python 3.9+, 외부 패키지 불필요):
   python kit.py import  [--novel source/novel.md] [--storyboard source/storyboard.md]
@@ -21,17 +24,35 @@ DATA = ROOT / "data"
 OUT = ROOT / "outputs"
 ID_RE = re.compile(r"^(?:\d-\d{2,3}|E-\d{2,3})$")
 
-# 강한 단서: 장면 전체로 전파 / 약한 단서: 해당 컷에만
-# 「단톡방에 그 남자가 있다」용 키워드(템플릿의 낙동강 키워드를 교체). 연출 메모의 '수위 장치:'는 폭력·법정 장면에도 쓰이므로 키워드로 쓰지 않는다.
-INTIMATE_STRONG = ["키스", "정사", "맨어깨", "맨살", "맨등", "나신", "맨몸", "브라톱", "란제리", "슬립", "시트로 가린", "올라타", "올라앉", "허리를 붙잡", "허리를 감", "목덜미에 입술"]
-INTIMATE_WEAK = ["단추", "입술", "흘러내", "속삭임", "숨소리", "쇄골", "허벅지", "슬릿", "골반", "땀", "스타킹", "레이스"]
-VIOLENCE_STRONG = ["타격", "휘두", "휘둘", "몸싸움"]
-VIOLENCE_WEAK = ["폭력"]
-SELFHARM_STRONG = ["투신", "자살"]  # "자해"는 6화 내레이션의 비유("관리가 아니라 자해였다")라 제외
-SELFHARM_WEAK = []
-INTIMATE_KW = INTIMATE_STRONG + INTIMATE_WEAK
-VIOLENCE_KW = VIOLENCE_STRONG + VIOLENCE_WEAK
-SELFHARM_KW = SELFHARM_STRONG + SELFHARM_WEAK
+# 수위 태그 키워드. 강한 단서는 그 장면 전체로 전파되고, 약한 단서는 해당 컷에만 붙는다.
+# 작품마다 data/flags.json으로 덮어쓴다(형식은 references/schema.md). 아래는 작품 공통 기본값.
+DEFAULT_FLAGS = {
+    "intimate": {"strong": ["키스", "정사", "맨어깨", "맨살", "맨등", "나신", "맨몸", "몸을 섞", "허리를 감", "잇자국",
+                            "시트로 가린", "올라타", "올라앉"],
+                 "weak": ["단추", "입술", "흘러내", "이불", "속삭임", "삐걱", "옷깃", "숨소리", "쇄골", "스타킹", "레이스", "슬릿"]},
+    "violence": {"strong": ["타격", "휘두", "휘둘", "몸싸움"], "weak": ["망치", "폭력"]},
+    "self_harm_theme": {"strong": ["유서", "투신", "자살"], "weak": []},
+    # '수위 장치: 없음', '관능 요소 없음'처럼 부정한 문장은 단서로 세지 않는다.
+    "negations": r"(수위 장치|관능 요소|관능)\s*[:：]?\s*(없음|해당 없음|불필요|전혀 없음)",
+    # 아이 이름(샷·앵글·인물 칸에 나오면 그 장면은 child_present: 관능 태그를 지우고 아동 보호 규칙을 붙인다)
+    "child_names": [],
+    # 연출 메모가 이 정규식에 맞으면 아이 공간(예: 놀이터)으로 본다. 빈 문자열이면 쓰지 않는다.
+    "child_scene_memo": "",
+}
+_FLAGS = None
+
+
+def flags_cfg():
+    global _FLAGS
+    if _FLAGS is None:
+        cfg = json.loads(json.dumps(DEFAULT_FLAGS))
+        user = load("flags.json", {}) or {}
+        for k, v in user.items():
+            if k.startswith("_"):
+                continue
+            cfg[k] = v
+        _FLAGS = cfg
+    return _FLAGS
 
 
 def load(name, default=None):
@@ -70,20 +91,30 @@ def split_lines(cell):
     return out
 
 
-NEGATED = re.compile(r"(수위 장치|관능 요소|관능)\s*[:：]?\s*(없음|해당 없음|불필요|전혀 없음)")
-CHILD_RE = re.compile(r"지호|소이|아이들")
-
-
 def flags_for(text, strong_only=False):
-    text = NEGATED.sub("", text)
+    cfg = flags_cfg()
+    if cfg.get("negations"):
+        text = re.sub(cfg["negations"], "", text)
     f = []
-    for name, strong, weak in (("intimate", INTIMATE_STRONG, INTIMATE_WEAK),
-                               ("violence", VIOLENCE_STRONG, VIOLENCE_WEAK),
-                               ("self_harm_theme", SELFHARM_STRONG, SELFHARM_WEAK)):
-        kws = strong if strong_only else strong + weak
+    for name in ("intimate", "violence", "self_harm_theme"):
+        kw = cfg.get(name, {})
+        kws = kw.get("strong", []) if strong_only else kw.get("strong", []) + kw.get("weak", [])
         if any(k in text for k in kws):
             f.append(name)
     return f
+
+
+def child_scene(cs, memo):
+    """아이 등장 여부는 샷·앵글·인물 칸(화면에 실제로 나오는 인물 목록)으로만 판단한다.
+    메모의 '아이는 외가에' 같은 언급은 등장이 아니다. child_scene_memo(예: 놀이터 장소 번호)가 메모에 맞으면 아이 공간으로 본다."""
+    cfg = flags_cfg()
+    names = cfg.get("child_names") or []
+    if names:
+        rx = re.compile("|".join(map(re.escape, names)))
+        if any(rx.search(c.get("shot", "")) for c in cs):
+            return True
+    pat = cfg.get("child_scene_memo")
+    return bool(pat and re.search(pat, memo))
 
 
 def parse_storyboard(md):
@@ -126,8 +157,7 @@ def parse_storyboard(md):
         union = set(flags_for(sc + memo, strong_only=True))
         for c in cs:
             union |= set(flags_for(c["screen"] + json.dumps(c["lines"], ensure_ascii=False), strong_only=True))
-        # 아이의 등장 여부는 샷·앵글·인물 칸(화면에 실제로 나오는 인물 목록)으로만 판단한다. 메모의 "지호는 외가" 같은 언급은 등장이 아니다.
-        child = any(CHILD_RE.search(c.get("shot", "")) for c in cs) or bool(re.search(r"장소\s*6\b", memo))  # 장소 6 물결놀이터: 아이들 공간(sets.md)
+        child = child_scene(cs, memo)
         for c in cs:
             fl = union | set(c["flags"])
             if child:  # 아이가 있는 장면에는 관능 규칙 대신 아동 보호 규칙
@@ -188,8 +218,12 @@ def cmd_validate(a):
     for c in cuts:
         if not c.get("screen"):
             probs.append(f"{c['id']}: 화면·연출 없음 (콘티 import 필요)")
-    no_thumb = sum(1 for c in cuts if not (ROOT / c.get("thumb", "")).exists())
-    print(f"컷 {len(cuts)}개 / 문제 {len(probs)}건 / 썸네일 없음 {no_thumb}개(이 작품은 썸네일을 그리지 않음: 작화는 ChatGPT·Codex 담당)")
+    no_thumb = [c["id"] for c in cuts if not (ROOT / c.get("thumb", "")).exists()]
+    if (load("style.json", {}) or {}).get("thumbnails", True):
+        probs += [f"{cid}: 썸네일 파일 없음" for cid in no_thumb]
+        print(f"컷 {len(cuts)}개 / 문제 {len(probs)}건")
+    else:
+        print(f"컷 {len(cuts)}개 / 문제 {len(probs)}건 / 썸네일 없음 {len(no_thumb)}개(style.json thumbnails=false: 썸네일을 그리지 않는 작품)")
     for p in probs[:60]:
         print(" -", p)
     tally = {}

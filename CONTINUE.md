@@ -36,6 +36,18 @@ claude                           # Claude Code 실행
 | G11 애니메이션 콘티 | 작성 완료. 혼합 밀도 잠정, 988샷, 약 69.8분 | `anim/parts/ep1~6.md`, 합본 `anim/storyboard_anim.md`, `anim/sound_cues.md` |
 | G12 인계 | 완료 | `handoff/`(README, ChatGPT 지침, AGENTS, 컷 프롬프트 571개 md·jsonl, 매니페스트 636행) |
 
+## 2-1. 2026-10-08 추가
+
+- **스킬 개선**: `webtoon-story-studio`, `webtoon-adaptation-kit`.
+  - G2 인물 심화를 소설 전 필수로 바꿨다.
+  - 끝까지 진행 모드, 검사·인계 도구 5종, kit.py v2, 이미지 도구 경로 문서를 넣었다.
+  - `skills/*.skill` 패키지와 `.claude/skills/`를 갱신했다.
+- **five-doors 인계 보완**
+  - 컷별 도구 경로: A 505컷 / B 66컷
+  - `handoff/IMAGE_TOOLS.md` 추가
+  - ChatGPT 지침에 임의 변경 금지·변경 보고를 넣었다.
+- **남은 어긋남**: 소설 2곳의 '동그란 안경'이 바이블 0-2(금테 타원)와 다르다. 콘티·프롬프트는 바이블을 따른다.
+
 ## 3. 다음에 할 수 있는 일
 
 1. **사용자 검토.**
@@ -53,7 +65,7 @@ claude                           # Claude Code 실행
 
 ```bash
 cd five-doors/storyboard
-python3 build_kit_data.py && python3 kit.py import --replace && python3 kit.py validate
+python3 from_studio.py && python3 kit.py import --replace && python3 kit.py validate
 python3 kit.py prompts --track all && python3 kit.py docx && python3 kit.py editor
 cd ..
 python3 tools/direction_scenes.py              # 연출 노트 2부

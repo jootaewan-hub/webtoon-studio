@@ -46,14 +46,17 @@ Codex는 그림 자체를 판단하지 않는다. 다음 일을 맡는다.
 ## 컷 단계 (콘티·프롬프트 완료 — 2026-10-07)
 1. 컷 프롬프트는 이미 조립되어 있다: `prompts/ep<회차>.jsonl`(1화 파일에 표지 0-001~0-003 포함).
    - 한 줄이 컷 하나다. 필드는 다음과 같다.
-     - `cut`, `size`(예 `800x1200`), `track`(1·2·3), `chapter`, `scene`, `flags`(`intimate`·`child_present`·`violence`)
+     - `cut`, `size`(예 `800x1200`), `track`(1·2·3), `route`(A 범용 생성기 / B 성인 허용 도구·사람 작가), `chapter`, `scene`, `flags`(`intimate`·`child_present`·`violence`)
      - `characters`(id), `sets`(S01~S10·SA·SB·SC), `props`(P1~P10)
      - `prompt`(그대로 생성기에 넣는 문자열), `safety`(금지·수위 규칙)
      - `refs`(첨부할 확정 레퍼런스 경로 패턴), `lettering`(레터링 줄)
    - 사람이 읽는 같은 내용이 `prompts/ep<회차>_prompts.md`에 있다.
-   - LOCK이나 콘티를 고쳤으면 원본 저장소에서 다시 만든다. `five-doors/storyboard`에서 `build_kit_data.py` → `kit.py import --replace`를 돌리고, 이어서 `five-doors/tools/build_handoff.py`를 돌린다. 직접 고치지 않는다.
+   - LOCK이나 콘티를 고쳤으면 원본 저장소에서 다시 만든다. `five-doors/storyboard`에서 `from_studio.py` → `kit.py import --replace`를 돌리고, 이어서 `five-doors/tools/build_handoff.py`를 돌린다. 직접 고치지 않는다.
 2. `refs` 패턴에 맞는 `approved` 레퍼런스를 매니페스트에서 찾아 생성 요청에 첨부한다. 없으면 그 컷은 `todo`로 둔다.
 3. 생성 결과는 `renders/ep<회차>/<컷번호>_v<N>.png`로 저장하고, 매니페스트 해당 줄(`kind=cut`)의 status를 갱신한다.
+   - 매니페스트의 `tool` 열은 경로를 따른다(A=ChatGPT, B=성인 허용 도구·사람).
+   - 생성 결과가 프롬프트와 다르면 `notes`에 `changed:<요소>`를 적는다. 노출 축소, 구도, 인물 수, 의상, 소품이 그 요소다.
+   - 바뀐 컷은 사람이 확정할 때까지 `approved`로 두지 않는다(`IMAGE_TOOLS.md`).
 4. 레터링: `storyboard/cuts.json`의 `lines`를 쓴다. 줄 종류(`type`)는 dialogue·narration·thought·whisper·sfx·caption이다.
    - 대사는 Gowun Dodum, 내레이션은 Gowun Batang 박스에 넣는다.
    - 효과음은 본편이면 East Sea Dokdo, [트랙2] 컷이면 Black Han Sans, 손글씨는 Nanum Pen Script다.
