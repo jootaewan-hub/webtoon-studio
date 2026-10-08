@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { Document, Packer, Paragraph, TextRun, HeadingLevel, Table, TableRow, TableCell, WidthType, ShadingType, BorderStyle, LevelFormat, AlignmentType, PageOrientation, Footer, PageNumber } = require('docx');
+const { Document, Packer, Paragraph, TextRun, HeadingLevel, Table, TableRow, TableCell, WidthType, ShadingType, BorderStyle, LevelFormat, AlignmentType, PageOrientation, Footer, PageNumber, Tab } = require('docx');
 
 const [,, inPath, outPath, orient] = process.argv;
 const md = fs.readFileSync(inPath, 'utf8').split('\n');
@@ -9,6 +9,15 @@ const PAGE_W = landscape ? 16838 : 11906, MARGIN = 1134;
 const CONTENT_W = PAGE_W - MARGIN * 2;
 
 function runs(text, base = {}) {
+  // 탭(대본의 이름표<탭>대사)은 Word 탭으로 바꾼다
+  if (text.includes('	')) {
+    const out = [];
+    text.split('	').forEach((part, i) => {
+      if (i > 0) out.push(new TextRun({ children: [new Tab()], ...base }));
+      out.push(...runs(part, base));
+    });
+    return out;
+  }
   const out = []; const re = /(\*\*[^*]+\*\*|\*[^*]+\*)/g; let last = 0, m;
   while ((m = re.exec(text))) {
     if (m.index > last) out.push(new TextRun({ text: text.slice(last, m.index), ...base }));

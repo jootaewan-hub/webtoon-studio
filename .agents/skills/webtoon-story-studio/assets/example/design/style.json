@@ -1,0 +1,46 @@
+{
+ "name": "2안 굵은 선 셀 2단",
+ "line": "굵은 G펜 외곽선, 안쪽 선 가늘게",
+ "color": "셀 2단 명암",
+ "shading": "장면별 단일 광원",
+ "background": "사진 기반 트레이스를 단순화",
+ "proportion": "7등신, 리액션 컷만 데포르메",
+ "sfx_style": "붓 손글씨, 강조만 적색",
+ "palette": [
+  {
+   "name": "잉크",
+   "hex": "#1C1F26"
+  },
+  {
+   "name": "수술복",
+   "hex": "#6DB6A8"
+  },
+  {
+   "name": "밤",
+   "hex": "#1F2C46"
+  },
+  {
+   "name": "나트륨",
+   "hex": "#F2A33A"
+  },
+  {
+   "name": "강",
+   "hex": "#5E7F99"
+  },
+  {
+   "name": "금",
+   "hex": "#E3BB38"
+  },
+  {
+   "name": "효과음",
+   "hex": "#C93A46"
+  }
+ ],
+ "fonts": {
+  "dialogue": "Gowun Dodum",
+  "narration": "Gowun Dodum",
+  "sfx": "Black Han Sans",
+  "handwriting": "Nanum Pen Script"
+ },
+ "notes": "폰트 상업 라이선스 확인 필요"
+}
