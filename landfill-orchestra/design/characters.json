@@ -1,0 +1,367 @@
+[
+ {
+  "id": "eunju",
+  "name": "하은주",
+  "aliases": [
+   "은주",
+   "귀신"
+  ],
+  "age": "13세",
+  "adult": false,
+  "height": "140cm",
+  "build": "petite",
+  "head_ratio": 6,
+  "hair": "long",
+  "hair_color": "#2A211C",
+  "skin": "#E2B48E",
+  "face": "작은 얼굴, 큰 눈, 소리를 들을 때 고개를 왼쪽으로 살짝 기울임, 그을린 볼",
+  "accessories": [
+   "chain"
+  ],
+  "outfits": [
+   {
+    "label": "큰 남색 점퍼·해진 바지·목장갑",
+    "color": "#2E3A5C",
+    "bottom": "pants",
+    "pants": "#5A5048"
+   },
+   {
+    "label": "흰 블라우스·감색 치마(학교)",
+    "color": "#F1EEE6",
+    "bottom": "skirt"
+   },
+   {
+    "label": "빌린 흰 원피스(무대)",
+    "color": "#FAFAF7",
+    "bottom": "long_skirt"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "귀 기울임",
+   "놀람",
+   "겁·공포",
+   "슬픔·울먹",
+   "미소",
+   "활짝 웃음"
+  ],
+  "acting": "큰 표정 대신 귀와 손. 감동은 숨 멈춤으로. 마지막 무대에서 처음 활짝 웃는다. 목에 은색 소리굽쇠 목걸이"
+ },
+ {
+  "id": "dongmin",
+  "name": "하동민",
+  "aliases": [
+   "동민"
+  ],
+  "age": "9세",
+  "adult": false,
+  "height": "125cm",
+  "build": "petite",
+  "head_ratio": 5,
+  "hair": "buzz",
+  "hair_color": "#2A211C",
+  "skin": "#E8BC96",
+  "face": "동그란 얼굴, 앞니 하나 빠짐, 무릎 반창고",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "물려받은 큰 운동복",
+    "color": "#3F7A55",
+    "bottom": "pants",
+    "pants": "#3F7A55"
+   }
+  ],
+  "expressions": [
+   "활짝 웃음",
+   "놀람",
+   "울먹",
+   "단호·진지"
+  ],
+  "acting": "몸 전체로 말한다. 슬픈 장면에서 엉뚱한 한마디"
+ },
+ {
+  "id": "manseok",
+  "name": "하만석",
+  "aliases": [
+   "아버지",
+   "은주 아버지"
+  ],
+  "age": "41세",
+  "adult": true,
+  "height": "170cm",
+  "build": "slim",
+  "head_ratio": 7,
+  "hair": "buzz",
+  "hair_color": "#4B4744",
+  "skin": "#C9966D",
+  "face": "깡마른 얼굴, 흰머리 섞인 짧은 머리, 수염 자국, 긴 손가락",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "낡은 야전상의·목수건·고무장화",
+    "color": "#5B6145",
+    "bottom": "pants",
+    "pants": "#3B3A36"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "분노",
+   "슬픔",
+   "곁눈·나른",
+   "미소"
+  ],
+  "acting": "사랑을 말로 못 하는 아버지. 감정은 손과 등으로"
+ },
+ {
+  "id": "kwak",
+  "name": "곽태복",
+  "aliases": [
+   "곽 영감",
+   "영감님"
+  ],
+  "age": "68세",
+  "adult": true,
+  "height": "160cm",
+  "build": "stocky",
+  "head_ratio": 6.5,
+  "hair": "buzz",
+  "hair_color": "#E8E6E1",
+  "skin": "#C69A76",
+  "face": "굵은 눈썹, 깊은 주름, 오른손 약지·새끼손가락이 굽음, 귀에 연필, 이마에 돋보기안경",
+  "accessories": [
+   "glasses"
+  ],
+  "outfits": [
+   {
+    "label": "톱밥 묻은 캔버스 앞치마·팔토시",
+    "color": "#8A7556",
+    "bottom": "pants",
+    "pants": "#4A4640"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "곁눈",
+   "단호·진지",
+   "미소",
+   "활짝 웃음"
+  ],
+  "acting": "표정 변화 거의 없음. 감정은 작업하는 손의 속도로. 웃음은 두 번뿐"
+ },
+ {
+  "id": "seonyoung",
+  "name": "백선영",
+  "aliases": [
+   "선영",
+   "선생님",
+   "백 선생"
+  ],
+  "age": "23세",
+  "adult": true,
+  "height": "162cm",
+  "build": "slim",
+  "head_ratio": 7,
+  "hair": "bob",
+  "hair_color": "#2B2420",
+  "skin": "#F1D3BB",
+  "face": "단발에 앞머리, 동그란 금속테 안경, 긴장하면 안경을 고쳐 씀",
+  "accessories": [
+   "glasses"
+  ],
+  "outfits": [
+   {
+    "label": "구겨진 흰 셔츠·카디건·긴 플레어스커트",
+    "color": "#F2EFE8",
+    "bottom": "long_skirt"
+   },
+   {
+    "label": "검은 연주복(무대)",
+    "color": "#1E1E22",
+    "bottom": "long_skirt"
+   }
+  ],
+  "expressions": [
+   "당황·놀람",
+   "식은땀·초조",
+   "미소",
+   "단호·진지",
+   "울먹"
+  ],
+  "acting": "아이들보다 더 허둥대지만 결정적일 때 단단하다"
+ },
+ {
+  "id": "choi",
+  "name": "최정수",
+  "aliases": [
+   "최 계장",
+   "계장님"
+  ],
+  "age": "46세",
+  "adult": true,
+  "height": "168cm",
+  "build": "average",
+  "head_ratio": 6.5,
+  "hair": "side",
+  "hair_color": "#1F1D1B",
+  "skin": "#D9B08C",
+  "face": "7:3 포마드 가르마, 두꺼운 뿔테 안경, 땀을 닦는 손수건",
+  "accessories": [
+   "glasses"
+  ],
+  "outfits": [
+   {
+    "label": "회색 양복·넥타이·서류 봉투",
+    "color": "#7A7C80",
+    "bottom": "pants",
+    "pants": "#6A6C70"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "식은땀·초조",
+   "당황",
+   "단호·진지",
+   "울먹"
+  ],
+  "acting": "웃기지 않으려는데 웃긴 사람. 진지할수록 땀을 닦는다"
+ },
+ {
+  "id": "taejun",
+  "name": "연태준",
+  "aliases": [
+   "태준",
+   "악장"
+  ],
+  "age": "14세",
+  "adult": false,
+  "height": "165cm",
+  "build": "slim",
+  "head_ratio": 6.5,
+  "hair": "side",
+  "hair_color": "#151313",
+  "skin": "#F3DCCB",
+  "face": "단정한 옆가르마, 하얀 피부, 곧은 자세, 당황하면 눈을 비빔",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "사립학교 교복(감색 재킷·넥타이)",
+    "color": "#1F2A4A",
+    "bottom": "pants",
+    "pants": "#2A2E38"
+   },
+   {
+    "label": "검은 연주복",
+    "color": "#18181C",
+    "bottom": "pants",
+    "pants": "#18181C"
+   }
+  ],
+  "expressions": [
+   "냉정",
+   "비웃",
+   "놀람",
+   "식은땀·초조",
+   "미소"
+  ],
+  "acting": "완벽한 자세 속 긴장. 무너질 때 손끝이 먼저 떨린다"
+ },
+ {
+  "id": "mija",
+  "name": "오미자",
+  "aliases": [
+   "미자",
+   "깡순이"
+  ],
+  "age": "14세",
+  "adult": false,
+  "height": "158cm",
+  "build": "average",
+  "head_ratio": 6,
+  "hair": "spiky",
+  "hair_color": "#2C2219",
+  "skin": "#DDAA80",
+  "face": "짧은 단발에 뻗친 앞머리, 코에 반창고, 큰 목소리",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "빨간 트레이닝 상의",
+    "color": "#C0392F",
+    "bottom": "pants",
+    "pants": "#33363E"
+   }
+  ],
+  "expressions": [
+   "분노",
+   "비웃",
+   "활짝 웃음",
+   "울먹",
+   "단호·진지"
+  ],
+  "acting": "큰소리와 몸짓. 때리는 장면은 없다"
+ },
+ {
+  "id": "deoksu",
+  "name": "박덕수",
+  "aliases": [
+   "덕수"
+  ],
+  "age": "12세",
+  "adult": false,
+  "height": "155cm",
+  "build": "stocky",
+  "head_ratio": 5.5,
+  "hair": "buzz",
+  "hair_color": "#241E1A",
+  "skin": "#E0B28A",
+  "face": "동그란 얼굴, 순한 눈, 늘 뭔가를 먹는 입",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "color": "#5D7DA8",
+    "bottom": "pants",
+    "pants": "#4A4A4A"
+   }
+  ],
+  "expressions": [
+   "무표정",
+   "미소",
+   "놀람",
+   "울먹"
+  ],
+  "acting": "느리고 따뜻하다. 첼로 소리가 그의 목소리"
+ },
+ {
+  "id": "sunrye",
+  "name": "함순례",
+  "aliases": [
+   "국밥집 할머니",
+   "할머니"
+  ],
+  "age": "70대",
+  "adult": true,
+  "height": "148cm",
+  "build": "petite",
+  "head_ratio": 6,
+  "hair": "bob",
+  "hair_color": "#E9E7E3",
+  "skin": "#C89A78",
+  "face": "흰 쪽진 머리, 깊은 주름, 굽은 등",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "몸뻬 바지·꽃무늬 앞치마",
+    "color": "#B5546A",
+    "bottom": "pants",
+    "pants": "#5B4E6A"
+   }
+  ],
+  "expressions": [
+   "미소",
+   "활짝 웃음",
+   "단호·진지"
+  ],
+  "acting": "섬의 목소리. 툭 던지는 한마디로 장면을 정리한다"
+ }
+]
