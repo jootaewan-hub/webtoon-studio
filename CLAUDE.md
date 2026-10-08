@@ -3,6 +3,7 @@
 이 저장소는 웹툰 원작 기획·집필·콘티 작업장이다. 작업을 시작하기 전에 `CONTINUE.md`를 읽는다.
 
 - 언어: 한국어. 근거를 밝히고, 미확인·추측은 표시한다.
+- 「깡통 바이올린」(`landfill-orchestra/`) 작업은 `landfill-orchestra/CONTINUE.md`와 그 폴더의 `decisions.md`를 기준으로 한다.
 - 진행 방식: `skills/webtoon-story-studio`의 결정 게이트(G0~G12)를 따른다. 결정은 `five-doors/decisions.md`에 한 줄씩 남긴다.
 - 그림은 그리지 않는다. 작화는 ChatGPT와 Codex가 맡는다. Claude는 사양, 프롬프트, 콘티를 만든다.
 - 기준 우선순위: `decisions.md` > `story/bible.md` 0-2 확정 외형 > LOCK 문단(`handoff/`) > `story/novel.md`·`script.md`.
