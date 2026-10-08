@@ -69,7 +69,7 @@ function prompt(tr,c){
   const t=(D.tracks.tracks||{})[tr]||{};const L=(c.lines||[]).map(l=>`  - [${l.type}] ${l.speaker?l.speaker+': ':''}${l.text}`).join('\n');
   const scr=c.screen||c.summary||'';const note=(c.notes||{})[tr]?`\n- 추가 지시: ${c.notes[tr]}`:'';
   const head=`## ${c.id} (${c.chapter||''}${c.scene?' / '+c.scene:''})\n`+(c.shot?`- 샷·앵글·인물: ${c.shot}\n`:'');
-  if(tr==='webtoon_real'||tr==='webtoon_adult')return head+`**이미지 프롬프트**\n${t.style||''}\n- 캔버스: ${c.width||800}×${c.height||800} (세로 스크롤 컷)\n- 시대·장소: ${D.style.era||''}\n- 화면·연출: ${scr}\n- 등장인물(외형 고정값):\n${who(c)||'- (인물 없음 또는 실루엣)'}\n- 조명·색: ${D.style.palette_hint||''}\n- 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)${note}\n\n**레터링(후공정)**\n${L||'  - (없음)'}\n\n**금지·수위**\n${neg(c)}\n`;
+  if(tr==='webtoon_real'||tr==='webtoon_adult')return head+`**이미지 프롬프트**\n${t.style||''}\n- 캔버스: ${c.width||800}×${c.height||800} (세로 스크롤 컷)\n${D.style.era?'- 시대·장소: '+D.style.era+'\n':''}${D.style.art?'- 그림체: '+D.style.art+'\n':''}- 화면·연출: ${scr}\n- 등장인물(외형 고정값):\n${who(c)||'- (인물 없음 또는 실루엣)'}\n${D.style.palette_hint?'- 조명·색: '+D.style.palette_hint+'\n':''}- 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)${note}\n\n**레터링(후공정)**\n${L||'  - (없음)'}\n\n**금지·수위**\n${neg(c)}\n`;
   if(tr==='shorts')return head+`- 길이: ${dur(c)}초 / 9:16 (1080×1920)\n- 카메라: ${camera(c)}\n- 화면: ${scr}${note}\n- 자막·VO:\n${L||'  - (무음)'}\n- 금지·수위:\n${neg(c)}\n`;
   return head+`- 샷 길이: ${dur(c)}초 @24fps (${Math.round(dur(c)*24)}프레임)\n- 카메라: ${camera(c)}\n- 레이어: BG / 인물 / FX / 레터링\n- 연기·화면: ${scr}${note}\n- 대사(립싱크·VO):\n${L||'  - (없음)'}\n- 인물 시트:\n${who(c)||'- (없음)'}\n- 금지·수위:\n${neg(c)}\n`;
 }

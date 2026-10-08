@@ -51,13 +51,38 @@
   "lines": [{"type": "dialogue", "speaker": "치프", "text": "니는 와 맨날 수요일 금요일이고?"}],
   "flags": ["intimate" | "violence" | "self_harm_theme"],
   "thumb": "thumbs/2-042.svg",
-  "notes": {"webtoon_real": "트랙 전용 추가 지시"}
+  "notes": {"webtoon_real": "트랙 전용 추가 지시"},
+  "flags_override": ["intimate"],
+  "edited_fields": ["screen"]
 }
 ```
 
+- import가 원본 md에서 다시 채우는 필드: chapter, scene, shot, screen, summary, lines, width, height, flags. 이 필드를 편집기에서 고쳐도 다음 import 때 md 값으로 돌아간다.
+- import 뒤에도 남는 필드: `notes`(트랙별 추가 지시, 프롬프트에 '추가 지시' 줄로 들어감), `flags_override`(손으로 정한 수위 태그, 있으면 자동 태그 대신 쓴다. 지우면 자동으로 돌아감), `thumb`.
+- `edited_fields`: merge-edits가 기록하는 '편집기에서 고친 md 필드' 목록. 다음 import에서 md 값과 다르면 경고하고 편집값을 `data/edits_replaced.json`에 남긴 뒤 지운다.
+
 ## data/characters.json
 
-`[{"name": "무진", "aliases": ["권무진"], "look": "외형 고정값 한 문단"}]` — 화면·대사 텍스트에 이름이나 별칭이 나오면 그 컷 프롬프트에 외형이 자동 첨부된다.
+두 형식을 모두 읽는다. 화면·샷·대사 텍스트에 이름이나 별칭이 나오면 그 컷 프롬프트에 외형이 자동 첨부된다.
+
+- 킷 형식: `[{"name": "무진", "aliases": ["권무진"], "look": "외형 고정값 한 문단"}]`
+- 스튜디오 형식(webtoon-story-studio의 `design/characters.json`): `look`이 없으면 age·adult·height·build·head_ratio·hair·hair_color·skin·face·accessories·outfits·acting으로 외형 문구를 조합한다. `aliases`가 없으면 빈 목록. 직접 쓴 `look`이 있으면 그것이 우선한다.
+
+## data/style.json
+
+- 킷 형식: `era`(시대·장소), `palette_hint`(색·광원), `fonts`, `bubbles`, `tone`.
+- 스튜디오 형식: `palette`(이름·HEX 목록)로 `palette_hint`를 만들고, name·line·color·shading·background·proportion으로 프롬프트의 '그림체' 줄을 만든다. `era`는 스튜디오 형식에 없으므로 넣어야 '시대·장소' 줄이 나온다.
+
+## data/flags.json (작품별 수위 단서)
+
+```json
+{"intimate": {"strong": ["사우나 탈의실"], "weak": ["수건"], "remove": ["이불"]},
+ "violence": {"strong": [], "weak": [], "remove": []},
+ "self_harm_theme": {"strong": [], "weak": [], "remove": []}}
+```
+
+- kit.py의 기본 단서(`DEFAULT_FLAG_KW`, 어느 작품에나 통하는 낱말)에 더하고 뺀다. strong은 그 장면 전체로, weak는 그 컷에만 태그를 붙인다. `_`로 시작하는 키는 설명으로 무시한다.
+- 낱말은 화면·연출과 대사 칸 원문에서 찾는다. 대사 표기(`인물(속삭임):` 등)도 원문에 들어 있으니 흔한 표기 낱말은 넣지 않는다.
 
 ## data/tracks.json
 

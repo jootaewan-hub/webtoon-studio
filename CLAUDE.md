@@ -11,3 +11,4 @@
   - `python3 five-doors/tools/studio.py <명령> --dir five-doors` (docx, pack 등)
   - 킷은 `skills/webtoon-adaptation-kit/scripts/kit.py`
   - docx 변환에는 `npm i -g docx`가 필요하다.
+- 스킬 원본은 `skills/<이름>/` 하나다. 고친 뒤에는 `python3 tools/sync_skills.py`로 `.claude/skills/` 사본과 `skills/*.skill` 패키지를 맞춘다(`--check`는 점검만).

@@ -1,0 +1,18 @@
+{
+  "_설명": "작품 고유의 수위 단서. 기본 단서(kit.py의 DEFAULT_FLAG_KW)에 더하거나 뺀다. strong=그 장면 전체로 전파, weak=그 컷에만, remove=기본 단서에서 뺄 낱말. 손으로 태그를 고정하려면 cuts.json의 컷에 flags_override를 넣거나 편집기 체크박스를 고친 뒤 merge-edits 한다.",
+  "intimate": {
+    "strong": [],
+    "weak": [],
+    "remove": []
+  },
+  "violence": {
+    "strong": [],
+    "weak": [],
+    "remove": []
+  },
+  "self_harm_theme": {
+    "strong": [],
+    "weak": [],
+    "remove": []
+  }
+}

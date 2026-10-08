@@ -31,6 +31,8 @@ function table(rows) {
   let weights;
   if (n === 4) weights = [9, 10, 46, 35];
   else if (n === 5 && header[0] === '컷') weights = [7, 8, 17, 40, 28];
+  else if (n === 10 && header[0] === '샷') weights = [6, 6, 7, 11, 17, 11, 10, 10, 14, 8];
+  else if (n === 6 && header[0] === '게이트') weights = [8, 14, 22, 30, 8, 12];
   else if (n === 5) weights = [10, 16, 26, 22, 26];
   else if (n === 3) weights = [40, 25, 35];
   else weights = Array(n).fill(1);

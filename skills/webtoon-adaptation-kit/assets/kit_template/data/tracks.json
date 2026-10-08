@@ -3,7 +3,7 @@
     "webtoon_real": {
       "title": "실사 웹툰 이미지",
       "brief": "사진처럼 사실적인 시네마틱 스틸로 각 컷을 만든다. 얼굴은 모두 창작된 가상 인물이어야 하며, 같은 인물은 캐릭터 시트의 외형 고정값으로 컷마다 일관되게 유지한다.",
-      "style": "Photorealistic cinematic still, 35mm film look, 1990s Korea, natural skin texture, consistent fictional characters (not resembling any real person), Korean webtoon vertical panel composition"
+      "style": "Photorealistic cinematic still, 35mm film look, natural skin texture, consistent fictional characters (not resembling any real person), Korean webtoon vertical panel composition"
     },
     "webtoon_adult": {
       "title": "성인 웹툰 이미지 (19세 드라마)",
@@ -21,7 +21,7 @@
   },
   "global_negative": [
     "실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)",
-    "실제 병원·방송사·브랜드 로고 금지",
+    "실제 기관(병원·방송사·학교·회사 등)·브랜드 로고 금지",
     "미성년자로 보이는 인물 금지",
     "이미지 안에 말풍선·글자 넣지 말 것 (레터링은 후공정)"
   ],
@@ -34,6 +34,6 @@
     "상처·출혈·두개골 손상 묘사 금지"
   ],
   "self_harm_rule": [
-    "투신 순간 묘사 금지: 남겨진 구두·유서와 이후 헤엄치는 장면으로만 연결"
+    "투신·자해 순간 묘사 금지: 남겨진 소품과 이후 장면으로만 연결"
   ]
 }

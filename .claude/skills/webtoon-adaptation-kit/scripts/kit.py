@@ -3,7 +3,7 @@
 
 사용법 (킷 폴더에서 실행, Python 3.9+, 외부 패키지 불필요):
   python kit.py import  [--novel source/novel.md] [--storyboard source/storyboard.md]
-  python kit.py validate
+  python kit.py validate        # 문제·수위 태그 집계와 설정 점검(인물·스타일·수위 단서)
   python kit.py prompts --track webtoon_real|webtoon_adult|shorts|anim|all
   python kit.py editor           # tools/editor_ready.html 생성 (데이터 내장)
   python kit.py merge-edits FILE # 편집기에서 내려받은 cuts.json 병합
@@ -29,16 +29,41 @@ def cut_order(k):
     rank = 10 ** 6 if ch == "E" else int(ch)
     return (rank, int(n) if n.isdigit() else 0, k)
 
-# 강한 단서: 장면 전체로 전파 / 약한 단서: 해당 컷에만
-INTIMATE_STRONG = ["키스", "정사", "맨어깨", "맨살", "맨등", "몸을 섞", "허리를 감", "잇자국", "쇄골", "목덜미", "밀어붙", "가운 깃", "초록 유도등"]
-INTIMATE_WEAK = ["단추", "입술", "흘러내", "이불", "속삭임", "삐걱", "옷깃", "숨소리", "뒷머리", "스타킹"]
-VIOLENCE_STRONG = ["퍽", "타격", "휘두", "휘둘"]
-VIOLENCE_WEAK = ["망치", "무너", "폭력"]
-SELFHARM_STRONG = ["유서", "투신", "자살", "강물에", "물속", "헤엄"]
-SELFHARM_WEAK = ["강물", "물보라", "가지런히 놓인", "가지런한 구두"]
-INTIMATE_KW = INTIMATE_STRONG + INTIMATE_WEAK
-VIOLENCE_KW = VIOLENCE_STRONG + VIOLENCE_WEAK
-SELFHARM_KW = SELFHARM_STRONG + SELFHARM_WEAK
+# 수위 단서 기본값: 어느 작품에나 통하는 낱말만 둔다. strong=장면 전체로 전파, weak=그 컷에만.
+# 작품 고유 어휘(장소·소품·사건)는 data/flags.json으로 더하거나(strong/weak) 뺀다(remove).
+FLAG_NAMES = ("intimate", "violence", "self_harm_theme")
+# import가 원본 콘티 md에서 다시 채우는 필드(편집기에서 고쳐도 다음 import 때 md 값으로 돌아감)
+PARSED_FIELDS = ("chapter", "scene", "shot", "screen", "summary", "lines", "width", "height")
+DEFAULT_FLAG_KW = {
+    "intimate": {"strong": ["키스", "정사", "베드신", "알몸", "나체", "맨살", "맨어깨", "맨등", "몸을 섞", "허리를 감", "잇자국", "밀어붙"],
+                 "weak": ["단추", "입술", "흘러내", "이불", "옷깃", "숨소리", "쇄골", "목덜미", "스타킹", "속옷"]},
+    "violence": {"strong": ["퍽", "타격", "휘두", "휘둘", "주먹을 날", "멱살"],
+                 "weak": ["폭력", "밀쳐", "따귀", "뺨을"]},
+    "self_harm_theme": {"strong": ["유서", "투신", "자살", "자해"],
+                        "weak": ["난간 너머", "옥상 끝"]},
+}
+_FLAG_KW = None
+
+
+def flag_keywords():
+    """기본 단서 + data/flags.json(작품별 추가·제외)."""
+    global _FLAG_KW
+    if _FLAG_KW is None:
+        kw = {n: {"strong": list(v["strong"]), "weak": list(v["weak"])} for n, v in DEFAULT_FLAG_KW.items()}
+        for name, spec in (load("flags.json", {}) or {}).items():
+            if name.startswith("_"):
+                continue
+            if name not in kw or not isinstance(spec, dict):
+                print(f"[경고] data/flags.json: 알 수 없는 항목 '{name}' (쓸 수 있는 것: {', '.join(FLAG_NAMES)})")
+                continue
+            for lvl in ("strong", "weak"):
+                kw[name][lvl] += [w for w in spec.get(lvl, []) if w and w not in kw[name][lvl]]
+            for w in spec.get("remove", []):
+                for lvl in ("strong", "weak"):
+                    if w in kw[name][lvl]:
+                        kw[name][lvl].remove(w)
+        _FLAG_KW = kw
+    return _FLAG_KW
 
 
 def load(name, default=None):
@@ -79,13 +104,81 @@ def split_lines(cell):
 
 def flags_for(text, strong_only=False):
     f = []
-    for name, strong, weak in (("intimate", INTIMATE_STRONG, INTIMATE_WEAK),
-                               ("violence", VIOLENCE_STRONG, VIOLENCE_WEAK),
-                               ("self_harm_theme", SELFHARM_STRONG, SELFHARM_WEAK)):
-        kws = strong if strong_only else strong + weak
-        if any(k in text for k in kws):
+    for name in FLAG_NAMES:
+        k = flag_keywords()[name]
+        kws = k["strong"] if strong_only else k["strong"] + k["weak"]
+        if any(w in text for w in kws):
             f.append(name)
     return f
+
+
+# ---------- 인물·스타일 (킷 형식과 webtoon-story-studio 형식 모두 읽는다) ----------
+BUILD_KO = {"slim": "마른 체형", "average": "보통 체형", "stocky": "다부진 체형", "curvy": "볼륨 있는 체형", "petite": "작고 가는 체형"}
+HAIR_KO = {"side": "옆가르마 머리", "pony": "포니테일", "buzz": "아주 짧게 민 머리", "spiky": "뻗친 머리",
+           "slick": "뒤로 넘긴 머리", "bald": "민머리", "long": "긴 머리", "bob": "단발"}
+ACC_KO = {"glasses": "안경", "shades": "선글라스", "cap": "간호사 캡", "chain": "목걸이", "earring": "귀걸이", "scar_r": "오른쪽 얼굴 흉터"}
+
+
+def norm_char(c):
+    """킷 형식 {name, aliases, look}은 그대로. 스튜디오 형식(age·build·hair·face·outfits…)이면 look을 조합한다."""
+    c = dict(c)
+    c["aliases"] = c.get("aliases") or []
+    if not c.get("look"):
+        p = []
+        age = str(c.get("age", "")).strip()
+        if age or c.get("adult"):
+            p.append(f"{age} 성인".strip() if c.get("adult") else age)
+        for k in ("height",):
+            if c.get(k):
+                p.append(str(c[k]))
+        if c.get("build"):
+            p.append(BUILD_KO.get(c["build"], str(c["build"])))
+        if c.get("head_ratio"):
+            p.append(f"{c['head_ratio']}등신")
+        if c.get("hair"):
+            p.append(HAIR_KO.get(c["hair"], str(c["hair"])) + (f"({c['hair_color']})" if c.get("hair_color") else ""))
+        if c.get("skin"):
+            p.append(f"피부 {c['skin']}")
+        if c.get("face"):
+            p.append(str(c["face"]))
+        acc = [ACC_KO.get(a, str(a)) for a in c.get("accessories", []) or []]
+        if acc:
+            p.append("소품: " + ", ".join(acc))
+        outfits = [o.get("label", "") + (f"({o['color']})" if o.get("color") else "") for o in c.get("outfits", []) or [] if isinstance(o, dict)]
+        if outfits:
+            p.append("의상(장면별): " + " / ".join(o for o in outfits if o))
+        if c.get("acting"):
+            p.append(f"연기: {c['acting']}")
+        c["look"] = ", ".join(x for x in p if x) or "(외형 정보 없음)"
+        c["_look_derived"] = True
+    return c
+
+
+def norm_style(s):
+    """킷 형식 {era, palette_hint, …}은 그대로. 스튜디오 형식(line·color·palette…)이면 palette_hint·art를 조합한다."""
+    s = dict(s or {})
+    if not s.get("palette_hint"):
+        pal = s.get("palette")
+        if isinstance(pal, list):
+            s["palette_hint"] = ", ".join(f"{x.get('name', '')} {x.get('hex', '')}".strip() for x in pal if isinstance(x, dict))
+        elif isinstance(pal, str):
+            s["palette_hint"] = pal
+    if not s.get("art"):
+        art = [f"{label} {s[k]}" for k, label in (("name", "안"), ("line", "선"), ("color", "채색"), ("shading", "명암"),
+                                                  ("background", "배경"), ("proportion", "비율")) if isinstance(s.get(k), str) and s.get(k)]
+        if art:
+            s["art"] = " / ".join(art)
+    s.setdefault("era", "")
+    s.setdefault("palette_hint", "")
+    return s
+
+
+def load_chars():
+    return [norm_char(c) for c in (load("characters.json", []) or []) if isinstance(c, dict) and c.get("name")]
+
+
+def load_style():
+    return norm_style(load("style.json", {}))
 
 
 def parse_storyboard(md):
@@ -154,9 +247,16 @@ def cmd_import(a):
         parsed, notes = parse_storyboard(Path(a.storyboard).read_text(encoding="utf-8"))
         if a.replace:
             cuts = {}
+        replaced = []
         for p in parsed:
             base = cuts.get(p["id"], {})
+            # 편집기에서 고친 콘티 필드는 원본 md 값으로 되돌아간다 → 알리고 data/edits_replaced.json에 남긴다
+            for k in base.pop("edited_fields", []):
+                if k in p and base.get(k) != p[k]:
+                    replaced.append({"id": p["id"], "field": k, "editor": base.get(k), "md": p[k]})
             base.update({k: v for k, v in p.items()})
+            if isinstance(base.get("flags_override"), list):  # 손으로 정한 수위 태그는 자동 태그보다 우선
+                base["flags"] = sorted(base["flags_override"])
             for ext in ("png", "svg"):
                 if (ROOT / "thumbs" / f"{p['id']}.{ext}").exists():
                     base["thumb"] = f"thumbs/{p['id']}.{ext}"; break
@@ -165,6 +265,11 @@ def cmd_import(a):
             cuts[p["id"]] = base
         save("chapter_notes.json", notes)
         print(f"콘티: {len(parsed)}컷 가져옴")
+        if replaced:
+            save("edits_replaced.json", replaced)
+            ids = ", ".join(sorted({r["id"] for r in replaced}, key=cut_order)[:20])
+            print(f"[경고] 편집기에서 고친 콘티 내용 {len(replaced)}건이 원본 md 값으로 대체됨: {ids} "
+                  f"— 유지하려면 source/storyboard.md에 옮기세요(이전 값: data/edits_replaced.json)")
     elif a.storyboard:
         print(f"[경고] 콘티 파일 없음: {a.storyboard}")
     if a.novel and Path(a.novel).exists():
@@ -196,6 +301,34 @@ def cmd_validate(a):
         for f in c.get("flags", []):
             tally[f] = tally.get(f, 0) + 1
     print("수위 태그:", tally)
+    # 설정 점검: 프롬프트 품질에 영향을 주지만 실행을 막지는 않는 것
+    notes = []
+    raw_chars = load("characters.json", []) or []
+    chars, style = load_chars(), load_style()
+    blob = json.dumps(raw_chars, ensure_ascii=False) + json.dumps(load("style.json", {}), ensure_ascii=False)
+    if "작품에 맞게" in blob:
+        notes.append("data/characters.json 또는 style.json에 템플릿 자리표시가 남아 있음 — 작품 값으로 바꾸세요")
+    if not chars:
+        notes.append("data/characters.json에 인물이 없음 — 프롬프트에 외형 고정값이 붙지 않습니다")
+    derived = [c["name"] for c in chars if c.get("_look_derived")]
+    if derived:
+        notes.append(f"외형 문구를 스튜디오 형식 필드에서 자동 조합: {', '.join(derived)} (직접 쓰려면 look 키를 넣으세요)")
+    text = json.dumps([[c.get("shot", ""), c.get("screen", ""), c.get("lines", [])] for c in cuts], ensure_ascii=False)
+    unseen = [c["name"] for c in chars if c["name"] not in text and not any(al in text for al in c["aliases"])]
+    if cuts and unseen:
+        notes.append(f"어느 컷에도 이름·별칭이 나오지 않는 인물: {', '.join(unseen)} (별칭 확인)")
+    if not style.get("era"):
+        notes.append("data/style.json에 era(시대·장소)가 없음 — 이미지 프롬프트에 시대·장소 줄이 빠집니다")
+    if not style.get("palette_hint"):
+        notes.append("data/style.json에 palette_hint(또는 palette)가 없음")
+    ov = [c["id"] for c in cuts if isinstance(c.get("flags_override"), list)]
+    if ov:
+        notes.append(f"수위 태그를 손으로 고정한 컷 {len(ov)}개: {', '.join(ov[:20])} (자동으로 되돌리려면 flags_override 삭제)")
+    if (DATA / "flags.json").exists():
+        k = flag_keywords()
+        notes.append("수위 단서: " + ", ".join(f"{n} {len(k[n]['strong'])}+{len(k[n]['weak'])}" for n in FLAG_NAMES) + " (강+약, data/flags.json 반영)")
+    for n in notes:
+        print("[주의]", n)
 
 
 # ---------- prompts ----------
@@ -252,16 +385,19 @@ def prompt_for(track, c, chars, style, tracks):
     lines = "\n".join(f"  - [{l['type']}] {l['speaker']}: {l['text']}" if l['speaker'] else f"  - [{l['type']}] {l['text']}" for l in c.get("lines", []))
     neg = "\n".join(f"- {r}" for r in safety(track, c, tracks))
     head = f"## {c['id']} ({c.get('chapter','')}{' / ' + c['scene'] if c.get('scene') else ''})\n" + (f"- 샷·앵글·인물: {c['shot']}\n" if c.get("shot") else "")
+    note = (c.get("notes") or {}).get(track, "")
+    note = f"\n- 추가 지시: {note}" if note else ""  # 편집기의 트랙별 추가 지시(편집기 미리보기와 같은 자리)
+    era = f"- 시대·장소: {style['era']}\n" if style.get("era") else ""
+    art = f"- 그림체: {style['art']}\n" if style.get("art") else ""
+    pal = f"- 조명·색: {style['palette_hint']}\n" if style.get("palette_hint") else ""
     if track in ("webtoon_real", "webtoon_adult"):
         return head + f"""**이미지 프롬프트**
 {t['style']}
 - 캔버스: {c.get('width',800)}×{c.get('height',800)} (세로 스크롤 컷)
-- 시대·장소: {style['era']}
-- 화면·연출: {c.get('screen') or c.get('summary','')}
+{era}{art}- 화면·연출: {c.get('screen') or c.get('summary','')}
 - 등장인물(외형 고정값):
 {who or '- (인물 없음 또는 실루엣)'}
-- 조명·색: {style['palette_hint']}
-- 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
+{pal}- 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정){note}
 
 **레터링(후공정)**
 {lines or '  - (없음)'}
@@ -273,7 +409,7 @@ def prompt_for(track, c, chars, style, tracks):
     if track == "shorts":
         return head + f"""- 길이: {dur(c)}초 / 화면비 9:16 (1080×1920), 원본 컷을 세로로 재프레이밍
 - 카메라: {camera(c)}
-- 화면: {c.get('screen') or c.get('summary','')}
+- 화면: {c.get('screen') or c.get('summary','')}{note}
 - 자막·VO:
 {lines or '  - (무음)'}
 - 금지·수위:
@@ -283,7 +419,7 @@ def prompt_for(track, c, chars, style, tracks):
         return head + f"""- 샷 길이: {dur(c)}초 @24fps ({int(dur(c)*24)}프레임)
 - 카메라: {camera(c)}
 - 레이어: BG / 인물 / FX / 레터링
-- 연기·화면: {c.get('screen') or c.get('summary','')}
+- 연기·화면: {c.get('screen') or c.get('summary','')}{note}
 - 대사(립싱크·VO):
 {lines or '  - (없음)'}
 - 인물 시트:
@@ -296,7 +432,7 @@ def prompt_for(track, c, chars, style, tracks):
 
 def cmd_prompts(a):
     cuts = load("cuts.json", [])
-    chars, style, tracks = load("characters.json", []), load("style.json", {}), load("tracks.json", {})
+    chars, style, tracks = load_chars(), load_style(), load("tracks.json", {})
     names = list(tracks["tracks"]) if a.track == "all" else [a.track]
     for tr in names:
         d = OUT / tr
@@ -323,8 +459,8 @@ def cmd_prompts(a):
 # ---------- editor ----------
 def cmd_editor(a):
     tpl = (ROOT / "tools" / "editor.html").read_text(encoding="utf-8")
-    payload = json.dumps({"cuts": load("cuts.json", []), "characters": load("characters.json", []),
-                          "style": load("style.json", {}), "tracks": load("tracks.json", {})}, ensure_ascii=False)
+    payload = json.dumps({"cuts": load("cuts.json", []), "characters": load_chars(),
+                          "style": load_style(), "tracks": load("tracks.json", {})}, ensure_ascii=False)
     out = ROOT / "tools" / "editor_ready.html"
     out.write_text(tpl.replace("/*__KIT_DATA__*/null", payload.replace("</", "<\\/")), encoding="utf-8")
     print(f"편집기 생성: {out}")
@@ -335,10 +471,21 @@ def cmd_merge(a):
     if isinstance(new, dict):  # 편집기는 배열을 내려받는다. {"cuts": [...]} 형식도 받는다.
         new = new.get("cuts", [])
     cur = {c["id"]: c for c in load("cuts.json", [])}
+    flagged = 0
     for c in new:
-        cur[c["id"]] = {**cur.get(c["id"], {}), **c}
-    save("cuts.json", list(cur.values()))
-    print(f"병합: {len(new)}컷")
+        old = cur.get(c["id"], {})
+        merged = {**old, **c}
+        # 원본 md에서 오는 필드를 고쳤으면 기록해 둔다(다음 import 때 md 값으로 바뀌면 경고)
+        ed = set(old.get("edited_fields", [])) | {k for k in PARSED_FIELDS if k in c and k in old and c[k] != old[k]}
+        if ed:
+            merged["edited_fields"] = sorted(ed)
+        # 수위 태그를 바꿨으면 손으로 정한 값으로 고정(import가 덮어쓰지 않음)
+        if "flags" in c and sorted(c["flags"]) != sorted(old.get("flags", [])):
+            merged["flags_override"] = sorted(c["flags"])
+            flagged += 1
+        cur[c["id"]] = merged
+    save("cuts.json", [cur[k] for k in sorted(cur, key=cut_order)])
+    print(f"병합: {len(new)}컷" + (f" / 수위 태그 고정 {flagged}컷" if flagged else ""))
 
 
 def cmd_pack(a):

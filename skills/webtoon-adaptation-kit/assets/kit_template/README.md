@@ -16,9 +16,10 @@ kit.py              변환 도구 (Python 3.9+, 외부 패키지 불필요. docx
 AGENTS.md           Codex가 읽는 작업 지침
 source/             소설·콘티 원본 (.md 작업용, .docx 읽기·공유용)
 data/cuts.json      컷 데이터 (번호·장·크기·요약·화면·대사·수위 태그·썸네일 경로)
-data/characters.json  인물 외형 고정값
-data/style.json     시대·색·글꼴·말풍선 규칙
+data/characters.json  인물 외형 고정값 (처음엔 자리표시 견본 — 작품 값으로 바꿉니다)
+data/style.json     시대·색·글꼴·말풍선 규칙 (처음엔 자리표시 견본)
 data/tracks.json    트랙별 스타일과 금지·수위 규칙
+data/flags.json     작품 고유의 수위 단서(기본 단서에 더하기·빼기)
 thumbs/             콘티 썸네일 (컷 번호.png 또는 자동 생성 .svg)
 renders/<트랙>/     생성한 결과 이미지를 컷 번호.png로 넣으면 편집기에서 나란히 보입니다
 tools/editor_ready.html  컷 편집기 (데이터 내장, 브라우저로 열기)
@@ -31,7 +32,7 @@ source/에 novel.md, storyboard.md를 넣고, 썸네일을 thumbs/<컷번호>.pn
 
 ```
 python kit.py import      # source/*.md → data/cuts.json (컷 번호 체계가 바뀌면 --replace)
-python kit.py validate    # 빠진 칸·썸네일 확인, 수위 태그 집계
+python kit.py validate    # 빠진 칸·썸네일 확인, 수위 태그 집계, 설정 점검([주의])
 python kit.py prompts --track all   # outputs/<트랙>/ 컷별 .md와 _ALL.md
 python kit.py shorts-script         # 장별 쇼츠 러프컷 ffmpeg 스크립트
 python kit.py thumbs-auto  # 샷·앵글·인물 칸으로 레이아웃 썸네일(SVG) 자동 생성
@@ -46,6 +47,8 @@ python kit.py docx        # source/*.md → source/*.docx (node+docx 또는 pand
 - 컷을 고르고 화면·연출, 대사, 수위 태그, 트랙별 추가 지시를 고칩니다. 변경은 브라우저에 자동 저장됩니다.
 - "이 컷 프롬프트 복사"로 ChatGPT에 바로 붙여 넣을 수 있습니다.
 - 다 고쳤으면 "cuts.json 내려받기" 후 `python kit.py merge-edits 내려받은파일.json`, 그리고 `python kit.py prompts --track all`을 다시 실행합니다.
+- 수위 태그와 트랙별 추가 지시는 다음 import 뒤에도 남습니다. 화면·연출·대사 같은 콘티 칸은 원본 md가 기준이라 다음 import 때 md 값으로 돌아갑니다(경고가 뜨고 이전 값은 data/edits_replaced.json에 남음). 오래 남길 수정은 source/storyboard.md에 하세요.
+- 수위 태그가 자꾸 빠지거나 잘못 붙는 낱말이 있으면 data/flags.json에 더하거나(strong·weak) 뺍니다(remove).
 - 썸네일을 바꾸려면 `thumbs/컷번호.png`를 같은 이름으로 덮어씁니다.
 
 ## ChatGPT에서 쓰는 법
@@ -58,7 +61,7 @@ python kit.py docx        # source/*.md → source/*.docx (node+docx 또는 pand
 
 ## 지켜야 할 규칙 (모든 트랙 공통)
 
-- 모든 얼굴은 창작된 가상 인물입니다. 실존 인물을 닮게 만들지 않습니다. 이 이야기는 실제 사건을 바탕으로 하므로 특히 중요합니다.
-- 실제 병원·방송사 로고를 쓰지 않습니다.
+- 모든 얼굴은 창작된 가상 성인입니다. 실존 인물을 닮게 만들지 않습니다. 실화 기반 작품이면 특히 중요합니다.
+- 실제 기관(병원·방송사·학교·회사 등)·브랜드 로고를 쓰지 않습니다.
 - 성인 트랙도 수위 상한은 콘티와 같습니다. 정사 장면은 실루엣·역광·손·반지·소품으로만 암시합니다.
 - 폭력은 집중선과 효과음으로, 투신은 남겨진 소품과 이후 장면으로만 처리합니다.
