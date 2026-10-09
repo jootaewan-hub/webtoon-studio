@@ -12,7 +12,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LABEL = {"eunju": "은주", "dongmin": "동민", "manseok": "만석", "kwak": "곽 영감", "seonyoung": "선영",
-         "choi": "최 계장", "taejun": "태준", "mija": "미자", "deoksu": "덕수", "sunrye": "순례 할머니"}
+         "choi": "최 계장", "taejun": "태준", "mija": "미자", "deoksu": "덕수", "sunrye": "순례 할머니",
+         "bonggu": "봉구", "yeongran": "영란", "gyeongho": "경호", "gyeongmin": "경민", "suni": "순이", "seoki": "석이"}
 
 
 def char_locks():

@@ -13,7 +13,7 @@ G6 확정 2026-10-09. 기준: "ChatGPT·Codex가 콘티대로 정확히 그릴 �
 | 그림자 색 | 검정을 섞지 않는다. 씬 프리셋의 '그림자' HEX(따뜻한 갈색·남색 계열) | shadows tinted warm brown or navy, never gray-black |
 | 질감 | 종이·수채·그레인·노이즈 없음 | no paper texture, no watercolor bleed, no film grain |
 | 배경 | 1980년대 사진 고증 기반 반실사. 전경 1/3만 디테일, 원경은 색면 2~3단 | semi-realistic background based on 1980s Seoul references, detailed foreground, simplified flat-color distance |
-| 비율 | 반실사. 은주 5.5등신·140cm, 동민 5등신·125cm, 덕수 5.5등신·155cm, 미자 6등신·158cm, 태준 6.5등신·165cm, 어른 6.5~7등신. 곽 영감은 등이 조금 굽음 | semi-realistic proportions, children look their real age |
+| 비율 | 반실사. 은주 5.5등신·140cm, 동민 5등신·125cm, 덕수 5.5등신·155cm, 미자 6등신·158cm, 태준 6.5등신·165cm, 어른 6.5~7등신. 만석은 등이 약간 굽고, 곽 영감은 작지만 허리가 꼿꼿하다(바이블). 순례 할머니는 굽음 | semi-realistic proportions, children look their real age |
 | 데포르메 | 대본에서 코미디로 지정한 컷만(2화 S#1 몽타주, 동민·미자 리액션). 2~3등신, 그 컷 안에서만 | (해당 컷에만) chibi comedic reaction, 2-3 heads tall |
 | 표정·연기 | 콘티의 연기 메모를 얼굴·손으로 그대로. 은주는 '입꼬리만'이 기본. 열세 살 은주의 활짝 웃음은 3화 S#27이 처음이자 유일, 어른 은주는 에필로그 S#34에서 다시 활짝 웃는다 | 해당 컷의 연기 메모를 영어로 그대로 옮김 |
 | 화면 비 | 웹툰 컷: 세로 800×1000 기본, 와이드 800×500, 세로 긴 컷 800×1600 | vertical webtoon panel, 4:5 (or 16:10 wide / 1:2 tall) |
@@ -92,21 +92,35 @@ G6 확정 2026-10-09. 기준: "ChatGPT·Codex가 콘티대로 정확히 그릴 �
 
 - 컷 안에서 의상이 씬 프리셋과 다르면(예: 1-11에서 목장갑을 벗고 켬) [CUT]의 의상 변화가 우선이다. `tools/prompt.py --outfit eunju="..."`로 덮어쓴다.
 
-## 6. 인물 고정 문구 (영어, G7에서 다듬는다)
+## 6. 인물 고정 문구 (영어, G7 확정 2026-10-09)
 
-외형 원본은 `story/bible.md`와 `design/characters.json`. G7 캐릭터 시안 확정 뒤 이 문구를 고친다.
+외형 원본은 `story/bible.md`, 기계용은 `design/characters.json`(고른 시안은 `design_choice`). 의상은 고정 문구에 넣지 않고 씬마다 `design/outfit_schedule.json` → 씬 프리셋 → `design/outfits_en.json`으로 붙인다(`tools/prompt.py`가 자동으로).
 
-- 은주: `Eunju, 13-year-old Korean girl, 140cm, small and thin, sun-tanned skin, large eyes, long dark-brown hair tied low with a single rubber band, a small silver tuning-fork pendant on a chain, tilts her head slightly to the left when listening`
-- 동민: `Dongmin, 9-year-old Korean boy, 125cm, round face, buzz cut, one front tooth missing, adhesive bandage on a knee, oversized hand-me-down green tracksuit`
-- 만석: `Manseok, 41-year-old Korean man, 170cm, gaunt, short buzz-cut hair streaked with gray, stubble, long fingers`
-- 곽 영감: `old Kwak, 68-year-old Korean man, 160cm, stocky, slightly stooped, short white buzz-cut hair, thick eyebrows, deep wrinkles, reading glasses pushed up on his forehead, a pencil behind his ear, ring and little finger of the right hand permanently bent`
-- 선영: `Seonyoung, 23-year-old Korean woman, 162cm, slim, bob haircut with bangs, round thin metal-rim glasses`
-- 최 계장: `Mr. Choi, 46-year-old Korean civil servant, 168cm, pomaded 7:3 side part, thick horn-rimmed glasses, gray suit and tie, holding a handkerchief`
-- 태준: `Taejun, 14-year-old Korean boy, 165cm, slim, neat side part, pale skin, very straight posture`
-- 미자: `Mija, 14-year-old Korean girl, 158cm, short bob with spiky bangs, adhesive bandage on her nose, red tracksuit top`
-- 덕수: `Deoksu, 12-year-old Korean boy, 155cm, big and chubby, buzz cut, gentle eyes, plaid shirt over a stretched white undershirt`
-- 순례 할머니: `grandma Sunrye, Korean woman in her 70s, 148cm, small and stooped, white hair in a low bun, deep wrinkles, flower-pattern apron over baggy work trousers`
-  - ※ characters.json의 순례 `hair`는 `bob`인데 바이블·얼굴 설명은 '쪽진 머리'다. G7에서 쪽진 머리로 맞춘다.
+- 은주: `Eunju, 13-year-old Korean girl, 140cm, small and thin, sun-tanned skin, narrow small face, large long almond-shaped eyes, thick straight eyebrows, no bangs with the forehead visible, loose wisps of hair falling at both temples, faint freckles on nose and cheeks, long dark-brown hair tied low at the nape with a single rubber band, a small silver tuning-fork pendant on a thin chain, tilts her head slightly to the left when listening`
+- 동민: `Dongmin, 9-year-old Korean boy, 125cm, round face, very short buzz cut, upper-left front tooth missing, big ears, adhesive bandage on the right knee`
+- 만석: `Manseok, 41-year-old Korean man, 170cm, gaunt and slightly stooped, long gaunt face, hollow cheeks, stubble, always wears a worn olive work cap with a frayed brim over short hair streaked with gray, long fingers`
+- 곽 영감: `old Kwak, 68-year-old Korean man, 160cm, short and solidly built with an upright posture (not stooped), square jaw, short white buzz cut, short thick white eyebrows, deep forehead wrinkles, thick forearms, reading glasses pushed up on his forehead, a pencil behind his ear, ring and little finger of the right hand permanently bent`
+- 선영: `Seonyoung, 23-year-old Korean woman, 162cm, slim, round face, voluminous softly permed 1980s bob with fluffy bangs, large round thin gold-rim glasses`
+- 최 계장: `Mr. Choi, 46-year-old Korean civil servant, 168cm, medium height with a slight belly, shiny pomaded 7:3 side part, thick black horn-rimmed glasses, a sheen of sweat on the forehead, a white handkerchief in hand`
+- 태준: `Taejun, 14-year-old Korean boy, 165cm, tall and slim, long face, narrow long eyes, sharp 7:3 side part with the forehead visible, thin lips, pale skin, very straight posture`
+- 미자: `Mija, 14-year-old Korean girl, 158cm, tall for her age, broad shoulders, choppy self-cut short bob with bangs sticking out in all directions, thick eyebrows, square jaw, an adhesive bandage across the nose`
+- 덕수: `Deoksu, 12-year-old Korean boy, 155cm, big and chubby, round face, short crew cut, droopy gentle eyes, shirt buttons always done up one hole off`
+- 순례 할머니: `grandma Sunrye, Korean woman in her 70s, 148cm, small and stooped, white hair in a low bun held with black hairpins, deep wrinkles, usually holding a ladle`
+- 봉구: `Bonggu, 10-year-old Korean boy, buzz cut, wide face, mischievous eyes`
+- 영란: `Yeongran, 11-year-old Korean girl, hair in two low pigtails, slim face, firm little mouth`
+- 경호: `Gyeongho, 8-year-old Korean boy, identical twin of Gyeongmin, bowl haircut, round face (tell the twins apart only by shirt color)`
+- 경민: `Gyeongmin, 8-year-old Korean boy, identical twin of Gyeongho, bowl haircut, round face (tell the twins apart only by shirt color)`
+- 순이: `Suni, 9-year-old Korean girl, short bob with a red headband, round eyes`
+- 석이: `Seoki, 7-year-old Korean boy, the smallest of all, buzz cut under a big cap, rosy cheeks`
+
+### 단역 고정 문구 (characters.json 밖, 반복 등장)
+- 갈고리 아주머니: `a middle-aged Korean woman scavenger with a head scarf, dark padded work clothes, holding a long iron hook`
+- 미자 엄마: `Mija's mother, a sturdy Korean woman in her 40s with a loud voice, permed short hair, dark work clothes, a red cardigan`
+- 집하장 아저씨: `a Korean man in his 50s at the scrap collection yard, towel on the head, rubber apron, work gloves`
+- 전당포 주인: `an elderly Korean pawnbroker with a magnifying loupe pushed up on his forehead, a dark vest over a white shirt, sleeve garters`
+- 과장(구청): `a Korean section chief in his 50s, thin, gray suit, reading glasses on a cord`
+- 사회자: `a 1980s Korean contest MC in a light-gray suit and bow tie, holding a corded microphone`
+- 엄마 한미숙(회상): `the mother, shown only as hands, back view or silhouette, never the face; a faded floral blouse`
 
 ## 7. 넘지 않는 선 (그림)
 

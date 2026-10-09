@@ -25,6 +25,37 @@ def script_scenes():
     return out
 
 
+def apply_outfits(items):
+    """design/outfit_schedule.json(G7)을 씬 프리셋에 덮어쓴다."""
+    p = ROOT / "design" / "outfit_schedule.json"
+    if not p.exists():
+        return
+    sch = json.loads(p.read_text(encoding="utf-8"))
+    chars = {c["id"]: c for c in json.loads((ROOT / "design" / "characters.json").read_text(encoding="utf-8"))}
+    kids = ["bonggu", "yeongran", "gyeongho", "gyeongmin", "suni", "seoki"]
+    for it in items:
+        sc = it["scene"]
+        done = set()
+        for c in it["characters"]:
+            lab = sch.get(sc, {}).get(c["id"])
+            if lab and c["id"] not in done:
+                c["outfit"] = lab
+                done.add(c["id"])
+            if "note" in c:
+                c["note"] = re.sub(r"\s*G7 (의상 추가 필요|디자인 필요)[^;]*", "", c["note"]).strip(" ;,.")
+        mode = sch.get("_kids", {}).get(sc)
+        if mode:
+            new = []
+            for c in it["characters"]:
+                if c["id"].startswith("extra:섬 아이들"):
+                    for k in kids:
+                        outs = chars[k]["outfits"]
+                        new.append({"id": k, "outfit": outs[1 if mode == "stage" and len(outs) > 1 else 0]["label"], "note": ""})
+                else:
+                    new.append(c)
+            it["characters"] = new
+
+
 def main():
     items = []
     for name in ("_presets_ep12.json", "_presets_ep3.json"):
@@ -51,6 +82,8 @@ def main():
     for sc in got:
         if sc not in want:
             problems.append(f"{sc}: 대본에 없는 씬")
+
+    apply_outfits(items)
 
     def key(sc):
         e, n = sc.split("-")

@@ -3,7 +3,7 @@
 최종 정리: 2026-10-09 10:30 KST. 진행은 `skills/webtoon-story-studio`의 결정 게이트를 따른다. 결정 기준은 `decisions.md`.
 
 ## Claude Code에게 처음 할 말
-> landfill-orchestra/CONTINUE.md를 읽고, 「깡통 바이올린」 G7 캐릭터 시안부터 이어서 진행해.
+> landfill-orchestra/CONTINUE.md를 읽고, 「깡통 바이올린」 G8 소품·배경 시안 점검부터 이어서 진행해.
 
 ## 진행 상태
 
@@ -17,16 +17,17 @@
 | G4 소설 | 확정(문체 A: 3인칭 근접). 약 3만 9,600자. 검수 완료(구조 0건, 단순 10건 반영) | `story/novel.md`, `story/parts/ep1~3.md`, `docx/story_novel.docx` |
 | G5 대본 | 확정: 애니형, 3화 80씬(1화 17·2화 29·3화 34), 예상 1화 약 25분·2화 약 26분·3화 약 43분. 길이는 마스터로 유지 | `story/script.md`, `story/script_format.md`(형식·이름표), `story/script_cut_candidates.md`(축소 후보), `story/sfx_list.md`(소리 표기 초안), `docx/story_script.docx` |
 | G6 그림체 | 확정: 정밀 셀 반실사 「소리의 색」(콘티 정합형). 선 2px·셀 2단·질감 없음, 소리 색 규칙, 이미지에 글자 없음. 대본 80씬 씬 프리셋(빛·색·의상·소리 색·영어 [SCENE] 문장) | `design/style_guide.md`(규칙·장소 기준 문장·인물 고정 문구), `design/style.json`, `design/scene_presets.md`·`.json`, `design/style_options.md`(1~3안 비교), `design/style/`(맛보기 SVG), `research/notes.md`(시각 고증) |
-| G7 캐릭터 시안 | **다음 작업.** | `design/g7_todo.md`(정할 의상·보조 인물 목록) |
-| G8~G12 | 대기 | — |
+| G7 캐릭터 | 확정: 16명(주요 10 + 섬 아이 6) + 단역 7 고정 문구. 계절·본선·2003 의상과 씬별 일정표. 섬 아이 본선 의상 = 제일 좋은 옷 + 빨간 손수건 | `design/characters.json`(design_choice), `design/style_guide.md` 6절, `design/outfit_schedule.json`, `design/outfits_en.json`, `design/sheets/*.svg`(러프), `design/gen/character_prompts.md`(GPT 시트 프롬프트: 턴어라운드·표정·의상·2003·회상) |
+| G8 소품·배경 | **진행 중.** 소품 전수 시안 + 배경 배치·조명 시안, 모두 GPT 프롬프트 포함 | `design/props.json`·`props.md`·`gen/prop_prompts.md`, `design/sets.md`·`sets.json`·`gen/set_prompts.md` |
+| G9~G12 | 대기 | — |
 
 ## 바로 다음 할 일
-1. **G7 캐릭터 시안.** `design/characters.json`에 인물별 `variants` 2안 → `studio.py sketch --variants` → 사용자 선택 → 확정 시트. 확정 그림체(`design/style_guide.md`) 기준. 함께 정할 것: `design/g7_todo.md`의 계절·무대·2003년 의상, 섬 아이 6명 등 보조 인물, 순례 할머니 머리(json `bob` → 쪽진 머리).
-2. G7에서 의상을 정하면 `design/outfits_en.json`(의상 영어 대응)과 씬 프리셋을 고친다: `python landfill-orchestra/tools/presets_src/gen_ep12.py`, `gen_ep3.py` → `python landfill-orchestra/tools/presets.py`. 인물 고정 문구는 `style_guide.md` 6절.
-3. 그다음 G8 소품·배경(동그리·뚱보·꽥꽥이·뼈다귀 북, 장소 배치도 `design/sets.md`). 장소 영어 문장은 `style_guide.md` 8절을 기준으로 쓴다.
-4. G9 콘티의 컷 프롬프트는 `python landfill-orchestra/tools/prompt.py <화-S#> --chars … --cut "…" --sound …`로 조립한다.
+1. **G8 점검.** 소품(`design/props.*`, `design/gen/prop_prompts.md`)과 배경(`design/sets.*`, `design/gen/set_prompts.md`) 시안을 대본·연속성과 대조해 점검하고, `studio.py props`로 카드 시트를 만든다. 사용자는 이 프롬프트로 GPT에서 그림을 만들어 `renders/characters/`, `renders/props/`, `renders/sets/`에 저장한다.
+2. **G9 웹툰 콘티.** `webtoon-adaptation-kit`로 `storyboard/` 킷을 만든다(아동 주인공이라 tracks.json을 "아동 인물 성적·선정적 연출 금지, webtoon_adult 미사용"으로). 장면 소제목에 대본 S#, 컷 프롬프트는 `tools/prompt.py`로 조립(인물 고정 문구·씬 프리셋·의상 일정표·소품·배경 참고 이미지). 화당 60~80컷으로 줄일 때 `story/script_cut_candidates.md`.
+3. 계절·2003 의상은 Claude 제안이라 '잠정' — 사용자가 GPT 시트를 보고 바꾸면 `characters.json` 의상 → `outfits_en.json` → `outfit_schedule.json` → `python landfill-orchestra/tools/presets.py` → `python landfill-orchestra/tools/char_prompts.py`.
 
 ## 꼭 알아 둘 것
+- **고증 원칙(사용자 지시):** 배경·소품·의상·용어·지역명·제도·물가·말투를 모두 그 시대(본편 1987~88, 회상 1950·70년대, 에필로그 2003) 기준으로 고증하고 출처를 단다. 확인 못 하면 '미확인', 해석은 '추측'. 고증 보고서: `research/notes.md`, `design/costume_research.md`, `story/era_terms_research.md`, `design/props.md`·`design/sets.md`의 고증 칸.
 - **그림체 원칙(사용자 지시):** "구체적인 콘티를 최대한 반영해야 GPT가 정확하게 그린다." 질감·우연에 맡기는 표현을 빼고 모든 것을 수치·HEX·영어 문장으로 고정한다. 장소 묘사는 `style_guide.md` 8절 문장을 글자 그대로 재사용한다.
 - 소리 색 규칙은 대본 근거('귀로'·'그 소리만'·M:)가 있는 컷에만. 조롱 웃음 등 상처받는 소리와 에필로그 이중주는 색 없음. 3화 본선은 악기 색이 하나씩 늘어 '밤'에서 화면 전체.
 - 고증: 1987~88 쓰레기 산은 꼭대기가 평평한 층진 탁자형. 판잣집 동네는 의도적 각색(실제는 조립식 주택).
@@ -50,3 +51,4 @@
 - `python landfill-orchestra/tools/presets.py` — 씬 프리셋 합치기·점검(대본 S# 80개와 대조). 원본 생성기 `tools/presets_src/`.
 - `python landfill-orchestra/tools/prompt.py 1-11 --chars eunju --cut "…" --sound 동그리` — 컷 프롬프트 조립.
 - `python landfill-orchestra/design/style/gen.py` — 그림체 맛보기 SVG.
+- `python landfill-orchestra/tools/char_prompts.py` — 캐릭터 시트 GPT 프롬프트(design/gen/character_prompts.md).

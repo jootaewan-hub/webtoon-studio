@@ -14,7 +14,7 @@
   "hair": "long",
   "hair_color": "#2A211C",
   "skin": "#E2B48E",
-  "face": "작은 얼굴, 큰 눈, 소리를 들을 때 고개를 왼쪽으로 살짝 기울임, 그을린 볼",
+  "face": "갸름하고 작은 얼굴, 크고 긴 아몬드형 눈, 짙고 곧은 눈썹, 앞머리 없이 이마를 드러내고 잔머리가 흘러내림, 코와 볼에 옅은 주근깨, 그을린 볼",
   "accessories": [
    "chain"
   ],
@@ -34,6 +34,23 @@
     "label": "빌린 흰 원피스(무대)",
     "color": "#FAFAF7",
     "bottom": "long_skirt"
+   },
+   {
+    "label": "남색 점퍼·회색 손뜨개 목도리·손끝 자른 목장갑(겨울)",
+    "color": "#2E3A5C",
+    "bottom": "pants",
+    "pants": "#5A5048"
+   },
+   {
+    "label": "빛바랜 하늘색 반소매 셔츠·해진 바지(여름)",
+    "color": "#A9C6D9",
+    "bottom": "pants",
+    "pants": "#5A5048"
+   },
+   {
+    "label": "짙은 남색 연주 드레스(2003, 어른)",
+    "color": "#24304F",
+    "bottom": "long_skirt"
    }
   ],
   "expressions": [
@@ -45,7 +62,8 @@
    "미소",
    "활짝 웃음"
   ],
-  "acting": "큰 표정 대신 귀와 손. 감동은 숨 멈춤으로. 마지막 무대에서 처음 활짝 웃는다. 목에 은색 소리굽쇠 목걸이"
+  "acting": "큰 표정 대신 귀와 손. 감동은 숨 멈춤으로. 마지막 무대에서 처음 활짝 웃는다. 목에 은색 소리굽쇠 목걸이",
+  "design_choice": "A 들고양이 — 이마를 드러낸 잔머리"
  },
  {
   "id": "dongmin",
@@ -61,7 +79,7 @@
   "hair": "buzz",
   "hair_color": "#2A211C",
   "skin": "#E8BC96",
-  "face": "동그란 얼굴, 앞니 하나 빠짐, 무릎 반창고",
+  "face": "동그란 얼굴, 아주 짧은 까까머리, 윗줄 왼쪽 앞니 하나 빠짐, 큰 귀, 오른쪽 무릎 반창고",
   "accessories": [],
   "outfits": [
    {
@@ -69,6 +87,36 @@
     "color": "#3F7A55",
     "bottom": "pants",
     "pants": "#3F7A55"
+   },
+   {
+    "label": "물려받은 누빈 갈색 점퍼·털모자(겨울)",
+    "color": "#7A5A3C",
+    "bottom": "pants",
+    "pants": "#3F7A55"
+   },
+   {
+    "label": "초록 반소매 운동복·반바지(여름)",
+    "color": "#3F7A55",
+    "bottom": "pants",
+    "pants": "#3F7A55"
+   },
+   {
+    "label": "흰 반소매 남방·감색 반바지(제일 좋은 옷)",
+    "color": "#F4F2EC",
+    "bottom": "pants",
+    "pants": "#2E3A5C"
+   },
+   {
+    "label": "흰 반소매 남방·감색 반바지·빨간 손수건(본선)",
+    "color": "#F4F2EC",
+    "bottom": "pants",
+    "pants": "#2E3A5C"
+   },
+   {
+    "label": "검은 티셔츠·청바지(2003, 어른)",
+    "color": "#1E1E22",
+    "bottom": "pants",
+    "pants": "#3A4A6A"
    }
   ],
   "expressions": [
@@ -77,7 +125,8 @@
    "울먹",
    "단호·진지"
   ],
-  "acting": "몸 전체로 말한다. 슬픈 장면에서 엉뚱한 한마디"
+  "acting": "몸 전체로 말한다. 슬픈 장면에서 엉뚱한 한마디",
+  "design_choice": "추천안(바이블 기준 세부 고정)"
  },
  {
   "id": "manseok",
@@ -94,14 +143,28 @@
   "hair": "buzz",
   "hair_color": "#4B4744",
   "skin": "#C9966D",
-  "face": "깡마른 얼굴, 흰머리 섞인 짧은 머리, 수염 자국, 긴 손가락",
-  "accessories": [],
+  "face": "길쭉한 얼굴, 움푹한 볼, 챙이 해진 국방색 작업모를 늘 씀(모자 밑으로 흰머리 섞인 짧은 머리), 수염 자국, 등이 약간 굽음, 긴 손가락",
+  "accessories": [
+   "cap"
+  ],
   "outfits": [
    {
     "label": "낡은 야전상의·목수건·고무장화",
     "color": "#5B6145",
     "bottom": "pants",
     "pants": "#3B3A36"
+   },
+   {
+    "label": "1970년대 극장 악단 흰 재킷·나비넥타이(회상)",
+    "color": "#F2EEE2",
+    "bottom": "pants",
+    "pants": "#1E1E22"
+   },
+   {
+    "label": "다린 흰 셔츠·검은 바지(2003, 백발)",
+    "color": "#F2F0EA",
+    "bottom": "pants",
+    "pants": "#1E1E22"
    }
   ],
   "expressions": [
@@ -111,7 +174,8 @@
    "곁눈·나른",
    "미소"
   ],
-  "acting": "사랑을 말로 못 하는 아버지. 감정은 손과 등으로"
+  "acting": "사랑을 말로 못 하는 아버지. 감정은 손과 등으로",
+  "design_choice": "B 지친 노동자 — 낡은 작업모"
  },
  {
   "id": "kwak",
@@ -128,7 +192,7 @@
   "hair": "buzz",
   "hair_color": "#E8E6E1",
   "skin": "#C69A76",
-  "face": "굵은 눈썹, 깊은 주름, 오른손 약지·새끼손가락이 굽음, 귀에 연필, 이마에 돋보기안경",
+  "face": "각진 턱, 짧은 흰 스포츠머리, 굵고 짧은 흰 눈썹, 깊은 이마 주름, 두꺼운 팔뚝, 허리를 꼿꼿이 세움",
   "accessories": [
    "glasses"
   ],
@@ -136,6 +200,18 @@
    {
     "label": "톱밥 묻은 캔버스 앞치마·팔토시",
     "color": "#8A7556",
+    "bottom": "pants",
+    "pants": "#4A4640"
+   },
+   {
+    "label": "앞치마 위 회색 털조끼·털모자(겨울)",
+    "color": "#6E6A65",
+    "bottom": "pants",
+    "pants": "#4A4640"
+   },
+   {
+    "label": "깨끗한 갈색 카디건(2003)",
+    "color": "#8A6A4A",
     "bottom": "pants",
     "pants": "#4A4640"
    }
@@ -147,7 +223,8 @@
    "미소",
    "활짝 웃음"
   ],
-  "acting": "표정 변화 거의 없음. 감정은 작업하는 손의 속도로. 웃음은 두 번뿐"
+  "acting": "표정 변화 거의 없음. 감정은 작업하는 손의 속도로. 웃음은 두 번뿐",
+  "design_choice": "A 각진 장인 — 꼿꼿한 허리"
  },
  {
   "id": "seonyoung",
@@ -165,7 +242,7 @@
   "hair": "bob",
   "hair_color": "#2B2420",
   "skin": "#F1D3BB",
-  "face": "단발에 앞머리, 동그란 금속테 안경, 긴장하면 안경을 고쳐 씀",
+  "face": "볼륨 있는 반곱슬 파마 단발에 부풀린 앞머리, 크고 동그란 금테 안경, 동그란 얼굴",
   "accessories": [
    "glasses"
   ],
@@ -179,6 +256,16 @@
     "label": "검은 연주복(무대)",
     "color": "#1E1E22",
     "bottom": "long_skirt"
+   },
+   {
+    "label": "베이지 더플코트·목도리(늦가을~겨울)",
+    "color": "#CDB894",
+    "bottom": "long_skirt"
+   },
+   {
+    "label": "단정한 감색 정장(2003, 음악 교사)",
+    "color": "#2A3350",
+    "bottom": "skirt"
    }
   ],
   "expressions": [
@@ -188,7 +275,8 @@
    "단호·진지",
    "울먹"
   ],
-  "acting": "아이들보다 더 허둥대지만 결정적일 때 단단하다"
+  "acting": "아이들보다 더 허둥대지만 결정적일 때 단단하다",
+  "design_choice": "B 1980년대 파마 단발 — 큰 금테"
  },
  {
   "id": "choi",
@@ -205,13 +293,25 @@
   "hair": "side",
   "hair_color": "#1F1D1B",
   "skin": "#D9B08C",
-  "face": "7:3 포마드 가르마, 두꺼운 뿔테 안경, 땀을 닦는 손수건",
+  "face": "중키, 배가 조금 나옴, 반짝이는 7:3 포마드 가르마, 두꺼운 검은 뿔테 안경, 이마에 땀, 손에 흰 손수건",
   "accessories": [
    "glasses"
   ],
   "outfits": [
    {
     "label": "회색 양복·넥타이·서류 봉투",
+    "color": "#7A7C80",
+    "bottom": "pants",
+    "pants": "#6A6C70"
+   },
+   {
+    "label": "회색 양복 위 감색 오버코트(겨울)",
+    "color": "#2B3346",
+    "bottom": "pants",
+    "pants": "#6A6C70"
+   },
+   {
+    "label": "넥타이 없는 회색 양복(2003)",
     "color": "#7A7C80",
     "bottom": "pants",
     "pants": "#6A6C70"
@@ -224,7 +324,8 @@
    "단호·진지",
    "울먹"
   ],
-  "acting": "웃기지 않으려는데 웃긴 사람. 진지할수록 땀을 닦는다"
+  "acting": "웃기지 않으려는데 웃긴 사람. 진지할수록 땀을 닦는다",
+  "design_choice": "추천안(바이블 기준 세부 고정)"
  },
  {
   "id": "taejun",
@@ -241,7 +342,7 @@
   "hair": "side",
   "hair_color": "#151313",
   "skin": "#F3DCCB",
-  "face": "단정한 옆가르마, 하얀 피부, 곧은 자세, 당황하면 눈을 비빔",
+  "face": "긴 얼굴, 가늘고 긴 눈, 반듯한 7:3 옆가르마(이마를 드러냄), 얇은 입술, 하얀 피부, 곧은 자세",
   "accessories": [],
   "outfits": [
    {
@@ -255,6 +356,12 @@
     "color": "#18181C",
     "bottom": "pants",
     "pants": "#18181C"
+   },
+   {
+    "label": "검은 정장 연주복(2003, 어른)",
+    "color": "#18181C",
+    "bottom": "pants",
+    "pants": "#18181C"
    }
   ],
   "expressions": [
@@ -264,7 +371,8 @@
    "식은땀·초조",
    "미소"
   ],
-  "acting": "완벽한 자세 속 긴장. 무너질 때 손끝이 먼저 떨린다"
+  "acting": "완벽한 자세 속 긴장. 무너질 때 손끝이 먼저 떨린다",
+  "design_choice": "A 차가운 우등생 — 가는 눈"
  },
  {
   "id": "mija",
@@ -281,7 +389,7 @@
   "hair": "spiky",
   "hair_color": "#2C2219",
   "skin": "#DDAA80",
-  "face": "짧은 단발에 뻗친 앞머리, 코에 반창고, 큰 목소리",
+  "face": "가위로 짧게 친 숏단발, 사방으로 뻗친 앞머리, 굵은 눈썹, 각진 턱, 코에 반창고, 어깨가 넓음",
   "accessories": [],
   "outfits": [
    {
@@ -289,6 +397,36 @@
     "color": "#C0392F",
     "bottom": "pants",
     "pants": "#33363E"
+   },
+   {
+    "label": "빨간 누빔 점퍼(겨울)",
+    "color": "#B0302A",
+    "bottom": "pants",
+    "pants": "#33363E"
+   },
+   {
+    "label": "빨간 반소매 티(여름)",
+    "color": "#D0453A",
+    "bottom": "pants",
+    "pants": "#33363E"
+   },
+   {
+    "label": "새것 같은 빨간 트레이닝 위아래(제일 좋은 옷)",
+    "color": "#C0392F",
+    "bottom": "pants",
+    "pants": "#C0392F"
+   },
+   {
+    "label": "새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선)",
+    "color": "#C0392F",
+    "bottom": "pants",
+    "pants": "#C0392F"
+   },
+   {
+    "label": "감색 트레이닝복·호루라기·출석부(2003, 체육 교사)",
+    "color": "#2E4A7A",
+    "bottom": "pants",
+    "pants": "#2E4A7A"
    }
   ],
   "expressions": [
@@ -298,7 +436,8 @@
    "울먹",
    "단호·진지"
   ],
-  "acting": "큰소리와 몸짓. 때리는 장면은 없다"
+  "acting": "큰소리와 몸짓. 때리는 장면은 없다",
+  "design_choice": "A 선머슴 — 뻗친 숏단발"
  },
  {
   "id": "deoksu",
@@ -314,12 +453,36 @@
   "hair": "buzz",
   "hair_color": "#241E1A",
   "skin": "#E0B28A",
-  "face": "동그란 얼굴, 순한 눈, 늘 뭔가를 먹는 입",
+  "face": "크고 통통한 몸, 동그란 얼굴, 짧은 스포츠머리, 처진 순한 눈, 늘 뭔가를 먹는 입, 단추가 한 칸씩 어긋난 남방",
   "accessories": [],
   "outfits": [
    {
     "label": "늘어난 흰 러닝셔츠 위 체크 남방",
     "color": "#5D7DA8",
+    "bottom": "pants",
+    "pants": "#4A4A4A"
+   },
+   {
+    "label": "체크 남방 위 회색 털스웨터(겨울)",
+    "color": "#8A8A8A",
+    "bottom": "pants",
+    "pants": "#4A4A4A"
+   },
+   {
+    "label": "흰 러닝셔츠·반바지(여름)",
+    "color": "#F2F0EA",
+    "bottom": "pants",
+    "pants": "#4A4A4A"
+   },
+   {
+    "label": "단추를 목까지 잠근 체크 남방·빨간 손수건(본선)",
+    "color": "#5D7DA8",
+    "bottom": "pants",
+    "pants": "#4A4A4A"
+   },
+   {
+    "label": "꽃무늬 앞치마(2003, 국밥집)",
+    "color": "#B5546A",
     "bottom": "pants",
     "pants": "#4A4A4A"
    }
@@ -330,7 +493,8 @@
    "놀람",
    "울먹"
   ],
-  "acting": "느리고 따뜻하다. 첼로 소리가 그의 목소리"
+  "acting": "느리고 따뜻하다. 첼로 소리가 그의 목소리",
+  "design_choice": "추천안(바이블 기준 세부 고정)"
  },
  {
   "id": "sunrye",
@@ -347,12 +511,30 @@
   "hair": "bob",
   "hair_color": "#E9E7E3",
   "skin": "#C89A78",
-  "face": "흰 쪽진 머리, 깊은 주름, 굽은 등",
+  "face": "작고 등이 굽음, 낮게 진 흰 쪽진 머리(비녀 대신 검은 핀), 깊은 주름, 늘 국자를 듦",
   "accessories": [],
   "outfits": [
    {
     "label": "몸뻬 바지·꽃무늬 앞치마",
     "color": "#B5546A",
+    "bottom": "pants",
+    "pants": "#5B4E6A"
+   },
+   {
+    "label": "솜 누빈 조끼·털목도리(겨울)",
+    "color": "#6B4E5A",
+    "bottom": "pants",
+    "pants": "#5B4E6A"
+   },
+   {
+    "label": "외출용 자주색 블라우스·몸뻬, 접은 앞치마를 손에(본선)",
+    "color": "#8E3B5E",
+    "bottom": "pants",
+    "pants": "#5B4E6A"
+   },
+   {
+    "label": "자주색 외출 블라우스·몸뻬(2003, 객석)",
+    "color": "#8E3B5E",
     "bottom": "pants",
     "pants": "#5B4E6A"
    }
@@ -362,6 +544,213 @@
    "활짝 웃음",
    "단호·진지"
   ],
-  "acting": "섬의 목소리. 툭 던지는 한마디로 장면을 정리한다"
+  "acting": "섬의 목소리. 툭 던지는 한마디로 장면을 정리한다",
+  "design_choice": "추천안(바이블 기준 세부 고정)"
+ },
+ {
+  "id": "bonggu",
+  "name": "봉구",
+  "age": "10세(추정)",
+  "height": "132cm",
+  "build": "average",
+  "head_ratio": 5,
+  "hair": "buzz",
+  "hair_color": "#241E1A",
+  "skin": "#E0B28A",
+  "face": "까까머리, 넓적한 얼굴, 장난스러운 눈",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "노란 러닝셔츠·반바지",
+    "color": "#F2C94C",
+    "bottom": "pants",
+    "pants": "#3A3F4A"
+   },
+   {
+    "label": "노란 러닝셔츠·반바지·빨간 손수건(본선)",
+    "color": "#F2C94C",
+    "bottom": "pants",
+    "pants": "#3A3F4A"
+   }
+  ],
+  "expressions": [
+   "활짝 웃음",
+   "놀람",
+   "단호·진지"
+  ],
+  "acting": "3화 섬 아이. 악기: 깡통 바이올린 2호. 이름과 옷 색으로 구분",
+  "design_choice": "섬 아이 단순 디자인(사용자 선택)"
+ },
+ {
+  "id": "yeongran",
+  "name": "영란",
+  "age": "11세(추정)",
+  "height": "138cm",
+  "build": "petite",
+  "head_ratio": 5,
+  "hair": "pony",
+  "hair_color": "#2A211C",
+  "skin": "#E6BC98",
+  "face": "양갈래로 묶은 머리, 갸름한 얼굴, 야무진 입",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "분홍 반소매 블라우스·감색 치마",
+    "color": "#E89BB0",
+    "bottom": "skirt",
+    "pants": "#3A3F4A"
+   },
+   {
+    "label": "분홍 반소매 블라우스·감색 치마·빨간 손수건(본선)",
+    "color": "#E89BB0",
+    "bottom": "skirt",
+    "pants": "#3A3F4A"
+   }
+  ],
+  "expressions": [
+   "활짝 웃음",
+   "놀람",
+   "단호·진지"
+  ],
+  "acting": "3화 섬 아이. 악기: 깡통 바이올린 3호. 이름과 옷 색으로 구분",
+  "design_choice": "섬 아이 단순 디자인(사용자 선택)"
+ },
+ {
+  "id": "gyeongho",
+  "name": "경호",
+  "age": "8세(추정)",
+  "height": "122cm",
+  "build": "petite",
+  "head_ratio": 4.5,
+  "hair": "bob",
+  "hair_color": "#241E1A",
+  "skin": "#E4B690",
+  "face": "쌍둥이 형, 바가지 머리, 동그란 얼굴(경민과 똑같음)",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "파란 티·반바지",
+    "color": "#3D6FB6",
+    "bottom": "pants",
+    "pants": "#3A3F4A"
+   },
+   {
+    "label": "파란 티·반바지·빨간 손수건(본선)",
+    "color": "#3D6FB6",
+    "bottom": "pants",
+    "pants": "#3A3F4A"
+   }
+  ],
+  "expressions": [
+   "활짝 웃음",
+   "놀람",
+   "단호·진지"
+  ],
+  "acting": "3화 섬 아이. 악기: 냄비 뚜껑 심벌. 이름과 옷 색으로 구분",
+  "design_choice": "섬 아이 단순 디자인(사용자 선택)"
+ },
+ {
+  "id": "gyeongmin",
+  "name": "경민",
+  "age": "8세(추정)",
+  "height": "122cm",
+  "build": "petite",
+  "head_ratio": 4.5,
+  "hair": "bob",
+  "hair_color": "#241E1A",
+  "skin": "#E4B690",
+  "face": "쌍둥이 동생, 바가지 머리, 동그란 얼굴(경호와 똑같음)",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "주황 티·반바지",
+    "color": "#E8853A",
+    "bottom": "pants",
+    "pants": "#3A3F4A"
+   },
+   {
+    "label": "주황 티·반바지·빨간 손수건(본선)",
+    "color": "#E8853A",
+    "bottom": "pants",
+    "pants": "#3A3F4A"
+   }
+  ],
+  "expressions": [
+   "활짝 웃음",
+   "놀람",
+   "단호·진지"
+  ],
+  "acting": "3화 섬 아이. 악기: 냄비 뚜껑 심벌. 이름과 옷 색으로 구분",
+  "design_choice": "섬 아이 단순 디자인(사용자 선택)"
+ },
+ {
+  "id": "suni",
+  "name": "순이",
+  "age": "9세(추정)",
+  "height": "126cm",
+  "build": "petite",
+  "head_ratio": 5,
+  "hair": "bob",
+  "hair_color": "#2A211C",
+  "skin": "#E8BE9A",
+  "face": "단발에 빨간 머리띠, 동그란 눈",
+  "accessories": [],
+  "outfits": [
+   {
+    "label": "꽃무늬 원피스",
+    "color": "#E9D8A6",
+    "bottom": "skirt",
+    "pants": "#3A3F4A"
+   },
+   {
+    "label": "꽃무늬 원피스·빨간 손수건(본선)",
+    "color": "#E9D8A6",
+    "bottom": "skirt",
+    "pants": "#3A3F4A"
+   }
+  ],
+  "expressions": [
+   "활짝 웃음",
+   "놀람",
+   "단호·진지"
+  ],
+  "acting": "3화 섬 아이. 악기: 병 실로폰. 이름과 옷 색으로 구분",
+  "design_choice": "섬 아이 단순 디자인(사용자 선택)"
+ },
+ {
+  "id": "seoki",
+  "name": "석이",
+  "age": "7세(추정)",
+  "height": "115cm",
+  "build": "petite",
+  "head_ratio": 4.5,
+  "hair": "buzz",
+  "hair_color": "#241E1A",
+  "skin": "#E6BA92",
+  "face": "가장 작음, 큰 모자 밑 까까머리, 볼이 빨감",
+  "accessories": [
+   "cap"
+  ],
+  "outfits": [
+   {
+    "label": "물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자",
+    "color": "#8AA36B",
+    "bottom": "pants",
+    "pants": "#3A3F4A"
+   },
+   {
+    "label": "물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선)",
+    "color": "#8AA36B",
+    "bottom": "pants",
+    "pants": "#3A3F4A"
+   }
+  ],
+  "expressions": [
+   "활짝 웃음",
+   "놀람",
+   "단호·진지"
+  ],
+  "acting": "3화 섬 아이. 악기: 병 실로폰. 이름과 옷 색으로 구분",
+  "design_choice": "섬 아이 단순 디자인(사용자 선택)"
  }
 ]
