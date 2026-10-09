@@ -1,0 +1,2259 @@
+[
+ {
+  "id": "junk_shop_in",
+  "name": "곽 영감 고물상 — 안",
+  "section8": "곽 영감 고물상 (안·앞)",
+  "scenes": [
+   "1-3",
+   "1-9",
+   "1-12",
+   "1-13",
+   "2-13",
+   "2-28",
+   "3-1"
+  ],
+  "size_m": "7×5 (안쪽 높이 처마 2.2m, 뒤 2.6m)",
+  "layout_text_en": "old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door. Seen from the wide-open front looking in (facing north): a shed about 7 m wide and 5 m deep with a beaten-earth floor and a low corrugated-iron roof on wooden posts; the middle 4 m of the front is open, its two corrugated-iron sliding door leaves pushed aside behind short solid wall sections at both ends, a small four-pane window in the left wall section; along the right (east) wall a long scarred wooden workbench with a low stool on its left (west) side, so the worker sits facing the right wall with his back to the left; a plank shelf on the right wall above the workbench, a paper wall calendar at the back end of that shelf; the hanging scale, a round-dial spring scale with a hook, hangs from the front roof beam at the near end of the workbench; wooden apple crates stacked just inside the opening at the left jamb; on the left (west) side burlap sacks of scrap and sorted piles of scrap copper, brass and aluminum in wooden bins; in the back wall, left of center, a plank door to the small workshop, and through it the foot of the attic ladder; tiered scrap piles along the back wall to the right of that door",
+  "base_time": "afternoon",
+  "light_by_time": {
+   "afternoon": "1987 spring afternoon, the interior in shade, low sunlight entering through the open front from behind the viewer on the left (southwest) and falling across the floor onto the right-wall shelf, dust in the light, key color #8A6A4A, cel shadows #4E3B2C",
+   "midday_may": "1988 May midday, bright high sun from the front-left, glints on the scrap metal, the interior shade softer, key color #F4D9A0, cel shadows #7A5E44",
+   "late_autumn": "1987 late November afternoon, pale cool light through the open front, damp earth floor, key color #B08A5E, cel shadows #4E3B2C",
+   "night": "night, the sliding doors closed, a single bare yellow incandescent bulb hanging above the workbench, a warm pool of light on the bench, the rest in navy darkness, key color #E8C46A, cel shadows #2A3352"
+  },
+  "variants": [
+   "night",
+   "midday_may"
+  ],
+  "camera_spots": [
+   {
+    "id": "front_wide",
+    "ko": "마당에서 열린 전면 안쪽으로 와이드(북향). 작업대 오른쪽, 공방 문 뒤 왼쪽",
+    "en": "wide view from the open front looking in (north)",
+    "faces": "N",
+    "sun_side": "오후 해는 등 뒤 왼쪽(남서), 동=화면 오른쪽",
+    "scenes": [
+     "1-12",
+     "2-13",
+     "3-1"
+    ]
+   },
+   {
+    "id": "bench_reverse",
+    "ko": "작업대 안쪽 끝(북)에서 열린 전면 쪽으로(남향). 작업대에 앉은 영감의 왼쪽 옆얼굴, 그 너머 문간이 밝게(역광), 문간에 선 사람",
+    "en": "from the back end of the workbench looking out toward the bright open front (south), the seated worker in left profile, the doorway backlit",
+    "faces": "S",
+    "sun_side": "오후 해는 화면 오른쪽 앞(남서), 서=화면 오른쪽",
+    "scenes": [
+     "1-9",
+     "2-13"
+    ]
+   },
+   {
+    "id": "east_wall_west",
+    "ko": "동쪽 벽(선반) 쪽에서 서쪽을 보며 작업대 너머 영감 정면. 열린 전면은 화면 왼쪽(측광)",
+    "en": "from the shelf on the east wall looking west across the workbench at the seated worker's face, the open front on the left",
+    "faces": "W",
+    "sun_side": "열린 전면·오후 빛 = 화면 왼쪽",
+    "scenes": [
+     "1-3"
+    ]
+   },
+   {
+    "id": "shelf_pov",
+    "ko": "작업대 옆 서쪽에서 작업대 너머 동쪽 벽 선반으로(은주 시선)",
+    "en": "over the workbench toward the shelf on the east wall",
+    "faces": "E",
+    "sun_side": "오후 빛은 화면 오른쪽 뒤에서 선반에 닿음",
+    "scenes": [
+     "1-3"
+    ]
+   },
+   {
+    "id": "exit_back",
+    "ko": "안쪽에서 나가는 아이들 등 뒤(남향), 열린 전면 너머 마당",
+    "en": "from inside, the backs of people walking out through the open front into the yard",
+    "faces": "S",
+    "sun_side": "서=화면 오른쪽",
+    "scenes": [
+     "1-3"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "작업대(동쪽 벽)",
+   "작업대 위 선반",
+   "선반 위 목 부러진 바이올린 몸통(1화)",
+   "저울(작업대 앞쪽 끝, 처마 보에 매닮)",
+   "사과 상자 더미(입구 서쪽 기둥 안쪽)",
+   "벽 달력(선반 안쪽 끝)",
+   "고물 자루 더미(서쪽)",
+   "분류 고물 칸(서쪽)",
+   "공방 문(뒷벽 왼쪽)",
+   "다락 사다리(공방 문 너머)",
+   "빨랫줄과 X선 필름(처마 아래, 1-12만 — 기준 배경에는 없음)",
+   "비눗물 대야(작업대 앞쪽 끝 바닥, 1-12)",
+   "구부러진 배수관(서북 구석 고물, 1-12)",
+   "백열전구(작업대 위)"
+  ]
+ },
+ {
+  "id": "junk_shop_front",
+  "name": "곽 영감 고물상 — 앞(외경)",
+  "section8": "곽 영감 고물상 (안·앞)",
+  "scenes": [
+   "1-3",
+   "1-8",
+   "1-9",
+   "1-10",
+   "1-12",
+   "1-13",
+   "2-6",
+   "2-28",
+   "3-1"
+  ],
+  "size_m": "창고 7×5, 앞마당 약 20×14(섬 어귀 마당)",
+  "layout_text_en": "old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door. Seen from the muddy yard in front, facing north: the low corrugated-iron shed about 7 m wide, its middle 4 m wide front open under the eave, short wall sections at both ends with a small four-pane window in the left section; tiered scrap piles stacked against the front wall sections on both sides of the opening; wooden apple crates at the left jamb; the round-dial hanging scale under the eave at the right end of the opening; inside on the right a workbench against the right (east) wall; behind the shed a lower plank workshop roof with a short stovepipe; on the far left edge of the frame, 3 m away and standing 2 m further forward, the side of grandma Sunrye's patched canvas tent with its side flap rolled up; far behind on the right the big flat-topped hill of trash; tire ruts and puddles in the foreground",
+  "base_time": "afternoon",
+  "light_by_time": {
+   "afternoon": "1987 spring afternoon, low sunlight from the left (southwest) raking across the shed front, shade under the eave, hazy beige sky, key color #C9A66B, cel shadows #6E5640",
+   "night": "deep night, the sliding doors closed, a thin strip of yellow incandescent light leaking from the small window and the door gap, faint yellow through gaps in the corrugated roof, everything else dark navy, stars over the hill, key color #E8C46A, cel shadows #2A3352",
+   "midday_may": "1988 May midday, high bright sun, short shadows, glints on scrap metal, key color #F4D9A0, cel shadows #7A5E44"
+  },
+  "variants": [
+   "night"
+  ],
+  "camera_spots": [
+   {
+    "id": "yard_front",
+    "ko": "마당(둑길 끝)에서 고물상 전면으로(북향) 외경",
+    "en": "from the yard facing the open front (north)",
+    "faces": "N",
+    "sun_side": "오후 해는 화면 왼쪽(남서), 큰 산은 지붕 뒤 오른쪽",
+    "scenes": [
+     "1-3",
+     "1-9",
+     "1-12",
+     "2-28",
+     "3-1"
+    ]
+   },
+   {
+    "id": "from_tent",
+    "ko": "천막 동쪽 옆자락 안에서 고물상 열린 전면을 비스듬히(북동향) — 작업대의 영감 등",
+    "en": "from inside the tent through its rolled-up side flap, looking diagonally into the open front of the shed",
+    "faces": "NE",
+    "sun_side": "오후 해는 화면 왼쪽 뒤",
+    "scenes": [
+     "1-8",
+     "2-6"
+    ]
+   },
+   {
+    "id": "village_south",
+    "ko": "마을 쪽(북)에서 고물상 지붕 너머 둑길 쪽(남향) — 아침 해가 지붕 왼쪽(동)에서",
+    "en": "from the village behind, looking south over the shed roof toward the embankment road",
+    "faces": "S",
+    "sun_side": "동=화면 왼쪽(프리셋 1-13 관례와 일치)",
+    "scenes": [
+     "1-13",
+     "1-10"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "함석 미닫이 두 짝",
+   "앞벽 서쪽 작은 창",
+   "저울(전면 오른쪽 끝 처마)",
+   "사과 상자(전면 왼쪽 기둥)",
+   "층층 고물 더미(전면 양옆)",
+   "공방 지붕과 짧은 연통(뒤)",
+   "천막 옆자락(서쪽 3m)"
+  ]
+ },
+ {
+  "id": "workshop",
+  "name": "공방(고물상 뒤)",
+  "section8": "공방",
+  "scenes": [
+   "2-13",
+   "2-14",
+   "2-17",
+   "2-22",
+   "3-5",
+   "3-6",
+   "3-8",
+   "3-9",
+   "3-10",
+   "3-11",
+   "3-15",
+   "3-18"
+  ],
+  "size_m": "5×3.5 (천장 2.1m, 위는 다락)",
+  "layout_text_en": "the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop. Seen from its doorway looking in (facing north): a cramped room about 5 m wide and 3.5 m deep with rough plank walls showing thin gaps of light, a low plank ceiling with a small square hatch to the attic, a raised plank floor one step above the doorway, wood shavings and sawdust on the floor; across the back wall a long wooden workbench with a shallow drawer, a rack of hand tools (saws, chisels, files, clamps, a coping saw) on the back wall above it, a single bare bulb on a cord over the bench; one small window in the left (west) wall, a bare nail in the wall beside it; plank shelves along the right (east) wall crowded with tin cans, can bodies, wooden spoons and instrument parts, scrap instruments hanging on nails above them; a square of bricks in the middle of the floor for a coal-briquette stove; to the right of the doorway a wooden ladder leaning up to the ceiling hatch; burlap scrap sacks in the near right corner",
+  "base_time": "summer_afternoon",
+  "light_by_time": {
+   "summer_afternoon": "1988 early summer afternoon, slanted sunlight through the small window on the left (west), sawdust floating in the beams, warm shade, key color #D8B57A, cel shadows #6E5640",
+   "winter_day": "1987-88 winter daytime, cold pale daylight through the gaps between the planks, a coal-briquette stove on the brick square glowing orange in the middle, visible breath, key color #B8C6D0, cel shadows #3E4E66",
+   "dusk": "dusk, low red sunlight through the plank gaps and the small window on the left (west), the person at the workbench almost a silhouette, key color #9C7650, cel shadows #4E3B2C",
+   "night": "night, a single bare incandescent bulb over the workbench making a small pool of light, the rest in navy darkness, dust and sawdust floating in the light, key color #F2C14E, cel shadows #4A3626"
+  },
+  "variants": [
+   "night",
+   "winter_day"
+  ],
+  "camera_spots": [
+   {
+    "id": "door_wide",
+    "ko": "문(남)에서 안쪽으로 와이드(북향). 작업대 정면 안쪽, 창 왼쪽, 선반 오른쪽",
+    "en": "wide view from the doorway looking in (north)",
+    "faces": "N",
+    "sun_side": "서쪽 창 = 화면 왼쪽",
+    "scenes": [
+     "2-14",
+     "3-5",
+     "3-9",
+     "3-10",
+     "3-15"
+    ]
+   },
+   {
+    "id": "bench_reverse",
+    "ko": "작업대 쪽에서 문 쪽으로(남향). 문가에 선 사람 역광, 문틈, 사다리",
+    "en": "from the workbench looking back toward the doorway (south), the doorway backlit",
+    "faces": "S",
+    "sun_side": "서쪽 창 = 화면 오른쪽",
+    "scenes": [
+     "3-9",
+     "3-10",
+     "3-15"
+    ]
+   },
+   {
+    "id": "kwak_back",
+    "ko": "문 쪽에서 작업대에 앉은 사람의 등(북향, 가까이)",
+    "en": "close behind a person seated at the workbench, seen from the doorway side",
+    "faces": "N",
+    "sun_side": "해 질 녘 빛은 화면 왼쪽 판자 틈",
+    "scenes": [
+     "2-22"
+    ]
+   },
+   {
+    "id": "bench_top",
+    "ko": "작업대 위 부감",
+    "en": "top-down view of the workbench surface",
+    "faces": "down",
+    "sun_side": "-",
+    "scenes": [
+     "3-9",
+     "3-15",
+     "3-18"
+    ]
+   },
+   {
+    "id": "plank_gap",
+    "ko": "서쪽 판자 틈에서 강 쪽으로(서향)",
+    "en": "through a gap in the west plank wall toward the river",
+    "faces": "W",
+    "sun_side": "-",
+    "scenes": [
+     "2-17"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "작업대(북벽)",
+   "공구 걸이(작업대 위 벽)",
+   "작업대 서랍(빈 줄 봉투, 3-18 Insert)",
+   "백열전구(작업대 위)",
+   "작은 창(서벽)",
+   "흰 원피스(서벽 창 옆 못, 3-15만 — 컷 프롬프트에서 추가)",
+   "선반(동벽: 깡통·악기 부품, 동그리 천 덮개 2-14)",
+   "못에 걸린 폐품 악기(동벽)",
+   "연탄 화덕과 벽돌 받침(가운데, 겨울 2-17만)",
+   "다락 사다리와 천장 구멍(문 오른쪽)",
+   "고물 자루(동남 구석)",
+   "사과 상자(문 안 왼쪽, 3-10만 — 만석이 고물상에서 끌어옴)",
+   "빈 바이올린 케이스(작업대, 3-10)",
+   "오선지(작업대)",
+   "지휘봉(작업대)"
+  ]
+ },
+ {
+  "id": "soup_tent_in",
+  "name": "국밥집 천막 — 안",
+  "section8": "국밥집 천막 (안·앞·뒤)",
+  "scenes": [
+   "1-8",
+   "1-14",
+   "2-1",
+   "2-2",
+   "2-10",
+   "2-15",
+   "2-20",
+   "2-21",
+   "3-6"
+  ],
+  "size_m": "5×8 (가운데 높이 약 2.6m, 가장자리 1.8m)",
+  "layout_text_en": "grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle. Seen from the front entrance flap looking in (facing north): a long tent about 5 m wide and 8 m deep on a beaten-earth floor, patched beige and khaki canvas on a wooden pole frame, one tall wooden center pole halfway in with a bare bulb on a cord and a paper calendar nailed to it; at the far back the huge iron soup pot steaming on a brick coal fire with a small worktable and stacked bowls beside it, and to the right of the pot a rear flap that can be tied open; the benches are wide low wooden platforms (pyeongsang) with long low tables on them: two along the left (west) side and one long one along the right (east) side; the right side wall flap is rolled up, showing the corrugated-iron junk shop 3 m away; an open earth floor down the middle in front of the platforms",
+  "base_time": "afternoon",
+  "light_by_time": {
+   "afternoon": "1987 afternoon, soft diffuse light through the canvas, steam from the pot blurring the back, the open right side brighter, key color #D9822B, cel shadows #6E5640",
+   "bulb_evening": "late afternoon, the bulb on the center pole lit and swaying, warm light, leftover daylight outside the canvas, key color #E0A050, cel shadows #6E5640",
+   "rain": "1987 late November gray midday, rain drumming on the wet sagging canvas, dull diffuse light, weak shadows, the flaps lowered, key color #4A4F57, cel shadows #2E3850",
+   "winter_evening": "1988 January evening, a coal-briquette stove with a hissing kettle beside the center pole glowing orange, the bulb lit, white breath, the tent crowded, key color #9DB7C9, cel shadows #3E4E66",
+   "sunset": "1988 early summer sunset, warm orange afterglow through the open flaps and the red glow of the coal fire under the soup pot, key color #E8C46A, cel shadows #6E4A3A",
+   "morning": "morning, soft canvas light and thick steam from the soup bowls, key color #7A6B5A, cel shadows #4E4236"
+  },
+  "variants": [
+   "rain",
+   "winter_evening"
+  ],
+  "camera_spots": [
+   {
+    "id": "entrance_wide",
+    "ko": "앞자락(남)에서 안쪽으로 와이드(북향). 국솥 정면 안쪽, 기둥 가운데, 걷힌 옆자락 오른쪽",
+    "en": "wide view from the front entrance flap looking in (north)",
+    "faces": "N",
+    "sun_side": "걷힌 동쪽 옆자락 = 화면 오른쪽",
+    "scenes": [
+     "1-8",
+     "1-14",
+     "2-15",
+     "3-6"
+    ]
+   },
+   {
+    "id": "pot_reverse",
+    "ko": "국솥 쪽에서 앞자락 쪽으로(남향). 문간에 선 사람, 빈 입구",
+    "en": "from beside the soup pot looking toward the front entrance (south)",
+    "faces": "S",
+    "sun_side": "동쪽 옆자락 = 화면 왼쪽",
+    "scenes": [
+     "2-10",
+     "2-15"
+    ]
+   },
+   {
+    "id": "side_to_shop",
+    "ko": "동쪽 평상 끝에서 걷힌 옆자락 너머 고물상으로(동향). 아이들 뒤통수 너머 영감의 등",
+    "en": "from the east platform through the rolled-up side flap toward the junk shop (east)",
+    "faces": "E",
+    "sun_side": "오후 해는 등 뒤",
+    "scenes": [
+     "1-8"
+    ]
+   },
+   {
+    "id": "band_front",
+    "ko": "서쪽 평상에서 가운데 바닥의 연주자들 정면(동향). 뒤로 동쪽 평상과 옆자락",
+    "en": "from the west platforms toward the players standing on the middle floor (east)",
+    "faces": "E",
+    "sun_side": "-",
+    "scenes": [
+     "2-1",
+     "2-2",
+     "2-10"
+    ]
+   },
+   {
+    "id": "bench_end",
+    "ko": "동쪽 평상 남쪽 끝(평상 끝) 가까이: 국밥 그릇·접힌 신문",
+    "en": "close on the south end of the east platform with a soup bowl and a folded newspaper",
+    "faces": "E",
+    "sun_side": "-",
+    "scenes": [
+     "2-20",
+     "2-21"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "국솥과 벽돌 연탄 화덕(북쪽 끝)",
+   "국자",
+   "작업대·그릇 더미(국솥 옆)",
+   "가운데 기둥(전구·달력)",
+   "평상 셋(서쪽 둘, 동쪽 하나)과 낮은 상",
+   "동쪽 옆자락(걷어 올림)",
+   "뒷자락(국솥 오른쪽)",
+   "앞자락(입구, 남)",
+   "연탄난로와 주전자(기둥 옆, 겨울 2-15만)"
+  ]
+ },
+ {
+  "id": "soup_tent_front",
+  "name": "국밥집 천막 — 앞",
+  "section8": "국밥집 천막 (안·앞·뒤)",
+  "scenes": [
+   "1-7",
+   "1-9",
+   "2-6",
+   "2-10",
+   "3-14"
+  ],
+  "size_m": "천막 5×8, 앞 마당 쪽 약 8×6",
+  "layout_text_en": "grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle. Seen from the muddy yard in front, facing north: the front of the long patched beige and khaki canvas tent with its front flap tied half open and a wooden front pole at the entrance, steam drifting out from the dark interior where the soup pot sits at the far back; the tent's right (east) side flap rolled up; 3 m to the right and set 2 m further back, the corrugated-iron junk shop with its open front and tiered scrap piles; behind the tent, the low roofs of the shack village and the slope of the small trash hill on the left; puddles and tire ruts on the bare earth yard in the foreground",
+  "base_time": "autumn_afternoon",
+  "light_by_time": {
+   "autumn_afternoon": "1987 autumn afternoon, clear cool light from the left (southwest), gray tones with a strip of clear sky above the corrugated roof, puddles reflecting the sky, key color #8C8F94, cel shadows #4A5060",
+   "rain": "1987 late November gray midday, heavy rain, the wet canvas sagging, muddy puddles splashing, key color #4A4F57, cel shadows #2E3850",
+   "july_noon": "1988 July midday, the sun almost overhead, very short shadows in front of the tent, bright dusty yard, key color #E3D6BE, cel shadows #6E5640"
+  },
+  "variants": [
+   "july_noon"
+  ],
+  "camera_spots": [
+   {
+    "id": "yard_north",
+    "ko": "마당에서 천막 앞으로 와이드(북향). 고물상은 오른쪽",
+    "en": "from the yard facing the tent front (north)",
+    "faces": "N",
+    "sun_side": "오후 해 = 화면 왼쪽",
+    "scenes": [
+     "1-9",
+     "2-10",
+     "3-14"
+    ]
+   },
+   {
+    "id": "front_east",
+    "ko": "천막 앞에서 동쪽 고물상 함석지붕을 올려다봄(동향). 해는 등 뒤 오른쪽",
+    "en": "from in front of the tent looking east up at the junk shop roof",
+    "faces": "E",
+    "sun_side": "오후 해 = 등 뒤 오른쪽(프리셋 2-6과 맞음)",
+    "scenes": [
+     "2-6"
+    ]
+   },
+   {
+    "id": "low_mud",
+    "ko": "진흙 위 구두에서 틸트 업(낮게)",
+    "en": "low angle from the mud in front of the tent",
+    "faces": "N",
+    "sun_side": "-",
+    "scenes": [
+     "2-6"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "앞자락(반쯤 묶어 엶)",
+   "앞 기둥(3-14 공문 압정)",
+   "걷힌 동쪽 옆자락",
+   "물웅덩이·바퀴 자국",
+   "고물상(동쪽 3m)",
+   "리어카 세우는 자리(앞자락 오른쪽, 2-10)"
+  ]
+ },
+ {
+  "id": "soup_tent_back",
+  "name": "국밥집 천막 — 뒤 쓰레기 더미",
+  "section8": "국밥집 천막 뒤 쓰레기 더미",
+  "scenes": [
+   "2-10",
+   "2-11",
+   "2-12",
+   "2-14"
+  ],
+  "size_m": "더미 약 4×3, 높이 2m",
+  "layout_text_en": "grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, behind the tent, a mound of wet trash waiting for the collection yard: tangled plastic sheets, tin cans and broken wood. Seen from the dirt path on the village side, facing south: the back of the patched canvas tent with its rear flap, and right beside it on the left of the path a mound about 2 m high and 4 m wide of tangled wet plastic sheets, tin cans and broken wood; the narrow dirt path to the shack village runs past the mound toward the viewer; beyond the tent on the left, the corrugated-iron roof of the junk shop; the embankment road and reeds far behind",
+  "base_time": "overcast",
+  "light_by_time": {
+   "overcast": "overcast daytime, flat gray light, wet trash glistening dully, key color #9A8E7E, cel shadows #4E4438",
+   "rain": "1987 late November gray midday, heavy rain on the mound, no one around, key color #4A4F57, cel shadows #2E3850",
+   "night": "night, darkness, only two small flashlight beams, one sweeping over the mound and one held still at the children's feet, the river faintly heard, key color #2E3550, cel shadows #1E2538"
+  },
+  "variants": [
+   "night"
+  ],
+  "camera_spots": [
+   {
+    "id": "path_south",
+    "ko": "마을 흙길에서 천막 뒤와 더미(남향)",
+    "en": "from the village path looking south at the tent back and the mound",
+    "faces": "S",
+    "sun_side": "동 = 화면 왼쪽",
+    "scenes": [
+     "2-12",
+     "2-14"
+    ]
+   },
+   {
+    "id": "rear_flap",
+    "ko": "천막 안 국솥 옆 뒷자락 너머 빗속의 더미(북향, 2-10)",
+    "en": "through the open rear flap of the tent toward the mound in the rain",
+    "faces": "N",
+    "sun_side": "-",
+    "scenes": [
+     "2-10"
+    ]
+   },
+   {
+    "id": "far_window",
+    "ko": "은주네 쪽방 창에서 본 먼 더미 위 불빛 둘(롱, 남동향)",
+    "en": "long view from a distant shack window, two flashlight dots over the mound",
+    "faces": "SE",
+    "sun_side": "-",
+    "scenes": [
+     "2-11"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "쓰레기 더미(천막 뒤, 흙길 서쪽)",
+   "뒷자락",
+   "마을 흙길(리어카 길)"
+  ]
+ },
+ {
+  "id": "shack_main",
+  "name": "은주네 판잣집 — 부엌 겸 방",
+  "section8": "은주네 판잣집, 부엌 겸 방",
+  "scenes": [
+   "1-4",
+   "2-14",
+   "2-24",
+   "2-26",
+   "3-2",
+   "3-3"
+  ],
+  "size_m": "3.0×3.0 (흙바닥 부엌 칸 0.9m + 방 2.1m), 천장 1.9m",
+  "layout_text_en": "inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-briquette stove, a kerosene burner, a folding low table, a tiny window. Seen from just inside the front door looking in (facing north): a room about 3 m by 3 m under a low ceiling of boards; the first 0.9 m inside the door is a sunken strip of beaten earth running the width of the room, where rubber boots stand; in the middle of that strip a coal-briquette stove set into the riser of the raised floor, with a kettle on its lid; at the left (west) end of the strip, a kerosene burner on a low wooden stand right under the tiny window in the left wall; the rest of the room is a raised heated floor one step up; a single bare bulb hangs from the center of the ceiling over a folding low table; along the back wall folded quilts piled on a low wooden chest and clothes hanging on nails; the right (east) wall is a thin plywood partition with a small plank door at its far (back) end leading to the tiny side room; on the near right, beside the front door, a canvas tool sack leaning on the wall and a flashlight hanging on a nail by the door frame",
+  "base_time": "evening",
+  "light_by_time": {
+   "evening": "1987 spring evening, a single bare incandescent bulb and the small flame of the kerosene burner, a thin wisp of briquette smoke at the door crack, navy dusk at the tiny window, key color #3E4A6A, cel shadows #2A2F45",
+   "window_evening": "1988 May evening, orange afterglow coming through the tiny window on the left, the blue flame of the kerosene burner, warm dusk in the room, key color #E9C48A, cel shadows #5A4636",
+   "night_bulb": "night, the burner off, one bare bulb at the center of the ceiling making a warm yellow pool over the low table, the corners in navy shade, key color #C89B6D, cel shadows #4A3A30",
+   "midnight": "after midnight, almost dark, only faint navy night light from the tiny window, key color #1A2238, cel shadows #232C4A"
+  },
+  "variants": [
+   "night_bulb",
+   "midnight"
+  ],
+  "camera_spots": [
+   {
+    "id": "door_wide",
+    "ko": "현관문 안에서 방 안쪽으로(북향). 작은 창·곤로 왼쪽, 합판 벽·쪽방 문 오른쪽 안",
+    "en": "from just inside the front door looking in (north)",
+    "faces": "N",
+    "sun_side": "서쪽 창 = 화면 왼쪽",
+    "scenes": [
+     "1-4",
+     "2-24",
+     "3-2"
+    ]
+   },
+   {
+    "id": "table_front",
+    "ko": "방 안쪽(북쪽)에서 밥상 정면, 뒤로 현관문(남향). 세 사람 밥상 정면",
+    "en": "from the back of the room toward the low table with the front door behind it (south)",
+    "faces": "S",
+    "sun_side": "서쪽 창 = 화면 오른쪽",
+    "scenes": [
+     "1-4",
+     "3-2",
+     "3-3"
+    ]
+   },
+   {
+    "id": "section",
+    "ko": "합판 벽을 가운데 두고 두 칸을 단면처럼 한 화면(남쪽 벽을 걷어낸 단면, 북향). 왼쪽 부엌 겸 방, 오른쪽 쪽방",
+    "en": "cutaway section of the two rooms side by side with the thin plywood partition in the middle, seen from the south",
+    "faces": "N",
+    "sun_side": "-",
+    "scenes": [
+     "1-4",
+     "1-5",
+     "2-25"
+    ]
+   },
+   {
+    "id": "door_close",
+    "ko": "현관문 안쪽 문고리·목수건·못의 손전등 가까이",
+    "en": "close on the inside of the front door, its handle and the nail by the frame",
+    "faces": "S",
+    "sun_side": "-",
+    "scenes": [
+     "1-4",
+     "2-26"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "현관문(남벽 동쪽, 안쪽 문고리)",
+   "흙바닥 부엌 칸(문 안)",
+   "연탄 아궁이와 주전자(부엌 칸 가운데)",
+   "석유곤로와 받침(부엌 칸 서쪽 끝, 창 아래)",
+   "작은 창(서벽)",
+   "백열전구(천장 가운데)",
+   "밥상(방 가운데)",
+   "이불·낮은 궤(북벽)",
+   "옷 못(북벽)",
+   "합판 칸막이(동벽)와 쪽방 문(그 북쪽 끝)",
+   "공구 자루(현관문 오른쪽)",
+   "손전등 못(문틀 옆)",
+   "고무장화(부엌 칸)"
+  ]
+ },
+ {
+  "id": "shack_side",
+  "name": "은주네 판잣집 — 쪽방",
+  "section8": "은주네 판잣집, 쪽방",
+  "scenes": [
+   "1-5",
+   "1-10",
+   "2-11",
+   "2-25",
+   "2-29",
+   "3-3",
+   "3-7",
+   "3-19",
+   "3-34"
+  ],
+  "size_m": "1.5×3.0, 천장 1.9m",
+  "layout_text_en": "Eunju's tiny side room in the shack: a thin wall shared with the next room, a sleeping mat, a shelf with an old broken transistor radio box. Seen from its small plank door at the back end of the room, looking along its length (facing south): a narrow room about 1.5 m wide and 3 m long under a low board ceiling; the right wall is the thin plywood partition shared with the next room, and a thin sleeping mat with a quilt lies along it with the pillow end at the far end; at the far end, in the end wall, one tiny window about 40 cm square; on the left wall near the far end, at shoulder height, a narrow plank shelf holding a small wooden box (the radio box); a single bare bulb hangs from the middle of the ceiling; bare plywood and tar-paper on the left outer wall; almost no other furniture",
+  "base_time": "night_bulb",
+  "light_by_time": {
+   "night_bulb": "night, one bare incandescent bulb from above, warm small light, glints on small metal things, the window black-navy, key color #24304F, cel shadows #1E2740",
+   "dark": "night with the light off, almost dark, a faint navy night glow through the tiny window, key color #24304F, cel shadows #1A2238",
+   "dark_distant_lights": "night with the light off, darkness, through the tiny window two tiny distant flashlight dots far away, key color #2E3550, cel shadows #1E2538"
+  },
+  "variants": [
+   "dark"
+  ],
+  "camera_spots": [
+   {
+    "id": "top_down",
+    "ko": "위에서 내려다보며: 이불 위 은주와 무릎, 머리맡 선반",
+    "en": "top-down view of the narrow room and the sleeping mat",
+    "faces": "down",
+    "sun_side": "-",
+    "scenes": [
+     "1-5",
+     "2-11"
+    ]
+   },
+   {
+    "id": "door_south",
+    "ko": "쪽방 문에서 방 끝 작은 창 쪽으로(남향). 합판 벽 오른쪽, 선반 왼쪽 안",
+    "en": "from the plank door looking along the room toward the tiny window (south)",
+    "faces": "S",
+    "sun_side": "-",
+    "scenes": [
+     "1-5",
+     "2-25",
+     "3-7"
+    ]
+   },
+   {
+    "id": "window_from_mat",
+    "ko": "이불에 누운 높이에서 작은 창(창틀 안 먼 불빛 둘)",
+    "en": "from the mat at pillow height toward the tiny window",
+    "faces": "S",
+    "sun_side": "-",
+    "scenes": [
+     "2-11",
+     "1-10"
+    ]
+   },
+   {
+    "id": "wall_close",
+    "ko": "합판 벽과 손가락 마디 극접사(톡톡)",
+    "en": "extreme close-up on the plywood partition",
+    "faces": "W",
+    "sun_side": "-",
+    "scenes": [
+     "1-5",
+     "2-11",
+     "2-25",
+     "3-19"
+    ]
+   },
+   {
+    "id": "section",
+    "ko": "두 칸 단면(shack_main의 section과 같은 그림)",
+    "en": "cutaway of both rooms with the partition in the middle",
+    "faces": "N",
+    "sun_side": "-",
+    "scenes": [
+     "1-5",
+     "2-25"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "합판 칸막이(오른쪽 = 동민 쪽 벽)",
+   "얇은 요와 이불(칸막이를 따라, 머리는 창 쪽)",
+   "머리맡 선반(왼쪽 벽, 창 쪽 끝)",
+   "라디오 상자(선반 위)",
+   "엄마의 라디오(머리맡 바닥 또는 상자 안)",
+   "작은 창(끝 벽)",
+   "백열전구(천장 가운데)",
+   "쪽방 문(칸막이 북쪽 끝)"
+  ]
+ },
+ {
+  "id": "small_hill_top",
+  "name": "작은 산 꼭대기",
+  "section8": "작은 산 (중턱·꼭대기)",
+  "scenes": [
+   "1-11",
+   "1-13",
+   "2-1",
+   "2-23",
+   "2-27",
+   "3-4",
+   "3-6",
+   "3-20",
+   "3-21",
+   "3-25"
+  ],
+  "size_m": "꼭대기 평지 약 60×40 (높이는 1987년 미확인, 큰 산보다 낮게)",
+  "layout_text_en": "on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind. Seen from the middle of the flat top looking south: a wide flat summit of compacted ochre and gray-brown soil studded with scrap and torn white plastic that flutters in the wind; near the south edge of the summit a single flat wooden board lying on the ground, the spot where the first sound was played; beyond the edge the terraced slope drops toward the shack village roofs at its foot, the narrow embankment road running south across reeds and water to the mainland, and the hazy 1980s city skyline far behind; on the left (east), past the dump-truck ramp that zigzags down the east slope, the bigger flat-topped trash hill, taller and wider; on the right (west) the open Han River",
+  "base_time": "noon",
+  "light_by_time": {
+   "noon": "1988 early summer midday, strong overhead sun, short shadows, hazy beige sky, plastic sheets flapping in a strong breeze, key color #6FB3A8, cel shadows #5A4A3C",
+   "golden_sunset": "1987 April evening, low sunset backlight from the right (west) across the river, long shadows, the whole trash hill glowing gold, key color #F2C14E, cel shadows #6E5640",
+   "muddy_sunset": "1988 April dusk, the sky over the river darkening to a muddy brown, no golden light, diffuse, soft shadows, key color #8C7A62, cel shadows #4A3F35",
+   "dawn": "before sunrise, blue-gray diffuse light, only the eastern horizon behind the big hill faintly bright, almost no shadows, two truck headlights far away on the embankment road, key color #5E7F99, cel shadows #34465E",
+   "night": "deep night, navy darkness, stars above the black ridge of the big hill, the only light a single warm flashlight circle on the ground, key color #1A2238, cel shadows #232C4A"
+  },
+  "variants": [
+   "golden_sunset",
+   "dawn"
+  ],
+  "camera_spots": [
+   {
+    "id": "top_south",
+    "ko": "꼭대기 가운데에서 남쪽(판자·마을·둑길·뭍)으로 와이드",
+    "en": "from the middle of the summit looking south over the flat board toward the village, the embankment road and the mainland",
+    "faces": "S",
+    "sun_side": "동 = 화면 왼쪽(큰 산), 해 질 녘 해 = 화면 오른쪽",
+    "scenes": [
+     "1-11",
+     "2-23",
+     "3-4",
+     "3-6"
+    ]
+   },
+   {
+    "id": "slope_up",
+    "ko": "남쪽 비탈 아래에서 꼭대기 가장자리로 올려다봄(북향). 오르는 사람 등 너머 아이들 얼굴",
+    "en": "low angle from the south slope looking up at the summit edge (north)",
+    "faces": "N",
+    "sun_side": "해 질 녘 해 = 화면 왼쪽",
+    "scenes": [
+     "1-11",
+     "2-23",
+     "2-27"
+    ]
+   },
+   {
+    "id": "board_close",
+    "ko": "꼭대기 판자 위(동그리 자리) 가까이·극접사",
+    "en": "close on the flat board on the summit",
+    "faces": "down",
+    "sun_side": "-",
+    "scenes": [
+     "2-23",
+     "2-27"
+    ]
+   },
+   {
+    "id": "sky_low",
+    "ko": "하늘을 등진 앙각(미자, 비닐)",
+    "en": "low angle against the sky on the summit",
+    "faces": "any",
+    "sun_side": "-",
+    "scenes": [
+     "3-6",
+     "2-23"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "납작한 판자(꼭대기 남쪽 가장자리 = 첫 소리 자리)",
+   "찢어진 흰 비닐(바람)",
+   "동쪽 비탈 트럭길",
+   "깨진 화분·고무신 한 짝(2-27 손전등 원 안)"
+  ]
+ },
+ {
+  "id": "small_hill_slope",
+  "name": "작은 산 중턱",
+  "section8": "작은 산 (중턱·꼭대기)",
+  "scenes": [
+   "1-1",
+   "1-17",
+   "2-1",
+   "2-27"
+  ],
+  "size_m": "남쪽 비탈 중턱(층진 단 폭 약 5~8m)",
+  "layout_text_en": "on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind. Seen from halfway up the south slope, on one of its wide terraces, looking southeast and down: the terraces step down like giant stairs of packed ochre and gray-brown trash; below, the low shack roofs of the village at the island entrance and the narrow embankment road running south through the reeds; on the left, at the foot of the bigger flat-topped hill, a dump truck tipping its load onto a heap; the ramp road climbing the slope beside the terraces",
+  "base_time": "foggy_dawn",
+  "light_by_time": {
+   "foggy_dawn": "1987 early April before dawn, thick fog, the big hill and the embankment road half-hidden in mist, cool blue-gray diffuse light with almost no shadows, key color #5E7F99, cel shadows #34465E",
+   "first_sun": "the first sunlight breaking over the big hill from the left (east) through the thinning fog, key color #F2C98A, cel shadows #34465E",
+   "day": "daytime, hazy beige sky, flat light, key color #C99A62, cel shadows #6E5640"
+  },
+  "variants": [
+   "first_sun"
+  ],
+  "camera_spots": [
+   {
+    "id": "slope_down_se",
+    "ko": "중턱 단에서 남동쪽 아래로 롱숏: 큰 산 아래 하역, 둑길",
+    "en": "long shot from the middle terrace looking down southeast",
+    "faces": "SE",
+    "sun_side": "동 = 화면 왼쪽, 첫 햇빛은 큰 산 너머 왼쪽",
+    "scenes": [
+     "1-1"
+    ]
+   },
+   {
+    "id": "slope_wide",
+    "ko": "비탈 전체 와이드(사람들이 일어서는 비탈)",
+    "en": "wide view across the whole terraced slope",
+    "faces": "S",
+    "sun_side": "동 = 왼쪽",
+    "scenes": [
+     "1-1",
+     "2-1"
+    ]
+   },
+   {
+    "id": "slope_from_below_night",
+    "ko": "비탈 아래에서 올라가는 작은 불빛 하나(롱, 북향)",
+    "en": "long shot from the foot of the slope up at a single small light climbing",
+    "faces": "N",
+    "sun_side": "-",
+    "scenes": [
+     "2-27"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "층진 단",
+   "자루를 든 섬사람들(배경)",
+   "트럭길"
+  ]
+ },
+ {
+  "id": "dyke_road",
+  "name": "둑길·섬 어귀 — 섬 쪽에서 뭍을 봄",
+  "section8": "둑길·섬 어귀",
+  "scenes": [
+   "1-1",
+   "1-7",
+   "1-16",
+   "2-1",
+   "2-5",
+   "2-7",
+   "2-14",
+   "2-16",
+   "3-32"
+  ],
+  "size_m": "둑 위 길폭 약 5, 길이 약 400, 둑 높이 약 3",
+  "layout_text_en": "the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance. Seen from the bare earth yard at the island end, looking south across the yard to the start of the road and on toward the mainland: on the near left a plywood notice board on two posts at the road's left shoulder; from there the narrow dirt road, about 5 m wide, runs straight away on top of a raised earth embankment about 3 m high, its surface rutted by truck tires with muddy water in the ruts; grassy earth banks slope down on both sides into tall reeds and shallow water; far away at the end of the road the low houses of the mainland and a hazy 1980s city skyline",
+  "base_time": "autumn_afternoon",
+  "light_by_time": {
+   "autumn_afternoon": "1987 autumn afternoon, cool clear light from the right (west), long shadows of reeds across the road, key color #8C8F94, cel shadows #4A5060",
+   "after_rain": "1987 spring afternoon after rain, thin clouds, light from the right (west), puddles in every rut reflecting the sky, key color #C9A66B, cel shadows #6E5640",
+   "morning": "early morning, low sun from the left (east), cool clear light, dew sparkling on the reeds, key color #8C8F94, cel shadows #4A5060",
+   "sunset": "sunset, low sun from the right (west), orange light along the road, key color #9A8E7E, cel shadows #4E4438",
+   "night": "night, darkness, only low distant lights from the tent and shacks behind the viewer, cold navy blue, key color #5A6F88, cel shadows #263150",
+   "fog": "before dawn in thick fog, the road fading into mist after a few meters, blue-gray, key color #5E7F99, cel shadows #34465E"
+  },
+  "variants": [
+   "morning",
+   "night"
+  ],
+  "camera_spots": [
+   {
+    "id": "island_end_south",
+    "ko": "섬 쪽 끝에서 뭍 쪽으로(남향) 고정. 멀리 다가오는 사람",
+    "en": "fixed from the island end of the road looking south toward the mainland",
+    "faces": "S",
+    "sun_side": "동 = 왼쪽, 서 = 오른쪽(프리셋 관례)",
+    "scenes": [
+     "1-1",
+     "1-7",
+     "2-5",
+     "2-16"
+    ]
+   },
+   {
+    "id": "bank_side",
+    "ko": "둑 비탈에 줄지어 앉은 아이들 너머 둑길(옆에서, 동향 또는 서향)",
+    "en": "from the side of the embankment where children sit on the grassy bank, looking along the road",
+    "faces": "E/W",
+    "sun_side": "-",
+    "scenes": [
+     "1-7"
+    ]
+   },
+   {
+    "id": "middle_wide",
+    "ko": "둑길 한가운데 작아지는 사람, 와이드(남향)",
+    "en": "wide view of a lone figure in the middle of the road",
+    "faces": "S",
+    "sun_side": "서 = 오른쪽",
+    "scenes": [
+     "2-7",
+     "2-14"
+    ]
+   },
+   {
+    "id": "low_shoes",
+    "ko": "진흙 바퀴 자국 위 구두·장화(낮게)",
+    "en": "low angle on the muddy ruts",
+    "faces": "S",
+    "sun_side": "-",
+    "scenes": [
+     "1-16",
+     "2-5",
+     "2-1"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "게시판(섬 쪽 끝 동쪽 어깨)",
+   "바퀴 자국과 흙탕물",
+   "갈대",
+   "둑 비탈의 풀"
+  ]
+ },
+ {
+  "id": "dyke_road_to_island",
+  "name": "둑길 — 뭍 쪽에서 섬을 봄(같은 구도 기준)",
+  "section8": "둑길·섬 어귀",
+  "scenes": [
+   "3-30",
+   "3-32"
+  ],
+  "size_m": "둑길 약 400 + 섬 원경",
+  "layout_text_en": "the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance. Fixed framing: seen from the mainland end of the embankment road looking north toward the island, the road running straight away from the viewer across the low reed flats to the island, the small flat-topped hill on the left (west) and the bigger flat-topped hill on the right (east), the Han River opening on the far left. At the far end of the road the low roofs of the shack cluster and a corrugated-iron shed; behind them the two terraced flat-topped trash hills with a dump-truck ramp and power transmission towers in front of them",
+  "base_time": "sunset",
+  "light_by_time": {
+   "sunset": "1988 late July sunset, the low sun on the left (west) over the river, the sky grading from orange to violet, thin evening smoke rising above the shack roofs, the two hills in silhouette, key color #E8853A, cel shadows #4A3448",
+   "autumn_morning": "1988 autumn morning, clear autumn light, hazy beige sky, a line of trucks loaded with household goods leaving along the road, key color #C99A62, cel shadows #5A4A3C"
+  },
+  "variants": [
+   "autumn_morning"
+  ],
+  "camera_spots": [
+   {
+    "id": "mainland_north_fixed",
+    "ko": "뭍 쪽 끝에서 섬 쪽으로(북향) 고정 와이드 — 3-30·3-31·3-32 '같은 구도' 기준",
+    "en": "fixed wide from the mainland end looking north at the island (the shared framing)",
+    "faces": "N",
+    "sun_side": "서 = 화면 왼쪽(해 짐), 동 = 오른쪽",
+    "scenes": [
+     "3-30",
+     "3-32"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "둑길",
+   "판잣집 지붕들",
+   "작은 산(왼쪽)",
+   "큰 산(오른쪽)",
+   "송전탑"
+  ]
+ },
+ {
+  "id": "notice_board",
+  "name": "섬 어귀 게시판",
+  "section8": "섬 어귀 게시판",
+  "scenes": [
+   "1-15",
+   "1-16",
+   "1-17",
+   "2-15"
+  ],
+  "size_m": "게시판 1.8×1.2 (기둥 높이 약 2)",
+  "layout_text_en": "a weathered plywood notice board on two posts at the island entrance, pinned papers. Seen from the bare earth yard on the island side looking south: the board, about 1.8 m wide and 1.2 m high on two wooden posts, stands at the left (east) shoulder of the end of the narrow embankment road, its face toward the viewer; the rutted road runs away to the mainland just to the right of the board; puddles and truck tire ruts in front of it, reeds behind it",
+  "base_time": "morning",
+  "light_by_time": {
+   "morning": "1987 May early morning, low sun from the left (east), cool clear light, dew on the reeds, key color #8C8F94, cel shadows #4A5060",
+   "evening": "1987 May evening, low light from the right (west) raking across the board, a glint on a gold-bordered paper, key color #D8A657, cel shadows #5A4636",
+   "winter_overcast": "1988 January overcast winter day, flat gray light, a paper corner lifting in the wind, key color #9DB7C9, cel shadows #3E4E66"
+  },
+  "variants": [
+   "evening"
+  ],
+  "camera_spots": [
+   {
+    "id": "board_front",
+    "ko": "마당에서 게시판 정면(남향). 오른쪽으로 둑길이 뭍까지",
+    "en": "from the yard facing the board (south)",
+    "faces": "S",
+    "sun_side": "동 = 왼쪽, 서 = 오른쪽",
+    "scenes": [
+     "1-15",
+     "1-16",
+     "1-17"
+    ]
+   },
+   {
+    "id": "over_shoulder",
+    "ko": "은주 어깨 너머 게시판, 종이 두 장 나란히(남향)",
+    "en": "over a shoulder toward the board with two papers side by side",
+    "faces": "S",
+    "sun_side": "동 = 왼쪽",
+    "scenes": [
+     "1-17"
+    ]
+   },
+   {
+    "id": "thumbtack_close",
+    "ko": "압정 머리·종이 귀퉁이 극접사",
+    "en": "extreme close-up on thumbtacks and paper corners",
+    "faces": "S",
+    "sun_side": "-",
+    "scenes": [
+     "1-15",
+     "1-16",
+     "2-15"
+    ]
+   },
+   {
+    "id": "road_north",
+    "ko": "둑길에서 섬 쪽(북향): 걸어오는 은주, 그 뒤 고물상 함석지붕",
+    "en": "from the road looking north toward the island entrance and the junk shop roof",
+    "faces": "N",
+    "sun_side": "동 = 오른쪽",
+    "scenes": [
+     "1-17"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "게시판(둑길 끝 동쪽 어깨, 얼굴은 북)",
+   "금빛 테두리 종이(왼쪽, 1-15~)",
+   "회색 갱지 빨간 도장(그 오른쪽, 1-16~)",
+   "새 종이 빨간 도장 두 개(2-15)",
+   "압정"
+  ]
+ },
+ {
+  "id": "hanbit_hall",
+  "name": "한빛문화회관 홀 — 무대·객석",
+  "section8": "한빛문화회관 (앞·로비·복도·무대 옆·홀)",
+  "scenes": [
+   "3-19",
+   "3-20",
+   "3-21",
+   "3-23",
+   "3-25",
+   "3-26",
+   "3-27"
+  ],
+  "size_m": "홀 약 30×35, 무대 폭 약 16·깊이 10·높이 1.2",
+  "layout_text_en": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats. View (only the hall interior is shown): seen from the back of the audience looking toward the stage: a large hall about 30 m wide and 35 m deep; across the front a raised wooden stage about 1.2 m high and 16 m wide, the red velvet curtains drawn open to both sides of the proscenium; at the right end of the stage, behind the curtain edge, a dark wing, and a short flight of steps going down from that wing to the right end of the front row; the audience seats on a gentle rake in three blocks separated by two aisles; a long plain judges' table set across the center block about seven rows back; exit doors at both back corners; rows of spotlights hanging from battens above the front of the stage",
+  "base_time": "show",
+  "light_by_time": {
+   "show": "1988 midsummer, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #D9B44A, cel shadows #2E2A44",
+   "solo_spot": "the house dark, the spotlight narrowed to a single warm circle at center stage, the rest of the stage in darkness, key color #D9B44A, cel shadows #2E2A44",
+   "ovation": "warm amber stage light spilling forward so the standing audience is lit from the front rows backward, key color #FFC93C, cel shadows #2E2A44",
+   "award": "the whole stage evenly and brightly lit in warm light for the award ceremony, the audience in navy, key color #FFC93C, cel shadows #2E2A44"
+  },
+  "variants": [
+   "solo_spot",
+   "award"
+  ],
+  "camera_spots": [
+   {
+    "id": "house_back",
+    "ko": "객석 뒤에서 무대 정면 와이드",
+    "en": "wide from the back of the audience facing the stage",
+    "faces": "stage",
+    "sun_side": "무대 옆(대기 자리) = 화면 오른쪽",
+    "scenes": [
+     "3-19",
+     "3-25",
+     "3-26",
+     "3-27"
+    ]
+   },
+   {
+    "id": "stage_to_house",
+    "ko": "무대 위(은주 등 뒤 또는 은주 시점)에서 객석으로. 무대 옆은 화면 왼쪽",
+    "en": "from the stage looking out at the dark audience",
+    "faces": "house",
+    "sun_side": "무대 옆 = 화면 왼쪽",
+    "scenes": [
+     "3-19",
+     "3-26"
+    ]
+   },
+   {
+    "id": "floor_low",
+    "ko": "무대 바닥 높이에서 객석 쪽으로 낮게 미끄러짐",
+    "en": "very low along the stage floor toward the audience",
+    "faces": "house",
+    "sun_side": "-",
+    "scenes": [
+     "3-20"
+    ]
+   },
+   {
+    "id": "front_row_low",
+    "ko": "맨 앞줄 오른쪽 끝자리, 로앵글(태준 기립)",
+    "en": "low angle at the right end of the front row",
+    "faces": "house/stage",
+    "sun_side": "-",
+    "scenes": [
+     "3-26"
+    ]
+   },
+   {
+    "id": "back_corner",
+    "ko": "맨 뒷줄 왼쪽 구석(최 계장)",
+    "en": "the back-left corner seat of the last row",
+    "faces": "stage",
+    "sun_side": "-",
+    "scenes": [
+     "3-20",
+     "3-23",
+     "3-26"
+    ]
+   },
+   {
+    "id": "center_seat",
+    "ko": "객석 한가운데(만석) 가까이",
+    "en": "close on a seat in the very middle of the audience",
+    "faces": "stage",
+    "sun_side": "-",
+    "scenes": [
+     "3-19",
+     "3-21",
+     "3-23",
+     "3-26"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "붉은 벨벳 막(양옆으로 걷힘)",
+   "나무 무대",
+   "무대 옆(객석에서 오른쪽)과 내려가는 계단",
+   "심사위원석 긴 탁자(가운데 블록 7열쯤)",
+   "통로 둘",
+   "뒤 양쪽 출구",
+   "천장 배턴의 스포트라이트",
+   "무대 위 자리표(sets.md)"
+  ]
+ },
+ {
+  "id": "hanbit_wing",
+  "name": "한빛문화회관 무대 옆, 커튼 뒤",
+  "section8": "한빛문화회관 (앞·로비·복도·무대 옆·홀)",
+  "scenes": [
+   "3-18",
+   "3-21",
+   "3-22",
+   "3-24",
+   "3-27"
+  ],
+  "size_m": "약 4×6",
+  "layout_text_en": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats. View (only this one space is shown): the dim stage wing on the right side of the stage (as seen from the audience), seen from deep inside the wing looking toward the stage: the heavy edge of the red velvet curtain on the left with a tall vertical gap of light from the stage, black masking flats and hanging ropes along the wall, a folding chair beside the curtain gap under a single bare incandescent work lamp clamped high on the wall, a short flight of steps at the near left going down toward the auditorium, a dark corner at the far right against the stage's back wall, the wooden stage floor continuing beyond the gap",
+  "base_time": "show_warm",
+  "light_by_time": {
+   "show_cold": "daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a narrow blade of cold white stage light cutting in through the curtain gap like a knife, the rest in darkness, key color #E8C98A, cel shadows #3E3226",
+   "show_warm": "daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a strip of the stage's warm amber spotlight leaking through the curtain gap, the rest in darkness, key color #E8C98A, cel shadows #3E3226"
+  },
+  "variants": [
+   "show_cold"
+  ],
+  "camera_spots": [
+   {
+    "id": "wing_to_stage",
+    "ko": "무대 옆 안쪽에서 무대 쪽으로: 왼쪽 커튼 틈, 의자와 작업등",
+    "en": "from deep in the wing toward the stage",
+    "faces": "stage",
+    "sun_side": "커튼 틈 = 화면 왼쪽",
+    "scenes": [
+     "3-18",
+     "3-22",
+     "3-24"
+    ]
+   },
+   {
+    "id": "curtain_gap_pov",
+    "ko": "커튼 틈 시점: 무대 위 연주(은주 시점)",
+    "en": "point of view through the curtain gap onto the stage",
+    "faces": "stage",
+    "sun_side": "-",
+    "scenes": [
+     "3-18",
+     "3-27"
+    ]
+   },
+   {
+    "id": "stage_to_wing",
+    "ko": "무대 위에서 무대 옆 그늘로(은주 시점, 커튼 그늘의 영감)",
+    "en": "from the stage into the shadow of the wing",
+    "faces": "wing",
+    "sun_side": "-",
+    "scenes": [
+     "3-27",
+     "3-21"
+    ]
+   },
+   {
+    "id": "steps_down",
+    "ko": "무대 옆 계단에서 객석 어둠으로 내려감",
+    "en": "down the wing steps into the dark auditorium",
+    "faces": "house",
+    "sun_side": "-",
+    "scenes": [
+     "3-24"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "붉은 벨벳 커튼 가장자리와 틈(왼쪽)",
+   "접이식 의자(틈 옆)",
+   "백열 작업등(벽 높이)",
+   "내려가는 계단(앞 왼쪽)",
+   "어두운 구석(오른쪽 안, 태준)",
+   "복도로 가는 문(뒤)"
+  ]
+ },
+ {
+  "id": "hanbit_corridor",
+  "name": "한빛문화회관 무대 뒤 복도",
+  "section8": "한빛문화회관 (앞·로비·복도·무대 옆·홀)",
+  "scenes": [
+   "3-17"
+  ],
+  "size_m": "폭 약 2, 길이 약 20",
+  "layout_text_en": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats. View (only this one space is shown): the narrow backstage corridor, seen from one end looking down its length: painted concrete walls, plain dressing-room doors on the right, a wide wall mirror on the left wall near the viewer, fluorescent tubes on the ceiling, the far end of the corridor fading into darkness toward the stage wing",
+  "base_time": "fluorescent",
+  "light_by_time": {
+   "fluorescent": "white fluorescent tubes overhead, flat light, the far end dark, key color #EDEBE4, cel shadows #4E4A5E"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "mirror_front",
+    "ko": "거울 속 정면",
+    "en": "facing the wall mirror",
+    "faces": "mirror",
+    "sun_side": "-",
+    "scenes": [
+     "3-17"
+    ]
+   },
+   {
+    "id": "follow_dark",
+    "ko": "뒤를 따라 복도 끝 어둠 속으로",
+    "en": "following down the corridor into the dark end",
+    "faces": "wing",
+    "sun_side": "-",
+    "scenes": [
+     "3-17"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "벽거울(왼쪽, 가까이)",
+   "분장실 문들(오른쪽)",
+   "형광등",
+   "어두운 복도 끝(무대 옆 쪽)"
+  ]
+ },
+ {
+  "id": "hanbit_lobby",
+  "name": "한빛문화회관 로비",
+  "section8": "한빛문화회관 (앞·로비·복도·무대 옆·홀)",
+  "scenes": [
+   "3-28"
+  ],
+  "size_m": "약 25×12",
+  "layout_text_en": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats. View (only this one space is shown): the lobby, seen from near the hall doors looking toward the entrance: a wide lobby with a polished terrazzo floor and square columns, a row of tall glass doors along the far wall with the bright plaza beyond, a broad staircase rising on the right",
+  "base_time": "late_afternoon",
+  "light_by_time": {
+   "late_afternoon": "late afternoon, low sunlight slanting in through the tall glass doors, long reflections on the terrazzo floor, key color #F0CF85, cel shadows #6A5038"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "lobby_glass",
+    "ko": "홀 문 쪽에서 유리문 쪽으로(역광)",
+    "en": "from the hall doors toward the glass entrance, backlit",
+    "faces": "W",
+    "sun_side": "해 = 정면 유리문",
+    "scenes": [
+     "3-28"
+    ]
+   },
+   {
+    "id": "two_shot_side",
+    "ko": "사람들 사이 두 사람 옆모습 투숏",
+    "en": "side two-shot among the crowd",
+    "faces": "N/S",
+    "sun_side": "해 = 화면 한쪽 옆",
+    "scenes": [
+     "3-28"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "테라초 바닥",
+   "네모 기둥",
+   "유리문 줄(서쪽)",
+   "넓은 계단(오른쪽)"
+  ]
+ },
+ {
+  "id": "hanbit_front",
+  "name": "한빛문화회관 앞·계단",
+  "section8": "한빛문화회관 (앞·로비·복도·무대 옆·홀)",
+  "scenes": [
+   "3-16",
+   "3-29"
+  ],
+  "size_m": "계단 폭 약 30, 광장 약 60×40",
+  "layout_text_en": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats. View (only this one space is shown): the front of the building, seen from the bottom of the steps looking up: a broad, plain 1980s concrete facade, wide pale stone steps rising across its whole front to a row of tall glass doors, a large paved plaza at the foot of the steps where a bus can pull in, a busy city avenue beyond the plaza",
+  "base_time": "noon",
+  "light_by_time": {
+   "noon": "1988 midsummer noon, harsh overhead sun, the plaza glaring white, short shadows, a hazy white sky, key color #F5F5F2, cel shadows #5B5E78",
+   "sunset": "sunset, the low sun behind the plaza side, long shadows stretching up the steps, orange-gold backlight, key color #F7B955, cel shadows #6E4A3A"
+  },
+  "variants": [
+   "sunset"
+  ],
+  "camera_spots": [
+   {
+    "id": "steps_up",
+    "ko": "계단 아래에서 정면을 올려다봄",
+    "en": "from the foot of the steps looking up at the facade",
+    "faces": "E",
+    "sun_side": "한낮 머리 위",
+    "scenes": [
+     "3-16"
+    ]
+   },
+   {
+    "id": "steps_down",
+    "ko": "계단 위에서 광장 쪽으로 내려다봄(긴 그림자, 역광)",
+    "en": "from the top of the steps looking down toward the plaza into the low sun",
+    "faces": "W",
+    "sun_side": "해 = 정면(광장 쪽)",
+    "scenes": [
+     "3-29"
+    ]
+   },
+   {
+    "id": "plaza_wide",
+    "ko": "광장의 전세 버스와 사람들, 노을 와이드",
+    "en": "wide on the plaza with a chartered bus at sunset",
+    "faces": "W",
+    "sun_side": "해 = 정면",
+    "scenes": [
+     "3-16",
+     "3-29"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "넓은 돌계단",
+   "높은 유리문 줄",
+   "광장",
+   "전세 버스 서는 자리(광장 계단 앞)"
+  ]
+ },
+ {
+  "id": "hanbit_rehearsal",
+  "name": "한빛문화회관 연습실",
+  "section8": "한빛문화회관 연습실",
+  "scenes": [
+   "2-4"
+  ],
+  "size_m": "약 20×15",
+  "layout_text_en": "the fictional Hanbit Cultural Center, its large rehearsal room: a polished wooden floor, rows of folding chairs grouped by school, white fluorescent ceiling lights, tall windows, a slogan-only Olympic campaign poster on the wall. Seen from the back of the room by the entrance door looking toward the front: an open playing area at the front of the room; rows of folding chairs facing it, grouped by school with gaps between the groups; tall windows along the left wall letting in bands of sunlight; the poster on the right wall; the last row of chairs right in front of the viewer",
+  "base_time": "day",
+  "light_by_time": {
+   "day": "1987 late October daytime, flat white fluorescent light plus bands of sunlight from the tall windows on the left, key color #3A5A8C, cel shadows #2C3A55"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "room_wide",
+    "ko": "뒷문 쪽에서 앞으로 와이드(창 왼쪽)",
+    "en": "wide from the back by the door toward the front",
+    "faces": "front",
+    "sun_side": "창 = 화면 왼쪽",
+    "scenes": [
+     "2-4"
+    ]
+   },
+   {
+    "id": "last_rows",
+    "ko": "맨 뒷줄과 바로 앞줄 사이(은주·태준 교차)",
+    "en": "between the last row and the row in front of it",
+    "faces": "side",
+    "sun_side": "-",
+    "scenes": [
+     "2-4"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "나무 바닥",
+   "접이식 의자 줄(학교별)",
+   "형광등",
+   "높은 창(왼쪽)",
+   "올림픽 표어 포스터(오른쪽 벽)",
+   "앞쪽 연주 자리"
+  ]
+ },
+ {
+  "id": "island_wide",
+  "name": "갈대섬 전경",
+  "section8": "갈대섬 전경",
+  "scenes": [
+   "1-1",
+   "2-1",
+   "2-28",
+   "3-25"
+  ],
+  "size_m": "섬 약 2km×1km(제안)",
+  "layout_text_en": "a fictional landfill island on the Han River at the edge of Seoul, two flat-topped mesa-like hills of compacted trash still being built ('the big hill' and 'the small hill'), terraced ochre and gray-brown slopes with dump-truck ramps, specks of white plastic, power transmission towers in front, a single earthen embankment road linking it to the mainland, reeds along the water, hazy beige sky. High wide view from above the channel on the mainland side, looking north at the whole island: the embankment road runs up from the bottom of the frame to the island entrance at the south edge, where a small cluster of low shacks, a corrugated-iron shed and a canvas tent sit; behind them the small flat-topped hill on the left (west) and the bigger, taller one on the right (east), each with a dump-truck ramp zigzagging up its terraces; a row of power transmission towers in front of the hills; the Han River wrapping around the west side; reed beds along the shore",
+  "base_time": "afternoon",
+  "light_by_time": {
+   "afternoon": "1987 October afternoon, cool clear light from the left (west), hazy beige sky, a thin wisp of smoke rising far off on the big hill, key color #C99A62, cel shadows #6E5640",
+   "night": "deep night, the whole island dark navy, stars above the black hills, a single small yellow light at the island entrance, key color #1A2238, cel shadows #232C4A"
+  },
+  "variants": [
+   "night"
+  ],
+  "camera_spots": [
+   {
+    "id": "high_north",
+    "ko": "뭍 쪽 하늘에서 섬 전체를 북향으로 내려다보는 높은 와이드",
+    "en": "high wide from above the mainland side looking north",
+    "faces": "N",
+    "sun_side": "서 = 화면 왼쪽",
+    "scenes": [
+     "2-1",
+     "2-28",
+     "3-25"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "둑길",
+   "섬 어귀 판잣집·고물상·천막",
+   "작은 산(서)",
+   "큰 산(동)",
+   "트럭길",
+   "송전탑",
+   "갈대밭"
+  ]
+ },
+ {
+  "id": "scrap_heap",
+  "name": "큰 산 아래 쇳더미",
+  "section8": "큰 산 아래 쇳더미",
+  "scenes": [
+   "1-1",
+   "1-2",
+   "3-6",
+   "3-20"
+  ],
+  "size_m": "더미 높이 약 4, 둘레 약 10",
+  "layout_text_en": "at the foot of the big trash hill where dump trucks unload: a fresh heap of scrap iron and tin, tire ruts in the mud. Seen from the mud at the foot of the heap, looking up and south: a heap about 4 m high of freshly dumped scrap iron, tin cans, bent pipes and sheet metal at the end of the truck road at the southwest foot of the big hill; deep tire ruts in the mud around it; mud-covered lumps scattered at its base; beyond the top of the heap the hazy beige sky, and on the right in the distance the smaller flat-topped trash hill",
+  "base_time": "morning",
+  "light_by_time": {
+   "morning": "early morning, low sun from the left (east) at a slant, short metallic glints on the scrap, hazy beige sky, key color #C9A66B, cel shadows #6E5640",
+   "summer_morning": "1988 early summer morning, low eastern sunlight, hazy beige sky, key color #C99A62, cel shadows #5A4A3C"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "heap_up",
+    "ko": "더미 아래에서 꼭대기(빨간 깃발)를 올려다봄(남향)",
+    "en": "low angle from the foot of the heap up to its top",
+    "faces": "S",
+    "sun_side": "동 = 화면 왼쪽(프리셋 1-2)",
+    "scenes": [
+     "1-2"
+    ]
+   },
+   {
+    "id": "heap_pan",
+    "ko": "은주 시점, 더미를 천천히 훑는 팬",
+    "en": "slow pan across the heap at eye level",
+    "faces": "S",
+    "sun_side": "동 = 왼쪽",
+    "scenes": [
+     "1-2",
+     "3-6"
+    ]
+   },
+   {
+    "id": "from_small_hill",
+    "ko": "작은 산 중턱에서 내려다본 롱숏(small_hill_slope의 slope_down_se)",
+    "en": "long shot from the small hill slope",
+    "faces": "SE",
+    "sun_side": "-",
+    "scenes": [
+     "1-1"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "쇳더미",
+   "바퀴 자국",
+   "진흙 덩어리(구리 파이프 토막)",
+   "빨간 헝겊 깃발(1-2, 미자)"
+  ]
+ },
+ {
+  "id": "shack_village",
+  "name": "판잣집 동네 외경",
+  "section8": "판잣집 동네 외경",
+  "scenes": [
+   "1-4",
+   "1-10",
+   "2-14",
+   "3-25"
+  ],
+  "size_m": "골목 폭 1~2",
+  "layout_text_en": "the shack village at the island entrance: low shacks of plywood, tar paper and cement blocks with slate and roofing-felt roofs weighed down by plastic sheets and stones, narrow winding dirt alleys, thin stovepipes. Seen from inside a narrow dirt alley looking west: shacks pressed together on both sides of a 1.5 m wide alley; on the right, Eunju's family shack, a low plywood and tar-paper box about 4.5 m wide with a plank front door facing the alley, a tiny window, a thin tin stovepipe and a roof held down by plastic sheets and stones; the alley bends ahead toward the open sky, and above the roofs on the right rises the terraced slope of the small trash hill",
+  "base_time": "dusk",
+  "light_by_time": {
+   "dusk": "1987 April evening after sunset, navy twilight, yellow light in a few small shack windows, thin briquette smoke from the stovepipes, key color #3E4A6A, cel shadows #2A2F45",
+   "night": "night, the village dark navy, over the roofs toward the island entrance a single yellow light from the junk shop, key color #24304F, cel shadows #1E2740",
+   "sunset": "sunset, low light from the alley's open end ahead (west), long shadows, key color #9A8E7E, cel shadows #4E4438"
+  },
+  "variants": [
+   "night"
+  ],
+  "camera_spots": [
+   {
+    "id": "alley_west",
+    "ko": "골목 안에서 서쪽으로: 오른쪽에 은주네 집 현관",
+    "en": "in the alley looking west with Eunju's shack door on the right",
+    "faces": "W",
+    "sun_side": "해 질 녘 하늘 = 정면",
+    "scenes": [
+     "1-4",
+     "2-14"
+    ]
+   },
+   {
+    "id": "roofs_to_entrance",
+    "ko": "은주네 집 근처에서 지붕들 너머 남동쪽 섬 어귀(고물상 불빛 하나)",
+    "en": "over the roofs toward the island entrance to the southeast",
+    "faces": "SE",
+    "sun_side": "-",
+    "scenes": [
+     "1-10",
+     "3-25"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "은주네 집 현관(남, 골목 쪽)",
+   "작은 창",
+   "연통",
+   "비닐·돌 누른 지붕",
+   "좁은 흙 골목"
+  ]
+ },
+ {
+  "id": "pawnshop",
+  "name": "만복전당포",
+  "section8": "만복전당포",
+  "scenes": [
+   "2-8",
+   "3-10",
+   "3-33"
+  ],
+  "size_m": "2.5×6",
+  "layout_text_en": "a narrow 1980s pawnshop: glass display cases with watches, gold rings and cameras, a yellowed fluorescent light, an abacus on the counter. Seen from just inside the front door looking in: a narrow shop about 2.5 m wide and 6 m deep; a long glass display case along the left wall; at the back a glass-fronted counter across the width with the abacus and a ledger on it and a stool behind it; behind the counter a doorway hung with a faded cloth curtain leading to a storeroom; plain shelves with a few pawned radios and small appliances on the right wall; a single yellowed fluorescent tube on the ceiling; a small brass bell on a bracket above the door",
+  "base_time": "winter_morning",
+  "light_by_time": {
+   "winter_morning": "1987 mid-November frosty morning, inside a yellowed flickering fluorescent tube, cold pale light at the glass door behind the viewer, key color #B9A86A, cel shadows #5E5238",
+   "summer_day": "1988 summer daytime, the same yellow fluorescent light, a strip of bright summer daylight across the floor from the opened door, key color #B9A86A, cel shadows #5A4A30"
+  },
+  "variants": [
+   "summer_day"
+  ],
+  "camera_spots": [
+   {
+    "id": "door_in",
+    "ko": "문 안에서 계산대 쪽으로(진열장 왼쪽)",
+    "en": "from inside the door toward the counter",
+    "faces": "in",
+    "sun_side": "-",
+    "scenes": [
+     "2-8",
+     "3-33"
+    ]
+   },
+   {
+    "id": "counter_reverse",
+    "ko": "계산대 뒤 주인 자리에서 문 쪽으로(문 종, 들어오는 사람)",
+    "en": "from behind the counter toward the front door",
+    "faces": "out",
+    "sun_side": "-",
+    "scenes": [
+     "2-8",
+     "3-10"
+    ]
+   },
+   {
+    "id": "counter_top",
+    "ko": "계산대 위 부감(케이스 안, 전당표, 동전)",
+    "en": "top-down on the counter",
+    "faces": "down",
+    "sun_side": "-",
+    "scenes": [
+     "2-8",
+     "3-33"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "유리 진열장(왼쪽 벽)",
+   "유리 계산대(안쪽, 주판·장부)",
+   "창고로 가는 천 커튼 문(계산대 뒤)",
+   "형광등",
+   "문 위 종",
+   "선반(오른쪽 벽)"
+  ]
+ },
+ {
+  "id": "market_alley",
+  "name": "시장 골목",
+  "section8": "시장 골목",
+  "scenes": [
+   "2-8",
+   "2-9"
+  ],
+  "size_m": "골목 폭 약 3, 길이 약 40",
+  "layout_text_en": "a 1980s Seoul market alley: low shop fronts, an electronics repair shop with a radio, hand-painted fictional signs. Seen from the mouth of the alley looking in: a narrow alley about 3 m wide lined with low one- and two-story shop fronts with blank hand-painted signboards and rolled-up awnings; on the near right, the electronics repair shop with radios on a display rack at its open front; the alley runs straight and ends at a narrow pawnshop front with an old signboard hanging crooked at one end; frost on the shaded ground; just outside the alley mouth on the main street, a two-wheeled handcart parked",
+  "base_time": "frost_morning",
+  "light_by_time": {
+   "frost_morning": "1987 mid-November morning, cold low light, frost in the shaded alley, visible breath, key color #B9A86A, cel shadows #5E5238"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "mouth_in",
+    "ko": "골목 어귀에서 안쪽 끝 전당포 쪽으로",
+    "en": "from the alley mouth toward the pawnshop at the end",
+    "faces": "in",
+    "sun_side": "-",
+    "scenes": [
+     "2-9"
+    ]
+   },
+   {
+    "id": "sign_down",
+    "ko": "전당포 간판에서 문 앞으로 내려옴",
+    "en": "tilt down from the pawnshop signboard to its door",
+    "faces": "in",
+    "sun_side": "-",
+    "scenes": [
+     "2-8"
+    ]
+   },
+   {
+    "id": "radio_close",
+    "ko": "전파사 진열대 라디오 스피커 극접사",
+    "en": "extreme close-up on a radio speaker at the repair shop",
+    "faces": "side",
+    "sun_side": "-",
+    "scenes": [
+     "2-9"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "전파사(어귀 오른쪽)",
+   "전당포(골목 끝)",
+   "리어카(어귀 밖 큰길)",
+   "서리"
+  ]
+ },
+ {
+  "id": "school_auditorium",
+  "name": "학교 강당",
+  "section8": "학교 강당",
+  "scenes": [
+   "2-18",
+   "2-19",
+   "3-10"
+  ],
+  "size_m": "약 18×30",
+  "layout_text_en": "a 1980s school auditorium: a wooden stage with a raised platform, folding chairs, high windows. Seen from the back doors looking toward the stage: a long hall with a wooden floor; at the far end a raised wooden stage with a plain dark curtain at each side, the right side curtain hiding a narrow wing; rows of metal folding chairs facing the stage with a center aisle; high windows along both long walls near the ceiling; a pair of plain wooden double doors at the back behind the viewer",
+  "base_time": "day",
+  "light_by_time": {
+   "day": "1988 April daytime, stage lights from above the front of the stage, the wing behind the curtain dim, the seats lit by daylight from the high windows, key color #7A6B5A, cel shadows #3E342A",
+   "evening": "evening, stage lights and indoor lights on, the high windows dark blue, key color #7A6B5A, cel shadows #3E342A"
+  },
+  "variants": [
+   "evening"
+  ],
+  "camera_spots": [
+   {
+    "id": "back_to_stage",
+    "ko": "뒷문에서 무대 쪽 와이드",
+    "en": "from the back doors toward the stage",
+    "faces": "stage",
+    "sun_side": "무대 옆 = 화면 오른쪽",
+    "scenes": [
+     "2-18",
+     "2-19"
+    ]
+   },
+   {
+    "id": "wing_gap_to_house",
+    "ko": "무대 옆 커튼 틈에서 객석을 훑어 문까지(은주 시점)",
+    "en": "from the wing curtain gap scanning the audience to the back doors",
+    "faces": "house",
+    "sun_side": "-",
+    "scenes": [
+     "2-18"
+    ]
+   },
+   {
+    "id": "closed_door",
+    "ko": "닫힌 뒷문 고정",
+    "en": "fixed on the closed back doors",
+    "faces": "back",
+    "sun_side": "-",
+    "scenes": [
+     "2-19"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "나무 무대",
+   "무대 옆 커튼(오른쪽)",
+   "접이식 의자 줄",
+   "높은 창",
+   "뒷문(나무 양문)"
+  ]
+ },
+ {
+  "id": "night_school",
+  "name": "강변교회 지하 공부방",
+  "section8": "강변교회 지하 공부방",
+  "scenes": [
+   "1-6"
+  ],
+  "size_m": "약 6×5, 천장 2.4",
+  "layout_text_en": "a 1980s church basement study room for neighborhood children: a green chalkboard, mismatched desks, three bare incandescent bulbs hanging from the ceiling, a small high window. Seen from the foot of the stairs at the back of the room looking toward the front: a steep narrow concrete staircase comes straight down from a street-level door into the back-right corner of the room; mismatched wooden desks and chairs in rows facing the green chalkboard on the front wall; the three bare bulbs hang in a line down the middle of the ceiling on long cords; the small high window near the ceiling on the left wall at ground level outside",
+  "base_time": "evening",
+  "light_by_time": {
+   "evening": "Saturday evening, the small high window dark blue, three bare bulbs glowing yellow and swaying slightly, swinging shadows on the walls, key color #E8C46A, cel shadows #6E5640"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "bulb_down",
+    "ko": "백열등에서 내려와 교실 전체로",
+    "en": "from the bulbs tilting down to the whole classroom",
+    "faces": "front",
+    "sun_side": "-",
+    "scenes": [
+     "1-6"
+    ]
+   },
+   {
+    "id": "stairs_up",
+    "ko": "계단 아래에서 올려다봄(사탕이 화면 쪽으로 쏟아짐)",
+    "en": "low angle from the foot of the stairs looking up the steps",
+    "faces": "up",
+    "sun_side": "-",
+    "scenes": [
+     "1-6"
+    ]
+   },
+   {
+    "id": "across_room",
+    "ko": "교실을 사이에 두고 칠판 앞 선영과 뒷줄 은주 투샷(옆에서)",
+    "en": "two-shot across the room between the chalkboard and the back row",
+    "faces": "side",
+    "sun_side": "-",
+    "scenes": [
+     "1-6"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "가파른 계단(뒤 오른쪽 구석)",
+   "녹색 칠판(앞벽)",
+   "제각각 책상",
+   "백열등 셋(가운데 줄)",
+   "작은 높은 창(왼쪽 벽)"
+  ]
+ },
+ {
+  "id": "city_bus",
+  "name": "시내버스 안",
+  "section8": "시내버스 안",
+  "scenes": [
+   "2-3"
+  ],
+  "size_m": "차내 길이 약 10, 폭 2.4",
+  "layout_text_en": "inside a 1980s Seoul city bus: worn seats, hanging straps, a token box by the driver. Seen from the front near the driver's seat looking back along the aisle: worn two-seat rows on both sides facing forward, an empty long bench seat across the very back, hanging straps on metal rails along both sides of the aisle, windows along both sides, a rear exit door on one side, the token box fixed beside the driver's seat at the front door",
+  "base_time": "midday",
+  "light_by_time": {
+   "midday": "1987 late October midday, bright side light through the bus windows, swaying window-frame shadows across the seats, key color #A8B3BF, cel shadows #4A5A70"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "aisle_back",
+    "ko": "통로 따라 뒤로 미끄러지며(맨 뒷자리 아이들)",
+    "en": "sliding back along the aisle toward the back bench",
+    "faces": "back",
+    "sun_side": "-",
+    "scenes": [
+     "2-3"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "토큰함(운전석 옆 앞문)",
+   "손잡이",
+   "맨 뒷자리 긴 의자",
+   "뒷문"
+  ]
+ },
+ {
+  "id": "district_office",
+  "name": "구청 도시정비과 사무실",
+  "section8": "구청 도시정비과",
+  "scenes": [
+   "3-12"
+  ],
+  "size_m": "약 10×8",
+  "layout_text_en": "a 1980s Seoul district office: steel desks, stacks of folders, a wall map of the district, a desk fan. Seen from the entrance door looking in: gray steel desks pushed together in two facing rows down the middle of the room, stacks of folders and file trays on them, a desk fan on the desk at the head of the near row; at the far end by the windows a larger section chief's desk facing the room; the large district map on the left wall; a slogan-only Olympic campaign poster on the right wall; fluorescent tubes on the ceiling; dim windows behind the chief's desk",
+  "base_time": "day",
+  "light_by_time": {
+   "day": "1988 early July daytime, white fluorescent light from above onto the rows of desks, weak window light, key color #E6E8EA, cel shadows #5E6A78"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "light_down",
+    "ko": "형광등에서 내려와 책상 줄로",
+    "en": "from the fluorescent tubes tilting down to the desks",
+    "faces": "in",
+    "sun_side": "-",
+    "scenes": [
+     "3-12"
+    ]
+   },
+   {
+    "id": "chief_desk",
+    "ko": "과장 책상 앞에 선 최 계장(옆에서)",
+    "en": "side view at the section chief's desk",
+    "faces": "side",
+    "sun_side": "창 = 과장 뒤",
+    "scenes": [
+     "3-12"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "철제 책상 두 줄",
+   "서류철",
+   "선풍기(가까운 줄 맨 앞 = 최 계장 책상)",
+   "과장 책상(창 쪽 끝)",
+   "구 지도(왼쪽 벽)",
+   "올림픽 표어 포스터(오른쪽 벽)",
+   "형광등"
+  ]
+ },
+ {
+  "id": "district_corridor",
+  "name": "구청 복도",
+  "section8": "구청 복도",
+  "scenes": [
+   "3-13"
+  ],
+  "size_m": "폭 약 2.5",
+  "layout_text_en": "a corridor of the same 1980s Seoul district office: terrazzo floor, a row of plain office doors, a potted plant by the wall, fluorescent tubes on the ceiling. Seen along the corridor: the potted plant in the near foreground against the right wall, the row of plain doors on the left, a window at the far end glowing white",
+  "base_time": "day",
+  "light_by_time": {
+   "day": "daytime, fluorescent tubes overhead, white light from the window at the far end, key color #E6E8EA, cel shadows #5E6A78"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "plant_close",
+    "ko": "화분 접사, 위에서 물방울",
+    "en": "close on the potted plant",
+    "faces": "down",
+    "sun_side": "-",
+    "scenes": [
+     "3-13"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "화분(벽 옆)",
+   "사무실 문 줄",
+   "복도 끝 창"
+  ]
+ },
+ {
+  "id": "park_2003_view",
+  "name": "푸른 언덕 공원(2003) — 같은 구도",
+  "section8": "푸른 언덕 공원 (2003)",
+  "scenes": [
+   "3-31",
+   "3-32"
+  ],
+  "size_m": "둑길 자리 산책로 + 두 언덕 원경",
+  "layout_text_en": "a green hilltop park built over the old landfill, grass and wildflowers, a walking path, a small outdoor stage, the Han River and a 2003 Seoul skyline. Fixed framing: seen from the mainland end of the embankment road looking north toward the island, the wide walking path running straight away from the viewer across the low reed flats to the island, the small flat-topped hill on the left (west) and the bigger flat-topped hill on the right (east), the Han River opening on the far left. Both hills are entirely green with low grass on their terraced slopes, a zigzag stairway climbing the right hill, no shacks and no trash anywhere",
+  "base_time": "spring_noon",
+  "light_by_time": {
+   "spring_noon": "2003 spring midday, clear bright blue sky for the first time with no haze, everything in natural colors, soft spring sunlight from above and slightly left, key color #7FB77E, cel shadows #3F5A6A"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "mainland_north_fixed",
+    "ko": "dyke_road_to_island와 같은 자리·같은 구도(북향)",
+    "en": "same position and framing as the 1988 embankment shot",
+    "faces": "N",
+    "sun_side": "서 = 왼쪽",
+    "scenes": [
+     "3-31",
+     "3-32"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "넓은 산책로(둑길 자리)",
+   "초록 언덕 둘",
+   "지그재그 계단(큰 언덕)"
+  ]
+ },
+ {
+  "id": "park_2003_stage",
+  "name": "푸른 언덕 공원 꼭대기, 작은 무대(2003)",
+  "section8": "푸른 언덕 공원 (2003)",
+  "scenes": [
+   "3-34"
+  ],
+  "size_m": "무대 약 6×4, 객석 의자 약 60석",
+  "layout_text_en": "a green hilltop park built over the old landfill, grass and wildflowers, a walking path, a small outdoor stage, the Han River and a 2003 Seoul skyline. View: the flat top of the smaller green hill, seen from behind the audience looking south: rows of folding chairs on the grass facing a small low wooden stage at the south edge of the summit; a banner on a frame beside the stage; behind the stage the hillside drops away so the open sky is wide, and far below the glittering river and the 2003 Seoul skyline; a walking path curving across the summit",
+  "base_time": "spring_noon",
+  "light_by_time": {
+   "spring_noon": "2003 spring midday, wide clear blue sky, the sun high and behind the stage, no dark shadows on the stage, the river sparkling below, natural colors, key color #7FB77E, cel shadows #3F5A6A"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "audience_back",
+    "ko": "객석 뒤에서 무대와 하늘을 넓게(남향)",
+    "en": "wide from behind the audience toward the stage and the sky",
+    "faces": "S",
+    "sun_side": "해 = 무대 뒤 위",
+    "scenes": [
+     "3-34"
+    ]
+   },
+   {
+    "id": "stage_to_audience",
+    "ko": "무대에서 객석으로(은주 시점, 맨 앞줄부터 팬, 북향)",
+    "en": "from the stage toward the audience rows",
+    "faces": "N",
+    "sun_side": "해 = 등 뒤",
+    "scenes": [
+     "3-34"
+    ]
+   },
+   {
+    "id": "down_slope",
+    "ko": "언덕 비탈을 따라 강 쪽으로 내려감(풀밭과 흙)",
+    "en": "descending along the grassy slope toward the river",
+    "faces": "S",
+    "sun_side": "-",
+    "scenes": [
+     "3-34"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "작은 나무 무대(꼭대기 남쪽 가장자리 = 1987년 판자 자리)",
+   "현수막 틀(무대 옆)",
+   "접이식 의자 객석",
+   "무대 뒤편 받침대(은주의 바이올린 케이스)",
+   "무대 한쪽 의자(라디오)"
+  ]
+ },
+ {
+  "id": "island_after",
+  "name": "갈대섬 전경(매립 끝난 뒤, 1990년대)",
+  "section8": "갈대섬 전경 (매립 끝난 뒤, 1990년대)",
+  "scenes": [
+   "3-32"
+  ],
+  "size_m": "섬 원경",
+  "layout_text_en": "the same island after landfill closure: the two flat-topped hills covered with fresh soil, no trash visible, first green sprouts and grass on the terraced slopes, the embankment road, the Han River. Fixed framing: seen from the mainland end of the embankment road looking north toward the island, the road running straight away from the viewer across the low reed flats to the island, the small flat-topped hill on the left (west) and the bigger flat-topped hill on the right (east), the Han River opening on the far left. The ground where the shacks stood at the end of the road is bare and empty",
+  "base_time": "overcast",
+  "light_by_time": {
+   "overcast": "early 1990s overcast daytime, flat gray light, fresh brown soil, no people, key color #8C8F94, cel shadows #4A4258",
+   "greening": "1990s, soft daylight, green spreading over the soil, the same framing, key color #A8C88A, cel shadows #3F5A6A"
+  },
+  "variants": [
+   "greening"
+  ],
+  "camera_spots": [
+   {
+    "id": "mainland_north_fixed",
+    "ko": "dyke_road_to_island와 같은 자리·같은 구도(북향)",
+    "en": "same framing as the embankment shot",
+    "faces": "N",
+    "sun_side": "서 = 왼쪽",
+    "scenes": [
+     "3-32"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "흙 덮인 두 산",
+   "빈터",
+   "둑길"
+  ]
+ },
+ {
+  "id": "temp_alley",
+  "name": "임시 거처 골목 (1988)",
+  "section8": "임시 거처 골목 (1988)",
+  "scenes": [
+   "3-32"
+  ],
+  "size_m": "골목 폭 약 6",
+  "layout_text_en": "a narrow dirt alley between rows of identical single-story prefabricated temporary houses in 1988 Seoul, thin panel walls, small windows, a shared water tap at the alley entrance; seen from the alley entrance looking in, the water tap on the right, laundry lines across the alley",
+  "base_time": "autumn_day",
+  "light_by_time": {
+   "autumn_day": "1988 autumn daytime, soft autumn light, key color #D8C8A8, cel shadows #4A4A6E"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "entrance_in",
+    "ko": "골목 입구에서 안으로(입구에 서류 든 최 계장)",
+    "en": "from the alley entrance looking in",
+    "faces": "in",
+    "sun_side": "-",
+    "scenes": [
+     "3-32"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "골목 입구(콘크리트)",
+   "똑같은 창 줄",
+   "이삿짐 트럭"
+  ]
+ },
+ {
+  "id": "rental_alley",
+  "name": "임대주택 골목",
+  "section8": "임대주택 골목",
+  "scenes": [
+   "3-32"
+  ],
+  "size_m": "골목 폭 약 6",
+  "layout_text_en": "a narrow alley between new low-rise public rental apartment blocks in 1990 Seoul, rows of identical windows, a concrete alley entrance. Seen from the alley entrance looking in: two plain five-story walk-up blocks facing each other across a narrow concrete lane, rows of identical windows on both facades, a parked moving truck stacked with household goods halfway down the lane",
+  "base_time": "autumn_day",
+  "light_by_time": {
+   "autumn_day": "1990 autumn daytime, soft autumn light, key color #D8C8A8, cel shadows #4A4A6E"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "entrance_in",
+    "ko": "골목 입구에서 안으로(입구에 서류 든 최 계장)",
+    "en": "from the alley entrance looking in",
+    "faces": "in",
+    "sun_side": "-",
+    "scenes": [
+     "3-32"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "골목 입구(콘크리트)",
+   "똑같은 창 줄",
+   "이삿짐 트럭"
+  ]
+ },
+ {
+  "id": "school_gate",
+  "name": "학교 교문",
+  "section8": "학교 교문",
+  "scenes": [
+   "3-32"
+  ],
+  "size_m": "교문 폭 약 6",
+  "layout_text_en": "a late-1980s Seoul elementary school front gate: an iron gate between concrete posts, a dirt schoolyard and a three-story school building behind. Seen from the street outside: the iron gate standing open between two square concrete posts, the wide dirt schoolyard beyond, the long three-story school building across the back of the yard",
+  "base_time": "autumn_morning",
+  "light_by_time": {
+   "autumn_morning": "1988 autumn morning, bright morning sunlight, long shadows across the dirt yard, key color #E8D6A0, cel shadows #4A4A6E"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "street_in",
+    "ko": "길에서 교문 안으로 뛰어 들어가는 아이들",
+    "en": "from the street through the open gate",
+    "faces": "in",
+    "sun_side": "-",
+    "scenes": [
+     "3-32"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "쇠 교문",
+   "콘크리트 기둥 둘(명판 글씨 없음)",
+   "흙 운동장",
+   "3층 교사"
+  ]
+ },
+ {
+  "id": "mainland_alley",
+  "name": "뭍의 골목",
+  "section8": "뭍의 골목",
+  "scenes": [
+   "2-1"
+  ],
+  "size_m": "골목 폭 약 3",
+  "layout_text_en": "a mainland back alley of 1980s Seoul outside the island: low brick and cement-block houses, gray walls, wooden utility poles, a narrow lane of cracked asphalt and dirt. Seen along the lane: gray block walls and low houses on both sides, wooden utility poles with sagging wires, the lane narrowing into the distance",
+  "base_time": "afternoon",
+  "light_by_time": {
+   "afternoon": "1987 autumn early afternoon, the sun still high, short shadows at the wall bases, key color #D9822B, cel shadows #6E5640"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "lane_along",
+    "ko": "골목을 따라 리어카를 끄는 만석",
+    "en": "along the lane",
+    "faces": "along",
+    "sun_side": "-",
+    "scenes": [
+     "2-1"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "블록 담",
+   "나무 전봇대"
+  ]
+ },
+ {
+  "id": "fb_theater",
+  "name": "회상: 1970년대 극장 쇼 무대",
+  "section8": "회상: 1970년대 극장 쇼 무대",
+  "scenes": [
+   "3-3"
+  ],
+  "size_m": "무대 폭 약 12",
+  "layout_text_en": "a 1970s downtown Seoul theater show stage: a glittering tinsel curtain, footlights, a small band seated with music stands on a lower riser just behind the singer's platform. Seen from the front of the stage moving back toward the band: the singer's place at the front center of a raised stage edged with footlights, the glittering tinsel curtain hanging behind it, and the small band seated with music stands on a lower level just behind the singer's platform",
+  "base_time": "sepia_night",
+  "light_by_time": {
+   "sepia_night": "1970s night, sepia-toned flashback, a strong stage spotlight glaring from the stage toward the band so that faces dissolve into the glare, reflections sparkling on the tinsel curtain, key color #A8865E, cel shadows #4A3A30"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "front_to_band",
+    "ko": "무대 앞에서 뒤쪽 악단석으로 천천히",
+    "en": "slow move from the front of the stage back to the band",
+    "faces": "back",
+    "sun_side": "-",
+    "scenes": [
+     "3-3"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "반짝이 막",
+   "풋라이트",
+   "악단석 보면대",
+   "가수 자리(앞 가운데)"
+  ]
+ },
+ {
+  "id": "fb_radio_shop",
+  "name": "회상: 1970년대 라디오 수리점",
+  "section8": "회상: 라디오 수리점",
+  "scenes": [
+   "3-21"
+  ],
+  "size_m": "약 3×4",
+  "layout_text_en": "a small 1970s Seoul radio repair shop: shelves crowded with transistor and vacuum-tube radios, a workbench with a soldering iron and small tools. Seen from the doorway: shelves of radios covering the back and side walls, the workbench under them in front with a soldering iron and small tools, a stool at the bench",
+  "base_time": "sepia_day",
+  "light_by_time": {
+   "sepia_day": "1970s daytime, sepia-toned translucent flashback, soft blurry light, key color #C8A878, cel shadows #4A3A30"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "bench_close",
+    "ko": "작업대 위 손가락과 소리굽쇠(얼굴 없이)",
+    "en": "close on the workbench and a hand",
+    "faces": "bench",
+    "sun_side": "-",
+    "scenes": [
+     "3-21"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "라디오 선반",
+   "작업대",
+   "인두"
+  ]
+ },
+ {
+  "id": "fb_shanty_1950s",
+  "name": "회상: 1950년대 판자촌 집",
+  "section8": "회상: 1950년대 판자촌 집",
+  "scenes": [
+   "3-12"
+  ],
+  "size_m": "한 칸 약 2.5×2.5",
+  "layout_text_en": "a 1950s Seoul hillside shanty: a rusty corrugated tin roof, plywood and straw-mat walls, a dirt floor. Seen from inside, low: a cramped single room under the rusty corrugated tin roof, plywood and straw-mat walls patched together, a bare dirt floor, rain dripping through a seam of the roof",
+  "base_time": "rain",
+  "light_by_time": {
+   "rain": "faded-color flashback, gray rainy light, rain drumming on the tin roof, key color #9A9A90, cel shadows #4A4A48"
+  },
+  "variants": [],
+  "camera_spots": [
+   {
+    "id": "bare_feet",
+    "ko": "지붕 아래 쪼그린 작은 아이의 맨발",
+    "en": "low close on small bare feet on the dirt floor under the dripping roof",
+    "faces": "down",
+    "sun_side": "-",
+    "scenes": [
+     "3-12"
+    ]
+   }
+  ],
+  "fixed_props": [
+   "녹슨 양철 지붕",
+   "합판·가마니 벽",
+   "흙바닥"
+  ]
+ }
+]

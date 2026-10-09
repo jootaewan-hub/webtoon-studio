@@ -97,26 +97,26 @@ G6 확정 2026-10-09. 기준: "ChatGPT·Codex가 콘티대로 정확히 그릴 �
 외형 원본은 `story/bible.md`, 기계용은 `design/characters.json`(고른 시안은 `design_choice`). 의상은 고정 문구에 넣지 않고 씬마다 `design/outfit_schedule.json` → 씬 프리셋 → `design/outfits_en.json`으로 붙인다(`tools/prompt.py`가 자동으로).
 
 - 은주: `Eunju, 13-year-old Korean girl, 140cm, small and thin, sun-tanned skin, narrow small face, large long almond-shaped eyes, thick straight eyebrows, no bangs with the forehead visible, loose wisps of hair falling at both temples, faint freckles on nose and cheeks, long dark-brown hair tied low at the nape with a single rubber band, a small silver tuning-fork pendant on a thin chain, tilts her head slightly to the left when listening`
-- 동민: `Dongmin, 9-year-old Korean boy, 125cm, round face, very short buzz cut, upper-left front tooth missing, big ears, adhesive bandage on the right knee`
-- 만석: `Manseok, 41-year-old Korean man, 170cm, gaunt and slightly stooped, long gaunt face, hollow cheeks, stubble, always wears a worn olive work cap with a frayed brim over short hair streaked with gray, long fingers`
+- 동민: `Dongmin, 9-year-old Korean boy, 125cm, round face, very short uneven clipper buzz cut (same length all over, no fade), upper-left front tooth missing, big ears, adhesive bandage on the right knee`
+- 만석: `Manseok, 41-year-old Korean man, 170cm, gaunt and slightly stooped, long gaunt face, hollow cheeks, stubble, always wears a worn plain olive cotton work cap with a short soft frayed brim (no logo, no emblem) over short hair streaked with gray, long fingers`
 - 곽 영감: `old Kwak, 68-year-old Korean man, 160cm, short and solidly built with an upright posture (not stooped), square jaw, short white buzz cut, short thick white eyebrows, deep forehead wrinkles, thick forearms, reading glasses pushed up on his forehead, a pencil behind his ear, ring and little finger of the right hand permanently bent`
 - 선영: `Seonyoung, 23-year-old Korean woman, 162cm, slim, round face, voluminous softly permed 1980s bob with fluffy bangs, large round thin gold-rim glasses`
 - 최 계장: `Mr. Choi, 46-year-old Korean civil servant, 168cm, medium height with a slight belly, shiny pomaded 7:3 side part, thick black horn-rimmed glasses, a sheen of sweat on the forehead, a white handkerchief in hand`
 - 태준: `Taejun, 14-year-old Korean boy, 165cm, tall and slim, long face, narrow long eyes, sharp 7:3 side part with the forehead visible, thin lips, pale skin, very straight posture`
 - 미자: `Mija, 14-year-old Korean girl, 158cm, tall for her age, broad shoulders, choppy self-cut short bob with bangs sticking out in all directions, thick eyebrows, square jaw, an adhesive bandage across the nose`
-- 덕수: `Deoksu, 12-year-old Korean boy, 155cm, big and chubby, round face, short crew cut, droopy gentle eyes, shirt buttons always done up one hole off`
-- 순례 할머니: `grandma Sunrye, Korean woman in her 70s, 148cm, small and stooped, white hair in a low bun held with black hairpins, deep wrinkles, usually holding a ladle`
-- 봉구: `Bonggu, 10-year-old Korean boy, buzz cut, wide face, mischievous eyes`
+- 덕수: `Deoksu, 12-year-old Korean boy, 155cm, big and chubby, round face, short crew cut (no fade), droopy gentle eyes, shirt buttons always done up one hole off`
+- 순례 할머니: `grandma Sunrye, Korean woman in her 70s, 148cm, small and stooped, white hair pulled back into a low traditional bun (jjok) at the nape, fixed with a single plain binyeo hairpin, deep wrinkles, usually holding a ladle`
+- 봉구: `Bonggu, 10-year-old Korean boy, very short uneven clipper buzz cut (no fade), wide face, mischievous eyes`
 - 영란: `Yeongran, 11-year-old Korean girl, hair in two low pigtails, slim face, firm little mouth`
 - 경호: `Gyeongho, 8-year-old Korean boy, identical twin of Gyeongmin, bowl haircut, round face (tell the twins apart only by shirt color)`
 - 경민: `Gyeongmin, 8-year-old Korean boy, identical twin of Gyeongho, bowl haircut, round face (tell the twins apart only by shirt color)`
 - 순이: `Suni, 9-year-old Korean girl, short bob with a red headband, round eyes`
-- 석이: `Seoki, 7-year-old Korean boy, the smallest of all, buzz cut under a big cap, rosy cheeks`
+- 석이: `Seoki, 7-year-old Korean boy, the smallest of all, very short clipper buzz cut (no fade) under a too-big plain cotton cap with a soft brim and no logo, rosy cheeks`
 
 ### 단역 고정 문구 (characters.json 밖, 반복 등장)
-- 갈고리 아주머니: `a middle-aged Korean woman scavenger with a head scarf, dark padded work clothes, holding a long iron hook`
+- 갈고리 아주머니: `a middle-aged Korean woman scavenger with a head scarf, dark padded work clothes, a large bamboo basket strapped on her back, holding a long iron hook`
 - 미자 엄마: `Mija's mother, a sturdy Korean woman in her 40s with a loud voice, permed short hair, dark work clothes, a red cardigan`
-- 집하장 아저씨: `a Korean man in his 50s at the scrap collection yard, towel on the head, rubber apron, work gloves`
+- 집하장 아저씨: `a Korean man in his 50s at the scrap collection yard, towel on the head, rubber apron, plain white knitted cotton work gloves with no rubber coating`
 - 전당포 주인: `an elderly Korean pawnbroker with a magnifying loupe pushed up on his forehead, a dark vest over a white shirt, sleeve garters`
 - 과장(구청): `a Korean section chief in his 50s, thin, gray suit, reading glasses on a cord`
 - 사회자: `a 1980s Korean contest MC in a light-gray suit and bow tie, holding a corded microphone`
@@ -151,14 +151,14 @@ G6 확정 2026-10-09. 기준: "ChatGPT·Codex가 콘티대로 정확히 그릴 �
 | 섬 어귀 게시판 | a weathered plywood notice board on two posts at the island entrance, pinned papers |
 | 은주네 판잣집, 부엌 겸 방 | inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-briquette stove, a kerosene burner, a folding low table, a tiny window |
 | 은주네 판잣집, 쪽방 | Eunju's tiny side room in the shack: a thin wall shared with the next room, a sleeping mat, a shelf with an old broken transistor radio box |
-| 곽 영감 고물상 (안·앞) | old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic |
-| 공방 | the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails |
-| 국밥집 천막 (안·앞·뒤) | grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle |
-| 강변교회 지하 야학 | a 1980s church basement night-school classroom: a green chalkboard, mismatched desks, three bare incandescent bulbs hanging from the ceiling, a small high window |
+| 곽 영감 고물상 (안·앞) | old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door |
+| 공방 | the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop |
+| 국밥집 천막 (안·앞·뒤) | grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle |
+| 강변교회 지하 공부방 | a 1980s church basement study room for neighborhood children: a green chalkboard, mismatched desks, three bare incandescent bulbs hanging from the ceiling, a small high window |
 | 만복전당포 | a narrow 1980s pawnshop: glass display cases with watches, gold rings and cameras, a yellowed fluorescent light, an abacus on the counter |
 | 시장 골목 | a 1980s Seoul market alley: low shop fronts, an electronics repair shop with a radio, hand-painted fictional signs |
 | 시내버스 안 | inside a 1980s Seoul city bus: worn seats, hanging straps, a token box by the driver |
-| 한빛문화회관 (앞·로비·복도·무대 옆·홀) | the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats |
+| 한빛문화회관 (앞·로비·복도·무대 옆·홀) | the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats |
 | 학교 강당 | a 1980s school auditorium: a wooden stage with a raised platform, folding chairs, high windows |
 | 구청 도시정비과 | a 1980s Seoul district office: steel desks, stacks of folders, a wall map of the district, a desk fan |
 | 푸른 언덕 공원 (2003) | a green hilltop park built over the old landfill, grass and wildflowers, a walking path, a small outdoor stage, the Han River and a 2003 Seoul skyline |
@@ -168,8 +168,9 @@ G6 확정 2026-10-09. 기준: "ChatGPT·Codex가 콘티대로 정확히 그릴 �
 | 국밥집 천막 뒤 쓰레기 더미 | (국밥집 천막 문장 뒤에) behind the tent, a mound of wet trash waiting for the collection yard: tangled plastic sheets, tin cans and broken wood |
 | 갈대섬 전경 (매립 끝난 뒤, 1990년대) | the same island after landfill closure: the two flat-topped hills covered with fresh soil, no trash visible, first green sprouts and grass on the terraced slopes, the embankment road, the Han River |
 | 구청 복도 | a corridor of the same 1980s Seoul district office: terrazzo floor, a row of plain office doors, a potted plant by the wall, fluorescent tubes on the ceiling |
-| 임대주택 골목 | a narrow alley between new low-rise public rental apartment blocks in late-1980s Seoul, rows of identical windows, a concrete alley entrance |
+| 임시 거처 골목 (1988) | a narrow dirt alley between rows of identical single-story prefabricated temporary houses in 1988 Seoul, thin panel walls, small windows, a shared water tap at the alley entrance |
+| 임대주택 골목 | a narrow alley between new low-rise public rental apartment blocks in 1990 Seoul, rows of identical windows, a concrete alley entrance |
 | 학교 교문 | a late-1980s Seoul elementary school front gate: an iron gate between concrete posts, a dirt schoolyard and a three-story school building behind |
-| 회상: 1970년대 극장 쇼 무대 | a 1970s downtown Seoul theater show stage: a glittering tinsel curtain, footlights, a small band pit with music stands just behind and below the stage |
+| 회상: 1970년대 극장 쇼 무대 | a 1970s downtown Seoul theater show stage: a glittering tinsel curtain, footlights, a small band seated with music stands on a lower riser just behind the singer's platform |
 | 회상: 라디오 수리점 | a small 1970s Seoul radio repair shop: shelves crowded with transistor and vacuum-tube radios, a workbench with a soldering iron and small tools |
 | 회상: 1950년대 판자촌 집 | a 1950s Seoul hillside shanty: a rusty corrugated tin roof, plywood and straw-mat walls, a dirt floor |

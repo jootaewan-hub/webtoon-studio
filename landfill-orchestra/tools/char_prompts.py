@@ -35,7 +35,7 @@ LATER = {
     "taejun": ("2003", "Taejun at 29, an adult Korean man violinist, tall and slim, neat side part, a calmer face"),
     "mija": ("2003", "Mija at 30, a Korean PE teacher, tall and broad-shouldered, short practical haircut with unruly bangs"),
     "deoksu": ("2003", "Deoksu at 28, a big round-faced Korean man who runs the rice-soup restaurant, short crew cut, gentle eyes"),
-    "sunrye": ("2003", "grandma Sunrye in her 90s, even more stooped, white hair in a low bun, cheerful"),
+    "sunrye": ("2003", "grandma Sunrye in her 90s, even more stooped, white hair in a low bun held with a single plain binyeo hairpin, cheerful"),
 }
 YOUNG = {"manseok": ("회상", "Manseok at about 30 in the 1970s, a young Korean clarinetist in a theater show band, slim, short neat hair, no cap, long fingers")}
 

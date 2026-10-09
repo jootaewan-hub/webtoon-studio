@@ -27,7 +27,8 @@ NEW = {
     "회상: 라디오 수리점": "a small 1970s Seoul radio repair shop: shelves crowded with transistor and vacuum-tube radios, a workbench with a soldering iron and small tools",
     "회상: 1950년대 판자촌 집": "a 1950s Seoul hillside shanty: a rusty corrugated tin roof, plywood and straw-mat walls, a dirt floor",
     "구청 복도": "a corridor of the same 1980s Seoul district office: terrazzo floor, a row of plain office doors, a potted plant by the wall, fluorescent tubes on the ceiling",
-    "임대주택 골목": "a narrow alley between new low-rise public rental apartment blocks in late-1980s Seoul, rows of identical windows, a concrete alley entrance",
+    "임시 거처 골목": "a narrow dirt alley between rows of identical single-story prefabricated temporary houses in 1988 Seoul, thin panel walls, small windows, a shared water tap at the alley entrance",
+    "임대주택 골목": "a narrow alley between new low-rise public rental apartment blocks in 1990 Seoul, rows of identical windows, a concrete alley entrance",
     "학교 교문": "a late-1980s Seoul elementary school front gate: an iron gate between concrete posts, a dirt schoolyard and a three-story school building behind",
 }
 GAL = "갈대섬 전경"; SM = "작은 산 (중턱·꼭대기)"; BIG = "큰 산 아래 쇳더미"; DUK = "둑길·섬 어귀"
@@ -284,7 +285,7 @@ add(10,
   ch("extra:섬 아이들(봉구·영란·경호·경민·순이·석이)", "대본·소설 근거 없음 — 섬 아이들 평상복", KIDS),
   ch("manseok", C["M"], "문가 역광, 사과 상자에 앉음"),
  ],
- props=["오선지 제목 「섬의 하루」(Insert, 식자)", "지휘봉(나무 숟가락 손잡이)", "선영의 빈 바이올린 케이스(악보·사탕)", "사과 상자", "「서울매일」 단신 '쓰레기 밴드'(회상 Insert, 식자)", "모든 악기"],
+ props=["오선지 제목 「섬의 하루」(Insert, 식자)", "지휘봉(나무 숟가락 손잡이)", "선영의 빈 바이올린 케이스(악보·사탕)", "사과 상자", "「한강신보」 단신 '쓰레기 밴드'(회상 Insert, 식자)", "모든 악기"],
  sound_color=[
   "리허설 M: 「섬의 하루」 — 악기 둘레에만 아주 작은 빛 점(새벽 주황 #E8944A, 아침 금빛 #F5C04A·빨강 #D9534A, 한낮 청록 #4FB3A9). 주변 채도 낮춤 없음, 화면으로 번지지 않음(온전히 색이 차는 것은 본선 S#25 '밤'에만)",
  ],
@@ -455,7 +456,7 @@ add(19,
   ch("extra:객석", "넥타이 신사, 부채 든 부인, 교복 학생, 심사위원석", "엑스트라"),
   ch("extra:엄마 한미숙(회상, 얼굴 금지)", "회상 Insert — 근거 없음", "어른 여자의 손만, 얼굴 금지"),
  ],
- props=["무대 위 악기(1초씩): 기름통, 배수관, 페인트 통, 냄비 뚜껑 두 개, 빈 병 여섯 개, 분유 깡통 세 대", "뼈다귀 북(필름에 비친 뼈 그림자)", "「서울매일」 사회면 단신 '쓰레기 밴드'(Insert, 식자)", "지휘봉"],
+ props=["무대 위 악기(1초씩): 기름통, 배수관, 페인트 통, 냄비 뚜껑 두 개, 빈 병 여섯 개, 분유 깡통 세 대", "뼈다귀 북(필름에 비친 뼈 그림자)", "「한강신보」 사회면 단신 '쓰레기 밴드'(Insert, 식자)", "지휘봉"],
  sound_color=["동민 뼈다귀 북 '톡톡' 빨강 #D9534A — 웃음소리가 싹 빠지는 컷, 북 가죽에서 아주 작은 빨간 동심원 두 번. 곡 시작 전 신호이므로 「섬의 하루」 누적 색 개수에는 넣지 않음"],
  mood="긴장·용기",
  prompt_scene=P(HALL, V_HALL + ", 1988 midsummer July, daytime show indoors, " + HALL_E + ", key color #F3E3C3, cel shadows " + HALL_SHADOW),
@@ -711,7 +712,7 @@ add(31,
  key_hex="#7FB77E", shadow_hex="#3F5A6A",
  palette=["#A9D3E8", "#C8E6A0", "#E8E4A0", "#FFF8EA"],
  characters=[],
- props=["언덕 비탈 현수막 '푸른 언덕 공원 개장 음악회'(글씨 식자)"],
+ props=["언덕 비탈 현수막 '푸른 언덕 공원 개장 한 돌 음악회'(글씨 식자)"],
  sound_color=[],
  mood="희망",
  prompt_scene=P(PARK, "seen from the old embankment road now a wide walking path, two green hills across the water, 2003 spring, midday, clear bright blue sky, soft sunlight from the upper left, low spring grass, a zigzag stairway up the hill, key color #7FB77E, cel shadows #3F5A6A"),
@@ -721,7 +722,7 @@ add(31,
 add(32,
  date="1988년 가을 ~ 2003년 봄",
  season_weather="(1~5) 1988년 가을, 맑음 → (6) 몇 해 뒤(1990년대 초, 추정) → (7) 계절이 빠르게 → (8) 2003년 봄",
- light="(1) 1988 가을 둑길: 맑은 가을 오전, 뿌연 베이지 하늘 / (2~3) 임대주택 골목: 가을 낮, 부드러운 빛 / (4) 학교 교문: 가을 아침 햇빛 / (5) 빈 섬: 흐린 낮, 회갈 / (6) 흙 덮임: 흐린 낮, 흙빛 / (7) 첫 싹: 같은 구도, 빛이 계절마다 바뀜 / (8) 푸른 언덕: 2003 봄 맑은 한낮",
+ light="(1) 1988 가을 둑길: 맑은 가을 오전, 뿌연 베이지 하늘 / (2~3) 임시 거처 골목(1988): 가을 낮, 부드러운 빛 → 디졸브 임대주택 골목(1990): 낮, 맑은 빛 / (4) 학교 교문: 가을 아침 햇빛 / (5) 빈 섬: 흐린 낮, 회갈 / (6) 흙 덮임: 흐린 낮, 흙빛 / (7) 첫 싹: 같은 구도, 빛이 계절마다 바뀜 / (8) 푸른 언덕: 2003 봄 맑은 한낮",
  key_hex="#7FB77E", shadow_hex="#3F5A6A",
  palette=["#C99A62", "#8C8F94", "#C8E6A0", "#A9D3E8"],
  characters=[
@@ -737,7 +738,8 @@ add(32,
  mood="희망",
  prompt_scene="; ".join([
   "[1] " + P(DUK, "1988 autumn, morning, clear autumn light, hazy beige sky, key color #C99A62, cel shadows #5A4A3C"),
-  "[2-3] " + P("임대주택 골목", "1988 autumn, daytime, soft autumn light, key color #D8C8A8, cel shadows #4A4A6E"),
+  "[2-3] " + P("임시 거처 골목", "1988 autumn, daytime, soft autumn light, key color #D8C8A8, cel shadows #4A4A6E"),
+  "[2 dissolve] " + P("임대주택 골목", "1990, daytime, clear light, key color #D8C8A8, cel shadows #4A4A6E"),
   "[4] " + P("학교 교문", "1988 autumn, morning, bright morning sunlight, key color #E8D6A0, cel shadows #4A4A6E"),
   "[5-6] " + P("갈대섬 전경 (매립 끝난 뒤, 1990년대)", "the cleared ground where the shacks stood, no people, late 1980s to early 1990s, overcast daytime, flat gray light, key color #8C8F94, cel shadows #4A4258"),
   "[7] " + P("갈대섬 전경 (매립 끝난 뒤, 1990년대)", "1990s, seasons passing quickly in the same framing, green spreading over the soil, soft daylight, key color #A8C88A, cel shadows #3F5A6A"),
@@ -785,7 +787,7 @@ add(34,
   ch("extra:선영의 학생들", "교복(대본)", "뒷줄 중학생 몇(선영의 학생), 엑스트라"),
   ch("dongmin", C["D"], "회상 Insert(1화 쪽방): 아홉 살 동민, 이불을 둘둘 만 채"),
  ],
- props=["동그리(몸통 여기저기 찌그러짐, 나무 숟가락 목은 손때로 까맘)", "은색 소리굽쇠 목걸이", "은주의 진짜 바이올린 케이스(무대 뒤 받침대, 여러 도시 공연장 꼬리표 — 글씨 식자)", "클라리넷(새로 맞춘 패드, 반들반들한 키)", "엄마의 라디오(무대 한쪽 의자 위, 고장 난 채)", "현수막 '공원 개장 음악회 — 바이올린 하은주 · 클라리넷 하만석'(식자)", "작은 나무 무대·접이식 의자", "호루라기·출석부", "큰 냄비", "북채", "손수건"],
+ props=["동그리(몸통 여기저기 찌그러짐, 나무 숟가락 목은 손때로 까맘)", "은색 소리굽쇠 목걸이", "은주의 진짜 바이올린 케이스(무대 뒤 받침대, 여러 도시 공연장 꼬리표 — 글씨 식자)", "클라리넷(새로 맞춘 패드, 반들반들한 키)", "엄마의 라디오(무대 한쪽 의자 위, 고장 난 채)", "현수막 '공원 개장 한 돌 음악회 — 바이올린 하은주 · 클라리넷 하만석'(식자)", "작은 나무 무대·접이식 의자", "호루라기·출석부", "큰 냄비", "북채", "손수건"],
  sound_color=["엄마의 라디오 허밍 연보라 #B9A7D9 — 마지막, '주변 소리 모두 빠지고 라디오의 허밍만 남는다' 컷. 라디오 스피커에서 가는 연보라 동심원만 퍼지고, 주변 채도는 낮추지 않음(에필로그: 화면 전체 자연색으로 밝음)"],
  mood="희망·평화",
  prompt_scene=P(PARK, "the small wooden outdoor stage on the hilltop with rows of folding chairs, 2003 spring, midday, wide clear bright blue sky, sunlight from above and behind, the Han River glittering below the hill, low spring grass and wildflowers, key color #7FB77E, cel shadows #3F5A6A"),
@@ -800,7 +802,7 @@ names = re.compile(r"\b(Eunju|Dongmin|Manseok|Kwak|Seonyoung|Choi|Taejun|Mija|De
 for s in scenes:
     segs = s["prompt_scene"].split("; [")
     for seg in segs:
-        body = re.sub(r"^\[?[A-Za-z0-9-]+\] ", "", seg)
+        body = re.sub(r"^\[?[^\]]+\] ", "", seg)
         hit = [b for b in bases if body.startswith(b)]
         assert hit, (s["scene"], body[:80])
         tail = body[len(hit[0]):]

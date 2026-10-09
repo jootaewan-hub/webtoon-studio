@@ -46,7 +46,7 @@ at the foot of the big trash hill where dump trucks unload: a fresh heap of scra
 - 연속성: 곽 영감 첫 등장. 선반의 부서진 몸통은 동그리와 다른 물건. 영감 표정 변화 없음
 
 ```
-old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, 1987 early April, afternoon, windy, shaded interior under the corrugated roof, side light coming through the open door from the embankment road, the one wooden violin body on the shelf catching clean light, key color #8A6A4A, cel shadows #4E3B2C
+old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, 1987 early April, afternoon, windy, shaded interior under the corrugated roof, side light coming through the open door from the embankment road, the one wooden violin body on the shelf catching clean light, key color #8A6A4A, cel shadows #4E3B2C
 ```
 
 ### 1-4 은주네 판잣집, 부엌 겸 방 (저녁)
@@ -79,7 +79,7 @@ inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-b
 Eunju's tiny side room in the shack: a thin wall shared with the next room, a sleeping mat, a shelf with an old broken transistor radio box, 1987 early April, night, a single bare bulb overhead giving a small warm pool of light, the silver tuning fork glinting, after the light is switched off almost total darkness tinted deep navy, key color #24304F, cel shadows #1E2740
 ```
 
-### 1-6 강변교회 지하 야학 (토요일 저녁)
+### 1-6 강변교회 지하 공부방 (토요일 저녁)
 
 - 때: 1987년 4월 11일 토요일(추정) · 봄, 토요일 저녁(지하라 바깥 날씨 안 보임)
 - 빛: 지하 교실, 천장 백열등 세 개가 노랗게 흔들림(대본). 흔들리는 그림자
@@ -91,7 +91,7 @@ Eunju's tiny side room in the shack: a thin wall shared with the next room, a sl
 - 연속성: 선영 첫 등장(구두 차림, 다음 씬에서 장화로 바뀜). M: 선영 콧노래는 색 없음(2절 예외)
 
 ```
-a 1980s church basement night-school classroom: a green chalkboard, mismatched desks, three bare incandescent bulbs hanging from the ceiling, a small high window, 1987 mid-April, Saturday evening, underground with no daylight, the swinging bulbs giving warm yellow light and moving shadows, key color #E8C46A, cel shadows #6E5640
+a 1980s church basement study room for neighborhood children: a green chalkboard, mismatched desks, three bare incandescent bulbs hanging from the ceiling, a small high window, 1987 mid-April, Saturday evening, underground with no daylight, the swinging bulbs giving warm yellow light and moving shadows, key color #E8C46A, cel shadows #6E5640
 ```
 
 ### 1-7 갈대섬 둑길 끝, 섬 어귀 (오후, 다음 주 토요일)
@@ -121,7 +121,7 @@ the narrow earthen embankment road leading into the island, reeds on both sides,
 - 연속성: 1-7 연속. 선영 장화 착용. '은하악기' 처음 언급
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1987 mid-April, Saturday afternoon after rain, soft diffused light through the canvas, steam from the soup pot, old Kwak's junk shop visible next to the tent in outdoor light, key color #C9A66B, cel shadows #6E5640
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1987 mid-April, Saturday afternoon after rain, soft diffused light through the canvas, steam from the soup pot, old Kwak's junk shop visible next to the tent in outdoor light, key color #C9A66B, cel shadows #6E5640
 ```
 
 ### 1-9 곽 영감 고물상 앞 (오후, 연속)
@@ -136,7 +136,7 @@ grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a
 - 연속성: 영감 시선이 다락으로 1초(다락의 바이올린 복선). 다락 속 물건은 그리지 않음
 
 ```
-old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, 1987 mid-April, Saturday afternoon after rain, side light from the right (west), deep shade under the corrugated-iron roof, key color #C9A66B, cel shadows #6E5640
+old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, 1987 mid-April, Saturday afternoon after rain, side light from the right (west), deep shade under the corrugated-iron roof, key color #C9A66B, cel shadows #6E5640
 ```
 
 ### 1-10 은주네 판잣집, 쪽방 (밤)
@@ -151,7 +151,7 @@ old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted pile
 - 연속성: 몽타주 3밤. 작업대 안쪽·만드는 물건은 보여 주지 않음(1-11 공개를 위해)
 
 ```
-[main] Eunju's tiny side room in the shack: a thin wall shared with the next room, a sleeping mat, a shelf with an old broken transistor radio box, 1987 late April, night, darkness tinted navy, faint blue night light from the small window, key color #24304F, cel shadows #1E2740; [1] old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, night, yellow work light leaking through gaps in the corrugated roof; [2] Eunju's tiny side room in the shack: a thin wall shared with the next room, a sleeping mat, a shelf with an old broken transistor radio box, next night, same navy darkness; [3] the shack village at the island entrance: low shacks of plywood, tar paper and cement blocks with slate and roofing-felt roofs weighed down by plastic sheets and stones, narrow winding dirt alleys, thin stovepipes, night, over the dark shack roofs a single yellow light from the junk shop
+[main] Eunju's tiny side room in the shack: a thin wall shared with the next room, a sleeping mat, a shelf with an old broken transistor radio box, 1987 late April, night, darkness tinted navy, faint blue night light from the small window, key color #24304F, cel shadows #1E2740; [1] old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, night, yellow work light leaking through gaps in the corrugated roof; [2] Eunju's tiny side room in the shack: a thin wall shared with the next room, a sleeping mat, a shelf with an old broken transistor radio box, next night, same navy darkness; [3] the shack village at the island entrance: low shacks of plywood, tar paper and cement blocks with slate and roofing-felt roofs weighed down by plastic sheets and stones, narrow winding dirt alleys, thin stovepipes, night, over the dark shack roofs a single yellow light from the junk shop
 ```
 
 ### 1-11 작은 산 꼭대기 (저녁, 나흘째)
@@ -181,7 +181,7 @@ on the small flat-topped hill of trash: terraced slope of compacted ochre soil m
 - 연속성: 악기 셋 탄생·이름 붙임(뚱보·뼈다귀 북·꽥꽥이). X선 필름은 씻어 말린 것. 꽥꽥이 첫 큰 소리에 까마귀
 
 ```
-old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, 1987 late April, afternoon over several days, shaded interior with side light from the open door, backlit X-ray film held up toward the sun; exterior wide: hazy beige sky over the junk-shop roof, crows rising from the big hill, key color #E9853A, cel shadows #6E5640
+old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, 1987 late April, afternoon over several days, shaded interior with side light from the open door, backlit X-ray film held up toward the sun; exterior wide: hazy beige sky over the junk-shop roof, crows rising from the big hill, key color #E9853A, cel shadows #6E5640
 ```
 
 ### 1-13 몽타주 — 고물상과 작은 산 (4월 말)
@@ -196,7 +196,7 @@ old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted pile
 - 연속성: 몽타주. 달력 숫자·글자는 이미지에 넣지 않음
 
 ```
-[1] old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, 1987 late April, morning, the sun rising over the corrugated-iron roof from the left (east), key color #E9853A, cel shadows #6E5640; [2] on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind, evening, low sunset backlight from the right (west); [3] old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, interior wall in daytime shade, a wall calendar turning a page
+[1] old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, 1987 late April, morning, the sun rising over the corrugated-iron roof from the left (east), key color #E9853A, cel shadows #6E5640; [2] on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind, evening, low sunset backlight from the right (west); [3] old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, interior wall in daytime shade, a wall calendar turning a page
 ```
 
 ### 1-14 국밥집 천막 (오후, 5월 첫 토요일)
@@ -211,7 +211,7 @@ old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted pile
 - 연속성: 첫 합주는 엉망 — 동그리 소리를 은주 귀가 못 찾음, 그래서 소리 색 넣지 않음. 지휘봉 첫 등장
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1987 early May, Saturday afternoon, clear, soft diffused light through the canvas, a gold-bordered paper glinting in the tent's shade, key color #E9853A, cel shadows #6E5640
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1987 early May, Saturday afternoon, clear, soft diffused light through the canvas, a gold-bordered paper glinting in the tent's shade, key color #E9853A, cel shadows #6E5640
 ```
 
 ### 1-15 섬 어귀 게시판 (저녁)
@@ -273,7 +273,7 @@ a weathered plywood notice board on two posts at the island entrance, pinned pap
 - 연속성: 몽타주(9~10월). 데포르메 허용(코미디 몽타주). 줄은 사람을 맞히지 않음. 덕수 넘어지는 컷 2회 같은 구도
 
 ```
-[main] grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1987 autumn weekends, afternoon, soft light through the canvas, key color #D9822B, cel shadows #6E5640; [1] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, Saturday morning, low sun from the left (east); [2] a mainland back alley of 1980s Seoul outside the island: low brick and cement-block houses, gray walls, wooden utility poles, a narrow lane of cracked asphalt and dirt, early afternoon with the sun still high; [5] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, afternoon; [8] a fictional landfill island on the Han River at the edge of Seoul, two flat-topped mesa-like hills of compacted trash still being built ('the big hill' and 'the small hill'), terraced ochre and gray-brown slopes with dump-truck ramps, specks of white plastic, power transmission towers in front, a single earthen embankment road linking it to the mainland, reeds along the water, hazy beige sky, October afternoon, cool clear light, river wind lifting the tent flaps; [10][11] on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind, daytime
+[main] grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1987 autumn weekends, afternoon, soft light through the canvas, key color #D9822B, cel shadows #6E5640; [1] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, Saturday morning, low sun from the left (east); [2] a mainland back alley of 1980s Seoul outside the island: low brick and cement-block houses, gray walls, wooden utility poles, a narrow lane of cracked asphalt and dirt, early afternoon with the sun still high; [5] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, afternoon; [8] a fictional landfill island on the Han River at the edge of Seoul, two flat-topped mesa-like hills of compacted trash still being built ('the big hill' and 'the small hill'), terraced ochre and gray-brown slopes with dump-truck ramps, specks of white plastic, power transmission towers in front, a single earthen embankment road linking it to the mainland, reeds along the water, hazy beige sky, October afternoon, cool clear light, river wind lifting the tent flaps; [10][11] on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind, daytime
 ```
 
 ### 2-2 국밥집 천막 (오후, 1987년 10월 둘째 토요일)
@@ -288,7 +288,7 @@ a weathered plywood notice board on two posts at the island entrance, pinned pap
 - 연속성: 처음으로 네 소리가 한 점에 모임. 소리 색 규칙 근거(귀로·M:) 없어 비움 — 판단 메모 참고
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1987 mid-October, late afternoon, windy, a single bare bulb hanging from the tent pole swaying and giving warm light, remaining daylight outside the tent, key color #E0A050, cel shadows #6E5640
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1987 mid-October, late afternoon, windy, a single bare bulb hanging from the tent pole swaying and giving warm light, remaining daylight outside the tent, key color #E0A050, cel shadows #6E5640
 ```
 
 ### 2-3 시내버스 안 (낮, 1987년 10월 말)
@@ -348,7 +348,7 @@ the narrow earthen embankment road leading into the island, reeds on both sides,
 - 연속성: (E) 목소리: 선영(천막 안). 덕수 첼로에 최 계장이 멈춤(3화 보고서 복선). 최 계장은 천막 안을 보지 못함
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1987 early November, afternoon, outside the front of the tent, clear cloudless cold sky, light from the right (west), the junk shop's corrugated roof next door under clean blue sky, key color #8C8F94, cel shadows #4A5060
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1987 early November, afternoon, outside the front of the tent, clear cloudless cold sky, light from the right (west), the junk shop's corrugated roof next door under clean blue sky, key color #8C8F94, cel shadows #4A5060
 ```
 
 ### 2-7 갈대섬 둑길 한가운데 (오후, 이어서)
@@ -408,7 +408,7 @@ a 1980s Seoul market alley: low shop fronts, an electronics repair shop with a r
 - 연속성: 던지는 컷: 팔이 다 올라가기 전에 은주 얼굴로 CUT, 던지는 손 안 보임(7절). 이후 동그리 행방: 천막 뒤 더미 → 2-12 수색 → 2-13 수리
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1987 late November, rainy gray midday, dull diffused light through the wet sagging canvas, heavy rain streaks; behind the tent, a mound of wet trash waiting for the collection yard: tangled plastic sheets, tin cans and broken wood in the rain, nobody near it, key color #4A4F57, cel shadows #2E3850
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1987 late November, rainy gray midday, dull diffused light through the wet sagging canvas, heavy rain streaks; behind the tent, a mound of wet trash waiting for the collection yard: tangled plastic sheets, tin cans and broken wood in the rain, nobody near it, key color #4A4F57, cel shadows #2E3850
 ```
 
 ### 2-11 은주네 판잣집, 쪽방 (밤, 같은 날)
@@ -438,7 +438,7 @@ Eunju's tiny side room in the shack: a thin wall shared with the next room, a sl
 - 연속성: 어른은 장화·손만. 아이들 목장갑·장화 필수(위험 폐기물 맨손 금지)
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1987 late November, night after rain, behind the tent, a mound of wet trash waiting for the collection yard: tangled plastic sheets, tin cans and broken wood, darkness lit only by two flashlight beams, distant river sound, key color #2E3550, cel shadows #1E2538
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1987 late November, night after rain, behind the tent, a mound of wet trash waiting for the collection yard: tangled plastic sheets, tin cans and broken wood, darkness lit only by two flashlight beams, distant river sound, key color #2E3550, cel shadows #1E2538
 ```
 
 ### 2-13 곽 영감 고물상 (낮, 이튿날 오후)
@@ -453,7 +453,7 @@ grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a
 - 연속성: 동그리 수리 완료(포크만 갈았음). 이제부터 공방에서만 연습 — 아버지는 동그리가 없어진 줄 앎
 
 ```
-old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, 1987 late November, afternoon after the rain, shaded interior with side light from the doorway, a cleaned tin-can violin catching a soft gleam on the workbench, key color #B08A5E, cel shadows #4E3B2C
+old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, 1987 late November, afternoon after the rain, shaded interior with side light from the doorway, a cleaned tin-can violin catching a soft gleam on the workbench, key color #B08A5E, cel shadows #4E3B2C
 ```
 
 ### 2-14 몽타주 — 공방 / 둑길 / 판잣집 (늦가을~초겨울)
@@ -461,14 +461,14 @@ old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted pile
 - 때: 1987년 늦가을~초겨울(대본) · 늦가을에서 초겨울로, 쌀쌀함
 - 빛: 1·2: 공방 판자 틈 빛, 실내 그늘. 3: 해 질 녘 둑길, 오른쪽(서쪽) 낮은 해. 4: 판잣집 실내 백열전구. 5: 천막 뒤, 흐린 낮
 - 색: 주조 #9A8E7E · 그림자 #4E4438 · 보조 #D8B98A #E3B062 #5B6145 #F5C04A
-- 인물·의상: eunju: 남색 점퍼·회색 손뜨개 목도리·손끝 자른 목장갑(겨울) (소리굽쇠 목걸이 착용(옷 속)); seonyoung: 베이지 더플코트·목도리(늦가을~겨울) (지휘봉. 초겨울 겉옷 제안(근거 없음)); dongmin: 물려받은 누빈 갈색 점퍼·털모자(겨울) (입을 꾹 다묾); manseok: 낡은 야전상의·목수건·고무장화 (리어카); deoksu: 체크 남방 위 회색 털스웨터(겨울); mija: 빨간 누빔 점퍼(겨울)
+- 인물·의상: eunju: 남색 점퍼·회색 손뜨개 목도리·목장갑(겨울) (소리굽쇠 목걸이 착용(옷 속)); seonyoung: 베이지 더플코트·목도리(늦가을~겨울) (지휘봉. 초겨울 겉옷 제안(근거 없음)); dongmin: 물려받은 누빈 갈색 점퍼·털모자(겨울) (입을 꾹 다묾); manseok: 낡은 야전상의·목수건·고무장화 (리어카); deoksu: 체크 남방 위 회색 털스웨터(겨울); mija: 빨간 누빔 점퍼(겨울)
 - 소품: 동그리(공방 선반, 천을 덮고 누움), 지휘봉, 리어카
 - 소리 색: 없음
 - 분위기: 온기
 - 연속성: 몽타주. 공방 첫 등장. 은주는 공방에서만 활을 듦. 동민은 아빠에게 말하지 않음. 만석은 더미를 스쳐 보지만 묻지 않음
 
 ```
-[1][2] the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1987 late autumn into early winter, daylight through gaps in the plank walls, shaded interior, key color #9A8E7E, cel shadows #4E4438; [3] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, sunset, low light from the right (west); the shack village at the island entrance: low shacks of plywood, tar paper and cement blocks with slate and roofing-felt roofs weighed down by plastic sheets and stones, narrow winding dirt alleys, thin stovepipes; [4] inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-briquette stove, a kerosene burner, a folding low table, a tiny window, evening, a single bare bulb; [5] grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, behind the tent, a mound of wet trash waiting for the collection yard: tangled plastic sheets, tin cans and broken wood, overcast daytime
+[1][2] the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1987 late autumn into early winter, daylight through gaps in the plank walls, shaded interior, key color #9A8E7E, cel shadows #4E4438; [3] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, sunset, low light from the right (west); the shack village at the island entrance: low shacks of plywood, tar paper and cement blocks with slate and roofing-felt roofs weighed down by plastic sheets and stones, narrow winding dirt alleys, thin stovepipes; [4] inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-briquette stove, a kerosene burner, a folding low table, a tiny window, evening, a single bare bulb; [5] grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, behind the tent, a mound of wet trash waiting for the collection yard: tangled plastic sheets, tin cans and broken wood, overcast daytime
 ```
 
 ### 2-15 국밥집 천막 (저녁, 1988년 1월)
@@ -476,14 +476,14 @@ old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted pile
 - 때: 1988년 1월 · 한겨울, 추위, 입김
 - 빛: Insert(게시판): 흐린 겨울 낮. 천막 안: 저녁, 연탄난로 불빛과 천막 전구, 입김이 하얗게
 - 색: 주조 #9DB7C9 · 그림자 #3E4E66 · 보조 #E06A3A #F2EFE8 #7A7C80 #C0392F
-- 인물·의상: choi: 회색 양복 위 감색 오버코트(겨울); eunju: 남색 점퍼·회색 손뜨개 목도리·손끝 자른 목장갑(겨울) (소리굽쇠 목걸이 착용(옷 속). 겨울 겉옷 제안(근거 없음)); dongmin: 물려받은 누빈 갈색 점퍼·털모자(겨울); manseok: 낡은 야전상의·목수건·고무장화 (천막 입구 팔짱, 중간에 사라짐. 야전상의 그대로(겨울 내피는 제안만)); mija: 빨간 누빔 점퍼(겨울) (빨간 트레이닝 상의 소매를 꽉 쥠(대본 명시). 위에 겨울 겉옷 제안(근거 없음, 빨강 보이게)); deoksu: 체크 남방 위 회색 털스웨터(겨울) (앞쪽 평상. 겨울 겉옷 제안(근거 없음)); sunrye: 솜 누빈 조끼·털목도리(겨울) (겨울 겉옷 제안(근거 없음)); extra:미자 엄마·섬 아저씨·갈고리 아주머니·섬사람들: 어둡고 두꺼운 작업복, 머릿수건, 빨강·파랑 웃옷이 드문드문(research/notes 시각 고증 [A]14·18쪽 기준), 겨울 (보조 인물(characters.json 없음))
+- 인물·의상: choi: 회색 양복 위 감색 오버코트(겨울); eunju: 남색 점퍼·회색 손뜨개 목도리·목장갑(겨울) (소리굽쇠 목걸이 착용(옷 속). 겨울 겉옷 제안(근거 없음)); dongmin: 물려받은 누빈 갈색 점퍼·털모자(겨울); manseok: 낡은 야전상의·목수건·고무장화 (천막 입구 팔짱, 중간에 사라짐. 야전상의 그대로(겨울 내피는 제안만)); mija: 빨간 누빔 점퍼(겨울) (빨간 트레이닝 상의 소매를 꽉 쥠(대본 명시). 위에 겨울 겉옷 제안(근거 없음, 빨강 보이게)); deoksu: 체크 남방 위 회색 털스웨터(겨울) (앞쪽 평상. 겨울 겉옷 제안(근거 없음)); sunrye: 솜 누빈 조끼·털목도리(겨울) (겨울 겉옷 제안(근거 없음)); extra:미자 엄마·섬 아저씨·갈고리 아주머니·섬사람들: 어둡고 두꺼운 작업복, 머릿수건, 빨강·파랑 웃옷이 드문드문(research/notes 시각 고증 [A]14·18쪽 기준), 겨울 (보조 인물(characters.json 없음))
 - 소품: 게시판 새 공문(빨간 도장 둘, 글자는 식자), 연탄난로·주전자, 서류, 손수건
 - 소리 색: 없음
 - 분위기: 불안
 - 연속성: 섬 정리 정식 통보 '8월 말까지'. 최 계장 눈이 덕수에게 잠깐(2-6 복선). 미자네 이사 이야기
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1988 January, deep winter, cold evening, warm orange glow of a coal-briquette stove with a hissing kettle and a bare bulb, white breath in the air, key color #9DB7C9, cel shadows #3E4E66; insert: a weathered plywood notice board on two posts at the island entrance, pinned papers, overcast winter daylight, a new paper's corner lifting in the wind
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1988 January, deep winter, cold evening, warm orange glow of a coal-briquette stove with a hissing kettle and a bare bulb, white breath in the air, key color #9DB7C9, cel shadows #3E4E66; insert: a weathered plywood notice board on two posts at the island entrance, pinned papers, overcast winter daylight, a new paper's corner lifting in the wind
 ```
 
 ### 2-16 둑길 (밤)
@@ -491,7 +491,7 @@ grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a
 - 때: 1988년 1월, 2-15 같은 날 밤 · 한겨울, 밤, 추위
 - 빛: 밤, 어둠. 천막·판잣집 쪽 먼 불빛이 낮게, 차가운 남청
 - 색: 주조 #5A6F88 · 그림자 #263150 · 보조 #9DB7C9 #2E3A5C #C0392F
-- 인물·의상: mija: 빨간 누빔 점퍼(겨울) (겨울 겉옷 제안(근거 없음)); eunju: 남색 점퍼·회색 손뜨개 목도리·손끝 자른 목장갑(겨울) (소리굽쇠 목걸이 착용(옷 속)); dongmin: 물려받은 누빈 갈색 점퍼·털모자(겨울) (누나 손을 잡아당김. 겨울 겉옷 제안(근거 없음))
+- 인물·의상: mija: 빨간 누빔 점퍼(겨울) (겨울 겉옷 제안(근거 없음)); eunju: 남색 점퍼·회색 손뜨개 목도리·목장갑(겨울) (소리굽쇠 목걸이 착용(옷 속)); dongmin: 물려받은 누빈 갈색 점퍼·털모자(겨울) (누나 손을 잡아당김. 겨울 겉옷 제안(근거 없음))
 - 소품: 굴러다니는 깡통(걷어참)
 - 소리 색: 없음
 - 분위기: 불안
@@ -513,7 +513,7 @@ the narrow earthen embankment road leading into the island, reeds on both sides,
 - 연속성: 은주 장갑은 이 씬부터 손끝 잘림. 공방에서만 연습
 
 ```
-the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 winter, daytime, cold pale light through gaps in the plank walls, a coal-briquette brazier in the middle with warm orange glow, white breath, key color #B8C6D0, cel shadows #3E4E66
+the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 winter, daytime, cold pale light through gaps in the plank walls, a coal-briquette brazier in the middle with warm orange glow, white breath, key color #B8C6D0, cel shadows #3E4E66
 ```
 
 ### 2-18 학교 강당 (낮, 1988년 4월 셋째 주)
@@ -521,7 +521,7 @@ the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools o
 - 때: 1988년 4월 셋째 주(대본) · 봄, 실내
 - 빛: 강당 무대 조명(정면 위), 무대 옆 커튼 뒤는 어둑, 객석은 높은 창의 낮빛
 - 색: 주조 #7A6B5A · 그림자 #3E342A · 보조 #F1EEE6 #C9B48A #8C7E6E #F5C04A
-- 인물·의상: eunju: 흰 블라우스·감색 치마(학교) (빛바랜 흰 블라우스·감색 치마(대본). 목에 가는 사슬만 보이고 소리굽쇠는 블라우스 안); deoksu: 늘어난 흰 러닝셔츠 위 체크 남방 ('제일 좋은 옷' — 체크 남방 단추를 목까지 잠금(대본)); dongmin: 흰 반소매 남방·감색 반바지(제일 좋은 옷); mija: 새것 같은 빨간 트레이닝 위아래(제일 좋은 옷); seonyoung: 구겨진 흰 셔츠·카디건·긴 플레어스커트 (지휘봉. 본선 검은 연주복은 3화, 예선은 기본 의상(판단)); taejun: 사립학교 교복(감색 재킷·넥타이) (객석 셋째 줄, 감색 재킷 교복(예선 객석 교복), 웃지 않음·팔짱 안 낌); extra:객석(교복·학부모)·사회자: 교복과 1980년대 외출복 (보조 인물(characters.json 없음))
+- 인물·의상: eunju: 흰 블라우스·감색 치마(학교) (빛바랜 흰 블라우스·감색 치마(대본). 목에 가는 사슬만 보이고 소리굽쇠는 블라우스 안); deoksu: 늘어난 흰 러닝셔츠 위 체크 남방 ('제일 좋은 옷' — 체크 남방 단추를 목까지 잠금(대본)); dongmin: 흰 반소매 남방·감색 반바지(제일 좋은 옷); mija: 새것 같은 빨간 트레이닝 위아래(제일 좋은 옷); seonyoung: 구겨진 흰 셔츠·카디건·긴 플레어스커트 (지휘봉. 본선 검은 연주복은 3화, 예선은 기본 의상(판단)); taejun: 사립학교 교복(감색 재킷·넥타이) (객석 셋째 줄, 감색 재킷 교복(예선 객석 교복), 웃지 않음·팔짱 안 낌); extra:객석(교복·학부모)·사회자: 학생 대부분은 사복(1980년대 국민학교 자유복, 중학교 교복은 학교마다 달랐음), 일부 사립학교 교복, 학부모는 1980년대 외출복 (보조 인물(characters.json 없음))
 - 소품: 악기 넷, 지휘봉, 커튼, 객석 문(야전상의 없음)
 - 소리 색: M: 동그리 「도라지 타령」 #F5C04A — 은주 정면, 웃음소리가 한 겹씩 빠짐, 객석이 잠시 조용
 - 분위기: 수치
@@ -536,7 +536,7 @@ a 1980s school auditorium: a wooden stage with a raised platform, folding chairs
 - 때: 1988년 4월 셋째 주(대본), 2-18 같은 날 저녁 · 봄, 저녁
 - 빛: 저녁, 강당 무대 조명과 실내등, 창밖은 어두워짐. 은주 귀로 웃음이 갈라지는 컷: 화면 채도만 낮춤(색이 빠지는 쪽), 소리 색 없음
 - 색: 주조 #7A6B5A · 그림자 #3E342A · 보조 #E0C890 #5A4E40 #F1EEE6
-- 인물·의상: eunju: 흰 블라우스·감색 치마(학교) (사슬만 보이고 소리굽쇠는 블라우스 안); seonyoung: 구겨진 흰 셔츠·카디건·긴 플레어스커트 (펄쩍 뛰어 안경 떨어짐); mija: 빨간 트레이닝 상의 (주먹); dongmin: 물려받은 큰 운동복 (덕수 배에 매달림); deoksu: 늘어난 흰 러닝셔츠 위 체크 남방; extra:사회자·객석: - (보조 인물(characters.json 없음))
+- 인물·의상: eunju: 흰 블라우스·감색 치마(학교) (사슬만 보이고 소리굽쇠는 블라우스 안); seonyoung: 구겨진 흰 셔츠·카디건·긴 플레어스커트 (펄쩍 뛰어 안경 떨어짐); mija: 새것 같은 빨간 트레이닝 위아래(제일 좋은 옷) (주먹); dongmin: 흰 반소매 남방·감색 반바지(제일 좋은 옷) (덕수 배에 매달림); deoksu: 늘어난 흰 러닝셔츠 위 체크 남방; extra:사회자·객석: - (보조 인물(characters.json 없음))
 - 소품: 사회자 종이, 선영 안경(바닥), 닫힌 강당 문
 - 소리 색: 없음
 - 분위기: 수치 — 화면 채도만 낮춤(색이 빠지는 쪽)
@@ -552,13 +552,13 @@ a 1980s school auditorium: a wooden stage with a raised platform, folding chairs
 - 빛: 아침, 천막 천 확산광, 국밥 김
 - 색: 주조 #7A6B5A · 그림자 #4E4236 · 보조 #E8E2D2 #EDE6DA #B5546A #C9A66B
 - 인물·의상: eunju: 큰 남색 점퍼·해진 바지·목장갑 (소리굽쇠 목걸이 착용(옷 속), 평상 끝 숟가락 — 의상 근거 없음, 기본 의상(판단)); sunrye: 몸뻬 바지·꽃무늬 앞치마 (신문을 낚아채 기사가 위로 오게 접음); extra:집하장 아저씨·갈고리 아주머니·섬 아저씨·섬사람들: 어둡고 두꺼운 작업복, 머릿수건, 빨강·파랑 웃옷이 드문드문(research/notes 시각 고증 [A]14·18쪽 기준) (보조 인물(characters.json 없음))
-- 소품: 「서울매일」 사회면(구석 단신 '쓰레기 밴드', 글자는 식자), 국그릇·숟가락, 평상
+- 소품: 「한강신보」 사회면(세로쓰기·국한문 혼용 지면, 구석 단신 '쓰레기 밴드', 글자는 식자), 국그릇·숟가락, 평상
 - 소리 색: 숟가락이 국그릇에 닿는 '딸그락' #9DB7C9 — 주변 소리 빠지고 그 소리만 크게
 - 분위기: 수치
 - 연속성: 신문 단신. 할머니가 접어 평상 끝에 둔 신문 → 2-21 만석이 읽음
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1988 April, morning, soft diffused light through the canvas, steam rising from bowls of rice soup, key color #7A6B5A, cel shadows #4E4236
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1988 April, morning, soft diffused light through the canvas, steam rising from bowls of rice soup, key color #7A6B5A, cel shadows #4E4236
 ```
 
 ### 2-21 국밥집 천막 (점심)
@@ -567,13 +567,13 @@ grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a
 - 빛: 한낮, 천막 천 확산광. 손대지 않은 국밥 김이 가늘어짐
 - 색: 주조 #7A6B5A · 그림자 #4E4236 · 보조 #E8E2D2 #EDE6DA #5B6145
 - 인물·의상: manseok: 낡은 야전상의·목수건·고무장화 (신문을 오래 읽음, 긴 손가락); sunrye: 몸뻬 바지·꽃무늬 앞치마 (국밥 한 그릇)
-- 소품: 접힌 신문('하모(13) 양', '깡통 바이올린' — 글자는 식자), 국밥, 국밥값, 리어카(소리)
+- 소품: 접힌 신문('하모(14) 양', '깡통 바이올린' — 글자는 식자), 국밥, 국밥값, 리어카(소리)
 - 소리 색: 없음
 - 분위기: 수치
 - 연속성: 만석이 딸이 계속했다는 걸 앎. 신문을 반듯이 펴 제자리에 둠
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1988 April, midday, soft diffused light through the canvas, thin steam fading from an untouched bowl of soup, key color #7A6B5A, cel shadows #4E4236
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1988 April, midday, soft diffused light through the canvas, thin steam fading from an untouched bowl of soup, key color #7A6B5A, cel shadows #4E4236
 ```
 
 ### 2-22 공방 (해 질 무렵)
@@ -588,7 +588,7 @@ grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a
 - 연속성: 동그리 공방 보관 → 작은 산으로
 
 ```
-the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 April, near sunset, low reddish light slanting through gaps in the plank walls from the west, the workbench almost in silhouette against the light, key color #9C7650, cel shadows #4E3B2C
+the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 April, near sunset, low reddish light slanting through gaps in the plank walls from the west, the workbench almost in silhouette against the light, key color #9C7650, cel shadows #4E3B2C
 ```
 
 ### 2-23 작은 산 꼭대기 (해 질 녘)
@@ -678,7 +678,7 @@ on the small flat-topped hill of trash: terraced slope of compacted ochre soil m
 - 연속성: 동그리: 만석 → 곽 영감(3화 S#1에서 다시 손본 동그리를 은주 앞에). 문 두드림 '똑. 똑.' 두 번 = 벽 '톡톡' 박자
 
 ```
-old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, 1988 April, deep night, darkness all around, a warm yellow bulb light spilling through the door gap and window, the doorway backlit; high wide: a fictional landfill island on the Han River at the edge of Seoul, two flat-topped mesa-like hills of compacted trash still being built ('the big hill' and 'the small hill'), terraced ochre and gray-brown slopes with dump-truck ramps, specks of white plastic, power transmission towers in front, a single earthen embankment road linking it to the mainland, reeds along the water, hazy beige sky, at night, the only lit spot on the whole island, key color #E8C46A, cel shadows #2A3352
+old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, 1988 April, deep night, darkness all around, a warm yellow bulb light spilling through the door gap and window, the doorway backlit; high wide: a fictional landfill island on the Han River at the edge of Seoul, two flat-topped mesa-like hills of compacted trash still being built ('the big hill' and 'the small hill'), terraced ochre and gray-brown slopes with dump-truck ramps, specks of white plastic, power transmission towers in front, a single earthen embankment road linking it to the mainland, reeds along the water, hazy beige sky, at night, the only lit spot on the whole island, key color #E8C46A, cel shadows #2A3352
 ```
 
 ### 2-29 은주네 판잣집, 쪽방 (깊은 밤, 같은 시각)
@@ -710,7 +710,7 @@ Eunju's tiny side room in the shack: a thin wall shared with the next room, a sl
 - 연속성: 2화 S#28 만석이 한밤에 동그리를 가져옴 → 곽 영감이 고침(사흘 밤, 만석은 사과 상자에 앉아 지켜봄). 은주는 아직 목걸이 없음(S#3에서 다시 걸 때까지). 동그리는 이날 집으로 감 → S#2.
 
 ```
-old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, 1988 late spring May, midday, clear weather with a light breeze, bright May sunlight from the upper left glinting on scrap metal, hazy beige sky, key color #F4D9A0, cel shadows #7A5E44
+old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a platform scale with a round dial, wooden apple crates by the door, 1988 late spring May, midday, clear weather with a light breeze, bright May sunlight from the upper left glinting on scrap metal, hazy beige sky, key color #F4D9A0, cel shadows #7A5E44
 ```
 
 ### 3-2 은주네 판잣집, 부엌 겸 방 (저녁)
@@ -740,7 +740,7 @@ inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-b
 - 연속성: 회상(극장)은 1970년대 — prompt_scene [flashback] 문장 사용, 엄마 얼굴은 무대 조명 역광에 가림. 밥그릇 '팅' 잔향은 소리 색 없음(결정). 소리굽쇠 목걸이: 이 씬 중간 만석이 라디오 상자에서 꺼내 다시 걸어 줌 → S#4부터 S#34까지 계속 착용. 엄마 얼굴 금지. 전당표 → S#10·S#29·S#33. 만석의 '구멍을 막았다 여는' 손가락 동작은 S#21에서 반복.
 
 ```
-inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-briquette stove, a kerosene burner, a folding low table, a tiny window, 1988 late spring May, night, a single bare incandescent bulb hanging at the center casting a warm yellow pool of light over the floor, the corners in navy shadow, the burner unlit, key color #C89B6D, cel shadows #4A3A30; [flashback] a 1970s downtown Seoul theater show stage: a glittering tinsel curtain, footlights, a small band pit with music stands just behind and below the stage, 1970s, night, sepia-toned flashback, strong stage spotlight glaring from the stage toward the band pit so faces dissolve into the glare, key color #A8865E, cel shadows #4A3A30
+inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-briquette stove, a kerosene burner, a folding low table, a tiny window, 1988 late spring May, night, a single bare incandescent bulb hanging at the center casting a warm yellow pool of light over the floor, the corners in navy shadow, the burner unlit, key color #C89B6D, cel shadows #4A3A30; [flashback] a 1970s downtown Seoul theater show stage: a glittering tinsel curtain, footlights, a small band seated with music stands on a lower riser just behind the singer's platform, 1970s, night, sepia-toned flashback, strong stage spotlight glaring from the stage toward the band pit so faces dissolve into the glare, key color #A8865E, cel shadows #4A3A30
 ```
 
 ### 3-4 작은 산 꼭대기 (새벽)
@@ -770,7 +770,7 @@ on the small flat-topped hill of trash: terraced slope of compacted ochre soil m
 - 연속성: 자유곡을 은주가 만들기로 함. 뚱보 '부우우웅'은 SE만 있고 고립 근거가 없어 소리 색 없음.
 
 ```
-the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 late spring May, afternoon, slanting sunlight through the door and a small window on the left, sawdust floating in the light beams, key color #D8B57A, cel shadows #6E5640
+the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 late spring May, afternoon, slanting sunlight through the door and a small window on the left, sawdust floating in the light beams, key color #D8B57A, cel shadows #6E5640
 ```
 
 ### 3-6 몽타주 — 섬의 소리를 모으다 (며칠, 섬 여러 곳)
@@ -778,14 +778,14 @@ the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools o
 - 때: 1988년 5월 말~6월, 며칠(추정) · 늦봄~초여름, 맑음, 한낮엔 바람
 - 빛: (1) 아침 큰 산 아래 쇳더미: 낮은 동쪽 아침 해, 뿌연 베이지 하늘 / (2~4) 공방 낮: 창으로 드는 햇빛 / (5~7) 작은 산 꼭대기 한낮: 머리 위 강한 해, 짧은 그림자, 비닐이 나부끼는 바람 / (8~9) 국밥집 천막 저녁: 해 질 녘 주황 잔광 + 국솥 연탄불 / (10~11) 공방 저녁(추정): 백열등
 - 색: 주조 #6FB3A8 · 그림자 #5A4A3C · 보조 #C99A62 #E8C46A #E8944A #C0392F
-- 인물·의상: eunju: 큰 남색 점퍼·해진 바지·목장갑 (목장갑(1). 소리굽쇠 목걸이 착용); dongmin: 물려받은 큰 운동복 (뼈다귀 북(4)); mija: 빨간 트레이닝 상의 (찢어진 비닐·꽥꽥이(5·6), 하늘을 등진 앙각); deoksu: 늘어난 흰 러닝셔츠 위 체크 남방 (국자를 빌림(9·10)); seonyoung: 구겨진 흰 셔츠·카디건·긴 플레어스커트 (오선지에 웃음소리까지 받아 적음(7)); sunrye: 몸뻬 바지·꽃무늬 앞치마 (국솥을 국자로 세 번(8))
+- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (목장갑(1). 소리굽쇠 목걸이 착용); dongmin: 물려받은 큰 운동복 (뼈다귀 북(4)); mija: 빨간 트레이닝 상의 (찢어진 비닐·꽥꽥이(5·6), 하늘을 등진 앙각); deoksu: 늘어난 흰 러닝셔츠 위 체크 남방 (국자를 빌림(9·10)); seonyoung: 구겨진 흰 셔츠·카디건·긴 플레어스커트 (오선지에 웃음소리까지 받아 적음(7)); sunrye: 몸뻬 바지·꽃무늬 앞치마 (국솥을 국자로 세 번(8))
 - 소품: 구리 파이프·양은 냄비, 동그리, 뼈다귀 북, 찢어진 비닐, 꽥꽥이, 오선지('새벽·아침·한낮·저녁', '저녁' 칸 비어 있음), 국솥·국자(순례 → 덕수가 빌림), 뚱보
 - 소리 색: 없음
 - 분위기: 창작의 기쁨
 - 연속성: '섬의 하루' 소재 모음: 쇳소리(동그리 피치카토), 북 따닥-쿵(반 박 빠름), 바람(미자 '내 구역 바람'), 국자 세 번. 국자는 덕수가 빌려 감 → S#10·S#21. 소리 고립 근거가 없어 소리 색 없음.
 
 ```
-[1] at the foot of the big trash hill where dump trucks unload: a fresh heap of scrap iron and tin, tire ruts in the mud, 1988 early summer, morning, low eastern sunlight, hazy beige sky, key color #C99A62, cel shadows #5A4A3C; [2-4] the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer, daytime, sunlight through the small window, key color #D8B57A, cel shadows #6E5640; [5-7] on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind, 1988 early summer, midday, strong overhead sun, short shadows, a strong breeze, hazy beige sky, key color #6FB3A8, cel shadows #5A4A3C; [8-9] grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1988 early summer, sunset, warm orange afterglow and the glow of the coal fire under the soup pot, key color #E8C46A, cel shadows #6E4A3A; [10-11] the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer, evening, a single incandescent bulb, key color #E8C46A, cel shadows #4A3A30
+[1] at the foot of the big trash hill where dump trucks unload: a fresh heap of scrap iron and tin, tire ruts in the mud, 1988 early summer, morning, low eastern sunlight, hazy beige sky, key color #C99A62, cel shadows #5A4A3C; [2-4] the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 early summer, daytime, sunlight through the small window, key color #D8B57A, cel shadows #6E5640; [5-7] on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind, 1988 early summer, midday, strong overhead sun, short shadows, a strong breeze, hazy beige sky, key color #6FB3A8, cel shadows #5A4A3C; [8-9] grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1988 early summer, sunset, warm orange afterglow and the glow of the coal fire under the soup pot, key color #E8C46A, cel shadows #6E4A3A; [10-11] the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 early summer, evening, a single incandescent bulb, key color #E8C46A, cel shadows #4A3A30
 ```
 
 ### 3-7 은주네 판잣집, 쪽방 (밤)
@@ -793,7 +793,7 @@ the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools o
 - 때: 1988년 6월 초(추정) · 초여름, 밤, 실내
 - 빛: 불 꺼진 쪽방, 작은 창으로 들어오는 남색 밤빛 한 줄, 그 밖의 광원 없음
 - 색: 주조 #24304F · 그림자 #1A2238 · 보조 #B9A7D9 #F5C04A #2E3A5C #3A4466
-- 인물·의상: eunju: 큰 남색 점퍼·해진 바지·목장갑 (이불 위에 앉음. 근거 없어 기본 의상(밤). 소리굽쇠 목걸이 착용)
+- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (이불 위에 앉음. 근거 없어 기본 의상(밤). 소리굽쇠 목걸이 착용)
 - 소품: 엄마의 고장 난 트랜지스터라디오(켜짐, 지직), 동그리·활, 이불
 - 소리 색: 라디오 허밍 연보라 #B9A7D9 — 지직거림 빠지고 허밍 네 음만 남는 컷, 라디오 스피커에서 가는 연보라 동심원 / 동그리 금빛 #F5C04A — M: 허밍 네 음을 따라 작게. 연보라 띠 옆에 가는 금빛 띠가 나란히
 - 분위기: 그리움
@@ -808,14 +808,14 @@ Eunju's tiny side room in the shack: a thin wall shared with the next room, a sl
 - 때: 1988년 6월(추정) · 초여름, 맑음(추정), 실내
 - 빛: 낮, 공방 창과 문으로 드는 햇빛(왼쪽), 톱밥 먼지
 - 색: 주조 #D8B57A · 그림자 #6E5640 · 보조 #F5C04A #F1EEE6 #6FB3A8 #C0392F
-- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (소리굽쇠 목걸이 착용); seonyoung: 구겨진 흰 셔츠·카디건·긴 플레어스커트 (안경을 벗어 셔츠 자락에 오래 닦음); dongmin: 초록 반소매 운동복·반바지(여름) (손가락 여섯 개); mija: 빨간 반소매 티(여름) (곁눈질(대본 '아이들')); deoksu: 흰 러닝셔츠·반바지(여름) (곁눈질(대본 '아이들'))
+- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (소리굽쇠 목걸이 착용); seonyoung: 구겨진 흰 반소매 블라우스·긴 플레어스커트(여름) (안경을 벗어 셔츠 자락에 오래 닦음); dongmin: 초록 반소매 체육복 티·반바지(여름) (손가락 여섯 개); mija: 빨간 반소매 티(여름) (곁눈질(대본 '아이들')); deoksu: 흰 러닝셔츠·반바지(여름) (곁눈질(대본 '아이들'))
 - 소품: 동그리·활, 오선지('저녁' 칸 '독주', 마지막 칸 '밤 — 다 같이' — 식자), 연필, 선영 안경
 - 소리 색: 동그리 독주 금빛 #F5C04A — M: 허밍 네 음
 - 분위기: 감동
 - 연속성: 곡 구조 확정: 새벽·아침·한낮·저녁(독주)·밤(다 같이), 약 6분.
 
 ```
-the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer June, daytime, sunlight through the window and door from the left, sawdust in the light, key color #D8B57A, cel shadows #6E5640
+the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 early summer June, daytime, sunlight through the window and door from the left, sawdust in the light, key color #D8B57A, cel shadows #6E5640
 ```
 
 ### 3-9 공방 (사흘 뒤, 낮)
@@ -823,14 +823,14 @@ the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools o
 - 때: 1988년 6월, S#8 사흘 뒤(추정) · 초여름, 맑음(추정), 실내
 - 빛: 낮, 공방 창 햇빛(왼쪽). 문틈 컷은 안쪽 어둑함에 문틈 바깥 빛이 세로 한 줄
 - 색: 주조 #D8B57A · 그림자 #6E5640 · 보조 #C9C3B6 #E8C46A #6FB3A8 #C0392F
-- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (목장갑으로 깡통을 두드림. 소리굽쇠 목걸이 착용); mija: 빨간 반소매 티(여름) (팔짱, 턱을 치켜듦); kwak: 톱밥 묻은 캔버스 앞치마·팔토시 (굽은 손으로 2·3호 제작); dongmin: 초록 반소매 운동복·반바지(여름); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자
+- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (목장갑으로 깡통을 두드림. 소리굽쇠 목걸이 착용); mija: 빨간 반소매 티(여름) (팔짱, 턱을 치켜듦); kwak: 앞치마·반소매 작업 셔츠(여름) (굽은 손으로 2·3호 제작); dongmin: 초록 반소매 체육복 티·반바지(여름); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자
 - 소품: 깡통 한 자루(바닥에 와르르), 고른 깡통 하나(맑고 둥근 소리), 나무 숟가락 목, 피아노 쇠줄 다발(서랍), 깡통 바이올린 2호·3호, 냄비 뚜껑 두 개(심벌), 빈 병과 물(병 실로폰), 동그리·뚱보·꽥꽥이·뼈다귀 북
 - 소리 색: 고른 깡통 '톡' 연청 #9DB7C9(은주의 귀) — 대본: 주변 소리 빠지고 그 소리만 남는다. 은주 손끝의 깡통에서만
 - 분위기: 연대·활기
 - 연속성: 섬 아이 6명 합류, 열 명 편성 완성. 2·3호 줄은 피아노 쇠줄(G4 결정). 공방 한가득 열 명과 악기(와이드).
 
 ```
-the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer June, daytime, sunlight through the window from the left, key color #D8B57A, cel shadows #6E5640
+the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 early summer June, daytime, sunlight through the window from the left, key color #D8B57A, cel shadows #6E5640
 ```
 
 ### 3-10 공방 (저녁, 1988년 6월 끝)
@@ -838,14 +838,14 @@ the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools o
 - 때: 1988년 6월 끝(대본) · 초여름, 저녁, 실내
 - 빛: 창밖 해 질 녘 → 점점 어두워짐(대본), 안은 백열등. 문가 만석은 바깥 잔광 역광. 회상(예선, 짧게): 객석이 하얗게 번진 무대 빛. 회상 Insert 전당포: 누런 형광등
 - 색: 주조 #E8C46A · 그림자 #6A4E36 · 보조 #F2C14E #2E3A5C #C0392F #5B6145
-- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (소리굽쇠 목걸이 착용); seonyoung: 구겨진 흰 셔츠·카디건·긴 플레어스커트 (지휘봉, 안경 고쳐 씀, 쪼그려 앉아 눈높이 맞춤); mija: 빨간 반소매 티(여름); deoksu: 흰 러닝셔츠·반바지(여름); dongmin: 초록 반소매 운동복·반바지(여름); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자; manseok: 낡은 야전상의·목수건·고무장화 (문가 역광, 사과 상자에 앉음)
-- 소품: 오선지 제목 「섬의 하루」(Insert, 식자), 지휘봉(나무 숟가락 손잡이), 선영의 빈 바이올린 케이스(악보·사탕), 사과 상자, 「서울매일」 단신 '쓰레기 밴드'(회상 Insert, 식자), 모든 악기
+- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (소리굽쇠 목걸이 착용); seonyoung: 구겨진 흰 반소매 블라우스·긴 플레어스커트(여름) (지휘봉, 안경 고쳐 씀, 쪼그려 앉아 눈높이 맞춤); mija: 빨간 반소매 티(여름); deoksu: 흰 러닝셔츠·반바지(여름); dongmin: 초록 반소매 체육복 티·반바지(여름); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자; manseok: 낡은 야전상의·목수건·고무장화 (문가 역광, 사과 상자에 앉음)
+- 소품: 오선지 제목 「섬의 하루」(Insert, 식자), 지휘봉(나무 숟가락 손잡이), 선영의 빈 바이올린 케이스(악보·사탕), 사과 상자, 「한강신보」 단신 '쓰레기 밴드'(회상 Insert, 식자), 모든 악기
 - 소리 색: 리허설 M: 「섬의 하루」 — 악기 둘레에만 아주 작은 빛 점(새벽 주황 #E8944A, 아침 금빛 #F5C04A·빨강 #D9534A, 한낮 청록 #4FB3A9). 주변 채도 낮춤 없음, 화면으로 번지지 않음(온전히 색이 차는 것은 본선 S#25 '밤'에만)
 - 분위기: 연대
 - 연속성: 선영이 처음 반말('같이 해'). 만석·선영이 같은 전당포 확인('우리 둘 다 거기 맡긴 게 있죠') → S#33 회수. 만석은 이날부터 연습을 지켜봄. 리허설 색은 본선 정점을 아끼려고 최소화. 은주 활이 멈추는 컷('모든 소리 빠진다')은 소리 색 없음.
 
 ```
-the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer late June, evening turning to night, the sky outside the window fading from sunset to dark, a single incandescent bulb inside, warm backlight from the open doorway, key color #E8C46A, cel shadows #6A4E36
+the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 early summer late June, evening turning to night, the sky outside the window fading from sunset to dark, a single incandescent bulb inside, warm backlight from the open doorway, key color #E8C46A, cel shadows #6A4E36
 ```
 
 ### 3-11 공방 구석 (같은 날 밤)
@@ -860,7 +860,7 @@ the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools o
 - 연속성: '찾을 돈' 깡통 → S#33 전당포에서 뒤집음.
 
 ```
-the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer, night, a dark corner of the workshop reached only by the light of one distant incandescent bulb, key color #8A6A4A, cel shadows #3A2E26
+the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 early summer, night, a dark corner of the workshop reached only by the light of one distant incandescent bulb, key color #8A6A4A, cel shadows #3A2E26
 ```
 
 ### 3-12 구청 도시정비과 사무실 (낮, 1988년 7월 초)
@@ -868,7 +868,7 @@ the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools o
 - 때: 1988년 7월 초(대본) · 한여름, 무더움(선풍기), 바깥 날씨 미확인
 - 빛: 하얀 형광등(위)에서 책상 줄로, 창 빛 약함. 회상 Insert 1(국밥집 앞 진흙): 흐린 낮. 회상 Insert 2(최 계장 어린 시절 판잣집): 빛바랜 색, 회색 빗빛
 - 색: 주조 #E6E8EA · 그림자 #5E6A78 · 보조 #7A7C80 #F2EFD8 #8C8F94 #3A5A8C
-- 인물·의상: choi: 회색 양복·넥타이·서류 봉투 (손수건(땀), 볼펜, 차렷 자세); extra:과장: 대본 근거 없음 — 회색 양복 제안 (과장. characters.json 미등록 —); extra:어린 최 계장(회상): 대본 근거 없음 (회상: 어린 최 계장, 맨발만)
+- 인물·의상: choi: 흰 반소매 와이셔츠·넥타이, 양복 상의는 의자에(여름) (손수건(땀), 볼펜, 차렷 자세); extra:과장: 대본 근거 없음 — 회색 양복 제안 (과장. characters.json 미등록 —); extra:어린 최 계장(회상): 기워 입은 헐렁한 옷·맨발(1950년대 회상) (회상: 어린 최 계장, 맨발만)
 - 소품: 보고서 표지·본문(Insert, 글씨는 식자 — 땀방울에 '동' 자 번짐), 볼펜, 손수건, 선풍기, 도장, 올림픽 포스터(표어만, 마스코트·엠블럼 없음), 회상: 진흙 위 구두 끝, 양철 지붕
 - 소리 색: 없음
 - 분위기: 코미디·진심
@@ -883,7 +883,7 @@ a 1980s Seoul district office: steel desks, stacks of folders, a wall map of the
 - 때: 1988년 7월 초, S#12와 같은 날 · 한여름, 실내
 - 빛: 복도 형광등(위), 복도 끝 창의 흰 빛
 - 색: 주조 #E6E8EA · 그림자 #5E6A78 · 보조 #7A7C80 #6F8F5E #C9C3B6
-- 인물·의상: choi: 회색 양복·넥타이·서류 봉투 (손수건을 두 손으로 짬)
+- 인물·의상: choi: 흰 반소매 와이셔츠·넥타이, 양복 상의는 의자에(여름) (손수건을 두 손으로 짬)
 - 소품: 손수건, 복도 화분(물방울 두 번)
 - 소리 색: 없음
 - 분위기: 코미디
@@ -898,14 +898,14 @@ a corridor of the same 1980s Seoul district office: terrazzo floor, a row of pla
 - 때: 1988년 7월 초, S#12 이튿날 · 한여름, 맑음(추정), 무더움
 - 빛: 칠월 한낮 해(머리 위), 천막 앞 짧은 그림자, 천막 안은 천을 거른 부드러운 빛
 - 색: 주조 #E3D6BE · 그림자 #6E5640 · 보조 #B5546A #C0392F #7A7C80 #C99A62
-- 인물·의상: choi: 회색 양복·넥타이·서류 봉투 (공문을 압정으로 붙임, 손수건); mija: 빨간 반소매 티(여름); extra:미자 엄마: 대본 근거 없음 (미자 엄마. characters.json 미등록 —); sunrye: 몸뻬 바지·꽃무늬 앞치마 (국자로 솥을 침); extra:섬사람들: 대본 근거 없음 — 섬사람 평상복 (엑스트라); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자
+- 인물·의상: choi: 흰 반소매 와이셔츠·넥타이, 양복 상의는 의자에(여름) (공문을 압정으로 붙임, 손수건); mija: 빨간 반소매 티(여름); extra:미자 엄마: 대본 근거 없음 (미자 엄마. characters.json 미등록 —); sunrye: 몸뻬 바지·꽃무늬 앞치마 (국자로 솥을 침); extra:섬사람들: 얇은 반소매 작업 셔츠·면바지·몸뻬, 머릿수건, 밀짚모자 드문드문(여름) (엑스트라); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자
 - 소품: 공문(천막 기둥, 압정 — 글씨 식자), 국솥·국자, 손수건
 - 소리 색: 없음
 - 분위기: 안도·코미디
 - 연속성: 이주는 공연 뒤로, 같은 동네·같은 학교 → S#32. 미자네 친정행 취소. 국자는 하나. S#6에서 덕수가 빌려 갔다가 돌려준 것으로 본다(G8 소품에서 확인).
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1988 midsummer July, midday, strong overhead sun, short shadows in front of the tent, soft filtered light inside the canvas, hazy beige sky, key color #E3D6BE, cel shadows #6E5640
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1988 midsummer July, midday, strong overhead sun, short shadows in front of the tent, soft filtered light inside the canvas, hazy beige sky, key color #E3D6BE, cel shadows #6E5640
 ```
 
 ### 3-15 공방 (밤, 본선 전날)
@@ -913,14 +913,14 @@ grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a
 - 때: 1988년 7월 22일 금요일(추정) · 한여름, 밤, 실내
 - 빛: 백열등 하나(작업대 위) — 작은 빛의 원, 나머지는 남색 어둠. 진짜 바이올린의 꿀빛 반사, 다락에서 내려온 먼지와 톱밥이 빛 속에 떠오름
 - 색: 주조 #F2C14E · 그림자 #4A3626 · 보조 #C8862E #FAFAF7 #24304F #F5C04A
-- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (걸레로 동그리를 닦음. 소리굽쇠 목걸이 착용); dongmin: 초록 반소매 운동복·반바지(여름) (고물 자루 위에서 잠 → 벌떡); kwak: 톱밥 묻은 캔버스 앞치마·팔토시 (사다리로 다락. 돋보기안경이 이마 → 콧등으로 미끄러짐. 작품에서 처음 크게 웃음)
+- 인물·의상: eunju: 빛바랜 하늘색 반소매 셔츠·해진 바지(여름) (걸레로 동그리를 닦음. 소리굽쇠 목걸이 착용); dongmin: 초록 반소매 체육복 티·반바지(여름) (고물 자루 위에서 잠 → 벌떡); kwak: 앞치마·반소매 작업 셔츠(여름) (사다리로 다락. 돋보기안경이 이마 → 콧등으로 미끄러짐. 작품에서 처음 크게 웃음)
 - 소품: 흰 원피스(벽 못에 걸림, 선영이 빌려 옴), 걸레, 동그리, 곽 영감의 진짜 바이올린(낡은 천에 싸임, 꿀 빛깔 나무), 사다리·다락, 선반 위 깡통들(웃음에 달그락)
 - 소리 색: 곽 영감의 진짜 바이올린 한 소절(M:) 차가운 청색 #5B8DEF — 매끄럽고 넓은 청색 띠가 강물처럼 벽과 천장까지 흐름, 떠오르는 톱밥 사이로 / 동그리 '동—' 금빛 #F5C04A — 은주가 깡통 몸통을 톡 치는 컷(대본: 주변 소리 빠지고 그 소리만)
 - 분위기: 감동·웃음
 - 연속성: 소리 색 대비: 진짜 바이올린 청색 #5B8DEF → 은주가 고른 동그리 금빛 #F5C04A(선택이 색으로 보이게). 날짜: 본선(대본 '7월 넷째 주 토요일')은 달력 계산상 1988년 7월 23일, 그 전날. 은주는 동그리를 고름('이건 아직 소리가 남았어요'). 곽 영감 크게 웃음(작품 유일). 진짜 바이올린은 다락으로 안 돌아가고 작업대 위 동그리 옆. 흰 원피스 → S#17부터 착용.
 
 ```
-the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 midsummer late July, night, a single incandescent bulb above the workbench making a small warm pool of light, the rest in navy darkness, dust and sawdust floating in the light, key color #F2C14E, cel shadows #4A3626
+the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, a ladder up to a small attic above the workshop, 1988 midsummer late July, night, a single incandescent bulb above the workbench making a small warm pool of light, the rest in navy darkness, dust and sawdust floating in the light, key color #F2C14E, cel shadows #4A3626
 ```
 
 ### 3-16 한빛문화회관 앞 (낮, 1988년 7월 넷째 주 토요일)
@@ -928,14 +928,14 @@ the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools o
 - 때: 1988년 7월 23일 토요일(대본 '7월 넷째 주 토요일', 날짜는 달력 계산) · 한여름, 맑음, 무더위, 매미
 - 빛: 한낮 머리 위 강한 햇볕, 광장 바닥이 하얗게 반사, 짧은 그림자. 계단 아래에서 올려다보는 구도라 하늘은 뿌연 흰빛
 - 색: 주조 #F5F5F2 · 그림자 #5B5E78 · 보조 #D9D4C8 #5B6145 #B5546A #8FA9BF
-- 인물·의상: extra:섬사람들: 대본: 다림질 자국 선명한 셔츠, 장롱 깊이 두었던 블라우스, 고무장화 대신 운동화 (엑스트라); sunrye: 외출용 자주색 블라우스·몸뻬, 접은 앞치마를 손에(본선); manseok: 낡은 야전상의·목수건·고무장화 (맨 마지막으로 내림, 깃을 세 번 여밈. 한여름이지만 야전상의는 대본 명시. 신발은 섬사람 공통 '고무장화 대신 운동화'인지 대본 불명(추정 운동화))
+- 인물·의상: extra:섬사람들: 대본: 다림질 자국 선명한 셔츠, 장롱 깊이 두었던 블라우스, 고무장화 대신 운동화 (엑스트라); sunrye: 외출용 자주색 블라우스·긴 치마, 접은 앞치마를 손에(본선); manseok: 낡은 야전상의·다린 셔츠·운동화(본선) (맨 마지막으로 내림, 깃을 세 번 여밈. 한여름이지만 야전상의는 대본 명시. 신발은 섬사람 공통 '고무장화 대신 운동화'인지 대본 불명(추정 운동화))
 - 소품: 낡은 전세 버스(앞 유리 손글씨 종이 '갈대섬' — 식자), 접은 꽃무늬 앞치마, 높은 유리문
 - 소리 색: 없음
 - 분위기: 긴장·설렘
 - 연속성: 섬사람들 버스 한 대로 옴(순례가 국밥값 모아 빌림, 소설). 만석은 줄 맨 끝 → 객석 한가운데(S#19).
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the sunlit front plaza and the wide concrete steps, 1988 midsummer July, midday, clear and scorching, harsh overhead sunlight bleaching the plaza white, short shadows, pale hazy white sky, key color #F5F5F2, cel shadows #5B5E78
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the sunlit front plaza and the wide concrete steps, 1988 midsummer July, midday, clear and scorching, harsh overhead sunlight bleaching the plaza white, short shadows, pale hazy white sky, key color #F5F5F2, cel shadows #5B5E78
 ```
 
 ### 3-17 한빛문화회관 무대 뒤 복도 (낮)
@@ -950,7 +950,7 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 연속성: 은주 흰 원피스 착용 시작(S#17~S#29, S#30은 추정). 목걸이 착용.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the narrow backstage corridor with a wall mirror, 1988 midsummer July, daytime, flat white fluorescent light from above, the far end of the corridor in darkness, key color #EDEBE4, cel shadows #4E4A5E
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the narrow backstage corridor with a wall mirror, 1988 midsummer July, daytime, flat white fluorescent light from above, the far end of the corridor in darkness, key color #EDEBE4, cel shadows #4E4A5E
 ```
 
 ### 3-18 한빛문화회관 무대 옆, 커튼 뒤 (낮)
@@ -958,14 +958,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 어둑한 무대 옆, 백열 작업등 하나(위, 노란 빛의 원). 무대 쪽에서 차갑고 좁은 하얀 조명이 칼날처럼 새어 듦(대본). 커튼 틈 시점 컷(다솜중 연주): 차갑고 좁은 흰 스포트가 검은 연주복 줄을 위에서 내리꽂음, 객석은 어둠(이 씬만 흰빛 — 섬 아이들 무대 S#19부터 따뜻한 스포트)
 - 색: 주조 #E8C98A · 그림자 #3E3226 · 보조 #8C1E2A #18181C #FAFAF7 #F2F4F7
-- 인물·의상: kwak: 톱밥 묻은 캔버스 앞치마·팔토시 (무대 옆 접이식 의자, 귀에 연필, 돋보기안경 콧등. 아이들 악기 줄을 맞춤); seonyoung: 검은 연주복(무대) (지휘봉을 두 손으로. 본선 의상은 대본·소설 명시 없음 — characters.json '검은 연주복(무대)' 사용); eunju: 빌린 흰 원피스(무대) (소리굽쇠 목걸이 착용); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 러닝셔츠·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선); taejun: 검은 연주복 (악장 자리. 왼손 손끝이 아주 조금 떨림. 무대 옆 어두운 구석에 남아 대기); extra:다솜중 단원: 검은 연주복 (다솜중 단원들(엑스트라))
+- 인물·의상: kwak: 다린 흰 반소매 셔츠·회색 바지(본선) (무대 옆 접이식 의자, 귀에 연필, 돋보기안경 콧등. 아이들 악기 줄을 맞춤); seonyoung: 검은 연주복(무대) (지휘봉을 두 손으로. 본선 의상은 대본·소설 명시 없음 — characters.json '검은 연주복(무대)' 사용); eunju: 빌린 흰 원피스(무대) (소리굽쇠 목걸이 착용); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 반소매 남방·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자·빨간 손수건(본선); taejun: 검은 연주복 (악장 자리. 왼손 손끝이 아주 조금 떨림. 무대 옆 어두운 구석에 남아 대기); extra:다솜중 단원: 검은 연주복 (다솜중 단원들(엑스트라))
 - 소품: 깡통 바이올린 2호(봉구), 지휘봉(나무 숟가락 손잡이), 동그리 — E현 닳아 빛이 바랜 자리(극접사), 태준의 고급 바이올린 케이스, 빈 줄 봉투(Insert: 공방 작업대 서랍), 뚱보·꽥꽥이·뼈다귀 북, 붉은 벨벳 커튼
 - 소리 색: 비발디 '여름' 3악장(M:, 폭풍) 차가운 청색 #5B8DEF, 옅게 — 다솜중 활들의 숲에서 가늘고 곧은 청색 띠(섬 악기 색보다 투명하게). 태준 왼손 손끝 극접사에서는 띠가 멀어짐
 - 분위기: 긴장
 - 연속성: 조명은 대본대로 차갑고 좁은 흰빛(다솜중 무대). 태준 손끝 극접사의 '음악이 멀어짐'도 색 없음. 동그리 E현 닳음(공장 시절 남은 줄은 이게 마지막) → S#21 끊김. 태준은 객석으로 가지 않고 무대 옆에 남음 → S#22. 선영 본선 의상은 characters.json 근거만.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a narrow blade of cold white stage light cutting in through the curtain gap like a knife, the rest in darkness, key color #E8C98A, cel shadows #3E3226
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a narrow blade of cold white stage light cutting in through the curtain gap like a knife, the rest in darkness, key color #E8C98A, cel shadows #3E3226
 ```
 
 ### 3-19 한빛문화회관 홀 — 무대·객석 (낮)
@@ -973,14 +973,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 은주 시점 컷: 조명 너머 객석이 하얗게 번짐(과노출). 회상 Insert(쪽방 벽 톡톡): 따뜻한 남색 밤, 짧게
 - 색: 주조 #F3E3C3 · 그림자 #2E2A44 · 보조 #8C1E2A #FAFAF7 #D9534A #F5F5F2
-- 인물·의상: eunju: 빌린 흰 원피스(무대) (소리굽쇠 목걸이 착용. 왼손으로 소리굽쇠를 한 번 쥐었다 놓음); seonyoung: 검은 연주복(무대) (지휘봉 끝이 떨리다 멎음. 의상은 characters.json 근거); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (뼈다귀 북 가죽(X선 필름)을 손가락으로 두 번. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 러닝셔츠·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선); manseok: 낡은 야전상의·목수건·고무장화 (객석 한가운데, 무릎 위 손이 주먹); sunrye: 외출용 자주색 블라우스·몸뻬, 접은 앞치마를 손에(본선) (객석 뒤쪽 섬사람 자리, 입을 꾹 다묾); extra:객석: 넥타이 신사, 부채 든 부인, 교복 학생, 심사위원석 (엑스트라); extra:엄마 한미숙(회상, 얼굴 금지): 회상 Insert — 근거 없음 (어른 여자의 손만, 얼굴 금지)
-- 소품: 무대 위 악기(1초씩): 기름통, 배수관, 페인트 통, 냄비 뚜껑 두 개, 빈 병 여섯 개, 분유 깡통 세 대, 뼈다귀 북(필름에 비친 뼈 그림자), 「서울매일」 사회면 단신 '쓰레기 밴드'(Insert, 식자), 지휘봉
+- 인물·의상: eunju: 빌린 흰 원피스(무대) (소리굽쇠 목걸이 착용. 왼손으로 소리굽쇠를 한 번 쥐었다 놓음); seonyoung: 검은 연주복(무대) (지휘봉 끝이 떨리다 멎음. 의상은 characters.json 근거); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (뼈다귀 북 가죽(X선 필름)을 손가락으로 두 번. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 반소매 남방·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자·빨간 손수건(본선); manseok: 낡은 야전상의·다린 셔츠·운동화(본선) (객석 한가운데, 무릎 위 손이 주먹); sunrye: 외출용 자주색 블라우스·긴 치마, 접은 앞치마를 손에(본선) (객석 뒤쪽 섬사람 자리, 입을 꾹 다묾); extra:객석: 넥타이 신사, 부채 든 부인, 심사위원석; 학생 대부분은 사복(1980년대 국민학교 자유복, 중학교 교복은 학교마다 달랐음), 일부 사립학교 교복, 학부모는 1980년대 외출복 (엑스트라); extra:엄마 한미숙(회상, 얼굴 금지): 회상 Insert — 근거 없음 (어른 여자의 손만, 얼굴 금지)
+- 소품: 무대 위 악기(1초씩): 기름통, 배수관, 페인트 통, 냄비 뚜껑 두 개, 빈 병 여섯 개, 분유 깡통 세 대, 뼈다귀 북(필름에 비친 뼈 그림자), 「한강신보」 사회면 단신 '쓰레기 밴드'(Insert, 식자), 지휘봉
 - 소리 색: 동민 뼈다귀 북 '톡톡' 빨강 #D9534A — 웃음소리가 싹 빠지는 컷, 북 가죽에서 아주 작은 빨간 동심원 두 번. 곡 시작 전 신호이므로 「섬의 하루」 누적 색 개수에는 넣지 않음
 - 분위기: 긴장·용기
 - 연속성: 복선 회수: 벽 두 번 톡톡 = 괜찮아(1화). 엄마는 손만, 얼굴 금지. 태준은 무대 옆 구석에 대기 중(화면에 안 보임). 객석 웃음 → S#20 '새벽'에서 한 줄씩 꺼짐.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #F3E3C3, cel shadows #2E2A44
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #F3E3C3, cel shadows #2E2A44
 ```
 
 ### 3-20 한빛문화회관 홀 — 무대·객석 (낮, 연속)
@@ -988,14 +988,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 겹침 Insert는 무대 위에 반투명으로: [새벽] 회청색 새벽, 둑길 트럭 불빛 / [아침] 뿌연 베이지 아침 빛, 고물 더미 / [한낮] 칠월 한낮 해, 쓰레기 산 꼭대기 바람
 - 색: 주조 #D9B44A · 그림자 #2E2A44 · 보조 #E8944A #F5C04A #D9534A #4FB3A9
-- 인물·의상: deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (뚱보 활을 길게. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); eunju: 빌린 흰 원피스(무대) (피치카토, 한낮엔 웃지 않고 고개만 바람 쪽. 소리굽쇠 목걸이 착용); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (따닥-쿵, 반 박 빠름. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (꽥꽥이에 숨만. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 러닝셔츠·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선); seonyoung: 검은 연주복(무대) (지휘. 의상은 characters.json 근거); choi: 회색 양복·넥타이·서류 봉투 (맨 뒷줄 구석, 손수건 쥔 채 굳음); sunrye: 외출용 자주색 블라우스·몸뻬, 접은 앞치마를 손에(본선) (무릎을 탁 침); extra:객석: 셋째 줄 어린아이와 엄마 등 (엑스트라)
+- 인물·의상: deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (뚱보 활을 길게. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); eunju: 빌린 흰 원피스(무대) (피치카토, 한낮엔 웃지 않고 고개만 바람 쪽. 소리굽쇠 목걸이 착용); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (따닥-쿵, 반 박 빠름. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (꽥꽥이에 숨만. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 반소매 남방·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자·빨간 손수건(본선); seonyoung: 검은 연주복(무대) (지휘. 의상은 characters.json 근거); choi: 회색 양복·넥타이·서류 봉투 (맨 뒷줄 구석, 손수건 쥔 채 굳음); sunrye: 외출용 자주색 블라우스·긴 치마, 접은 앞치마를 손에(본선) (무릎을 탁 침); extra:객석: 셋째 줄 어린아이와 엄마 등 (엑스트라)
 - 소품: 뚱보, 동그리(E현 닳은 채), 깡통 바이올린 2·3호, 뼈다귀 북, 냄비 뚜껑 심벌, 꽥꽥이(깔때기 나팔), 병 실로폰, 지휘봉
 - 소리 색: [1. 새벽] 뚱보 주황 #E8944A — 1색. 기름통에서 낮은 물결 띠가 무대 바닥을 타고 객석으로 기어감(앞줄부터 웃음이 꺼지는 방향과 같이). 여기서 주변 채도 약 60% 낮춤 시작 / [2. 아침] + 동그리 금빛 #F5C04A(피치카토 '동, 동, 챙' — 짧은 점 같은 빛) → 2색, 이어 동민 북 '따닥-쿵' + 빨강 #D9534A → 3색. 주황은 옅은 띠로 남아 누적. 깡통 2·3호·냄비 뚜껑은 2절 표 밖이라 별도 색 없음 / [3. 한낮] + 꽥꽥이 청록 #4FB3A9 → 4색. 병 실로폰·아이들 웃음은 색 없음(표 밖). 네 색 띠가 바람을 따라 무대에서 천장으로 솟구침
 - 분위기: 고조
 - 연속성: 본선 색 흐름 1~4색. 최 계장은 2화의 기름통 소리를 기억(회상 Insert). 셋째 줄 아이와 엄마 → S#26. 회상 큰 산 아래 빨간 깃발(1화 S#2). 동그리 E현은 아직 닳은 원래 줄.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #D9B44A, cel shadows #2E2A44
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #D9B44A, cel shadows #2E2A44
 ```
 
 ### 3-21 한빛문화회관 홀 — 무대·객석 (낮, 연속)
@@ -1003,14 +1003,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 독주부터 조명이 좁아져 은주 하나만 스포트 안(나머지 무대도 어둠). 겹침: 해 질 녘 국밥집 천막(주황 잔광) / 라디오 수리점(세피아, 흐릿) / 노을 진 쓰레기 산 능선
 - 색: 주조 #D9B44A · 그림자 #2E2A44 · 보조 #F5C04A #E8944A #4FB3A9 #E9EEF5
-- 인물·의상: eunju: 빌린 흰 원피스(무대) (눈을 감고 독주 → 줄 끊김 → 무대 옆으로 뜀(원피스 자락이 날림). 소리굽쇠 목걸이 착용); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (국자로 기름통 테두리 → 활을 눕혀 '부우우우'. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (꽥꽥이 '쉬이이이이'. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); seonyoung: 검은 연주복(무대) (지휘봉 내리지 않음, 왼손으로 허공에 긴 선. 의상은 characters.json 근거); manseok: 낡은 야전상의·목수건·고무장화 (의자 팔걸이, 보이지 않는 클라리넷 구멍을 막는 손가락 → 반쯤 일어섬); bonggu: 노란 러닝셔츠·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선); extra:엄마 한미숙(회상, 얼굴 금지): 회상 겹침 — 근거 없음 (라디오 수리점의 젊은 여자 손가락만, 얼굴 금지)
+- 인물·의상: eunju: 빌린 흰 원피스(무대) (눈을 감고 독주 → 줄 끊김 → 무대 옆으로 뜀(원피스 자락이 날림). 소리굽쇠 목걸이 착용); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (국자로 기름통 테두리 → 활을 눕혀 '부우우우'. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (꽥꽥이 '쉬이이이이'. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); seonyoung: 검은 연주복(무대) (지휘봉 내리지 않음, 왼손으로 허공에 긴 선. 의상은 characters.json 근거); manseok: 낡은 야전상의·다린 셔츠·운동화(본선) (의자 팔걸이, 보이지 않는 클라리넷 구멍을 막는 손가락 → 반쯤 일어섬); bonggu: 노란 반소매 남방·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자·빨간 손수건(본선); extra:엄마 한미숙(회상, 얼굴 금지): 회상 겹침 — 근거 없음 (라디오 수리점의 젊은 여자 손가락만, 얼굴 금지)
 - 소품: 순례 할머니의 국자, 동그리 — E현(1번 줄) 끊어져 동그르르 말려 올라감(슬로, 극접사), 뚱보, 꽥꽥이, 지휘봉, 겹침: 라디오 수리점 선반의 라디오들, 은색 소리굽쇠
 - 소리 색: [4. 저녁 시작] 국자 '탕, 탕, 탕' — 2절 표 밖, 새 색 없음. 누적 4색 유지 / [독주] 다른 색이 모두 물러나고 동그리 금빛 #F5C04A 하나만, 좁아진 스포트 안에서 가늘게(엄마 라디오 허밍 네 음) / [겹침 Insert] 라디오 수리점 소리굽쇠 '웅―' 은빛 흰색 #E9EEF5, 세피아 위에 흐릿하게 / [E현 끊김 '팅'] 금빛이 꺼진다 — 완전 무음 1초 동안 소리 색 0(채도 낮춘 화면 그대로, 빛 띠 없음) / [버팀] 뚱보 주황 #E8944A + 꽥꽥이 청록 #4FB3A9 두 색만, 끝나지 않는 저녁 바람처럼 길게 이어지는 띠
 - 분위기: 위기
 - 연속성: 라디오 수리점 겹침은 prompt_scene [flashback] 문장 사용, 엄마는 손가락만(얼굴 금지). E현 끊김(동그리 1번 줄). 연주는 멈추지 않음: 덕수·미자가 바람으로 시간을 범. 엄마 얼굴 금지. → S#22 무대 옆 / S#23 무대 교차.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, the spotlight narrowing to a single circle at center stage, key color #D9B44A, cel shadows #2E2A44; [flashback] a small 1970s Seoul radio repair shop: shelves crowded with transistor and vacuum-tube radios, a workbench with a soldering iron and small tools, 1970s, daytime, sepia-toned translucent overlay on the stage, soft blurry light, key color #C8A878, cel shadows #4A3A30
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, the spotlight narrowing to a single circle at center stage, key color #D9B44A, cel shadows #2E2A44; [flashback] a small 1970s Seoul radio repair shop: shelves crowded with transistor and vacuum-tube radios, a workbench with a soldering iron and small tools, 1970s, daytime, sepia-toned translucent overlay on the stage, soft blurry light, key color #C8A878, cel shadows #4A3A30
 ```
 
 ### 3-22 한빛문화회관 무대 옆, 커튼 뒤 (낮)
@@ -1018,14 +1018,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 옆 커튼 뒤 백열 작업등 하나(위, 노란 빛의 원), 커튼 틈으로 무대의 따뜻한 스포트가 한 줄 새어 듦, 나머지는 어둠. 커튼 틈으로 무대 쪽 빛이 깜박임
 - 색: 주조 #E8C98A · 그림자 #3E3226 · 보조 #8C1E2A #18181C #FAFAF7 #C8C2B4
-- 인물·의상: taejun: 검은 연주복 (이미 케이스를 열고 있음, 새 E현을 내밂); eunju: 빌린 흰 원피스(무대) (숨을 몰아쉼. 소리굽쇠를 목에서 들어 무릎에 침. 소리굽쇠 목걸이 착용); kwak: 톱밥 묻은 캔버스 앞치마·팔토시 (굽은 약지·새끼손가락이 빠름(공장 시절 손))
+- 인물·의상: taejun: 검은 연주복 (이미 케이스를 열고 있음, 새 E현을 내밂); eunju: 빌린 흰 원피스(무대) (숨을 몰아쉼. 소리굽쇠를 목에서 들어 무릎에 침. 소리굽쇠 목걸이 착용); kwak: 다린 흰 반소매 셔츠·회색 바지(본선) (굽은 약지·새끼손가락이 빠름(공장 시절 손))
 - 소품: 태준의 바이올린 케이스(열림), 동그랗게 감긴 새 E현, 동그리, 끊어진 E현, 포크 줄받침·나무못, 소리굽쇠
 - 소리 색: 소리굽쇠 '웅―' 은빛 흰색 #E9EEF5 — 은주가 무릎에 쳐서 울리는 '라' 한 음(대본: 무대 쪽 바람 소리 위로 라 한 음이 가늘게 떠오른다). 악기 색은 없음
 - 분위기: 연대·긴박
 - 연속성: 무대 옆은 악기 색 없음, 소리굽쇠 '라'만 은빛 흰색. 태준 E현 → 동그리에 곽 영감이 1분 안에 갈아 끼움. 무대(S#23)와 교차.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a thin slit of warm stage spotlight through the curtain gap, the rest in darkness, key color #E8C98A, cel shadows #3E3226
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a thin slit of warm stage spotlight through the curtain gap, the rest in darkness, key color #E8C98A, cel shadows #3E3226
 ```
 
 ### 3-23 한빛문화회관 홀 — 무대·객석 (낮)
@@ -1033,14 +1033,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 은주가 빠진 무대 가운데 스포트는 빈 채, 덕수·미자 쪽만 밝음(추정)
 - 색: 주조 #D9B44A · 그림자 #2E2A44 · 보조 #E8944A #4FB3A9 #C0392F #5D7DA8
-- 인물·의상: deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (이마에 땀, 떨리는 팔로 활을 눕힌 그대로. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (볼이 사과처럼 빨감, 짧게 숨 들이쉼. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); choi: 회색 양복·넥타이·서류 봉투 (맨 뒷줄 구석, 볼을 부풀린 채 손수건으로 이마); manseok: 낡은 야전상의·목수건·고무장화 (객석 한가운데, 반쯤 일어선 그대로 무대 옆 어둠을 봄)
+- 인물·의상: deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (이마에 땀, 떨리는 팔로 활을 눕힌 그대로. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (볼이 사과처럼 빨감, 짧게 숨 들이쉼. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); choi: 회색 양복·넥타이·서류 봉투 (맨 뒷줄 구석, 볼을 부풀린 채 손수건으로 이마); manseok: 낡은 야전상의·다린 셔츠·운동화(본선) (객석 한가운데, 반쯤 일어선 그대로 무대 옆 어둠을 봄)
 - 소품: 뚱보, 꽥꽥이, 손수건
 - 소리 색: 뚱보 주황 #E8944A + 꽥꽥이 청록 #4FB3A9 — 두 색이 버팀(땀·볼 극접사 컷에도 띠 유지), 금빛 없음
 - 분위기: 버팀
 - 연속성: S#22·S#24(무대 옆, 악기 색 없음·소리굽쇠 은빛만)와 교차. 미자와 최 계장 같은 숨 교차.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #D9B44A, cel shadows #2E2A44
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #D9B44A, cel shadows #2E2A44
 ```
 
 ### 3-24 한빛문화회관 무대 옆, 커튼 뒤 (낮)
@@ -1048,14 +1048,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 옆 커튼 뒤 백열 작업등 하나(위, 노란 빛의 원), 커튼 틈으로 무대의 따뜻한 스포트가 한 줄 새어 듦, 나머지는 어둠. 태준이 내려가는 컷: 무대 옆 계단에서 객석 어둠으로
 - 색: 주조 #E8C98A · 그림자 #3E3226 · 보조 #8C1E2A #18181C #FAFAF7 #C8C2B4
-- 인물·의상: kwak: 톱밥 묻은 캔버스 앞치마·팔토시 (새 줄을 튕기며 나무못. 표정 그대로); taejun: 검은 연주복 (케이스 닫음, '가.' → 객석 맨 앞줄 끝자리에 소리 없이 앉음); eunju: 빌린 흰 원피스(무대) (소리굽쇠 목걸이 착용)
+- 인물·의상: kwak: 다린 흰 반소매 셔츠·회색 바지(본선) (새 줄을 튕기며 나무못. 표정 그대로); taejun: 검은 연주복 (케이스 닫음, '가.' → 객석 맨 앞줄 끝자리에 소리 없이 앉음); eunju: 빌린 흰 원피스(무대) (소리굽쇠 목걸이 착용)
 - 소품: 동그리(새 E현으로 교체 완료), 나무못, 태준의 바이올린 케이스(닫힘)
 - 소리 색: 소리굽쇠 은빛 흰색 #E9EEF5 — '라와 미가 떨림 없이 맞물린다' 컷(대본: 주변 소리 빠지고 두 음만 남는다). 은빛 동심원 두 겹이 흔들리다 하나로 겹쳐 멎음. 악기 색은 없음
 - 분위기: 연대
 - 연속성: 무대 옆은 악기 색 없음, 라·미 맞물림만 은빛 흰색. 무대 옆 교차 편집 전체 1분 이내. 이후 동그리는 새 E현(태준 것).
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a thin slit of warm stage spotlight through the curtain gap, the rest in darkness, key color #E8C98A, cel shadows #3E3226
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a thin slit of warm stage spotlight through the curtain gap, the rest in darkness, key color #E8C98A, cel shadows #3E3226
 ```
 
 ### 3-25 한빛문화회관 홀 — 무대·객석 (낮, 연속)
@@ -1063,14 +1063,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 겹침 몽타주: (1) 쓰레기 산 위의 별, 밤 남색 (2) 판잣집 창문의 노란 불빛 (3) 손전등을 들고 작은 산을 오르는 만석의 등, 손전등 원 하나
 - 색: 주조 #FFC93C · 그림자 #2E2A44 · 보조 #E8944A #F5C04A #D9534A #4FB3A9
-- 인물·의상: eunju: 빌린 흰 원피스(무대) (새 E현, 높은 자리. 소리굽쇠 목걸이 착용); seonyoung: 검은 연주복(무대) (왼손 주먹 → 첫 박. 의상은 characters.json 근거); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (활과 국자. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 러닝셔츠·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선); taejun: 검은 연주복 (객석 맨 앞줄 끝자리); manseok: 낡은 야전상의·목수건·고무장화 (회상 몽타주 3: 2화 S#27 밤, 손전등, 등만); extra:객석: 객석 전체 (엑스트라 — 정지한 듯)
+- 인물·의상: eunju: 빌린 흰 원피스(무대) (새 E현, 높은 자리. 소리굽쇠 목걸이 착용); seonyoung: 검은 연주복(무대) (왼손 주먹 → 첫 박. 의상은 characters.json 근거); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (활과 국자. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 반소매 남방·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자·빨간 손수건(본선); taejun: 검은 연주복 (객석 맨 앞줄 끝자리); manseok: 낡은 야전상의·다린 셔츠·운동화(본선) (회상 몽타주 3: 2화 S#27 밤, 손전등, 등만); extra:객석: 객석 전체 (엑스트라 — 정지한 듯)
 - 소품: 모든 섬 악기, 국자, 동그리 새 E현(맑은 고음), 지휘봉, 몽타주: 손전등
 - 소리 색: [5. 밤] 화면이 처음으로 온전히 색으로 찬다 — 뚱보 주황 #E8944A, 꽥꽥이 청록 #4FB3A9, 뼈다귀 북 빨강 #D9534A, 그리고 맨 위에 새 E현 금빛 #F5C04A(꺼졌던 금빛이 돌아옴, 가장 밝게). 이 씬부터 주변 채도 낮춤을 해제(본선 다섯 부분 중 유일) / [마지막 음] 금빛 동심원 하나가 홀 천장 조명 사이까지 올라가 머물다 사라짐
 - 분위기: 절정
 - 연속성: 본선 색의 정점(4색 + 돌아온 금빛). 범위 판단: 2절 표 '위 색이 모두'를 섬 악기 4색으로 읽음(소리굽쇠 은빛·라디오 연보라·트럭 연청은 넣지 않음 — 확정 필요). 마지막 음이 사라짐 → S#26 완전 무음.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #FFC93C, cel shadows #2E2A44
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #FFC93C, cel shadows #2E2A44
 ```
 
 ### 3-26 한빛문화회관 홀 — 무대·객석 (낮, 연속)
@@ -1078,14 +1078,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 기립 컷: 일어서는 객석은 무대 스포트의 반사광으로 앞줄부터 뒤로 따뜻하게 밝아짐(추정)
 - 색: 주조 #FFC93C · 그림자 #2E2A44 · 보조 #8C1E2A #FAFAF7 #18181C #F3E3C3
-- 인물·의상: eunju: 빌린 흰 원피스(무대) (활을 든 채 서 있음. 소리굽쇠 목걸이 착용); taejun: 검은 연주복 (맨 앞줄 끝자리에서 가장 먼저 기립, 짝 짝 짝); sunrye: 외출용 자주색 블라우스·몸뻬, 접은 앞치마를 손에(본선) (벌떡 일어나 외침); extra:섬사람들: 외출복(S#16) (엑스트라); extra:객석: 셋째 줄 아이와 엄마, 웃던 사람들 (엑스트라); choi: 회색 양복·넥타이·서류 봉투 (맨 뒷줄 구석, 손수건으로 얼굴을 덮음); manseok: 낡은 야전상의·목수건·고무장화 (박수 없이 앞 의자 등받이를 꽉 쥠. 회상 매치 컷: 리어카 손잡이)
+- 인물·의상: eunju: 빌린 흰 원피스(무대) (활을 든 채 서 있음. 소리굽쇠 목걸이 착용); taejun: 검은 연주복 (맨 앞줄 끝자리에서 가장 먼저 기립, 짝 짝 짝); sunrye: 외출용 자주색 블라우스·긴 치마, 접은 앞치마를 손에(본선) (벌떡 일어나 외침); extra:섬사람들: 외출복(S#16) (엑스트라); extra:객석: 셋째 줄 아이와 엄마, 웃던 사람들 (엑스트라); choi: 회색 양복·넥타이·서류 봉투 (맨 뒷줄 구석, 손수건으로 얼굴을 덮음); manseok: 낡은 야전상의·다린 셔츠·운동화(본선) (박수 없이 앞 의자 등받이를 꽉 쥠. 회상 매치 컷: 리어카 손잡이)
 - 소품: 객석 의자 등받이, 회상: 리어카 손잡이, 손수건
 - 소리 색: 없음
 - 분위기: 환희
 - 연속성: S#25 끝 금빛이 사라진 뒤 정적 — 소리 색 없음(박수는 자연색). 태준 가장 먼저 기립(복선 회수). 만석은 박수 대신 등받이.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #FFC93C, cel shadows #2E2A44
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #FFC93C, cel shadows #2E2A44
 ```
 
 ### 3-27 한빛문화회관 홀 — 무대 (낮, 조금 뒤)
@@ -1093,14 +1093,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일) · 한여름, 실내
 - 빛: 무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 시상이라 무대 위 전체가 고르게 밝음(따뜻한 스포트 그대로). 은주 시점 커튼 그늘(곽 영감): 무대 옆 커튼 뒤 백열 작업등 하나(위, 노란 빛의 원), 커튼 틈으로 무대의 따뜻한 스포트가 한 줄 새어 듦, 나머지는 어둠
 - 색: 주조 #FFC93C · 그림자 #2E2A44 · 보조 #18181C #FAFAF7 #C0392F #F3E3C3
-- 인물·의상: eunju: 빌린 흰 원피스(무대) (처음으로 활짝 웃음(눈이 접히고 이가 드러남). 소리굽쇠 목걸이 착용); seonyoung: 검은 연주복(무대) (은주 손을 잡음, 안경에 김. 의상은 characters.json 근거); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (북채로 무릎, 앞니 빠진 입. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (꽥꽥이를 치켜듦. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (뚱보를 끌어안음. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 러닝셔츠·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선); taejun: 검은 연주복 (참가 학교가 무대에 나란히 — 다솜중 줄에 섬(대본 '다솜중 단원들은 반듯하게', S#26 객석에서 무대로 올라온 것으로 추정)); extra:다솜중 단원: 검은 연주복 (다솜중 단원, 반듯한 줄); kwak: 톱밥 묻은 캔버스 앞치마·팔토시 (무대 옆 커튼 그늘, 웃지 않고 굽은 손 엄지 하나); extra:사회자·진행 요원: 대본 근거 없음 (사회자·진행 요원. characters.json 미등록 —); extra:섬사람들: 외출복(S#16) (객석 뒤, 일제히 펄쩍)
+- 인물·의상: eunju: 빌린 흰 원피스(무대) (처음으로 활짝 웃음(눈이 접히고 이가 드러남). 소리굽쇠 목걸이 착용); seonyoung: 검은 연주복(무대) (은주 손을 잡음, 안경에 김. 의상은 characters.json 근거); dongmin: 흰 반소매 남방·감색 반바지·빨간 손수건(본선) (북채로 무릎, 앞니 빠진 입. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (꽥꽥이를 치켜듦. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); deoksu: 단추를 목까지 잠근 체크 남방·빨간 손수건(본선) (뚱보를 끌어안음. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); bonggu: 노란 반소매 남방·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자·빨간 손수건(본선); taejun: 검은 연주복 (참가 학교가 무대에 나란히 — 다솜중 줄에 섬(대본 '다솜중 단원들은 반듯하게', S#26 객석에서 무대로 올라온 것으로 추정)); extra:다솜중 단원: 검은 연주복 (다솜중 단원, 반듯한 줄); kwak: 다린 흰 반소매 셔츠·회색 바지(본선) (무대 옆 커튼 그늘, 웃지 않고 굽은 손 엄지 하나); extra:사회자·진행 요원: 대본 근거 없음 (사회자·진행 요원. characters.json 미등록 —); extra:섬사람들: 외출복(S#16) (객석 뒤, 일제히 펄쩍)
 - 소품: 봉투(사회자), 마이크, 꽥꽥이, 뚱보, 냄비 뚜껑, 북채
 - 소리 색: 없음
 - 분위기: 환희
 - 연속성: 대상: 갈대섬. 열세 살 은주의 처음이자 유일한 활짝 웃음(style_guide 1절). 곽 영감은 웃지 않음(엄지).
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, the whole stage evenly lit for the award ceremony, key color #FFC93C, cel shadows #2E2A44
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, the whole stage evenly lit for the award ceremony, key color #FFC93C, cel shadows #2E2A44
 ```
 
 ### 3-28 한빛문화회관 로비 (늦은 오후)
@@ -1108,14 +1108,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일), 늦은 오후 · 한여름, 맑음, 실내(로비)
 - 빛: 유리문으로 드는 늦은 오후의 낮은 햇빛(서쪽, 추정), 테라초 바닥 반사, 카메라 플래시의 순간 흰 섬광
 - 색: 주조 #F0CF85 · 그림자 #6A5038 · 보조 #FAFAF7 #18181C #E8C46A #C0392F
-- 인물·의상: eunju: 빌린 흰 원피스(무대) (소리굽쇠 목걸이 착용); taejun: 검은 연주복 (바이올린 케이스, 눈을 비빔. 손끝이 이번엔 떨리지 않음); bonggu: 노란 러닝셔츠·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선)
+- 인물·의상: eunju: 빌린 흰 원피스(무대) (소리굽쇠 목걸이 착용); taejun: 검은 연주복 (바이올린 케이스, 눈을 비빔. 손끝이 이번엔 떨리지 않음); bonggu: 노란 반소매 남방·반바지·빨간 손수건(본선); yeongran: 분홍 반소매 블라우스·감색 치마·빨간 손수건(본선); gyeongho: 파란 티·반바지·빨간 손수건(본선); gyeongmin: 주황 티·반바지·빨간 손수건(본선); suni: 꽃무늬 원피스·빨간 손수건(본선); seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자·빨간 손수건(본선)
 - 소품: 동그리 — 새 E현이 혼자 반짝, 상장, 꽃다발, 카메라(플래시), 태준 바이올린 케이스
 - 소리 색: 없음
 - 분위기: 인정
 - 연속성: 새 E현은 은주가 가짐('그건 가져'). 태준 손끝 극접사는 S#18과 같은 크기. 다음 이중주 약속 → S#34 태준.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the crowded terrazzo lobby behind the glass doors, 1988 midsummer July, late afternoon, low warm sunlight slanting through the glass doors, reflections on the terrazzo floor, occasional white camera flashes, key color #F0CF85, cel shadows #6A5038
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the crowded terrazzo lobby behind the glass doors, 1988 midsummer July, late afternoon, low warm sunlight slanting through the glass doors, reflections on the terrazzo floor, occasional white camera flashes, key color #F0CF85, cel shadows #6A5038
 ```
 
 ### 3-29 한빛문화회관 앞 계단 (저녁, 해 질 녘)
@@ -1123,14 +1123,14 @@ the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with
 - 때: 1988년 7월 23일(본선 당일), 해 질 녘 · 한여름, 맑음, 저녁
 - 빛: 해 질 녘 낮은 해, 광장 쪽(만석 뒤)에서 — 만석의 그림자가 계단 위까지 길게, 주황 금빛 역광
 - 색: 주조 #F7B955 · 그림자 #6E4A3A · 보조 #E8853A #FAFAF7 #5B6145 #B5546A
-- 인물·의상: manseok: 낡은 야전상의·목수건·고무장화 (야전상의 주머니 속 전당표를 쥐었다 놓음. 소리 없이 어깨로 웃음, 은주 머리 위 손); eunju: 빌린 흰 원피스(무대) (동그리를 안고 계단을 내려옴, 고무줄 묶은 머리. 소리굽쇠 목걸이 착용); sunrye: 외출용 자주색 블라우스·몸뻬, 접은 앞치마를 손에(본선) (버스 앞에서 국자를 흔듦); choi: 회색 양복·넥타이·서류 봉투 (서류 봉투를 가슴에, 손수건); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (최 계장 소매를 끎. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); extra:섬사람들: 외출복(S#16) (엑스트라)
+- 인물·의상: manseok: 낡은 야전상의·다린 셔츠·운동화(본선) (야전상의 주머니 속 전당표를 쥐었다 놓음. 소리 없이 어깨로 웃음, 은주 머리 위 손); eunju: 빌린 흰 원피스(무대) (동그리를 안고 계단을 내려옴, 고무줄 묶은 머리. 소리굽쇠 목걸이 착용); sunrye: 외출용 자주색 블라우스·긴 치마, 접은 앞치마를 손에(본선) (버스 앞에서 국자를 흔듦); choi: 회색 양복·넥타이·서류 봉투 (서류 봉투를 가슴에, 손수건); mija: 새것 같은 빨간 트레이닝 위아래·빨간 손수건(본선) (최 계장 소매를 끎. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지)); extra:섬사람들: 외출복(S#16) (엑스트라)
 - 소품: 동그리, 전당표(Insert, 주머니 속), 낡은 전세 버스, 국자
 - 소리 색: 없음
 - 분위기: 화해
 - 연속성: 전당표 → S#33 회수. 만석 '반 박 빨랐다'(바이블 대표 대사). 버스 → S#30.
 
 ```
-the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the sunlit front plaza and the wide concrete steps, 1988 midsummer July, sunset, low golden-orange sun behind the plaza, long shadows stretching up the steps, warm backlight, key color #F7B955, cel shadows #6E4A3A
+the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide stone steps and tall glass doors, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of dark gray-upholstered audience seats, view: the sunlit front plaza and the wide concrete steps, 1988 midsummer July, sunset, low golden-orange sun behind the plaza, long shadows stretching up the steps, warm backlight, key color #F7B955, cel shadows #6E4A3A
 ```
 
 ### 3-30 둑길 (저녁, 노을)
@@ -1154,7 +1154,7 @@ the narrow earthen embankment road leading into the island, reeds on both sides,
 - 빛: 봄 한낮 맑은 햇빛(위·왼쪽), 처음으로 뿌옇지 않은 맑은 파란 하늘, 화면 전체 자연색으로 밝음
 - 색: 주조 #7FB77E · 그림자 #3F5A6A · 보조 #A9D3E8 #C8E6A0 #E8E4A0 #FFF8EA
 - 인물·의상: 없음
-- 소품: 언덕 비탈 현수막 '푸른 언덕 공원 개장 음악회'(글씨 식자)
+- 소품: 언덕 비탈 현수막 '푸른 언덕 공원 개장 한 돌 음악회'(글씨 식자)
 - 소리 색: 없음
 - 분위기: 희망
 - 연속성: S#30과 같은 구도(디졸브). 에필로그는 소리 색 규칙 없이 화면 전체 자연색으로 밝음. 고증: 봄이라 억새 이삭 없음, 풍력발전기·골프장 그리지 않음(2003년 존재 미확인), 지그재그 계단 있음.
@@ -1166,16 +1166,16 @@ a green hilltop park built over the old landfill, grass and wildflowers, a walki
 ### 3-32 몽타주 — 섬이 언덕이 되기까지 (1988년 가을 ~ 2003년)
 
 - 때: 1988년 가을 ~ 2003년 봄 · (1~5) 1988년 가을, 맑음 → (6) 몇 해 뒤(1990년대 초, 추정) → (7) 계절이 빠르게 → (8) 2003년 봄
-- 빛: (1) 1988 가을 둑길: 맑은 가을 오전, 뿌연 베이지 하늘 / (2~3) 임대주택 골목: 가을 낮, 부드러운 빛 / (4) 학교 교문: 가을 아침 햇빛 / (5) 빈 섬: 흐린 낮, 회갈 / (6) 흙 덮임: 흐린 낮, 흙빛 / (7) 첫 싹: 같은 구도, 빛이 계절마다 바뀜 / (8) 푸른 언덕: 2003 봄 맑은 한낮
+- 빛: (1) 1988 가을 둑길: 맑은 가을 오전, 뿌연 베이지 하늘 / (2~3) 임시 거처 골목(1988): 가을 낮, 부드러운 빛 → 디졸브 임대주택 골목(1990): 낮, 맑은 빛 / (4) 학교 교문: 가을 아침 햇빛 / (5) 빈 섬: 흐린 낮, 회갈 / (6) 흙 덮임: 흐린 낮, 흙빛 / (7) 첫 싹: 같은 구도, 빛이 계절마다 바뀜 / (8) 푸른 언덕: 2003 봄 맑은 한낮
 - 색: 주조 #7FB77E · 그림자 #3F5A6A · 보조 #C99A62 #8C8F94 #C8E6A0 #A9D3E8
-- 인물·의상: extra:섬사람들: 대본 근거 없음 — 섬사람 평상복(가을) (엑스트라, 이삿짐); sunrye: 몸뻬 바지·꽃무늬 앞치마 (옆집 창문에 손을 흔듦(2)); choi: 회색 양복·넥타이·서류 봉투 (이주 명단에 표시, 손수건(3)); dongmin: 물려받은 누빈 갈색 점퍼·털모자(겨울) (같은 학교 교문(4)); deoksu: 늘어난 흰 러닝셔츠 위 체크 남방 (같은 학교 교문(4)); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자
+- 인물·의상: extra:섬사람들: 대본 근거 없음 — 섬사람 평상복(가을) (엑스트라, 이삿짐); sunrye: 몸뻬 바지·꽃무늬 앞치마 (옆집 창문에 손을 흔듦(2)); choi: 회색 양복·넥타이·서류 봉투 (이주 명단에 표시, 손수건(3)); dongmin: 물려받은 큰 운동복 (같은 학교 교문(4)); deoksu: 늘어난 흰 러닝셔츠 위 체크 남방 (같은 학교 교문(4)); extra:섬 아이들(봉구·영란·경호·경민·순이·석이): 섬 아이들 평상복(가을) (봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 —)
 - 소품: 이삿짐 실은 트럭들, 이주 명단·서류 봉투, 흙 덮는 장비(6, 추정)
 - 소리 색: 없음
 - 분위기: 희망
 - 연속성: 1~6은 탁한 섬 색, 7~8에서 초록으로 넘어감. 5는 사람 없는 풍경만. M: 잔잔한 깡통 합주는 배경 음악 — 에필로그는 소리 색 규칙을 쓰지 않음(지시). 최 계장 보고서 내용(S#12) 그대로 실행.
 
 ```
-[1] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, 1988 autumn, morning, clear autumn light, hazy beige sky, key color #C99A62, cel shadows #5A4A3C; [2-3] a narrow alley between new low-rise public rental apartment blocks in late-1980s Seoul, rows of identical windows, a concrete alley entrance, 1988 autumn, daytime, soft autumn light, key color #D8C8A8, cel shadows #4A4A6E; [4] a late-1980s Seoul elementary school front gate: an iron gate between concrete posts, a dirt schoolyard and a three-story school building behind, 1988 autumn, morning, bright morning sunlight, key color #E8D6A0, cel shadows #4A4A6E; [5-6] the same island after landfill closure: the two flat-topped hills covered with fresh soil, no trash visible, first green sprouts and grass on the terraced slopes, the embankment road, the Han River, the cleared ground where the shacks stood, no people, late 1980s to early 1990s, overcast daytime, flat gray light, key color #8C8F94, cel shadows #4A4258; [7] the same island after landfill closure: the two flat-topped hills covered with fresh soil, no trash visible, first green sprouts and grass on the terraced slopes, the embankment road, the Han River, 1990s, seasons passing quickly in the same framing, green spreading over the soil, soft daylight, key color #A8C88A, cel shadows #3F5A6A; [8] a green hilltop park built over the old landfill, grass and wildflowers, a walking path, a small outdoor stage, the Han River and a 2003 Seoul skyline, 2003 spring, midday, clear bright blue sky, low spring grass, key color #7FB77E, cel shadows #3F5A6A
+[1] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, 1988 autumn, morning, clear autumn light, hazy beige sky, key color #C99A62, cel shadows #5A4A3C; [2-3] a narrow dirt alley between rows of identical single-story prefabricated temporary houses in 1988 Seoul, thin panel walls, small windows, a shared water tap at the alley entrance, 1988 autumn, daytime, soft autumn light, key color #D8C8A8, cel shadows #4A4A6E; [2 dissolve] a narrow alley between new low-rise public rental apartment blocks in 1990 Seoul, rows of identical windows, a concrete alley entrance, 1990, daytime, clear light, key color #D8C8A8, cel shadows #4A4A6E; [4] a late-1980s Seoul elementary school front gate: an iron gate between concrete posts, a dirt schoolyard and a three-story school building behind, 1988 autumn, morning, bright morning sunlight, key color #E8D6A0, cel shadows #4A4A6E; [5-6] the same island after landfill closure: the two flat-topped hills covered with fresh soil, no trash visible, first green sprouts and grass on the terraced slopes, the embankment road, the Han River, the cleared ground where the shacks stood, no people, late 1980s to early 1990s, overcast daytime, flat gray light, key color #8C8F94, cel shadows #4A4258; [7] the same island after landfill closure: the two flat-topped hills covered with fresh soil, no trash visible, first green sprouts and grass on the terraced slopes, the embankment road, the Han River, 1990s, seasons passing quickly in the same framing, green spreading over the soil, soft daylight, key color #A8C88A, cel shadows #3F5A6A; [8] a green hilltop park built over the old landfill, grass and wildflowers, a walking path, a small outdoor stage, the Han River and a 2003 Seoul skyline, 2003 spring, midday, clear bright blue sky, low spring grass, key color #7FB77E, cel shadows #3F5A6A
 ```
 
 ### 3-33 회상 — 만복전당포 (1988년 여름, 낮)
@@ -1183,7 +1183,7 @@ a green hilltop park built over the old landfill, grass and wildflowers, a walki
 - 때: 1988년 여름, 본선 직후 7월 말~8월(추정) · 한여름, 낮, 실내
 - 빛: 누런 형광등(위), 문이 열릴 때 바깥 여름 낮 빛이 한 줄
 - 색: 주조 #B9A86A · 그림자 #5A4A30 · 보조 #E8D68A #C0392F #3A3A34 #C9C3B6
-- 인물·의상: mija: 빨간 반소매 티(여름) ('찾을 돈' 깡통을 뒤집음); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자; extra:전당포 주인: 대본 근거 없음 (전당포 주인(화면에 나오면). characters.json 미등록 — 2화 S#8과 같은 인물로)
+- 인물·의상: mija: 빨간 반소매 티(여름) ('찾을 돈' 깡통을 뒤집음); bonggu: 노란 러닝셔츠·반바지; yeongran: 분홍 반소매 블라우스·감색 치마; gyeongho: 파란 티·반바지; gyeongmin: 주황 티·반바지; suni: 꽃무늬 원피스; seoki: 물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자; extra:전당포 주인: 대본 근거 없음 (전당포 주인(화면에 나오면). characters.json 미등록 — 2화 S#8과 같은 인물로)
 - 소품: '찾을 돈' 분유 깡통, 와르르 쏟아지는 동전(실제 화폐 도안 금지), 먼지 쌓인 클라리넷 케이스와 바이올린 케이스(나란히), 계산대·주판, 문 종(딸랑)
 - 소리 색: 없음
 - 분위기: 연대·회상
@@ -1198,8 +1198,8 @@ a narrow 1980s pawnshop: glass display cases with watches, gold rings and camera
 - 때: 2003년 봄(대본), 월 미상 · 봄, 맑음, 산들바람
 - 빛: 봄 한낮, 하늘을 넓게, 해는 위·뒤쪽(추정) — 무대에 짙은 그늘 없음, 언덕 아래 강물 반짝임. 화면 전체 자연색으로 밝음. 회상 Insert(쪽방, 소리 없이): 1987년 밤 남색
 - 색: 주조 #7FB77E · 그림자 #3F5A6A · 보조 #A9D3E8 #F3E9C8 #E8E4A0 #B9A7D9
-- 인물·의상: eunju: 짙은 남색 연주 드레스(2003, 어른) (28세, 바이올리니스트. 긴 머리를 여전히 고무줄 하나로 낮게(대본). 소리굽쇠 목걸이 착용); manseok: 다린 흰 셔츠·검은 바지(2003, 백발) (56세, 머리가 하얗게 셈(대본), 클라리넷); kwak: 깨끗한 갈색 카디건(2003) (여든 넘음, 등이 꼿꼿, 귀에 여전히 연필(대본)); seonyoung: 단정한 감색 정장(2003, 음악 교사) (38세 중학교 음악 교사, 안경 고쳐 씀); mija: 감색 트레이닝복·호루라기·출석부(2003, 체육 교사) (29세 중학교 체육 교사, 옆 빈 의자까지 차지); deoksu: 꽃무늬 앞치마(2003, 국밥집) (27세, 국밥집을 이어받음, 무릎 위 큰 냄비(김)); dongmin: 검은 티셔츠·청바지(2003, 어른) (24세 타악기 연주자, 무릎에 북채); taejun: 검은 정장 연주복(2003, 어른) (29세, 팔짱, 은주의 이중주 친구); choi: 넥타이 없는 회색 양복(2003) (61세 최 전 계장, 손수건을 미리 쥠); sunrye: 자주색 외출 블라우스·몸뻬(2003, 객석) (허리가 더 굽음(대본)); extra:선영의 학생들: 교복(대본) (뒷줄 중학생 몇(선영의 학생), 엑스트라); dongmin: 물려받은 큰 운동복 (회상 Insert(1화 쪽방): 아홉 살 동민, 이불을 둘둘 만 채)
-- 소품: 동그리(몸통 여기저기 찌그러짐, 나무 숟가락 목은 손때로 까맘), 은색 소리굽쇠 목걸이, 은주의 진짜 바이올린 케이스(무대 뒤 받침대, 여러 도시 공연장 꼬리표 — 글씨 식자), 클라리넷(새로 맞춘 패드, 반들반들한 키), 엄마의 라디오(무대 한쪽 의자 위, 고장 난 채), 현수막 '공원 개장 음악회 — 바이올린 하은주 · 클라리넷 하만석'(식자), 작은 나무 무대·접이식 의자, 호루라기·출석부, 큰 냄비, 북채, 손수건
+- 인물·의상: eunju: 짙은 남색 연주 드레스(2003, 어른) (28세, 바이올리니스트. 긴 머리를 여전히 고무줄 하나로 낮게(대본). 소리굽쇠 목걸이 착용); manseok: 다린 흰 셔츠·검은 바지(2003, 백발) (56세, 머리가 하얗게 셈(대본), 클라리넷); kwak: 깨끗한 갈색 카디건(2003) (여든 넘음, 등이 꼿꼿, 귀에 여전히 연필(대본)); seonyoung: 단정한 감색 정장(2003, 음악 교사) (38세 중학교 음악 교사, 안경 고쳐 씀); mija: 감색 트레이닝복·호루라기·출석부(2003, 체육 교사) (29세 중학교 체육 교사, 옆 빈 의자까지 차지); deoksu: 꽃무늬 앞치마(2003, 국밥집) (27세, 국밥집을 이어받음, 무릎 위 큰 냄비(김)); dongmin: 검은 티셔츠·청바지(2003, 어른) (24세 타악기 연주자, 무릎에 북채); taejun: 검은 정장 연주복(2003, 어른) (29세, 팔짱, 은주의 이중주 친구); choi: 넥타이 없는 회색 양복(2003) (61세 최 전 계장, 손수건을 미리 쥠); sunrye: 자주색 외출 블라우스·긴 치마(2003, 객석) (허리가 더 굽음(대본)); extra:선영의 학생들: 교복(대본) (뒷줄 중학생 몇(선영의 학생), 엑스트라); dongmin: 물려받은 큰 운동복 (회상 Insert(1화 쪽방): 아홉 살 동민, 이불을 둘둘 만 채)
+- 소품: 동그리(몸통 여기저기 찌그러짐, 나무 숟가락 목은 손때로 까맘), 은색 소리굽쇠 목걸이, 은주의 진짜 바이올린 케이스(무대 뒤 받침대, 여러 도시 공연장 꼬리표 — 글씨 식자), 클라리넷(새로 맞춘 패드, 반들반들한 키), 엄마의 라디오(무대 한쪽 의자 위, 고장 난 채), 현수막 '공원 개장 한 돌 음악회 — 바이올린 하은주 · 클라리넷 하만석'(식자), 작은 나무 무대·접이식 의자, 호루라기·출석부, 큰 냄비, 북채, 손수건
 - 소리 색: 엄마의 라디오 허밍 연보라 #B9A7D9 — 마지막, '주변 소리 모두 빠지고 라디오의 허밍만 남는다' 컷. 라디오 스피커에서 가는 연보라 동심원만 퍼지고, 주변 채도는 낮추지 않음(에필로그: 화면 전체 자연색으로 밝음)
 - 분위기: 희망·평화
 - 연속성: 소리굽쇠 '라'·동그리와 클라리넷 이중주(M:)·흙 아래 섬의 소리(SE)는 소리 색 없이 자연색(지시: 에필로그는 규칙 없이 밝음). 마지막 라디오 허밍만 연보라. 만석 박자 여전히 반 박 빠름. 곽 영감이 고개를 왼쪽으로 기울임(은주처럼). 어른 은주의 활짝 웃음은 style_guide 1절이 허용. 고증: 억새 이삭·풍차·골프장 없음.

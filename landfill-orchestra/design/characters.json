@@ -36,6 +36,12 @@
     "bottom": "long_skirt"
    },
    {
+    "label": "남색 점퍼·회색 손뜨개 목도리·목장갑(겨울)",
+    "color": "#2E3A5C",
+    "bottom": "pants",
+    "pants": "#5A5048"
+   },
+   {
     "label": "남색 점퍼·회색 손뜨개 목도리·손끝 자른 목장갑(겨울)",
     "color": "#2E3A5C",
     "bottom": "pants",
@@ -95,7 +101,7 @@
     "pants": "#3F7A55"
    },
    {
-    "label": "초록 반소매 운동복·반바지(여름)",
+    "label": "초록 반소매 체육복 티·반바지(여름)",
     "color": "#3F7A55",
     "bottom": "pants",
     "pants": "#3F7A55"
@@ -165,6 +171,12 @@
     "color": "#F2F0EA",
     "bottom": "pants",
     "pants": "#1E1E22"
+   },
+   {
+    "label": "낡은 야전상의·다린 셔츠·운동화(본선)",
+    "color": "#5B6145",
+    "bottom": "pants",
+    "pants": "#3B3A36"
    }
   ],
   "expressions": [
@@ -214,6 +226,18 @@
     "color": "#8A6A4A",
     "bottom": "pants",
     "pants": "#4A4640"
+   },
+   {
+    "label": "앞치마·반소매 작업 셔츠(여름)",
+    "color": "#8A7556",
+    "bottom": "pants",
+    "pants": "#4A4640"
+   },
+   {
+    "label": "다린 흰 반소매 셔츠·회색 바지(본선)",
+    "color": "#F2F0EA",
+    "bottom": "pants",
+    "pants": "#6E6A65"
    }
   ],
   "expressions": [
@@ -266,6 +290,11 @@
     "label": "단정한 감색 정장(2003, 음악 교사)",
     "color": "#2A3350",
     "bottom": "skirt"
+   },
+   {
+    "label": "구겨진 흰 반소매 블라우스·긴 플레어스커트(여름)",
+    "color": "#F2EFE8",
+    "bottom": "long_skirt"
    }
   ],
   "expressions": [
@@ -315,6 +344,18 @@
     "color": "#7A7C80",
     "bottom": "pants",
     "pants": "#6A6C70"
+   },
+   {
+    "label": "흰 반소매 와이셔츠·넥타이, 양복 상의는 의자에(여름)",
+    "color": "#F4F4F0",
+    "bottom": "pants",
+    "pants": "#6A6C70"
+   },
+   {
+    "label": "기워 입은 헐렁한 옷·맨발(1950년대 회상)",
+    "color": "#9A8F7E",
+    "bottom": "pants",
+    "pants": "#7A6E5E"
    }
   ],
   "expressions": [
@@ -511,7 +552,7 @@
   "hair": "bob",
   "hair_color": "#E9E7E3",
   "skin": "#C89A78",
-  "face": "작고 등이 굽음, 낮게 진 흰 쪽진 머리(비녀 대신 검은 핀), 깊은 주름, 늘 국자를 듦",
+  "face": "작고 등이 굽음, 낮게 진 흰 쪽진 머리에 수수한 비녀 하나, 깊은 주름, 늘 국자를 듦",
   "accessories": [],
   "outfits": [
    {
@@ -527,16 +568,14 @@
     "pants": "#5B4E6A"
    },
    {
-    "label": "외출용 자주색 블라우스·몸뻬, 접은 앞치마를 손에(본선)",
+    "label": "외출용 자주색 블라우스·긴 치마, 접은 앞치마를 손에(본선)",
     "color": "#8E3B5E",
-    "bottom": "pants",
-    "pants": "#5B4E6A"
+    "bottom": "long_skirt"
    },
    {
-    "label": "자주색 외출 블라우스·몸뻬(2003, 객석)",
+    "label": "자주색 외출 블라우스·긴 치마(2003, 객석)",
     "color": "#8E3B5E",
-    "bottom": "pants",
-    "pants": "#5B4E6A"
+    "bottom": "long_skirt"
    }
   ],
   "expressions": [
@@ -567,7 +606,7 @@
     "pants": "#3A3F4A"
    },
    {
-    "label": "노란 러닝셔츠·반바지·빨간 손수건(본선)",
+    "label": "노란 반소매 남방·반바지·빨간 손수건(본선)",
     "color": "#F2C94C",
     "bottom": "pants",
     "pants": "#3A3F4A"
@@ -733,13 +772,13 @@
   ],
   "outfits": [
    {
-    "label": "물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자",
+    "label": "물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자",
     "color": "#8AA36B",
     "bottom": "pants",
     "pants": "#3A3F4A"
    },
    {
-    "label": "물려받은 큰 반소매 티(어깨가 흘러내림)·큰 모자·빨간 손수건(본선)",
+    "label": "물려받은 큰 반소매 티(소매가 팔꿈치 아래로)·큰 모자·빨간 손수건(본선)",
     "color": "#8AA36B",
     "bottom": "pants",
     "pants": "#3A3F4A"
