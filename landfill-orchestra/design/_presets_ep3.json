@@ -1,0 +1,1838 @@
+[
+ {
+  "scene": "3-1",
+  "location": "곽 영감 고물상",
+  "time": "낮, 1988년 5월",
+  "date": "1988년 5월",
+  "season_weather": "늦봄, 맑음, 바람(함석 지붕 덜컹)",
+  "light": "오월 한낮 맑은 햇빛, 위·왼쪽에서, 고물 쇠붙이 위 반짝임. 회상 Insert: 한밤 고물상, 노란 백열등 하나(위), 둘레는 남색 어둠",
+  "key_hex": "#F4D9A0",
+  "shadow_hex": "#7A5E44",
+  "palette": [
+   "#C99A62",
+   "#2E3A5C",
+   "#B8B2A6",
+   "#F5C04A"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "고물 자루를 메고 등장, 목장갑 → 맨손으로 벗음. 소리굽쇠 목걸이 없음(2화 S#25에서 빼서 라디오 상자에 넣음, 빈 목덜미)"
+   },
+   {
+    "id": "kwak",
+    "outfit": "톱밥 묻은 캔버스 앞치마·팔토시",
+    "note": "귀에 연필, 이마에 돋보기안경"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "회상 Insert에만: 한밤 사과 상자에 앉은 등만"
+   }
+  ],
+  "props": [
+   "동그리(곽 영감이 다시 손봄: 몸통 반들반들, 나무 숟가락 목 이음매에 새 아교 자국, 줄 네 개 새로 고름)",
+   "고물 자루(양은)",
+   "걸이 저울과 바늘",
+   "빈 사과 상자(문가)",
+   "아교 붓(회상)",
+   "지폐 한 장·동전 몇 개(실제 화폐 도안 금지)",
+   "연필"
+  ],
+  "sound_color": [
+   "동그리 '동—' 금빛 #F5C04A — 은주가 맨손가락으로 몸통을 톡 건드린 컷(대본: 주변 소리 빠지고 그 소리만 남는다, 처음 그날과 같은 울림)"
+  ],
+  "mood": "놀람·온기",
+  "prompt_scene": "old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted piles of scrap copper, brass and aluminum, a hanging scale, wooden apple crates by the door, a ladder to a small attic, 1988 late spring May, midday, clear weather with a light breeze, bright May sunlight from the upper left glinting on scrap metal, hazy beige sky, key color #F4D9A0, cel shadows #7A5E44",
+  "continuity": "2화 S#28 만석이 한밤에 동그리를 가져옴 → 곽 영감이 고침(사흘 밤, 만석은 사과 상자에 앉아 지켜봄). 은주는 아직 목걸이 없음(S#3에서 다시 걸 때까지). 동그리는 이날 집으로 감 → S#2."
+ },
+ {
+  "scene": "3-2",
+  "location": "은주네 판잣집, 부엌 겸 방",
+  "time": "저녁",
+  "date": "1988년 5월, S#1과 같은 날(추정)",
+  "season_weather": "늦봄, 맑음(추정), 실내",
+  "light": "작은 창으로 들어오는 저녁 잔광(왼쪽, 주황빛) + 석유곤로의 푸른 불꽃, 방 안은 따뜻한 어스름",
+  "key_hex": "#E9C48A",
+  "shadow_hex": "#5A4636",
+  "palette": [
+   "#2E3A5C",
+   "#5B6145",
+   "#3F7A55",
+   "#8FA3C9"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "집 안 — 근거 없어 기본 의상(목장갑 없음). 목걸이 없음"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "숟가락을 문 채, 밥 먹고 졸다 잠듦"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "들어와 고무장화를 벗다 멈춤. 리어카 손잡이 쥐던 손"
+   }
+  ],
+  "props": [
+   "동그리(방바닥 한가운데, 숨기지 않음)",
+   "석유곤로와 된장찌개 냄비",
+   "접이식 밥상",
+   "숟가락·밥그릇"
+  ],
+  "sound_color": [],
+  "mood": "온기·긴장",
+  "prompt_scene": "inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-briquette stove, a kerosene burner, a folding low table, a tiny window, 1988 late spring May, evening, warm orange dusk light through the tiny window on the left, the blue flame of the kerosene burner, warm dim interior, key color #E9C48A, cel shadows #5A4636",
+  "continuity": "동그리를 처음으로 집 안에 둠. 만석은 말없이 '밥이나 먹자'. 동민을 은주의 쪽방에 눕힘 → S#3(벽 너머 잠꼬대)."
+ },
+ {
+  "scene": "3-3",
+  "location": "은주네 판잣집, 부엌 겸 방",
+  "time": "밤",
+  "date": "1988년 5월, S#2와 같은 날 밤(추정)",
+  "season_weather": "늦봄, 밤, 실내",
+  "light": "곤로 불 꺼짐, 백열등 하나(위 가운데) — 밥상 자리에 따뜻한 노란 원, 구석은 남색 그늘. 회상(극장 2컷): 세피아, 무대 쪽 스포트 역광과 반짝이 막의 반사, 엄마 얼굴은 무대 조명에 가려 보이지 않음",
+  "key_hex": "#C89B6D",
+  "shadow_hex": "#4A3A30",
+  "palette": [
+   "#E8C46A",
+   "#A8865E",
+   "#24304F",
+   "#E9EEF5"
+  ],
+  "characters": [
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "야전상의 안주머니에 전당표. 회상의 젊은 만석: G7 의상 추가 필요 — 1970년대 극장 쇼 악단 차림(대본·소설 근거 없음, 흰 셔츠·검은 조끼·나비넥타이 제안)"
+   },
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "무릎 모으고 앉음. 근거 없어 기본 의상. 처음엔 목걸이 없음(빈 목덜미로 손) → 만석이 걸어 줌"
+   },
+   {
+    "id": "extra:엄마 한미숙(회상, 얼굴 금지)",
+    "outfit": "회상 — 대본 근거 없음",
+    "note": "한미숙(젊은 시절, 가수 지망생). 얼굴 금지 — 무대 조명에 가려 입술만 또는 실루엣. G7 의상 추가 필요: 1970년대 젊은 여자 차림(근거 없음)"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "화면 밖(벽 너머 잠꼬대 '쿠웅-따악')"
+   }
+  ],
+  "props": [
+   "동그리·활",
+   "빈 밥그릇과 숟가락('팅' — 솔)",
+   "전당표(누렇게 바램, '만복전당포' 글씨는 식자 단계, 접힌 자리 닳음)",
+   "엄마의 고장 난 라디오와 상자(쪽방 선반에서 가져옴)",
+   "은색 소리굽쇠 목걸이(사슬 엉킴 → 풀어서 은주 목에)",
+   "회상: 극장 반짝이 막, 클라리넷, 악단석 보면대"
+  ],
+  "sound_color": [
+   "회상 극장 악단 반주(M:) — 만석의 클라리넷 와인색 #9C4A6B, 세피아 화면 위 악단석의 클라리넷에서만",
+   "소리굽쇠 '웅―' 은빛 흰색 #E9EEF5 — 목걸이를 건 뒤 은주가 손톱으로 튕기는 컷, 빛 띠가 방을 한 바퀴",
+   "동그리 짧은 음 금빛 #F5C04A — M: 방바닥에 떨어지듯 작게. 빛도 작게, 동그리 둘레만"
+  ],
+  "mood": "그리움·화해",
+  "prompt_scene": "inside a small 1980s shack: plywood and tar-paper walls, a low ceiling, a coal-briquette stove, a kerosene burner, a folding low table, a tiny window, 1988 late spring May, night, a single bare incandescent bulb hanging at the center casting a warm yellow pool of light over the floor, the corners in navy shadow, the burner unlit, key color #C89B6D, cel shadows #4A3A30; [flashback] a 1970s downtown Seoul theater show stage: a glittering tinsel curtain, footlights, a small band pit with music stands just behind and below the stage, 1970s, night, sepia-toned flashback, strong stage spotlight glaring from the stage toward the band pit so faces dissolve into the glare, key color #A8865E, cel shadows #4A3A30",
+  "continuity": "회상(극장)은 1970년대 — prompt_scene [flashback] 문장 사용, 엄마 얼굴은 무대 조명 역광에 가림. 밥그릇 '팅' 잔향은 소리 색 없음(결정). 소리굽쇠 목걸이: 이 씬 중간 만석이 라디오 상자에서 꺼내 다시 걸어 줌 → S#4부터 S#34까지 계속 착용. 엄마 얼굴 금지. 전당표 → S#10·S#29·S#33. 만석의 '구멍을 막았다 여는' 손가락 동작은 S#21에서 반복."
+ },
+ {
+  "scene": "3-4",
+  "location": "작은 산 꼭대기",
+  "time": "새벽",
+  "date": "1988년 5월, S#3 다음 날 새벽(추정)",
+  "season_weather": "늦봄, 맑음(추정), 새벽 냉기, 바람 약함",
+  "light": "해 뜨기 전 회청색 산광, 동쪽 지평선만 옅게 밝음, 그림자 거의 없음. 둑길 저편에 첫 트럭 헤드라이트 두 점",
+  "key_hex": "#5E7F99",
+  "shadow_hex": "#34465E",
+  "palette": [
+   "#9DB7C9",
+   "#8A7A6A",
+   "#E9EEF5",
+   "#2E3A5C"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "고무장화·목장갑(대본). 소리굽쇠 목걸이 착용"
+   }
+  ],
+  "props": [
+   "선영 선생이 준 공책과 연필('새벽. 트럭. 낮은 솔. 기침.' 글씨는 식자)",
+   "소리굽쇠(무릎에 대고 튕김)",
+   "자갈(엔진 진동에 잘게 떨림)"
+  ],
+  "sound_color": [
+   "소리굽쇠 '웅―' 은빛 흰색 #E9EEF5 — 라(대본: 바람 소리 빠지고 라와 엔진 두 겹만 남는다)",
+   "첫 트럭 엔진 '그르르르' 연청색 #9DB7C9 — 둑길 저편에서 땅을 타고 올라오는 낮은 물결 띠(2절 '은주의 귀' 색: 대본 '라와 엔진 두 겹만 남는다')"
+  ],
+  "mood": "고요·집중",
+  "prompt_scene": "on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind, 1988 late spring May, pre-dawn, blue-gray diffused light before sunrise, only the eastern horizon faintly brightening, almost no shadows, two distant truck headlights on the embankment road, key color #5E7F99, cel shadows #34465E",
+  "continuity": "2화 S#23 동그리를 두고 왔던 그 자리. 동그리는 들고 오지 않음(대본에 없음). 「섬의 하루」 '새벽' 소재(트럭 = 낮은 솔) → S#20."
+ },
+ {
+  "scene": "3-5",
+  "location": "공방",
+  "time": "같은 날 오후",
+  "date": "1988년 5월, S#4와 같은 날 오후(대본)",
+  "season_weather": "늦봄, 맑음(추정), 실내",
+  "light": "오후 햇빛이 공방 문과 작은 창으로 비스듬히(왼쪽), 톱밥 먼지가 빛줄기 속에 뜸",
+  "key_hex": "#D8B57A",
+  "shadow_hex": "#6E5640",
+  "palette": [
+   "#6FB3A8",
+   "#E8944A",
+   "#C0392F",
+   "#5D7DA8"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "구겨진 흰 셔츠·카디건·긴 플레어스커트",
+    "note": "연필 떨어뜨림, 안경 흘러내림"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": ""
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "누룽지를 씹음, 뚱보를 끌어안음"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": ""
+   }
+  ],
+  "props": [
+   "공책",
+   "오선지·연필(맨 위 '새벽' — 식자)",
+   "뚱보(기름통 첼로)",
+   "꽥꽥이",
+   "뼈다귀 북",
+   "선반의 깡통들",
+   "누룽지"
+  ],
+  "sound_color": [],
+  "mood": "창작의 기쁨",
+  "prompt_scene": "the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 late spring May, afternoon, slanting sunlight through the door and a small window on the left, sawdust floating in the light beams, key color #D8B57A, cel shadows #6E5640",
+  "continuity": "자유곡을 은주가 만들기로 함. 뚱보 '부우우웅'은 SE만 있고 고립 근거가 없어 소리 색 없음."
+ },
+ {
+  "scene": "3-6",
+  "location": "몽타주 — 섬의 소리를 모으다",
+  "time": "며칠, 섬 여러 곳",
+  "date": "1988년 5월 말~6월, 며칠(추정)",
+  "season_weather": "늦봄~초여름, 맑음, 한낮엔 바람",
+  "light": "(1) 아침 큰 산 아래 쇳더미: 낮은 동쪽 아침 해, 뿌연 베이지 하늘 / (2~4) 공방 낮: 창으로 드는 햇빛 / (5~7) 작은 산 꼭대기 한낮: 머리 위 강한 해, 짧은 그림자, 비닐이 나부끼는 바람 / (8~9) 국밥집 천막 저녁: 해 질 녘 주황 잔광 + 국솥 연탄불 / (10~11) 공방 저녁(추정): 백열등",
+  "key_hex": "#6FB3A8",
+  "shadow_hex": "#5A4A3C",
+  "palette": [
+   "#C99A62",
+   "#E8C46A",
+   "#E8944A",
+   "#C0392F"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "목장갑(1). 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "뼈다귀 북(4)"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "찢어진 비닐·꽥꽥이(5·6), 하늘을 등진 앙각"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "국자를 빌림(9·10)"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "구겨진 흰 셔츠·카디건·긴 플레어스커트",
+    "note": "오선지에 웃음소리까지 받아 적음(7)"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "몸뻬 바지·꽃무늬 앞치마",
+    "note": "국솥을 국자로 세 번(8)"
+   }
+  ],
+  "props": [
+   "구리 파이프·양은 냄비",
+   "동그리",
+   "뼈다귀 북",
+   "찢어진 비닐",
+   "꽥꽥이",
+   "오선지('새벽·아침·한낮·저녁', '저녁' 칸 비어 있음)",
+   "국솥·국자(순례 → 덕수가 빌림)",
+   "뚱보"
+  ],
+  "sound_color": [],
+  "mood": "창작의 기쁨",
+  "prompt_scene": "[1] at the foot of the big trash hill where dump trucks unload: a fresh heap of scrap iron and tin, tire ruts in the mud, 1988 early summer, morning, low eastern sunlight, hazy beige sky, key color #C99A62, cel shadows #5A4A3C; [2-4] the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer, daytime, sunlight through the small window, key color #D8B57A, cel shadows #6E5640; [5-7] on the small flat-topped hill of trash: terraced slope of compacted ochre soil mixed with scrap metal, broken boards, white plastic sheets and tin cans, a dump-truck ramp cut into the slope, the Han River and the 1980s city skyline far behind, 1988 early summer, midday, strong overhead sun, short shadows, a strong breeze, hazy beige sky, key color #6FB3A8, cel shadows #5A4A3C; [8-9] grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1988 early summer, sunset, warm orange afterglow and the glow of the coal fire under the soup pot, key color #E8C46A, cel shadows #6E4A3A; [10-11] the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer, evening, a single incandescent bulb, key color #E8C46A, cel shadows #4A3A30",
+  "continuity": "'섬의 하루' 소재 모음: 쇳소리(동그리 피치카토), 북 따닥-쿵(반 박 빠름), 바람(미자 '내 구역 바람'), 국자 세 번. 국자는 덕수가 빌려 감 → S#10·S#21. 소리 고립 근거가 없어 소리 색 없음."
+ },
+ {
+  "scene": "3-7",
+  "location": "은주네 판잣집, 쪽방",
+  "time": "밤",
+  "date": "1988년 6월 초(추정)",
+  "season_weather": "초여름, 밤, 실내",
+  "light": "불 꺼진 쪽방, 작은 창으로 들어오는 남색 밤빛 한 줄, 그 밖의 광원 없음",
+  "key_hex": "#24304F",
+  "shadow_hex": "#1A2238",
+  "palette": [
+   "#B9A7D9",
+   "#F5C04A",
+   "#2E3A5C",
+   "#3A4466"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "이불 위에 앉음. 근거 없어 기본 의상(밤). 소리굽쇠 목걸이 착용"
+   }
+  ],
+  "props": [
+   "엄마의 고장 난 트랜지스터라디오(켜짐, 지직)",
+   "동그리·활",
+   "이불"
+  ],
+  "sound_color": [
+   "라디오 허밍 연보라 #B9A7D9 — 지직거림 빠지고 허밍 네 음만 남는 컷, 라디오 스피커에서 가는 연보라 동심원",
+   "동그리 금빛 #F5C04A — M: 허밍 네 음을 따라 작게. 연보라 띠 옆에 가는 금빛 띠가 나란히"
+  ],
+  "mood": "그리움",
+  "prompt_scene": "Eunju's tiny side room in the shack: a thin wall shared with the next room, a sleeping mat, a shelf with an old broken transistor radio box, 1988 early summer, night, the room unlit, a single strip of navy night light through a tiny window, no other light source, key color #24304F, cel shadows #1A2238",
+  "continuity": "허밍 네 음 = '저녁' 독주 선율 → S#8·S#21·S#34. 라디오 상자는 쪽방 선반(S#3에서 만석이 꺼냈다가 제자리, 추정)."
+ },
+ {
+  "scene": "3-8",
+  "location": "공방",
+  "time": "낮",
+  "date": "1988년 6월(추정)",
+  "season_weather": "초여름, 맑음(추정), 실내",
+  "light": "낮, 공방 창과 문으로 드는 햇빛(왼쪽), 톱밥 먼지",
+  "key_hex": "#D8B57A",
+  "shadow_hex": "#6E5640",
+  "palette": [
+   "#F5C04A",
+   "#F1EEE6",
+   "#6FB3A8",
+   "#C0392F"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "소리굽쇠 목걸이 착용. G7 의상 추가 필요: 6~7월 여름 옷(기본 의상 큰 남색 점퍼는 계절에 맞지 않음 — 대본·소설 근거 없음, 기본 의상 하의 + 빛바랜 반소매 셔츠 제안)"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "구겨진 흰 셔츠·카디건·긴 플레어스커트",
+    "note": "안경을 벗어 셔츠 자락에 오래 닦음"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "손가락 여섯 개"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "곁눈질(대본 '아이들')"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "곁눈질(대본 '아이들')"
+   }
+  ],
+  "props": [
+   "동그리·활",
+   "오선지('저녁' 칸 '독주', 마지막 칸 '밤 — 다 같이' — 식자)",
+   "연필",
+   "선영 안경"
+  ],
+  "sound_color": [
+   "동그리 독주 금빛 #F5C04A — M: 허밍 네 음"
+  ],
+  "mood": "감동",
+  "prompt_scene": "the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer June, daytime, sunlight through the window and door from the left, sawdust in the light, key color #D8B57A, cel shadows #6E5640",
+  "continuity": "곡 구조 확정: 새벽·아침·한낮·저녁(독주)·밤(다 같이), 약 6분."
+ },
+ {
+  "scene": "3-9",
+  "location": "공방",
+  "time": "사흘 뒤, 낮",
+  "date": "1988년 6월, S#8 사흘 뒤(추정)",
+  "season_weather": "초여름, 맑음(추정), 실내",
+  "light": "낮, 공방 창 햇빛(왼쪽). 문틈 컷은 안쪽 어둑함에 문틈 바깥 빛이 세로 한 줄",
+  "key_hex": "#D8B57A",
+  "shadow_hex": "#6E5640",
+  "palette": [
+   "#C9C3B6",
+   "#E8C46A",
+   "#6FB3A8",
+   "#C0392F"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "목장갑으로 깡통을 두드림. 소리굽쇠 목걸이 착용. G7 의상 추가 필요: 6~7월 여름 옷(기본 의상 큰 남색 점퍼는 계절에 맞지 않음 — 대본·소설 근거 없음, 기본 의상 하의 + 빛바랜 반소매 셔츠 제안)"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "팔짱, 턱을 치켜듦. G7 의상 추가 필요: 여름엔 빨간 트레이닝 상의 소매 걷음 또는 빨간 반소매(근거 없음, 제안 — 빨강은 유지)"
+   },
+   {
+    "id": "kwak",
+    "outfit": "톱밥 묻은 캔버스 앞치마·팔토시",
+    "note": "굽은 손으로 2·3호 제작"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": ""
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "대본·소설 근거 없음 — 섬 아이들 평상복",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요"
+   }
+  ],
+  "props": [
+   "깡통 한 자루(바닥에 와르르)",
+   "고른 깡통 하나(맑고 둥근 소리)",
+   "나무 숟가락 목",
+   "피아노 쇠줄 다발(서랍)",
+   "깡통 바이올린 2호·3호",
+   "냄비 뚜껑 두 개(심벌)",
+   "빈 병과 물(병 실로폰)",
+   "동그리·뚱보·꽥꽥이·뼈다귀 북"
+  ],
+  "sound_color": [
+   "고른 깡통 '톡' 연청 #9DB7C9(은주의 귀) — 대본: 주변 소리 빠지고 그 소리만 남는다. 은주 손끝의 깡통에서만"
+  ],
+  "mood": "연대·활기",
+  "prompt_scene": "the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer June, daytime, sunlight through the window from the left, key color #D8B57A, cel shadows #6E5640",
+  "continuity": "섬 아이 6명 합류, 열 명 편성 완성. 2·3호 줄은 피아노 쇠줄(G4 결정). 공방 한가득 열 명과 악기(와이드)."
+ },
+ {
+  "scene": "3-10",
+  "location": "공방",
+  "time": "저녁, 1988년 6월 끝",
+  "date": "1988년 6월 끝(대본)",
+  "season_weather": "초여름, 저녁, 실내",
+  "light": "창밖 해 질 녘 → 점점 어두워짐(대본), 안은 백열등. 문가 만석은 바깥 잔광 역광. 회상(예선, 짧게): 객석이 하얗게 번진 무대 빛. 회상 Insert 전당포: 누런 형광등",
+  "key_hex": "#E8C46A",
+  "shadow_hex": "#6A4E36",
+  "palette": [
+   "#F2C14E",
+   "#2E3A5C",
+   "#C0392F",
+   "#5B6145"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "소리굽쇠 목걸이 착용. G7 의상 추가 필요: 6~7월 여름 옷(기본 의상 큰 남색 점퍼는 계절에 맞지 않음 — 대본·소설 근거 없음, 기본 의상 하의 + 빛바랜 반소매 셔츠 제안)"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "구겨진 흰 셔츠·카디건·긴 플레어스커트",
+    "note": "지휘봉, 안경 고쳐 씀, 쪼그려 앉아 눈높이 맞춤"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "G7 의상 추가 필요: 여름엔 빨간 트레이닝 상의 소매 걷음 또는 빨간 반소매(근거 없음, 제안 — 빨강은 유지)"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": ""
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "G7 의상 추가 필요: 여름용 반소매 운동복 상의(근거 없음, 제안)"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "대본·소설 근거 없음 — 섬 아이들 평상복",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "문가 역광, 사과 상자에 앉음"
+   }
+  ],
+  "props": [
+   "오선지 제목 「섬의 하루」(Insert, 식자)",
+   "지휘봉(나무 숟가락 손잡이)",
+   "선영의 빈 바이올린 케이스(악보·사탕)",
+   "사과 상자",
+   "「서울매일」 단신 '쓰레기 밴드'(회상 Insert, 식자)",
+   "모든 악기"
+  ],
+  "sound_color": [
+   "리허설 M: 「섬의 하루」 — 악기 둘레에만 아주 작은 빛 점(새벽 주황 #E8944A, 아침 금빛 #F5C04A·빨강 #D9534A, 한낮 청록 #4FB3A9). 주변 채도 낮춤 없음, 화면으로 번지지 않음(온전히 색이 차는 것은 본선 S#25 '밤'에만)"
+  ],
+  "mood": "연대",
+  "prompt_scene": "the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer late June, evening turning to night, the sky outside the window fading from sunset to dark, a single incandescent bulb inside, warm backlight from the open doorway, key color #E8C46A, cel shadows #6A4E36",
+  "continuity": "선영이 처음 반말('같이 해'). 만석·선영이 같은 전당포 확인('우리 둘 다 거기 맡긴 게 있죠') → S#33 회수. 만석은 이날부터 연습을 지켜봄. 리허설 색은 본선 정점을 아끼려고 최소화. 은주 활이 멈추는 컷('모든 소리 빠진다')은 소리 색 없음."
+ },
+ {
+  "scene": "3-11",
+  "location": "공방 구석",
+  "time": "같은 날 밤",
+  "date": "1988년 6월 끝, S#10과 같은 날 밤",
+  "season_weather": "초여름, 밤, 실내",
+  "light": "공방 구석, 멀리 백열등 하나의 빛만 닿음, 나머지 어둠",
+  "key_hex": "#8A6A4A",
+  "shadow_hex": "#3A2E26",
+  "palette": [
+   "#C0392F",
+   "#C9C3B6",
+   "#E8C46A"
+  ],
+  "characters": [
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "혼자. G7 의상 추가 필요: 여름엔 빨간 트레이닝 상의 소매 걷음 또는 빨간 반소매(근거 없음, 제안 — 빨강은 유지)"
+   }
+  ],
+  "props": [
+   "빈 분유 깡통('찾을 돈' — 글씨는 식자)",
+   "굵은 펜",
+   "고물 판 동전 하나(실제 화폐 도안 금지)"
+  ],
+  "sound_color": [],
+  "mood": "다짐",
+  "prompt_scene": "the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 early summer, night, a dark corner of the workshop reached only by the light of one distant incandescent bulb, key color #8A6A4A, cel shadows #3A2E26",
+  "continuity": "'찾을 돈' 깡통 → S#33 전당포에서 뒤집음."
+ },
+ {
+  "scene": "3-12",
+  "location": "구청 도시정비과 사무실",
+  "time": "낮, 1988년 7월 초",
+  "date": "1988년 7월 초(대본)",
+  "season_weather": "한여름, 무더움(선풍기), 바깥 날씨 미확인",
+  "light": "하얀 형광등(위)에서 책상 줄로, 창 빛 약함. 회상 Insert 1(국밥집 앞 진흙): 흐린 낮. 회상 Insert 2(최 계장 어린 시절 판잣집): 빛바랜 색, 회색 빗빛",
+  "key_hex": "#E6E8EA",
+  "shadow_hex": "#5E6A78",
+  "palette": [
+   "#7A7C80",
+   "#F2EFD8",
+   "#8C8F94",
+   "#3A5A8C"
+  ],
+  "characters": [
+   {
+    "id": "choi",
+    "outfit": "회색 양복·넥타이·서류 봉투",
+    "note": "손수건(땀), 볼펜, 차렷 자세"
+   },
+   {
+    "id": "extra:과장",
+    "outfit": "대본 근거 없음 — 회색 양복 제안",
+    "note": "과장. characters.json 미등록 — G7 디자인 필요(안경, 서류를 듦)"
+   },
+   {
+    "id": "extra:어린 최 계장(회상)",
+    "outfit": "대본 근거 없음",
+    "note": "회상: 어린 최 계장, 맨발만. G7 의상 추가 필요(1950년대 판자촌 아이, 근거 없음)"
+   }
+  ],
+  "props": [
+   "보고서 표지·본문(Insert, 글씨는 식자 — 땀방울에 '동' 자 번짐)",
+   "볼펜",
+   "손수건",
+   "선풍기",
+   "도장",
+   "올림픽 포스터(표어만, 마스코트·엠블럼 없음)",
+   "회상: 진흙 위 구두 끝, 양철 지붕"
+  ],
+  "sound_color": [],
+  "mood": "코미디·진심",
+  "prompt_scene": "a 1980s Seoul district office: steel desks, stacks of folders, a wall map of the district, a desk fan, 1988 midsummer early July, daytime, flat white fluorescent light from above over rows of desks, weak window light, hot and stuffy, key color #E6E8EA, cel shadows #5E6A78; [flashback] a 1950s Seoul hillside shanty: a rusty corrugated tin roof, plywood and straw-mat walls, a dirt floor, 1950s, rainy day, faded desaturated flashback, flat gray rain light, rain dripping from the roof edge, key color #A9AFB5, cel shadows #4A4E62",
+  "continuity": "양철 지붕 빗소리 회상은 소리 색 없음(결정) — prompt_scene [flashback] 문장 사용. 보고서: 이주 개시 7월 넷째 주 이후, 같은 지역 임대주택, 같은 학군 전학 → S#14 발표, S#32 실행. 덕수의 기름통 소리 기억(2화). 최 계장 판자촌 출신(바이블 비밀) 처음 암시."
+ },
+ {
+  "scene": "3-13",
+  "location": "구청 복도",
+  "time": "낮",
+  "date": "1988년 7월 초, S#12와 같은 날",
+  "season_weather": "한여름, 실내",
+  "light": "복도 형광등(위), 복도 끝 창의 흰 빛",
+  "key_hex": "#E6E8EA",
+  "shadow_hex": "#5E6A78",
+  "palette": [
+   "#7A7C80",
+   "#6F8F5E",
+   "#C9C3B6"
+  ],
+  "characters": [
+   {
+    "id": "choi",
+    "outfit": "회색 양복·넥타이·서류 봉투",
+    "note": "손수건을 두 손으로 짬"
+   }
+  ],
+  "props": [
+   "손수건",
+   "복도 화분(물방울 두 번)"
+  ],
+  "sound_color": [],
+  "mood": "코미디",
+  "prompt_scene": "a corridor of the same 1980s Seoul district office: terrazzo floor, a row of plain office doors, a potted plant by the wall, fluorescent tubes on the ceiling, 1988 midsummer early July, daytime, fluorescent light from above, white daylight from a window at the far end of the corridor, key color #E6E8EA, cel shadows #5E6A78",
+  "continuity": "8절에 없는 장소 — '구청 복도' 기준 문장 새로 씀."
+ },
+ {
+  "scene": "3-14",
+  "location": "국밥집 천막",
+  "time": "이튿날 낮",
+  "date": "1988년 7월 초, S#12 이튿날",
+  "season_weather": "한여름, 맑음(추정), 무더움",
+  "light": "칠월 한낮 해(머리 위), 천막 앞 짧은 그림자, 천막 안은 천을 거른 부드러운 빛",
+  "key_hex": "#E3D6BE",
+  "shadow_hex": "#6E5640",
+  "palette": [
+   "#B5546A",
+   "#C0392F",
+   "#7A7C80",
+   "#C99A62"
+  ],
+  "characters": [
+   {
+    "id": "choi",
+    "outfit": "회색 양복·넥타이·서류 봉투",
+    "note": "공문을 압정으로 붙임, 손수건"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "G7 의상 추가 필요: 여름엔 빨간 트레이닝 상의 소매 걷음 또는 빨간 반소매(근거 없음, 제안 — 빨강은 유지)"
+   },
+   {
+    "id": "extra:미자 엄마",
+    "outfit": "대본 근거 없음",
+    "note": "미자 엄마. characters.json 미등록 — G7 디자인 필요"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "몸뻬 바지·꽃무늬 앞치마",
+    "note": "국자로 솥을 침"
+   },
+   {
+    "id": "extra:섬사람들",
+    "outfit": "대본 근거 없음 — 섬사람 평상복",
+    "note": "엑스트라"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요"
+   }
+  ],
+  "props": [
+   "공문(천막 기둥, 압정 — 글씨 식자)",
+   "국솥·국자",
+   "손수건"
+  ],
+  "sound_color": [],
+  "mood": "안도·코미디",
+  "prompt_scene": "grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, long low tables and benches, a ladle, 1988 midsummer July, midday, strong overhead sun, short shadows in front of the tent, soft filtered light inside the canvas, hazy beige sky, key color #E3D6BE, cel shadows #6E5640",
+  "continuity": "이주는 공연 뒤로, 같은 동네·같은 학교 → S#32. 미자네 친정행 취소. 국자는 하나. S#6에서 덕수가 빌려 갔다가 돌려준 것으로 본다(G8 소품에서 확인)."
+ },
+ {
+  "scene": "3-15",
+  "location": "공방",
+  "time": "밤, 본선 전날",
+  "date": "1988년 7월 22일 금요일(추정)",
+  "season_weather": "한여름, 밤, 실내",
+  "light": "백열등 하나(작업대 위) — 작은 빛의 원, 나머지는 남색 어둠. 진짜 바이올린의 꿀빛 반사, 다락에서 내려온 먼지와 톱밥이 빛 속에 떠오름",
+  "key_hex": "#F2C14E",
+  "shadow_hex": "#4A3626",
+  "palette": [
+   "#C8862E",
+   "#FAFAF7",
+   "#24304F",
+   "#F5C04A"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "큰 남색 점퍼·해진 바지·목장갑",
+    "note": "걸레로 동그리를 닦음. 소리굽쇠 목걸이 착용. G7 의상 추가 필요: 6~7월 여름 옷(기본 의상 큰 남색 점퍼는 계절에 맞지 않음 — 대본·소설 근거 없음, 기본 의상 하의 + 빛바랜 반소매 셔츠 제안)"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "고물 자루 위에서 잠 → 벌떡. G7 의상 추가 필요: 여름용 반소매 운동복 상의(근거 없음, 제안)"
+   },
+   {
+    "id": "kwak",
+    "outfit": "톱밥 묻은 캔버스 앞치마·팔토시",
+    "note": "사다리로 다락. 돋보기안경이 이마 → 콧등으로 미끄러짐. 작품에서 처음 크게 웃음"
+   }
+  ],
+  "props": [
+   "흰 원피스(벽 못에 걸림, 선영이 빌려 옴)",
+   "걸레",
+   "동그리",
+   "곽 영감의 진짜 바이올린(낡은 천에 싸임, 꿀 빛깔 나무)",
+   "사다리·다락",
+   "선반 위 깡통들(웃음에 달그락)"
+  ],
+  "sound_color": [
+   "곽 영감의 진짜 바이올린 한 소절(M:) 차가운 청색 #5B8DEF — 매끄럽고 넓은 청색 띠가 강물처럼 벽과 천장까지 흐름, 떠오르는 톱밥 사이로",
+   "동그리 '동—' 금빛 #F5C04A — 은주가 깡통 몸통을 톡 치는 컷(대본: 주변 소리 빠지고 그 소리만)"
+  ],
+  "mood": "감동·웃음",
+  "prompt_scene": "the small workshop behind old Kwak's junk shop: a wooden workbench, hand tools on the wall, wood shavings, instruments made from scrap hanging on nails, 1988 midsummer late July, night, a single incandescent bulb above the workbench making a small warm pool of light, the rest in navy darkness, dust and sawdust floating in the light, key color #F2C14E, cel shadows #4A3626",
+  "continuity": "소리 색 대비: 진짜 바이올린 청색 #5B8DEF → 은주가 고른 동그리 금빛 #F5C04A(선택이 색으로 보이게). 날짜: 본선(대본 '7월 넷째 주 토요일')은 달력 계산상 1988년 7월 23일, 그 전날. 은주는 동그리를 고름('이건 아직 소리가 남았어요'). 곽 영감 크게 웃음(작품 유일). 진짜 바이올린은 다락으로 안 돌아가고 작업대 위 동그리 옆. 흰 원피스 → S#17부터 착용."
+ },
+ {
+  "scene": "3-16",
+  "location": "한빛문화회관 앞",
+  "time": "낮, 1988년 7월 넷째 주 토요일",
+  "date": "1988년 7월 23일 토요일(대본 '7월 넷째 주 토요일', 날짜는 달력 계산)",
+  "season_weather": "한여름, 맑음, 무더위, 매미",
+  "light": "한낮 머리 위 강한 햇볕, 광장 바닥이 하얗게 반사, 짧은 그림자. 계단 아래에서 올려다보는 구도라 하늘은 뿌연 흰빛",
+  "key_hex": "#F5F5F2",
+  "shadow_hex": "#5B5E78",
+  "palette": [
+   "#D9D4C8",
+   "#5B6145",
+   "#B5546A",
+   "#8FA9BF"
+  ],
+  "characters": [
+   {
+    "id": "extra:섬사람들",
+    "outfit": "대본: 다림질 자국 선명한 셔츠, 장롱 깊이 두었던 블라우스, 고무장화 대신 운동화",
+    "note": "엑스트라. G7 의상 추가 필요: 섬사람 외출복"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "제일 좋은 옷(대본)",
+    "note": "G7 의상 추가 필요: 순례 할머니 외출복('제일 좋은 옷', 대본 S#16) — 꽃무늬 앞치마는 벗어 곱게 접어 손에 듦"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "맨 마지막으로 내림, 깃을 세 번 여밈. 한여름이지만 야전상의는 대본 명시. 신발은 섬사람 공통 '고무장화 대신 운동화'인지 대본 불명(추정 운동화)"
+   }
+  ],
+  "props": [
+   "낡은 전세 버스(앞 유리 손글씨 종이 '갈대섬' — 식자)",
+   "접은 꽃무늬 앞치마",
+   "높은 유리문"
+  ],
+  "sound_color": [],
+  "mood": "긴장·설렘",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the sunlit front plaza and the wide concrete steps, 1988 midsummer July, midday, clear and scorching, harsh overhead sunlight bleaching the plaza white, short shadows, pale hazy white sky, key color #F5F5F2, cel shadows #5B5E78",
+  "continuity": "섬사람들 버스 한 대로 옴(순례가 국밥값 모아 빌림, 소설). 만석은 줄 맨 끝 → 객석 한가운데(S#19)."
+ },
+ {
+  "scene": "3-17",
+  "location": "한빛문화회관 무대 뒤 복도",
+  "time": "낮",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "좁은 복도 하얀 형광등(위, 대본), 복도 끝은 어둠",
+  "key_hex": "#EDEBE4",
+  "shadow_hex": "#4E4A5E",
+  "palette": [
+   "#FAFAF7",
+   "#E9EEF5",
+   "#8A8F99",
+   "#2B2420"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "소매가 손등을 반쯤 덮음, 걷어도 흘러내림. 소리굽쇠 목걸이 착용"
+   }
+  ],
+  "props": [
+   "동그리(품에 안음)",
+   "복도 거울",
+   "소리굽쇠"
+  ],
+  "sound_color": [
+   "비발디 '여름' 3악장(M:, 벽 너머 먹먹하게) 차가운 청색 #5B8DEF, 아주 옅게 — 벽에서 번져 나오는 흐릿한 청색 띠"
+  ],
+  "mood": "긴장",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the narrow backstage corridor with a wall mirror, 1988 midsummer July, daytime, flat white fluorescent light from above, the far end of the corridor in darkness, key color #EDEBE4, cel shadows #4E4A5E",
+  "continuity": "은주 흰 원피스 착용 시작(S#17~S#29, S#30은 추정). 목걸이 착용."
+ },
+ {
+  "scene": "3-18",
+  "location": "한빛문화회관 무대 옆, 커튼 뒤",
+  "time": "낮",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "어둑한 무대 옆, 백열 작업등 하나(위, 노란 빛의 원). 무대 쪽에서 차갑고 좁은 하얀 조명이 칼날처럼 새어 듦(대본). 커튼 틈 시점 컷(다솜중 연주): 차갑고 좁은 흰 스포트가 검은 연주복 줄을 위에서 내리꽂음, 객석은 어둠(이 씬만 흰빛 — 섬 아이들 무대 S#19부터 따뜻한 스포트)",
+  "key_hex": "#E8C98A",
+  "shadow_hex": "#3E3226",
+  "palette": [
+   "#8C1E2A",
+   "#18181C",
+   "#FAFAF7",
+   "#F2F4F7"
+  ],
+  "characters": [
+   {
+    "id": "kwak",
+    "outfit": "톱밥 묻은 캔버스 앞치마·팔토시",
+    "note": "무대 옆 접이식 의자, 귀에 연필, 돋보기안경 콧등. 아이들 악기 줄을 맞춤"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "검은 연주복(무대)",
+    "note": "지휘봉을 두 손으로. 본선 의상은 대본·소설 명시 없음 — characters.json '검은 연주복(무대)' 사용"
+   },
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복(제일 좋은 옷)",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요"
+   },
+   {
+    "id": "taejun",
+    "outfit": "검은 연주복",
+    "note": "악장 자리. 왼손 손끝이 아주 조금 떨림. 무대 옆 어두운 구석에 남아 대기"
+   },
+   {
+    "id": "extra:다솜중 단원",
+    "outfit": "검은 연주복",
+    "note": "다솜중 단원들(엑스트라)"
+   }
+  ],
+  "props": [
+   "깡통 바이올린 2호(봉구)",
+   "지휘봉(나무 숟가락 손잡이)",
+   "동그리 — E현 닳아 빛이 바랜 자리(극접사)",
+   "태준의 고급 바이올린 케이스",
+   "빈 줄 봉투(Insert: 공방 작업대 서랍)",
+   "뚱보·꽥꽥이·뼈다귀 북",
+   "붉은 벨벳 커튼"
+  ],
+  "sound_color": [
+   "비발디 '여름' 3악장(M:, 폭풍) 차가운 청색 #5B8DEF, 옅게 — 다솜중 활들의 숲에서 가늘고 곧은 청색 띠(섬 악기 색보다 투명하게). 태준 왼손 손끝 극접사에서는 띠가 멀어짐"
+  ],
+  "mood": "긴장",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a narrow blade of cold white stage light cutting in through the curtain gap like a knife, the rest in darkness, key color #E8C98A, cel shadows #3E3226",
+  "continuity": "조명은 대본대로 차갑고 좁은 흰빛(다솜중 무대). 태준 손끝 극접사의 '음악이 멀어짐'도 색 없음. 동그리 E현 닳음(공장 시절 남은 줄은 이게 마지막) → S#21 끊김. 태준은 객석으로 가지 않고 무대 옆에 남음 → S#22. 선영 본선 의상은 characters.json 근거만."
+ },
+ {
+  "scene": "3-19",
+  "location": "한빛문화회관 홀 — 무대·객석",
+  "time": "낮",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 은주 시점 컷: 조명 너머 객석이 하얗게 번짐(과노출). 회상 Insert(쪽방 벽 톡톡): 따뜻한 남색 밤, 짧게",
+  "key_hex": "#F3E3C3",
+  "shadow_hex": "#2E2A44",
+  "palette": [
+   "#8C1E2A",
+   "#FAFAF7",
+   "#D9534A",
+   "#F5F5F2"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "소리굽쇠 목걸이 착용. 왼손으로 소리굽쇠를 한 번 쥐었다 놓음"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "검은 연주복(무대)",
+    "note": "지휘봉 끝이 떨리다 멎음. 의상은 characters.json 근거"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "뼈다귀 북 가죽(X선 필름)을 손가락으로 두 번. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복(제일 좋은 옷)",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "객석 한가운데, 무릎 위 손이 주먹"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "제일 좋은 옷(대본 S#16)",
+    "note": "객석 뒤쪽 섬사람 자리, 입을 꾹 다묾. G7 의상 추가 필요: 순례 할머니 외출복('제일 좋은 옷', 대본 S#16) — 꽃무늬 앞치마는 벗어 곱게 접어 손에 듦"
+   },
+   {
+    "id": "extra:객석",
+    "outfit": "넥타이 신사, 부채 든 부인, 교복 학생, 심사위원석",
+    "note": "엑스트라"
+   },
+   {
+    "id": "extra:엄마 한미숙(회상, 얼굴 금지)",
+    "outfit": "회상 Insert — 근거 없음",
+    "note": "어른 여자의 손만, 얼굴 금지"
+   }
+  ],
+  "props": [
+   "무대 위 악기(1초씩): 기름통, 배수관, 페인트 통, 냄비 뚜껑 두 개, 빈 병 여섯 개, 분유 깡통 세 대",
+   "뼈다귀 북(필름에 비친 뼈 그림자)",
+   "「서울매일」 사회면 단신 '쓰레기 밴드'(Insert, 식자)",
+   "지휘봉"
+  ],
+  "sound_color": [
+   "동민 뼈다귀 북 '톡톡' 빨강 #D9534A — 웃음소리가 싹 빠지는 컷, 북 가죽에서 아주 작은 빨간 동심원 두 번. 곡 시작 전 신호이므로 「섬의 하루」 누적 색 개수에는 넣지 않음"
+  ],
+  "mood": "긴장·용기",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #F3E3C3, cel shadows #2E2A44",
+  "continuity": "복선 회수: 벽 두 번 톡톡 = 괜찮아(1화). 엄마는 손만, 얼굴 금지. 태준은 무대 옆 구석에 대기 중(화면에 안 보임). 객석 웃음 → S#20 '새벽'에서 한 줄씩 꺼짐."
+ },
+ {
+  "scene": "3-20",
+  "location": "한빛문화회관 홀 — 무대·객석",
+  "time": "낮, 연속",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 겹침 Insert는 무대 위에 반투명으로: [새벽] 회청색 새벽, 둑길 트럭 불빛 / [아침] 뿌연 베이지 아침 빛, 고물 더미 / [한낮] 칠월 한낮 해, 쓰레기 산 꼭대기 바람",
+  "key_hex": "#D9B44A",
+  "shadow_hex": "#2E2A44",
+  "palette": [
+   "#E8944A",
+   "#F5C04A",
+   "#D9534A",
+   "#4FB3A9"
+  ],
+  "characters": [
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "뚱보 활을 길게. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "피치카토, 한낮엔 웃지 않고 고개만 바람 쪽. 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "따닥-쿵, 반 박 빠름. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "꽥꽥이에 숨만. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복(제일 좋은 옷)",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요. 봉구·영란 깡통 2·3호, 쌍둥이 냄비 뚜껑, 순이·석이 병"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "검은 연주복(무대)",
+    "note": "지휘. 의상은 characters.json 근거"
+   },
+   {
+    "id": "choi",
+    "outfit": "회색 양복·넥타이·서류 봉투",
+    "note": "맨 뒷줄 구석, 손수건 쥔 채 굳음"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "제일 좋은 옷(대본 S#16)",
+    "note": "무릎을 탁 침. G7 의상 추가 필요: 순례 할머니 외출복('제일 좋은 옷', 대본 S#16) — 꽃무늬 앞치마는 벗어 곱게 접어 손에 듦"
+   },
+   {
+    "id": "extra:객석",
+    "outfit": "셋째 줄 어린아이와 엄마 등",
+    "note": "엑스트라"
+   }
+  ],
+  "props": [
+   "뚱보",
+   "동그리(E현 닳은 채)",
+   "깡통 바이올린 2·3호",
+   "뼈다귀 북",
+   "냄비 뚜껑 심벌",
+   "꽥꽥이(깔때기 나팔)",
+   "병 실로폰",
+   "지휘봉"
+  ],
+  "sound_color": [
+   "[1. 새벽] 뚱보 주황 #E8944A — 1색. 기름통에서 낮은 물결 띠가 무대 바닥을 타고 객석으로 기어감(앞줄부터 웃음이 꺼지는 방향과 같이). 여기서 주변 채도 약 60% 낮춤 시작",
+   "[2. 아침] + 동그리 금빛 #F5C04A(피치카토 '동, 동, 챙' — 짧은 점 같은 빛) → 2색, 이어 동민 북 '따닥-쿵' + 빨강 #D9534A → 3색. 주황은 옅은 띠로 남아 누적. 깡통 2·3호·냄비 뚜껑은 2절 표 밖이라 별도 색 없음",
+   "[3. 한낮] + 꽥꽥이 청록 #4FB3A9 → 4색. 병 실로폰·아이들 웃음은 색 없음(표 밖). 네 색 띠가 바람을 따라 무대에서 천장으로 솟구침"
+  ],
+  "mood": "고조",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #D9B44A, cel shadows #2E2A44",
+  "continuity": "본선 색 흐름 1~4색. 최 계장은 2화의 기름통 소리를 기억(회상 Insert). 셋째 줄 아이와 엄마 → S#26. 회상 큰 산 아래 빨간 깃발(1화 S#2). 동그리 E현은 아직 닳은 원래 줄."
+ },
+ {
+  "scene": "3-21",
+  "location": "한빛문화회관 홀 — 무대·객석",
+  "time": "낮, 연속",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 독주부터 조명이 좁아져 은주 하나만 스포트 안(나머지 무대도 어둠). 겹침: 해 질 녘 국밥집 천막(주황 잔광) / 라디오 수리점(세피아, 흐릿) / 노을 진 쓰레기 산 능선",
+  "key_hex": "#D9B44A",
+  "shadow_hex": "#2E2A44",
+  "palette": [
+   "#F5C04A",
+   "#E8944A",
+   "#4FB3A9",
+   "#E9EEF5"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "눈을 감고 독주 → 줄 끊김 → 무대 옆으로 뜀(원피스 자락이 날림). 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "국자로 기름통 테두리 → 활을 눕혀 '부우우우'. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "꽥꽥이 '쉬이이이이'. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "검은 연주복(무대)",
+    "note": "지휘봉 내리지 않음, 왼손으로 허공에 긴 선. 의상은 characters.json 근거"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "의자 팔걸이, 보이지 않는 클라리넷 구멍을 막는 손가락 → 반쯤 일어섬"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복(제일 좋은 옷)",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요"
+   },
+   {
+    "id": "extra:엄마 한미숙(회상, 얼굴 금지)",
+    "outfit": "회상 겹침 — 근거 없음",
+    "note": "라디오 수리점의 젊은 여자 손가락만, 얼굴 금지"
+   }
+  ],
+  "props": [
+   "순례 할머니의 국자",
+   "동그리 — E현(1번 줄) 끊어져 동그르르 말려 올라감(슬로, 극접사)",
+   "뚱보",
+   "꽥꽥이",
+   "지휘봉",
+   "겹침: 라디오 수리점 선반의 라디오들, 은색 소리굽쇠"
+  ],
+  "sound_color": [
+   "[4. 저녁 시작] 국자 '탕, 탕, 탕' — 2절 표 밖, 새 색 없음. 누적 4색 유지",
+   "[독주] 다른 색이 모두 물러나고 동그리 금빛 #F5C04A 하나만, 좁아진 스포트 안에서 가늘게(엄마 라디오 허밍 네 음)",
+   "[겹침 Insert] 라디오 수리점 소리굽쇠 '웅―' 은빛 흰색 #E9EEF5, 세피아 위에 흐릿하게",
+   "[E현 끊김 '팅'] 금빛이 꺼진다 — 완전 무음 1초 동안 소리 색 0(채도 낮춘 화면 그대로, 빛 띠 없음)",
+   "[버팀] 뚱보 주황 #E8944A + 꽥꽥이 청록 #4FB3A9 두 색만, 끝나지 않는 저녁 바람처럼 길게 이어지는 띠"
+  ],
+  "mood": "위기",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, the spotlight narrowing to a single circle at center stage, key color #D9B44A, cel shadows #2E2A44; [flashback] a small 1970s Seoul radio repair shop: shelves crowded with transistor and vacuum-tube radios, a workbench with a soldering iron and small tools, 1970s, daytime, sepia-toned translucent overlay on the stage, soft blurry light, key color #C8A878, cel shadows #4A3A30",
+  "continuity": "라디오 수리점 겹침은 prompt_scene [flashback] 문장 사용, 엄마는 손가락만(얼굴 금지). E현 끊김(동그리 1번 줄). 연주는 멈추지 않음: 덕수·미자가 바람으로 시간을 범. 엄마 얼굴 금지. → S#22 무대 옆 / S#23 무대 교차."
+ },
+ {
+  "scene": "3-22",
+  "location": "한빛문화회관 무대 옆, 커튼 뒤",
+  "time": "낮",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 옆 커튼 뒤 백열 작업등 하나(위, 노란 빛의 원), 커튼 틈으로 무대의 따뜻한 스포트가 한 줄 새어 듦, 나머지는 어둠. 커튼 틈으로 무대 쪽 빛이 깜박임",
+  "key_hex": "#E8C98A",
+  "shadow_hex": "#3E3226",
+  "palette": [
+   "#8C1E2A",
+   "#18181C",
+   "#FAFAF7",
+   "#C8C2B4"
+  ],
+  "characters": [
+   {
+    "id": "taejun",
+    "outfit": "검은 연주복",
+    "note": "이미 케이스를 열고 있음, 새 E현을 내밂"
+   },
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "숨을 몰아쉼. 소리굽쇠를 목에서 들어 무릎에 침. 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "kwak",
+    "outfit": "톱밥 묻은 캔버스 앞치마·팔토시",
+    "note": "굽은 약지·새끼손가락이 빠름(공장 시절 손)"
+   }
+  ],
+  "props": [
+   "태준의 바이올린 케이스(열림)",
+   "동그랗게 감긴 새 E현",
+   "동그리",
+   "끊어진 E현",
+   "포크 줄받침·나무못",
+   "소리굽쇠"
+  ],
+  "sound_color": [
+   "소리굽쇠 '웅―' 은빛 흰색 #E9EEF5 — 은주가 무릎에 쳐서 울리는 '라' 한 음(대본: 무대 쪽 바람 소리 위로 라 한 음이 가늘게 떠오른다). 악기 색은 없음"
+  ],
+  "mood": "연대·긴박",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a thin slit of warm stage spotlight through the curtain gap, the rest in darkness, key color #E8C98A, cel shadows #3E3226",
+  "continuity": "무대 옆은 악기 색 없음, 소리굽쇠 '라'만 은빛 흰색. 태준 E현 → 동그리에 곽 영감이 1분 안에 갈아 끼움. 무대(S#23)와 교차."
+ },
+ {
+  "scene": "3-23",
+  "location": "한빛문화회관 홀 — 무대·객석",
+  "time": "낮",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 은주가 빠진 무대 가운데 스포트는 빈 채, 덕수·미자 쪽만 밝음(추정)",
+  "key_hex": "#D9B44A",
+  "shadow_hex": "#2E2A44",
+  "palette": [
+   "#E8944A",
+   "#4FB3A9",
+   "#C0392F",
+   "#5D7DA8"
+  ],
+  "characters": [
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "이마에 땀, 떨리는 팔로 활을 눕힌 그대로. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "볼이 사과처럼 빨감, 짧게 숨 들이쉼. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "choi",
+    "outfit": "회색 양복·넥타이·서류 봉투",
+    "note": "맨 뒷줄 구석, 볼을 부풀린 채 손수건으로 이마"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "객석 한가운데, 반쯤 일어선 그대로 무대 옆 어둠을 봄"
+   }
+  ],
+  "props": [
+   "뚱보",
+   "꽥꽥이",
+   "손수건"
+  ],
+  "sound_color": [
+   "뚱보 주황 #E8944A + 꽥꽥이 청록 #4FB3A9 — 두 색이 버팀(땀·볼 극접사 컷에도 띠 유지), 금빛 없음"
+  ],
+  "mood": "버팀",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #D9B44A, cel shadows #2E2A44",
+  "continuity": "S#22·S#24(무대 옆, 악기 색 없음·소리굽쇠 은빛만)와 교차. 미자와 최 계장 같은 숨 교차."
+ },
+ {
+  "scene": "3-24",
+  "location": "한빛문화회관 무대 옆, 커튼 뒤",
+  "time": "낮",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 옆 커튼 뒤 백열 작업등 하나(위, 노란 빛의 원), 커튼 틈으로 무대의 따뜻한 스포트가 한 줄 새어 듦, 나머지는 어둠. 태준이 내려가는 컷: 무대 옆 계단에서 객석 어둠으로",
+  "key_hex": "#E8C98A",
+  "shadow_hex": "#3E3226",
+  "palette": [
+   "#8C1E2A",
+   "#18181C",
+   "#FAFAF7",
+   "#C8C2B4"
+  ],
+  "characters": [
+   {
+    "id": "kwak",
+    "outfit": "톱밥 묻은 캔버스 앞치마·팔토시",
+    "note": "새 줄을 튕기며 나무못. 표정 그대로"
+   },
+   {
+    "id": "taejun",
+    "outfit": "검은 연주복",
+    "note": "케이스 닫음, '가.' → 객석 맨 앞줄 끝자리에 소리 없이 앉음"
+   },
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "소리굽쇠 목걸이 착용"
+   }
+  ],
+  "props": [
+   "동그리(새 E현으로 교체 완료)",
+   "나무못",
+   "태준의 바이올린 케이스(닫힘)"
+  ],
+  "sound_color": [
+   "소리굽쇠 은빛 흰색 #E9EEF5 — '라와 미가 떨림 없이 맞물린다' 컷(대본: 주변 소리 빠지고 두 음만 남는다). 은빛 동심원 두 겹이 흔들리다 하나로 겹쳐 멎음. 악기 색은 없음"
+  ],
+  "mood": "연대",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the dim stage wing behind the red velvet curtain, a folding chair, 1988 midsummer July, daytime show indoors, a single bare incandescent work lamp making a small yellow pool of light, a thin slit of warm stage spotlight through the curtain gap, the rest in darkness, key color #E8C98A, cel shadows #3E3226",
+  "continuity": "무대 옆은 악기 색 없음, 라·미 맞물림만 은빛 흰색. 무대 옆 교차 편집 전체 1분 이내. 이후 동그리는 새 E현(태준 것)."
+ },
+ {
+  "scene": "3-25",
+  "location": "한빛문화회관 홀 — 무대·객석",
+  "time": "낮, 연속",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 겹침 몽타주: (1) 쓰레기 산 위의 별, 밤 남색 (2) 판잣집 창문의 노란 불빛 (3) 손전등을 들고 작은 산을 오르는 만석의 등, 손전등 원 하나",
+  "key_hex": "#FFC93C",
+  "shadow_hex": "#2E2A44",
+  "palette": [
+   "#E8944A",
+   "#F5C04A",
+   "#D9534A",
+   "#4FB3A9"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "새 E현, 높은 자리. 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "검은 연주복(무대)",
+    "note": "왼손 주먹 → 첫 박. 의상은 characters.json 근거"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "활과 국자. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복(제일 좋은 옷)",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요"
+   },
+   {
+    "id": "taejun",
+    "outfit": "검은 연주복",
+    "note": "객석 맨 앞줄 끝자리"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "회상 몽타주 3: 2화 S#27 밤, 손전등, 등만"
+   },
+   {
+    "id": "extra:객석",
+    "outfit": "객석 전체",
+    "note": "엑스트라 — 정지한 듯"
+   }
+  ],
+  "props": [
+   "모든 섬 악기",
+   "국자",
+   "동그리 새 E현(맑은 고음)",
+   "지휘봉",
+   "몽타주: 손전등"
+  ],
+  "sound_color": [
+   "[5. 밤] 화면이 처음으로 온전히 색으로 찬다 — 뚱보 주황 #E8944A, 꽥꽥이 청록 #4FB3A9, 뼈다귀 북 빨강 #D9534A, 그리고 맨 위에 새 E현 금빛 #F5C04A(꺼졌던 금빛이 돌아옴, 가장 밝게). 이 씬부터 주변 채도 낮춤을 해제(본선 다섯 부분 중 유일)",
+   "[마지막 음] 금빛 동심원 하나가 홀 천장 조명 사이까지 올라가 머물다 사라짐"
+  ],
+  "mood": "절정",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #FFC93C, cel shadows #2E2A44",
+  "continuity": "본선 색의 정점(4색 + 돌아온 금빛). 범위 판단: 2절 표 '위 색이 모두'를 섬 악기 4색으로 읽음(소리굽쇠 은빛·라디오 연보라·트럭 연청은 넣지 않음 — 확정 필요). 마지막 음이 사라짐 → S#26 완전 무음."
+ },
+ {
+  "scene": "3-26",
+  "location": "한빛문화회관 홀 — 무대·객석",
+  "time": "낮, 연속",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 기립 컷: 일어서는 객석은 무대 스포트의 반사광으로 앞줄부터 뒤로 따뜻하게 밝아짐(추정)",
+  "key_hex": "#FFC93C",
+  "shadow_hex": "#2E2A44",
+  "palette": [
+   "#8C1E2A",
+   "#FAFAF7",
+   "#18181C",
+   "#F3E3C3"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "활을 든 채 서 있음. 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "taejun",
+    "outfit": "검은 연주복",
+    "note": "맨 앞줄 끝자리에서 가장 먼저 기립, 짝 짝 짝"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "제일 좋은 옷(대본 S#16)",
+    "note": "벌떡 일어나 외침. G7 의상 추가 필요: 순례 할머니 외출복('제일 좋은 옷', 대본 S#16) — 꽃무늬 앞치마는 벗어 곱게 접어 손에 듦"
+   },
+   {
+    "id": "extra:섬사람들",
+    "outfit": "외출복(S#16)",
+    "note": "엑스트라"
+   },
+   {
+    "id": "extra:객석",
+    "outfit": "셋째 줄 아이와 엄마, 웃던 사람들",
+    "note": "엑스트라"
+   },
+   {
+    "id": "choi",
+    "outfit": "회색 양복·넥타이·서류 봉투",
+    "note": "맨 뒷줄 구석, 손수건으로 얼굴을 덮음"
+   },
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "박수 없이 앞 의자 등받이를 꽉 쥠. 회상 매치 컷: 리어카 손잡이"
+   }
+  ],
+  "props": [
+   "객석 의자 등받이",
+   "회상: 리어카 손잡이",
+   "손수건"
+  ],
+  "sound_color": [],
+  "mood": "환희",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, key color #FFC93C, cel shadows #2E2A44",
+  "continuity": "S#25 끝 금빛이 사라진 뒤 정적 — 소리 색 없음(박수는 자연색). 태준 가장 먼저 기립(복선 회수). 만석은 박수 대신 등받이."
+ },
+ {
+  "scene": "3-27",
+  "location": "한빛문화회관 홀 — 무대",
+  "time": "낮, 조금 뒤",
+  "date": "1988년 7월 23일(본선 당일)",
+  "season_weather": "한여름, 실내",
+  "light": "무대 위 따뜻한 호박빛 스포트(위·앞에서), 객석은 어둠 속 남색, 무대 나무 바닥에 따뜻한 반사. 시상이라 무대 위 전체가 고르게 밝음(따뜻한 스포트 그대로). 은주 시점 커튼 그늘(곽 영감): 무대 옆 커튼 뒤 백열 작업등 하나(위, 노란 빛의 원), 커튼 틈으로 무대의 따뜻한 스포트가 한 줄 새어 듦, 나머지는 어둠",
+  "key_hex": "#FFC93C",
+  "shadow_hex": "#2E2A44",
+  "palette": [
+   "#18181C",
+   "#FAFAF7",
+   "#C0392F",
+   "#F3E3C3"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "처음으로 활짝 웃음(눈이 접히고 이가 드러남). 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "검은 연주복(무대)",
+    "note": "은주 손을 잡음, 안경에 김. 의상은 characters.json 근거"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "북채로 무릎, 앞니 빠진 입. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "꽥꽥이를 치켜듦. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "뚱보를 끌어안음. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복(제일 좋은 옷)",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요. 쌍둥이 냄비 뚜껑"
+   },
+   {
+    "id": "taejun",
+    "outfit": "검은 연주복",
+    "note": "참가 학교가 무대에 나란히 — 다솜중 줄에 섬(대본 '다솜중 단원들은 반듯하게', S#26 객석에서 무대로 올라온 것으로 추정)"
+   },
+   {
+    "id": "extra:다솜중 단원",
+    "outfit": "검은 연주복",
+    "note": "다솜중 단원, 반듯한 줄"
+   },
+   {
+    "id": "kwak",
+    "outfit": "톱밥 묻은 캔버스 앞치마·팔토시",
+    "note": "무대 옆 커튼 그늘, 웃지 않고 굽은 손 엄지 하나"
+   },
+   {
+    "id": "extra:사회자·진행 요원",
+    "outfit": "대본 근거 없음",
+    "note": "사회자·진행 요원. characters.json 미등록 — G7 디자인 필요"
+   },
+   {
+    "id": "extra:섬사람들",
+    "outfit": "외출복(S#16)",
+    "note": "객석 뒤, 일제히 펄쩍"
+   }
+  ],
+  "props": [
+   "봉투(사회자)",
+   "마이크",
+   "꽥꽥이",
+   "뚱보",
+   "냄비 뚜껑",
+   "북채"
+  ],
+  "sound_color": [],
+  "mood": "환희",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the wooden stage and the dark rows of audience seats, 1988 midsummer July, daytime show indoors, warm amber spotlights from above and front on the stage, the audience seats in deep navy darkness, warm reflections on the wooden stage floor, the whole stage evenly lit for the award ceremony, key color #FFC93C, cel shadows #2E2A44",
+  "continuity": "대상: 갈대섬. 열세 살 은주의 처음이자 유일한 활짝 웃음(style_guide 1절). 곽 영감은 웃지 않음(엄지)."
+ },
+ {
+  "scene": "3-28",
+  "location": "한빛문화회관 로비",
+  "time": "늦은 오후",
+  "date": "1988년 7월 23일(본선 당일), 늦은 오후",
+  "season_weather": "한여름, 맑음, 실내(로비)",
+  "light": "유리문으로 드는 늦은 오후의 낮은 햇빛(서쪽, 추정), 테라초 바닥 반사, 카메라 플래시의 순간 흰 섬광",
+  "key_hex": "#F0CF85",
+  "shadow_hex": "#6A5038",
+  "palette": [
+   "#FAFAF7",
+   "#18181C",
+   "#E8C46A",
+   "#C0392F"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "taejun",
+    "outfit": "검은 연주복",
+    "note": "바이올린 케이스, 눈을 비빔. 손끝이 이번엔 떨리지 않음"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복(제일 좋은 옷)",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요. 상장을 돌려 봄"
+   }
+  ],
+  "props": [
+   "동그리 — 새 E현이 혼자 반짝",
+   "상장",
+   "꽃다발",
+   "카메라(플래시)",
+   "태준 바이올린 케이스"
+  ],
+  "sound_color": [],
+  "mood": "인정",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the crowded terrazzo lobby behind the glass doors, 1988 midsummer July, late afternoon, low warm sunlight slanting through the glass doors, reflections on the terrazzo floor, occasional white camera flashes, key color #F0CF85, cel shadows #6A5038",
+  "continuity": "새 E현은 은주가 가짐('그건 가져'). 태준 손끝 극접사는 S#18과 같은 크기. 다음 이중주 약속 → S#34 태준."
+ },
+ {
+  "scene": "3-29",
+  "location": "한빛문화회관 앞 계단",
+  "time": "저녁, 해 질 녘",
+  "date": "1988년 7월 23일(본선 당일), 해 질 녘",
+  "season_weather": "한여름, 맑음, 저녁",
+  "light": "해 질 녘 낮은 해, 광장 쪽(만석 뒤)에서 — 만석의 그림자가 계단 위까지 길게, 주황 금빛 역광",
+  "key_hex": "#F7B955",
+  "shadow_hex": "#6E4A3A",
+  "palette": [
+   "#E8853A",
+   "#FAFAF7",
+   "#5B6145",
+   "#B5546A"
+  ],
+  "characters": [
+   {
+    "id": "manseok",
+    "outfit": "낡은 야전상의·목수건·고무장화",
+    "note": "야전상의 주머니 속 전당표를 쥐었다 놓음. 소리 없이 어깨로 웃음, 은주 머리 위 손"
+   },
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "동그리를 안고 계단을 내려옴, 고무줄 묶은 머리. 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "제일 좋은 옷(대본 S#16)",
+    "note": "버스 앞에서 국자를 흔듦. G7 의상 추가 필요: 순례 할머니 외출복('제일 좋은 옷', 대본 S#16) — 꽃무늬 앞치마는 벗어 곱게 접어 손에 듦"
+   },
+   {
+    "id": "choi",
+    "outfit": "회색 양복·넥타이·서류 봉투",
+    "note": "서류 봉투를 가슴에, 손수건"
+   },
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "최 계장 소매를 끎. 본선 무대 차림 대본 명시 없음 → 기본 의상(2화 예선 소설: '제일 좋은 옷', 덕수는 체크 남방 단추를 목까지). G7 의상 추가 필요: 본선 섬 아이들 무대 차림"
+   },
+   {
+    "id": "extra:섬사람들",
+    "outfit": "외출복(S#16)",
+    "note": "엑스트라"
+   }
+  ],
+  "props": [
+   "동그리",
+   "전당표(Insert, 주머니 속)",
+   "낡은 전세 버스",
+   "국자"
+  ],
+  "sound_color": [],
+  "mood": "화해",
+  "prompt_scene": "the fictional Hanbit Cultural Center, a 1980s concert hall: concrete facade with wide steps, a lobby with terrazzo floor, a backstage corridor, red velvet stage curtains, wooden stage, rows of red audience seats, view: the sunlit front plaza and the wide concrete steps, 1988 midsummer July, sunset, low golden-orange sun behind the plaza, long shadows stretching up the steps, warm backlight, key color #F7B955, cel shadows #6E4A3A",
+  "continuity": "전당표 → S#33 회수. 만석 '반 박 빨랐다'(바이블 대표 대사). 버스 → S#30."
+ },
+ {
+  "scene": "3-30",
+  "location": "둑길",
+  "time": "저녁, 노을",
+  "date": "1988년 7월 23일(본선 당일), 노을",
+  "season_weather": "한여름, 맑음, 저녁노을",
+  "light": "노을, 낮은 해는 강 쪽(서쪽, 추정), 하늘 주황 → 보라 그러데이션, 판잣집 지붕 위 저녁연기, 큰 산·작은 산은 실루엣",
+  "key_hex": "#E8853A",
+  "shadow_hex": "#4A3448",
+  "palette": [
+   "#F7B955",
+   "#7A5C8C",
+   "#C99A62",
+   "#5E7F99"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "빌린 흰 원피스(무대)",
+    "note": "버스 창에 이마. 같은 날이라 흰 원피스(추정). 소리굽쇠 목걸이 착용"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "은주 어깨에 기대 잠듦"
+   }
+  ],
+  "props": [
+   "낡은 전세 버스",
+   "동그리(은주 무릎 위)"
+  ],
+  "sound_color": [],
+  "mood": "여운",
+  "prompt_scene": "the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, the two flat-topped trash hills of the island silhouetted across the water, 1988 midsummer July, sunset afterglow, low sun on the river side, orange-to-violet gradient sky, thin evening smoke rising above the shack roofs, key color #E8853A, cel shadows #4A3448",
+  "continuity": "S#31과 같은 구도(둑길 고정 와이드, 지평선 높이·카메라 위치·두 산 위치 동일) — 디졸브로 2003년 봄. 섬의 마지막 여름."
+ },
+ {
+  "scene": "3-31",
+  "location": "푸른 언덕 공원",
+  "time": "낮, 2003년 봄",
+  "date": "2003년 봄(대본), 월 미상",
+  "season_weather": "봄, 맑음, 산들바람",
+  "light": "봄 한낮 맑은 햇빛(위·왼쪽), 처음으로 뿌옇지 않은 맑은 파란 하늘, 화면 전체 자연색으로 밝음",
+  "key_hex": "#7FB77E",
+  "shadow_hex": "#3F5A6A",
+  "palette": [
+   "#A9D3E8",
+   "#C8E6A0",
+   "#E8E4A0",
+   "#FFF8EA"
+  ],
+  "characters": [],
+  "props": [
+   "언덕 비탈 현수막 '푸른 언덕 공원 개장 음악회'(글씨 식자)"
+  ],
+  "sound_color": [],
+  "mood": "희망",
+  "prompt_scene": "a green hilltop park built over the old landfill, grass and wildflowers, a walking path, a small outdoor stage, the Han River and a 2003 Seoul skyline, seen from the old embankment road now a wide walking path, two green hills across the water, 2003 spring, midday, clear bright blue sky, soft sunlight from the upper left, low spring grass, a zigzag stairway up the hill, key color #7FB77E, cel shadows #3F5A6A",
+  "continuity": "S#30과 같은 구도(디졸브). 에필로그는 소리 색 규칙 없이 화면 전체 자연색으로 밝음. 고증: 봄이라 억새 이삭 없음, 풍력발전기·골프장 그리지 않음(2003년 존재 미확인), 지그재그 계단 있음."
+ },
+ {
+  "scene": "3-32",
+  "location": "몽타주 — 섬이 언덕이 되기까지",
+  "time": "1988년 가을 ~ 2003년",
+  "date": "1988년 가을 ~ 2003년 봄",
+  "season_weather": "(1~5) 1988년 가을, 맑음 → (6) 몇 해 뒤(1990년대 초, 추정) → (7) 계절이 빠르게 → (8) 2003년 봄",
+  "light": "(1) 1988 가을 둑길: 맑은 가을 오전, 뿌연 베이지 하늘 / (2~3) 임대주택 골목: 가을 낮, 부드러운 빛 / (4) 학교 교문: 가을 아침 햇빛 / (5) 빈 섬: 흐린 낮, 회갈 / (6) 흙 덮임: 흐린 낮, 흙빛 / (7) 첫 싹: 같은 구도, 빛이 계절마다 바뀜 / (8) 푸른 언덕: 2003 봄 맑은 한낮",
+  "key_hex": "#7FB77E",
+  "shadow_hex": "#3F5A6A",
+  "palette": [
+   "#C99A62",
+   "#8C8F94",
+   "#C8E6A0",
+   "#A9D3E8"
+  ],
+  "characters": [
+   {
+    "id": "extra:섬사람들",
+    "outfit": "대본 근거 없음 — 섬사람 평상복(가을)",
+    "note": "엑스트라, 이삿짐"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "몸뻬 바지·꽃무늬 앞치마",
+    "note": "옆집 창문에 손을 흔듦(2)"
+   },
+   {
+    "id": "choi",
+    "outfit": "회색 양복·넥타이·서류 봉투",
+    "note": "이주 명단에 표시, 손수건(3)"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "같은 학교 교문(4). G7 의상 추가 필요: 1988년 가을 차림(근거 없음, 기본 의상 + 가을 겉옷 제안)"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "늘어난 흰 러닝셔츠 위 체크 남방",
+    "note": "같은 학교 교문(4)"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복(가을)",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요"
+   }
+  ],
+  "props": [
+   "이삿짐 실은 트럭들",
+   "이주 명단·서류 봉투",
+   "흙 덮는 장비(6, 추정)"
+  ],
+  "sound_color": [],
+  "mood": "희망",
+  "prompt_scene": "[1] the narrow earthen embankment road leading into the island, reeds on both sides, a cluster of shacks at the island entrance, 1988 autumn, morning, clear autumn light, hazy beige sky, key color #C99A62, cel shadows #5A4A3C; [2-3] a narrow alley between new low-rise public rental apartment blocks in late-1980s Seoul, rows of identical windows, a concrete alley entrance, 1988 autumn, daytime, soft autumn light, key color #D8C8A8, cel shadows #4A4A6E; [4] a late-1980s Seoul elementary school front gate: an iron gate between concrete posts, a dirt schoolyard and a three-story school building behind, 1988 autumn, morning, bright morning sunlight, key color #E8D6A0, cel shadows #4A4A6E; [5-6] the same island after landfill closure: the two flat-topped hills covered with fresh soil, no trash visible, first green sprouts and grass on the terraced slopes, the embankment road, the Han River, the cleared ground where the shacks stood, no people, late 1980s to early 1990s, overcast daytime, flat gray light, key color #8C8F94, cel shadows #4A4258; [7] the same island after landfill closure: the two flat-topped hills covered with fresh soil, no trash visible, first green sprouts and grass on the terraced slopes, the embankment road, the Han River, 1990s, seasons passing quickly in the same framing, green spreading over the soil, soft daylight, key color #A8C88A, cel shadows #3F5A6A; [8] a green hilltop park built over the old landfill, grass and wildflowers, a walking path, a small outdoor stage, the Han River and a 2003 Seoul skyline, 2003 spring, midday, clear bright blue sky, low spring grass, key color #7FB77E, cel shadows #3F5A6A",
+  "continuity": "1~6은 탁한 섬 색, 7~8에서 초록으로 넘어감. 5는 사람 없는 풍경만. M: 잔잔한 깡통 합주는 배경 음악 — 에필로그는 소리 색 규칙을 쓰지 않음(지시). 최 계장 보고서 내용(S#12) 그대로 실행."
+ },
+ {
+  "scene": "3-33",
+  "location": "회상 — 만복전당포",
+  "time": "1988년 여름, 낮",
+  "date": "1988년 여름, 본선 직후 7월 말~8월(추정)",
+  "season_weather": "한여름, 낮, 실내",
+  "light": "누런 형광등(위), 문이 열릴 때 바깥 여름 낮 빛이 한 줄",
+  "key_hex": "#B9A86A",
+  "shadow_hex": "#5A4A30",
+  "palette": [
+   "#E8D68A",
+   "#C0392F",
+   "#3A3A34",
+   "#C9C3B6"
+  ],
+  "characters": [
+   {
+    "id": "mija",
+    "outfit": "빨간 트레이닝 상의",
+    "note": "'찾을 돈' 깡통을 뒤집음. G7 의상 추가 필요: 여름엔 빨간 트레이닝 상의 소매 걷음 또는 빨간 반소매(근거 없음, 제안 — 빨강은 유지)"
+   },
+   {
+    "id": "extra:섬 아이들(봉구·영란·경호·경민·순이·석이)",
+    "outfit": "섬 아이들 평상복",
+    "note": "봉구·영란·쌍둥이 경호·경민·순이·석이(3화 S#9 합류). characters.json 미등록 — G7 디자인 필요. 덕수·동민 등 포함(대본 '섬 아이들')"
+   },
+   {
+    "id": "extra:전당포 주인",
+    "outfit": "대본 근거 없음",
+    "note": "전당포 주인(화면에 나오면). characters.json 미등록 — 2화 S#8과 같은 인물로 G7 디자인 필요"
+   }
+  ],
+  "props": [
+   "'찾을 돈' 분유 깡통",
+   "와르르 쏟아지는 동전(실제 화폐 도안 금지)",
+   "먼지 쌓인 클라리넷 케이스와 바이올린 케이스(나란히)",
+   "계산대·주판",
+   "문 종(딸랑)"
+  ],
+  "sound_color": [],
+  "mood": "연대·회상",
+  "prompt_scene": "a narrow 1980s pawnshop: glass display cases with watches, gold rings and cameras, a yellowed fluorescent light, an abacus on the counter, 1988 midsummer, daytime, yellowed fluorescent light from above, a strip of bright summer daylight from the opened door, key color #B9A86A, cel shadows #5A4A30",
+  "continuity": "날짜는 continuity '본선 직후' 기준. 에필로그 안의 회상이라 '에필로그 자연색으로 밝음'의 예외 — 1980년대 누런 형광등 유지. S#11 깡통 회수, S#10 '우리 둘 다 거기 맡긴 게 있죠' 회수. 클라리넷은 곽 영감이 고쳐 S#34에서 연주."
+ },
+ {
+  "scene": "3-34",
+  "location": "푸른 언덕 공원 꼭대기, 작은 무대",
+  "time": "낮, 2003년 봄",
+  "date": "2003년 봄(대본), 월 미상",
+  "season_weather": "봄, 맑음, 산들바람",
+  "light": "봄 한낮, 하늘을 넓게, 해는 위·뒤쪽(추정) — 무대에 짙은 그늘 없음, 언덕 아래 강물 반짝임. 화면 전체 자연색으로 밝음. 회상 Insert(쪽방, 소리 없이): 1987년 밤 남색",
+  "key_hex": "#7FB77E",
+  "shadow_hex": "#3F5A6A",
+  "palette": [
+   "#A9D3E8",
+   "#F3E9C8",
+   "#E8E4A0",
+   "#B9A7D9"
+  ],
+  "characters": [
+   {
+    "id": "eunju",
+    "outfit": "대본 근거 없음(무대 의상)",
+    "note": "28세, 바이올리니스트. 긴 머리를 여전히 고무줄 하나로 낮게(대본). 소리굽쇠 목걸이 착용. G7 의상 추가 필요: 2003년 어른 모습(연주 의상)"
+   },
+   {
+    "id": "manseok",
+    "outfit": "대본 근거 없음",
+    "note": "56세, 머리가 하얗게 셈(대본), 클라리넷. G7 의상 추가 필요: 2003년 어른 모습"
+   },
+   {
+    "id": "kwak",
+    "outfit": "대본 근거 없음",
+    "note": "여든 넘음, 등이 꼿꼿, 귀에 여전히 연필(대본). G7 의상 추가 필요: 2003년 어른 모습"
+   },
+   {
+    "id": "seonyoung",
+    "outfit": "단정한 정장(대본)",
+    "note": "38세 중학교 음악 교사, 안경 고쳐 씀. G7 의상 추가 필요: 2003년 어른 모습(정장)"
+   },
+   {
+    "id": "mija",
+    "outfit": "트레이닝복·목에 호루라기·겨드랑이에 출석부(대본)",
+    "note": "29세 중학교 체육 교사, 옆 빈 의자까지 차지. G7 의상 추가 필요: 2003년 어른 모습"
+   },
+   {
+    "id": "deoksu",
+    "outfit": "순례 할머니의 꽃무늬 앞치마(대본)",
+    "note": "27세, 국밥집을 이어받음, 무릎 위 큰 냄비(김). G7 의상 추가 필요: 2003년 어른 모습"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "대본 근거 없음",
+    "note": "24세 타악기 연주자, 무릎에 북채. G7 의상 추가 필요: 2003년 어른 모습"
+   },
+   {
+    "id": "taejun",
+    "outfit": "대본 근거 없음",
+    "note": "29세, 팔짱, 은주의 이중주 친구. G7 의상 추가 필요: 2003년 어른 모습"
+   },
+   {
+    "id": "choi",
+    "outfit": "넥타이 없는 회색 양복(대본)",
+    "note": "61세 최 전 계장, 손수건을 미리 쥠. G7 의상 추가 필요: 2003년 어른 모습"
+   },
+   {
+    "id": "sunrye",
+    "outfit": "대본 근거 없음",
+    "note": "허리가 더 굽음(대본). G7 의상 추가 필요: 2003년 어른 모습"
+   },
+   {
+    "id": "extra:선영의 학생들",
+    "outfit": "교복(대본)",
+    "note": "뒷줄 중학생 몇(선영의 학생), 엑스트라"
+   },
+   {
+    "id": "dongmin",
+    "outfit": "물려받은 큰 운동복",
+    "note": "회상 Insert(1화 쪽방): 아홉 살 동민, 이불을 둘둘 만 채"
+   }
+  ],
+  "props": [
+   "동그리(몸통 여기저기 찌그러짐, 나무 숟가락 목은 손때로 까맘)",
+   "은색 소리굽쇠 목걸이",
+   "은주의 진짜 바이올린 케이스(무대 뒤 받침대, 여러 도시 공연장 꼬리표 — 글씨 식자)",
+   "클라리넷(새로 맞춘 패드, 반들반들한 키)",
+   "엄마의 라디오(무대 한쪽 의자 위, 고장 난 채)",
+   "현수막 '공원 개장 음악회 — 바이올린 하은주 · 클라리넷 하만석'(식자)",
+   "작은 나무 무대·접이식 의자",
+   "호루라기·출석부",
+   "큰 냄비",
+   "북채",
+   "손수건"
+  ],
+  "sound_color": [
+   "엄마의 라디오 허밍 연보라 #B9A7D9 — 마지막, '주변 소리 모두 빠지고 라디오의 허밍만 남는다' 컷. 라디오 스피커에서 가는 연보라 동심원만 퍼지고, 주변 채도는 낮추지 않음(에필로그: 화면 전체 자연색으로 밝음)"
+  ],
+  "mood": "희망·평화",
+  "prompt_scene": "a green hilltop park built over the old landfill, grass and wildflowers, a walking path, a small outdoor stage, the Han River and a 2003 Seoul skyline, the small wooden outdoor stage on the hilltop with rows of folding chairs, 2003 spring, midday, wide clear bright blue sky, sunlight from above and behind, the Han River glittering below the hill, low spring grass and wildflowers, key color #7FB77E, cel shadows #3F5A6A",
+  "continuity": "소리굽쇠 '라'·동그리와 클라리넷 이중주(M:)·흙 아래 섬의 소리(SE)는 소리 색 없이 자연색(지시: 에필로그는 규칙 없이 밝음). 마지막 라디오 허밍만 연보라. 만석 박자 여전히 반 박 빠름. 곽 영감이 고개를 왼쪽으로 기울임(은주처럼). 어른 은주의 활짝 웃음은 style_guide 1절이 허용. 고증: 억새 이삭·풍차·골프장 없음."
+ }
+]
