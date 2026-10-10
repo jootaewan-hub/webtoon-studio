@@ -2,6 +2,7 @@
 
   python tools/direction_scenes.py skeleton   → story/direction_parts/ep1~3.md (판단 칸은 '…'로 비워 둠)
   python tools/direction_scenes.py merge      → story/direction.md 2부를 ep1~3.md로 채움
+  python tools/direction_scenes.py refresh    → 2부의 '사실' 줄만 콘티·프리셋에서 다시 뽑아 바꿈(판단 줄 보존)
   python tools/direction_scenes.py check      → 2부 점검(빈 칸, 장면 범위 밖 컷 번호, 무음 칸 위치, 사실 줄 변경)
   python tools/direction_scenes.py sfx        → story/sfx_list.md 부록(전수 목록)을 다시 만들고 표기를 점검
 
@@ -216,5 +217,33 @@ def check():
     return 1 if probs else 0
 
 
+def refresh():
+    import tempfile
+    global PARTS
+    keep, tmp = PARTS, Path(tempfile.mkdtemp())
+    PARTS = tmp
+    skeleton()
+    PARTS = keep
+    changed = 0
+    for f in sorted(keep.glob("ep*.md")):
+        fresh = {}
+        for blk in re.split(r"^(?=### )", (tmp / f.name).read_text(encoding="utf-8"), flags=re.M):
+            m = re.match(r"### .*", blk)
+            if m:
+                fresh[m.group(0)] = [l for l in blk.splitlines() if l.startswith("- 사실:")]
+        out = []
+        for blk in re.split(r"^(?=### )", f.read_text(encoding="utf-8"), flags=re.M):
+            m = re.match(r"### .*", blk)
+            if m:
+                lines = blk.split("\n")
+                facts = iter(fresh[m.group(0)])
+                new = [next(facts) if l.startswith("- 사실:") else l for l in lines]
+                changed += sum(x != y for x, y in zip(lines, new))
+                blk = "\n".join(new)
+            out.append(blk)
+        f.write_text("".join(out), encoding="utf-8")
+    print(f"사실 줄 {changed}개 갱신")
+
+
 if __name__ == "__main__":
-    {"skeleton": skeleton, "merge": merge, "sfx": sfx, "check": check}[sys.argv[1] if len(sys.argv) > 1 else "skeleton"]()
+    {"skeleton": skeleton, "merge": merge, "sfx": sfx, "check": check, "refresh": refresh}[sys.argv[1] if len(sys.argv) > 1 else "skeleton"]()
