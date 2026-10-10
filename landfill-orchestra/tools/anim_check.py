@@ -51,6 +51,26 @@ def script_lengths():
     return out
 
 
+def script_transitions():
+    """대본 장면 끝 전환(CUT TO / DISSOLVE TO / F.O.)."""
+    t = (ROOT / "story" / "script.md").read_text(encoding="utf-8")
+    out, ep, cur = {}, None, None
+    for line in t.splitlines():
+        m = re.match(r"^#{2,3} (\d)화", line)
+        if m:
+            ep = m.group(1)
+        m = re.match(r"^S#(\d+)\.", line)
+        if m:
+            cur = int(m.group(1))
+        m = re.match(r"^\s{10,}(CUT TO|DISSOLVE TO|F\.O\.)\s*$", line)
+        if m and ep and cur:
+            out[(ep, cur)] = m.group(1)
+    return out
+
+
+TR_WORD = {"CUT TO": "컷", "DISSOLVE TO": "디졸브", "F.O.": "F.O"}
+
+
 def cut_ranges():
     cuts = json.loads((ROOT / "storyboard" / "data" / "cuts.json").read_text(encoding="utf-8"))
     rng = {}
@@ -96,6 +116,7 @@ def parse(files):
 
 def check(files, full):
     budgets = script_lengths()
+    trans = script_transitions()
     rng, all_cuts = cut_ranges()
     scenes = parse(files)
     errs, warns, used = [], [], set()
@@ -135,6 +156,11 @@ def check(files, full):
                 if int(lm.group(2)) != round(secs * FPS):
                     errs.append(f"{sc['file']}:{ln} {c[0]} 프레임 {lm.group(2)} ≠ {secs}×24={round(secs * FPS)}")
             total += secs
+            if secs:
+                fmax = round(secs * FPS)
+                over = [int(x) for col in (c[4], c[5], c[6], c[7], c[8]) for x in re.findall(r"\bf(\d+)", col) if int(x) > fmax]
+                if over:
+                    warns.append(f"{sc['file']}:{ln} {c[0]} 프레임 번호 f{max(over)}가 샷 길이 {fmax}f를 넘음")
             if not c[1].startswith("—"):
                 for cid in re.findall(r"\d-\d{3}", c[1]):
                     used.add(cid)
@@ -148,6 +174,14 @@ def check(files, full):
                 if secs and secs + 1e-6 < need:
                     warns.append(f"{sc['file']}:{ln} {c[0]} {secs}초 < 대사 필요 {need:.1f}초")
             dlg_cells.append(norm(dl))
+        good = [sh["cells"] for sh in sc["shots"] if len(sh["cells"]) == 10]
+        if good:
+            first, last = good[0][9], good[-1][9]
+            if re.search(r"앞 장면|에서\)|^F\.I", first) and len(good) > 1:
+                errs.append(f"{where}: 첫 샷 전환 칸에 들어오는 전환 '{first[:30]}' (전환 칸은 나가는 전환)")
+            want = TR_WORD.get(trans.get((ep, sn), ""), "")
+            if want and want.replace(".", "") not in last.replace(".", ""):
+                errs.append(f"{where}: 마지막 샷 전환 '{last[:20]}' ≠ 대본 {trans[(ep, sn)]}")
         sc["total"] = total
         b = sc["budget"]
         if b and abs(total - b) > b * TOL:
