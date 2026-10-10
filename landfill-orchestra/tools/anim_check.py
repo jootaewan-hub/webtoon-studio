@@ -156,10 +156,20 @@ def check(files, full):
         totals[ep][0] += total
         totals[ep][1] += b
         joined = "".join(dlg_cells)
-        for _, who, txt in script_lines(int(ep), sn, sn):
-            n = joined.count(norm(txt))
-            if n != 1:
-                errs.append(f"{where}: 대본 대사 {'누락' if n == 0 else f'{n}번 중복'} — {who}: {txt[:30]}")
+        lines = script_lines(int(ep), sn, sn)
+        script_joined = "".join(norm(t) for _, _, t in lines)
+        seen = set()
+        for _, who, txt in lines:
+            key = norm(txt)
+            if key in seen:
+                continue
+            seen.add(key)
+            want = script_joined.count(key)  # 대본에 같은 줄이 여러 번이거나 다른 줄 속에 들어 있는 경우까지
+            n = joined.count(key)
+            if n < want:
+                errs.append(f"{where}: 대본 대사 누락({n}/{want}) — {who}: {txt[:30]}")
+            elif n > want:
+                errs.append(f"{where}: 대본 대사 {n}번(대본 {want}번) — {who}: {txt[:30]}")
     if full:
         miss = [c for c in all_cuts if c not in used]
         if miss:
