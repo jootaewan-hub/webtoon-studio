@@ -241,7 +241,7 @@ def build():
             "이 파일은 `python3 tools/anim_check.py build`가 `anim/parts/`를 합쳐 만든다. 고칠 때는 조각을 고친다.", "",
             "## 길이표", "", "| 화 | 장면 | 샷 | 길이 | 대본 |", "|---|---|---|---|---|"]
     body, cues = [], ["# 사운드 큐 시트 — 깡통 바이올린 (G11)", "",
-                      "`anim/storyboard_anim.md`에서 기계로 뽑았다. 타임코드는 화마다 00:00:00:00에서 시작(24fps). SFX 표기는 `story/sfx_list.md`, 사운드 처리는 부록의 '애니/쇼츠 사운드 큐' 칸을 따른다.", ""]
+                      "`anim/storyboard_anim.md`에서 기계로 뽑았다. 타임코드는 화마다 00:00:00:00에서 시작(24fps)하고, 샷 길이를 컷 편집처럼 그대로 이어 더한 값이다. 디졸브(매치 디졸브 72f 등) 겹침은 빼지 않았으므로 실제 편집 타임라인과 그 겹침만큼 어긋날 수 있다. SFX 표기는 `story/sfx_list.md`, 사운드 처리는 부록의 '애니/쇼츠 사운드 큐' 칸을 따른다.", ""]
     ep_t = {}
     cur_ep = None
     for s in scenes:
@@ -265,9 +265,22 @@ def build():
         body.append("")
     tot = sum(ep_t.values())
     head.append(f"| 합계 | | {sum(len(s['shots']) for s in scenes)} | {tot / 60:.1f}분 | {sum(s['budget'] for s in scenes) / 60:.1f}분 |")
+    cmap = {}
+    for s_ in scenes:
+        for sh in s_["shots"]:
+            c = sh["cells"]
+            for cid in re.findall(r"\d-\d{3}", c[1]):
+                cmap.setdefault(cid, []).append((c[0], float(LEN_RE.match(c[2]).group(1))))
+    cs = ["# 웹툰 컷 → 애니 샷 대응표 (G11)", "",
+          "`python3 tools/anim_check.py build`가 만든다. 웹툰 컷 하나가 어느 애니 샷으로 풀렸는지 본다. 킷의 `storyboard/outputs/anim/`(컷당 1샷 요약)은 참고용이고, 애니 콘티 정본은 `anim/storyboard_anim.md`다.", "",
+          "| 웹툰 컷 | 샷 수 | 길이 합 | 애니 샷 |", "|---|---|---|---|"]
+    for cid in sorted(cmap, key=lambda x: (x[0], int(x[2:]))):
+        v = cmap[cid]
+        cs.append(f"| {cid} | {len(v)} | {sum(t for _, t in v):.1f}초 | {', '.join(i for i, _ in v)} |")
+    (ROOT / "anim" / "cut_shots.md").write_text("\n".join(cs) + "\n", encoding="utf-8")
     (ROOT / "anim" / "storyboard_anim.md").write_text("\n".join(head + body) + "\n", encoding="utf-8")
     (ROOT / "anim" / "sound_cues.md").write_text("\n".join(cues) + "\n", encoding="utf-8")
-    print(f"→ anim/storyboard_anim.md, anim/sound_cues.md (총 {tot / 60:.1f}분)")
+    print(f"→ anim/storyboard_anim.md, anim/sound_cues.md, anim/cut_shots.md (총 {tot / 60:.1f}분)")
     return 0
 
 
