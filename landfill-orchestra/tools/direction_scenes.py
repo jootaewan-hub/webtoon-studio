@@ -109,6 +109,35 @@ def merge():
     print(f"→ {d} (빈 판단 칸 '…' {left}개)")
 
 
+# 부록 '글꼴·크기'와 '사운드 큐' 칸(sfx_list 1·2절, direction 1부 4·9절에서 기계로 뽑음)
+HUMAN = re.compile(r"하하|허허|흐흐|킥|큭|깔깔|키득|피식|풉|와아|와하|와르르\(웃음|짝|헉|후―|후우|하아|흡|흐읍|흥|훌쩍|쌔근|들숨|웅얼|웅성|술렁|와글|으앙|저벅|쩍|철벅|뽀득|타다닥|빠라바밤")
+AMBI = re.compile(r"쏴아|부르릉|털털|그르르|펄럭|맴맴|짹짹|까악|윙|웅웅|치익|투둑|사르륵|바람")
+SIGN_CUE = {"리어카": "리어카 자산(왼쪽 바퀴 반 박자 늦음)", "국자": "국자 자산(세 번=모이라, 두 번=주목)",
+            "벽": "합판 벽 두 번(손마디)", "라디오": "고장 난 라디오 지직 자산", "문": "문 두드림 두 번, 아주 멀리",
+            "소리굽쇠": "소리굽쇠 A440 자산"}
+
+
+def cols(tr, text, label):
+    small = label == "(작게)"
+    only_desc = text.startswith("(") and text.endswith(")")
+    if tr == "①":
+        hexm = re.search(r"#[0-9A-Fa-f]{6}", label)
+        font = "글자 없음, 소리 색 띠·음표" if only_desc else ("Nanum Pen" if small or len(bare(text)) <= 2 else "Gaegu Bold")
+        size = "" if only_desc else " 25~45%"
+        return f"{font}{size} · {hexm.group(0) if hexm else ''}", "덕킹 -15dB 0.5초 + 그 소리만" + (" (음악 큐)" if only_desc else "")
+    if tr == "②":
+        name = next(n for n, rx in SIGN if rx.search(bare(text)))
+        return f"Nanum Pen {'15' if small else '15~25'}% · 진갈색(서명 모양)", SIGN_CUE[name]
+    if only_desc:
+        return "글자 없음, 음표 장식", "음악 큐(" + text.strip("()")[:24] + ")"
+    t = bare(text)
+    human, ambi = HUMAN.search(t), AMBI.search(t)
+    color = "회갈색" if (human or ambi) else "진갈색"
+    font = "Gaegu Regular" if (human or ambi) else ("Gaegu Bold" if "!" in t else "Nanum Pen")
+    cue = "폴리(사람)" if human else ("앰비언스" if ambi else "폴리(사물)")
+    return f"{font} {'8' if small else '8~15'}% · {color}", cue
+
+
 def sfx():
     """효과음 전수 목록(부록)과 표기 점검. 부록은 sfx_list.md의 표시 줄 아래를 통째로 바꾼다."""
     cuts = json.loads((ROOT / "storyboard" / "data" / "cuts.json").read_text(encoding="utf-8"))
@@ -130,9 +159,11 @@ def sfx():
                 probs.append(f"{c['id']} '{t}': 괄호는 맨 앞(출처) 또는 맨 끝(뜻풀이)")
             if "덜컹" in t and "끼익" in t and not re.search(r"끼익,? ?덜컹", t):
                 probs.append(f"{c['id']} '{t}': 리어카 서명은 '끼익, 덜컹'")
-    out = ["", "| 위계 | 소리 글자 | 표시 | 컷 수 | 컷 |", "|---|---|---|---|---|"]
+    out = ["", "글꼴·크기와 사운드 큐는 위계·표시·소리 종류에서 규칙으로 뽑은 기본값이다(사람 소리·앰비언스는 글자 목록으로 가림). 장면별 예외(조롱 웃음 25%, 2-090 5%, ③ 상한 등)는 1~4절과 연출 노트 2부가 우선한다.", "",
+           "| 위계 | 소리 글자 | 표시 | 글꼴·크기·색 | 애니/쇼츠 사운드 큐 | 컷 수 | 컷 |", "|---|---|---|---|---|---|---|"]
     for (tr, t, label), ids in sorted(rows.items(), key=lambda kv: (kv[0][0], kv[1][0])):
-        out.append(f"| {tr} | {t} | {label} | {len(ids)} | {', '.join(dict.fromkeys(ids))} |")
+        f_, cue = cols(tr, t, label)
+        out.append(f"| {tr} | {t} | {label} | {f_} | {cue} | {len(ids)} | {', '.join(dict.fromkeys(ids))} |")
     n = {tr: sum(len(v) for k, v in rows.items() if k[0] == tr) for tr in "①②③"}
     f = ROOT / "story" / "sfx_list.md"
     mark = "<!-- 부록: tools/direction_scenes.py sfx 가 만든다. 아래는 손으로 고치지 않는다. -->"

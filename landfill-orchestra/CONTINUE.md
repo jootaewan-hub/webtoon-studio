@@ -64,6 +64,7 @@
 
 ## 도구
 - `python3 landfill-orchestra/tools/studio.py <명령> --dir landfill-orchestra` (sketch, colorscript, board, docx, pack)
+- `studio.py`는 파이썬 3.12 이상이 필요하다(f-string 문법). 이 Mac은 `/opt/homebrew/bin/python3.13 tools/studio.py docx --dir .`로 돌린다. 기본 `python3`(3.9)로는 문법 오류가 난다. 킷 `kit.py docx`는 node `docx`가 없으면 pandoc 기본 서식으로 조용히 대체하니, 출력에 `pandoc, 기본 서식`이 보이면 NODE_PATH를 맞추고 다시 돌린다.
 - docx 변환에는 Node와 `npm i -g docx`가 필요하다(전역 설치 없이 하려면 아무 폴더에 `npm i docx` 뒤 `NODE_PATH=<그 폴더>/node_modules`로 실행).
 - `python landfill-orchestra/tools/script_check.py check` — 대본 대사·S# 점검.
 - `python landfill-orchestra/tools/presets.py` — 씬 프리셋 합치기·점검(대본 S# 80개와 대조). 원본 생성기 `tools/presets_src/`.
