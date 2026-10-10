@@ -250,7 +250,7 @@ def build():
             body.append(f"\n## {cur_ep}화\n")
             cues += [f"\n## {cur_ep}화\n", "| TC 시작 | TC 끝 | 샷 | 원 컷 | SFX | BGM·앰비언스 | 대사·VO |", "|---|---|---|---|---|---|---|"]
             ep_t[cur_ep] = 0.0
-        head.append(f"| {s['ep']} | S#{s['sn']} {s['title']} | {len(s['shots'])} | {s['total'] / 60:.0f}:{s['total'] % 60:04.1f} | {s['budget'] // 60:02d}:{s['budget'] % 60:02d} |")
+        head.append(f"| {s['ep']} | S#{s['sn']} {s['title']} | {len(s['shots'])} | {int(s['total'] // 60)}:{s['total'] % 60:04.1f} | {s['budget'] // 60:02d}:{s['budget'] % 60:02d} |")
         body.append("\n".join(s["head"]).rstrip() + "\n")
         body.append("| 샷 | 원 컷 | 길이 | 카메라 | 레이아웃·키포즈 | 연기·립싱크 | SFX | BGM·앰비언스 | 대사·VO | 전환 |")
         body.append("|---|---|---|---|---|---|---|---|---|---|")

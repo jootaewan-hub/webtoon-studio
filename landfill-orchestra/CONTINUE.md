@@ -1,9 +1,9 @@
 # 이어서 작업하기 — 「깡통 바이올린」 / landfill-orchestra
 
-최종 정리: 2026-10-11 00:30 KST. 진행은 `skills/webtoon-story-studio`의 결정 게이트를 따른다. 결정 기준은 `decisions.md`.
+최종 정리: 2026-10-11 08:30 KST. 진행은 `skills/webtoon-story-studio`의 결정 게이트를 따른다. 결정 기준은 `decisions.md`.
 
 ## Claude Code에게 처음 할 말
-> landfill-orchestra/CONTINUE.md를 읽고, 「깡통 바이올린」 G11 애니메이션 콘티부터 이어서 진행해.
+> landfill-orchestra/CONTINUE.md를 읽고, 「깡통 바이올린」 G12 인계 패키지부터 이어서 진행해.
 
 ## 진행 상태
 
@@ -21,12 +21,18 @@
 | G8 소품·배경 | 확정: 소품 176개(A 29·상태 64단계) + 배경 39곳, 모두 고증·출처·GPT 프롬프트. 의상·용어·지역명 고증 반영 | `design/props.*`, `design/gen/prop_prompts.md`, `design/sets.*`, `design/gen/set_prompts.md`, `design/costume_research.md`, `story/era_terms_research.md`, 생성기 `tools/props_src/`·`tools/sets.py` |
 | G9 웹툰 콘티 | 완료(밀도 B안, 사용자 확정). 353컷(1화 113·2화 90·3화 150), 대본 대사 351줄 누락 0, 소리 색 컷 71. 작가 4 병렬 → 독립 검수 24건(심각 2) 전부 반영. 킷 validate 문제 0 | `storyboard/`(README·SPEC·`source/storyboard.md`·`.docx`·`cut_spec_ep1~3.jsonl`·`scene_index.md`·`work_notes.md`), 컷 프롬프트 정본 `storyboard/out/cel/`(`_cel_ALL_ep1~3.md`, `cel_prompts.jsonl`), 썸네일·보드·편집기 `storyboard/thumbs`·`tools/`, 검수 `storyboard/review/G9_review.md`·`G9_fixes.md` |
 | G10 연출 노트·효과음 | 완료(B안 3개: 소리 호흡형 템포·효과음 3단 위계·무음). 1부 원칙 10절 + 2부 장면별 75장면(대본 80씬 중 5씬은 G9에서 합침). 효과음 사전 정본(소리 서명 7종 고정 모양, 구분 7쌍, 표기 규칙, 전수 316종 부록). 작가 4 병렬 → 독립 검수 3(94건) → 수정 3. 점검 문제 0 | `story/direction.md`, `story/sfx_list.md`, `story/direction_parts/ep1~3.md`(2부 원본), `story/review/G10_review_ep1~3.md`, 도구 `tools/direction_scenes.py` |
-| G11 애니 콘티 | **다음 작업.** | — |
-| G12 인계 | 대기 | — |
+| G11 애니 콘티 | 완료(밀도 C '듣는 애니': 대본 길이 고정). 80장면 1,252샷, 93.7분(대본 93.9분), 웹툰 353컷 전수, 대사 351줄 누락 0. 작가 10 병렬 → 독립 검수 3(82건) → 수정 3. 점검 문제 0 | `anim/storyboard_anim.md`(합본·길이표), `anim/sound_cues.md`(타임코드 큐 시트), `anim/parts/*.md`(원본 조각), `anim/BRIEF.md`(작가 지침·검수 뒤 결정), `anim/review/G11_review_ep1~3.md`, `docx/anim_*.docx`, 도구 `tools/anim_check.py` |
+| G12 인계 | **다음 작업.** | — |
 
 ## 바로 다음 할 일
-1. **G11 애니메이션 콘티**(`anim/`, 대본 기준). `story/direction.md` 1부 9절(소리 색 = 덕킹 -15dB·채도 60%, 소리 서명 = 같은 오디오 자산, 무음 칸 = 1~2초 완전 무음, 쇼츠 첫 2초 소리 색 컷)과 `story/sfx_list.md` 2절 사운드 큐를 넘겨받는다.
-2. 그다음 G12 인계 패키지.
+1. **G12 인계 패키지.** 스킬 `references/deliverables.md` 형식으로 `handoff/`(또는 deliverables 지정 위치)에 소설·대본·바이블·디자인·콘티·컷 프롬프트·연출 노트·효과음 사전·애니 콘티·큐 시트를 묶고 README로 순서를 안내한다. `studio.py board`·`pack`.
+
+
+### G11에서 남긴 것(후속)
+- 애니 콘티를 고치면 `anim/parts/*.md`를 고친 뒤 `python3 tools/anim_check.py check` → `build`(합본·큐 시트는 손으로 고치지 않는다). docx는 `/opt/homebrew/bin/python3.13 tools/studio.py docx --dir .`(NODE_PATH에 node `docx`).
+- 웹툰과 애니의 순서 차이: 2화 2-053(장갑 손끝 자르기)이 웹툰에서는 1월 장면(2-054~)보다 앞이다. 애니는 대본 순서(S#17부터). 웹툰 2-059·2-061 작화 시 장갑 상태 확인.
+- 씬 프리셋 메모 후보: 2-17 소리 색 줄은 웹툰·애니 모두 쓰지 않음, 2-29 보조색 #E9EEF5를 달빛 남색 계열로 바꿀지.
+- 웹툰 컷 하나에 애니 샷 5개 이상인 컷이 여럿(대본 장면이 웹툰 한 컷으로 줄어든 곳). 의도된 것.
 
 ### G10에서 남긴 것(사용자 확인·후속)
 - 사용자 확인 세 건은 추천안으로 확정(2026-10-11): '밤' 섬 악기 4색, 2화 S#15 대표 색 #A9B1B6, 3-013 회상 위 목소리 사각 풍선.
