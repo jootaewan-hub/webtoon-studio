@@ -1,0 +1,97 @@
+{
+  "name": "정밀 셀 반실사 「소리의 색」(콘티 정합형)",
+  "line": "균일한 진갈색 외곽선 2px(#2B2420), 내부선 1px, 거친 질감 없음",
+  "color": "셀 2단(밝은 면/그림자 면), 하늘·역광에만 부드러운 그러데이션 1층, 종이·수채·그레인 질감 없음",
+  "shading": "그림자는 검정 대신 씬 프리셋의 따뜻한 갈색·남색 계열 HEX",
+  "background": "1980년대 서울 사진 고증 기반 반실사, 전경 1/3만 디테일, 원경은 색면 2~3단",
+  "proportion": "반실사. 은주 5.5등신, 동민 5등신, 덕수 5.5등신, 미자 6등신, 태준 6.5등신, 어른 6.5~7등신. 데포르메는 대본이 코미디로 지정한 컷만",
+  "sfx_style": "손글씨 효과음(Nanum Pen Script / Gaegu Bold). 소리 색 규칙 컷에서는 소리 색. 이미지 프롬프트에는 글자를 넣지 않고 식자 단계에서 얹음",
+  "sound_color_rule": "은주가 소리를 가려 듣는 컷과 M: 음악 컷에만: 주변 채도 약 60% 낮춤, 그 소리만 지정 색의 반투명 빛 동심원으로",
+  "sound_colors": [
+    {
+      "name": "동그리",
+      "hex": "#F5C04A"
+    },
+    {
+      "name": "뚱보",
+      "hex": "#E8944A"
+    },
+    {
+      "name": "꽥꽥이",
+      "hex": "#4FB3A9"
+    },
+    {
+      "name": "뼈다귀 북",
+      "hex": "#D9534A"
+    },
+    {
+      "name": "소리굽쇠",
+      "hex": "#E9EEF5"
+    },
+    {
+      "name": "라디오 허밍",
+      "hex": "#B9A7D9"
+    },
+    {
+      "name": "은주의 귀(가려 듣는 생활 소리)",
+      "hex": "#9DB7C9"
+    },
+    {
+      "name": "태준·다솜중 바이올린",
+      "hex": "#5B8DEF"
+    },
+    {
+      "name": "만석의 클라리넷",
+      "hex": "#9C4A6B"
+    }
+  ],
+  "palette": [
+    {
+      "name": "잉크(선)",
+      "hex": "#2B2420"
+    },
+    {
+      "name": "새벽 청회",
+      "hex": "#5E7F99"
+    },
+    {
+      "name": "흙빛 쓰레기 산",
+      "hex": "#C99A62"
+    },
+    {
+      "name": "그늘 갈색",
+      "hex": "#6E5640"
+    },
+    {
+      "name": "은주 점퍼 남색",
+      "hex": "#2E3A5C"
+    },
+    {
+      "name": "첫 소리 금빛",
+      "hex": "#F2C14E"
+    },
+    {
+      "name": "밤 남색",
+      "hex": "#24304F"
+    },
+    {
+      "name": "공원 초록",
+      "hex": "#7FB77E"
+    },
+    {
+      "name": "내레이션 크림",
+      "hex": "#FFF8EA"
+    }
+  ],
+  "fonts": {
+    "dialogue": "Gowun Dodum",
+    "narration": "Gowun Batang",
+    "sfx": "Nanum Pen Script / Gaegu Bold",
+    "handwriting": "Nanum Pen Script"
+  },
+  "prompt_style": "clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic proportions, soft gradient only in sky and backlight, no paper texture, no film grain, vertical webtoon panel",
+  "prompt_negative": "no text, no letters, no speech bubbles, no brand logos, no real banknotes, no official Olympic mascot or emblem, fictional characters not resembling any real person, children drawn as ordinary kids, no injuries or blood",
+  "notes": "전체 규칙은 design/style_guide.md, 씬별 빛·색·의상은 design/scene_presets.md. 1·2·3안 비교는 design/style_options.md",
+  "era": "1987년 4월~1988년 8월 서울 변두리 한강의 가공 매립지 섬 '갈대섬'(쓰레기 산 두 개·판잣집 동네·둑길), 회상 1950·70년대, 에필로그 2003년 봄 공원. 쓰레기 산은 꼭대기가 평평한 층진 탁자형(쌓는 중). 휴대전화·현대 차량 없음. 올림픽 준비기(1988)지만 공식 마스코트·엠블럼은 그리지 않는다.",
+  "tone": "12세 이상. 감동·밝음·희망. 가난은 정직하게, 슬픔은 사건보다 반응으로. 소리가 나면 색이 번진다."
+}
