@@ -1,9 +1,9 @@
 # 이어서 작업하기 — 「깡통 바이올린」 / landfill-orchestra
 
-최종 정리: 2026-10-10 17:00 KST. 진행은 `skills/webtoon-story-studio`의 결정 게이트를 따른다. 결정 기준은 `decisions.md`.
+최종 정리: 2026-10-11 00:30 KST. 진행은 `skills/webtoon-story-studio`의 결정 게이트를 따른다. 결정 기준은 `decisions.md`.
 
 ## Claude Code에게 처음 할 말
-> landfill-orchestra/CONTINUE.md를 읽고, 「깡통 바이올린」 G10 연출 노트부터 이어서 진행해.
+> landfill-orchestra/CONTINUE.md를 읽고, 「깡통 바이올린」 G11 애니메이션 콘티부터 이어서 진행해.
 
 ## 진행 상태
 
@@ -20,12 +20,21 @@
 | G7 캐릭터 | 확정: 16명(주요 10 + 섬 아이 6) + 단역 7 고정 문구. 계절·본선·2003 의상과 씬별 일정표. 섬 아이 본선 의상 = 제일 좋은 옷 + 빨간 손수건 | `design/characters.json`(design_choice), `design/style_guide.md` 6절, `design/outfit_schedule.json`, `design/outfits_en.json`, `design/sheets/*.svg`(러프), `design/gen/character_prompts.md`(GPT 시트 프롬프트: 턴어라운드·표정·의상·2003·회상) |
 | G8 소품·배경 | 확정: 소품 176개(A 29·상태 64단계) + 배경 39곳, 모두 고증·출처·GPT 프롬프트. 의상·용어·지역명 고증 반영 | `design/props.*`, `design/gen/prop_prompts.md`, `design/sets.*`, `design/gen/set_prompts.md`, `design/costume_research.md`, `story/era_terms_research.md`, 생성기 `tools/props_src/`·`tools/sets.py` |
 | G9 웹툰 콘티 | 완료(밀도 B안, 사용자 확정). 353컷(1화 113·2화 90·3화 150), 대본 대사 351줄 누락 0, 소리 색 컷 71. 작가 4 병렬 → 독립 검수 24건(심각 2) 전부 반영. 킷 validate 문제 0 | `storyboard/`(README·SPEC·`source/storyboard.md`·`.docx`·`cut_spec_ep1~3.jsonl`·`scene_index.md`·`work_notes.md`), 컷 프롬프트 정본 `storyboard/out/cel/`(`_cel_ALL_ep1~3.md`, `cel_prompts.jsonl`), 썸네일·보드·편집기 `storyboard/thumbs`·`tools/`, 검수 `storyboard/review/G9_review.md`·`G9_fixes.md` |
-| G10 연출 노트·효과음 | **다음 작업.** | — |
-| G11·G12 | 대기 | — |
+| G10 연출 노트·효과음 | 완료(B안 3개: 소리 호흡형 템포·효과음 3단 위계·무음). 1부 원칙 10절 + 2부 장면별 75장면(대본 80씬 중 5씬은 G9에서 합침). 효과음 사전 정본(소리 서명 7종 고정 모양, 구분 7쌍, 표기 규칙, 전수 316종 부록). 작가 4 병렬 → 독립 검수 3(94건) → 수정 3. 점검 문제 0 | `story/direction.md`, `story/sfx_list.md`, `story/direction_parts/ep1~3.md`(2부 원본), `story/review/G10_review_ep1~3.md`, 도구 `tools/direction_scenes.py` |
+| G11 애니 콘티 | **다음 작업.** | — |
+| G12 인계 | 대기 | — |
 
 ## 바로 다음 할 일
-1. **G10 연출 노트·효과음 사전.** `story/direction.md`(지금 빈 틀)와 `story/sfx_list.md`(G5 초안)를 콘티 353컷 기준으로 완성한다. 소리 색 레터링(style_guide 2·3절)과 콘티 SFX 표기(`SFX(연청 #9DB7C9): …`)를 통일한다.
-2. 그다음 G11 애니 콘티(`anim/`, 대본 기준), G12 인계 패키지.
+1. **G11 애니메이션 콘티**(`anim/`, 대본 기준). `story/direction.md` 1부 9절(소리 색 = 덕킹 -15dB·채도 60%, 소리 서명 = 같은 오디오 자산, 무음 칸 = 1~2초 완전 무음, 쇼츠 첫 2초 소리 색 컷)과 `story/sfx_list.md` 2절 사운드 큐를 넘겨받는다.
+2. 그다음 G12 인계 패키지.
+
+### G10에서 남긴 것(사용자 확인·후속)
+- **잠정:** '밤'(3-113~3-114)의 색 범위를 섬 악기 4색(금빛·주황·청록·빨강)으로 정했다. style_guide의 '위 색이 모두'와 프리셋·컷 사양 4색 사이의 해석이다. 확인 필요.
+- 2화 S#15 씬 프리셋 대표 색 #9DB7C9가 소리 색 연청과 같은 값이다. 컷 프롬프트 2-054~2-059에 `key color #9DB7C9`가 들어간다. G6 프리셋을 조금 바꿀지 정한다(바꾸면 `tools/scene_index.py` → `tools/cut_prompts.py build`).
+- 색 미지정 소리 몇 개(3-091 무릎 `톡, 톡, 톡`, 3-122 `따닥따닥따닥`, 3-048·3-140 `후―`, 3-054 땀방울 `똑`, 3-071 `맴맴`)는 1부 4절 일반 규칙(사람 몸 소리 회갈색, 그 밖 진갈색)을 식자 단계에서 적용한다.
+- 3-013 만석(E)은 회상 위에 얹는 현재 목소리다. 식자 때 꼬리 규칙이 맞는지 한 번 더 본다.
+- G10 중 콘티를 고쳤다: 효과음 표기 통일 29컷, 1-076 `끼익` 진갈색, 1-106 금빛 종이 네 귀퉁이 압정(컷 사양 포함), 2-090 내레이션을 다음 무음 칸으로. 킷·컷 프롬프트 재빌드 완료.
+- 연출 노트 2부를 고치면: `story/direction_parts/ep*.md`를 고친 뒤 `python3 tools/direction_scenes.py check` → `merge`. 콘티 효과음을 고치면 `kit.py import --replace` 뒤 `python3 tools/direction_scenes.py sfx`(부록 재생성·표기 점검). 2부의 '사실' 줄만 새로 뽑으려면 skeleton을 임시 폴더에 만들어 사실 줄만 바꿔 넣는다(판단 줄 보존).
 3. 사용자 작업(그림): `design/gen/character_prompts.md` → `prop_prompts.md` → `set_prompts.md` 순서로 기준 이미지를 `renders/characters|props|sets/`에 만든 뒤, 컷은 `storyboard/out/cel/_cel_ALL_ep1.md`부터 한 컷씩. 결과는 `storyboard/renders/cel/<컷>.png`. 합주 컷(프롬프트 6천 자 넘는 17컷)은 참고 이미지를 꼭 함께 올린다. 분할 컷이 한 장에 칸대로 나오는지는 아직 시험하지 않았다.
 
 ### G9에서 남긴 것(사용자 확인·후속)

@@ -71,7 +71,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(연청 #9DB7C9): 쿨럭…
+  - [sfx] SFX(연청 #9DB7C9): 쿨럭
   - [sfx] SFX(연청 #9DB7C9): 쿨럭
 
 **금지·수위**
@@ -1514,7 +1514,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 
 **레터링(후공정)**
   - [sfx] SFX(작게): (콧노래)
-  - [sfx] SFX: 사각사각— 끼이익!
+  - [sfx] SFX: 사각사각― 끼이익!
   - [dialogue] 은주: …선생님, 분필 끝이 깨졌어요.
   - [dialogue] 선영: 어, 어떻게 알았어요? 거기서 보여요?
   - [dialogue] 은주: …소리가 갈라졌어요.
@@ -2150,7 +2150,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 캔버스: 800×1200 (세로 스크롤 컷)
 - 시대·장소: 1987년 4월~1988년 8월 서울 변두리 한강의 가공 매립지 섬 '갈대섬'(쓰레기 산 두 개·판잣집 동네·둑길), 회상 1950·70년대, 에필로그 2003년 봄 공원. 쓰레기 산은 꼭대기가 평평한 층진 탁자형(쌓는 중). 휴대전화·현대 차량 없음. 올림픽 준비기(1988)지만 공식 마스코트·엠블럼은 그리지 않는다.
 - 그림체: 안 정밀 셀 반실사 「소리의 색」(콘티 정합형) / 선 균일한 진갈색 외곽선 2px(#2B2420), 내부선 1px, 거친 질감 없음 / 채색 셀 2단(밝은 면/그림자 면), 하늘·역광에만 부드러운 그러데이션 1층, 종이·수채·그레인 질감 없음 / 명암 그림자는 검정 대신 씬 프리셋의 따뜻한 갈색·남색 계열 HEX / 배경 1980년대 서울 사진 고증 기반 반실사, 전경 1/3만 디테일, 원경은 색면 2~3단 / 비율 반실사. 은주 5.5등신, 동민 5등신, 덕수 5.5등신, 미자 6등신, 태준 6.5등신, 어른 6.5~7등신. 데포르메는 대본이 코미디로 지정한 컷만
-- 화면·연출: 은주의 왼쪽 귀와 옆얼굴. 웃음소리 글자가 멀어지며 흐려지고, 길게 늘어진 끼익(회갈색 보통 글자) 밑에 아주 작은 금빛 점 하나가 또렷해진다. 말풍선 없음.
+- 화면·연출: 은주의 왼쪽 귀와 옆얼굴. 웃음소리 글자가 멀어지며 흐려지고, 길게 늘어진 끼익(진갈색 보통 글자) 밑에 아주 작은 금빛 점 하나가 또렷해진다. 말풍선 없음.
 - 등장인물(외형 고정값):
 - 하은주: 13세, 140cm, 작고 가는 체형, 5.5등신, 긴 머리(#2A211C), 피부 #E2B48E, 갸름하고 작은 얼굴, 크고 긴 아몬드형 눈, 짙고 곧은 눈썹, 앞머리 없이 이마를 드러내고 잔머리가 흘러내림, 코와 볼에 옅은 주근깨, 그을린 볼, 소품: 목걸이, 의상(장면별): 큰 남색 점퍼·해진 바지·목장갑(#2E3A5C) / 흰 블라우스·감색 치마(학교)(#F1EEE6) / 빌린 흰 원피스(무대)(#FAFAF7) / 남색 점퍼·회색 손뜨개 목도리·목장갑(겨울)(#2E3A5C) / 남색 점퍼·회색 손뜨개 목도리·손끝 자른 목장갑(겨울)(#2E3A5C) / 빛바랜 하늘색 반소매 셔츠·해진 바지(여름)(#A9C6D9) / 짙은 남색 연주 드레스(2003, 어른)(#24304F), 연기: 큰 표정 대신 귀와 손. 감동은 숨 멈춤으로. 마지막 무대에서 처음 활짝 웃는다. 목에 은색 소리굽쇠 목걸이
 - 조명·색: 잉크(선) #2B2420, 새벽 청회 #5E7F99, 흙빛 쓰레기 산 #C99A62, 그늘 갈색 #6E5640, 은주 점퍼 남색 #2E3A5C, 첫 소리 금빛 #F2C14E, 밤 남색 #24304F, 공원 초록 #7FB77E, 내레이션 크림 #FFF8EA
@@ -2553,7 +2553,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 
 **레터링(후공정)**
   - [sfx] SFX: 와삭
-  - [sfx] SFX(주황 #E8944A): 부우웅.
+  - [sfx] SFX(주황 #E8944A): 부우웅
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -3015,7 +3015,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 캔버스: 800×1400 (세로 스크롤 컷)
 - 시대·장소: 1987년 4월~1988년 8월 서울 변두리 한강의 가공 매립지 섬 '갈대섬'(쓰레기 산 두 개·판잣집 동네·둑길), 회상 1950·70년대, 에필로그 2003년 봄 공원. 쓰레기 산은 꼭대기가 평평한 층진 탁자형(쌓는 중). 휴대전화·현대 차량 없음. 올림픽 준비기(1988)지만 공식 마스코트·엠블럼은 그리지 않는다.
 - 그림체: 안 정밀 셀 반실사 「소리의 색」(콘티 정합형) / 선 균일한 진갈색 외곽선 2px(#2B2420), 내부선 1px, 거친 질감 없음 / 채색 셀 2단(밝은 면/그림자 면), 하늘·역광에만 부드러운 그러데이션 1층, 종이·수채·그레인 질감 없음 / 명암 그림자는 검정 대신 씬 프리셋의 따뜻한 갈색·남색 계열 HEX / 배경 1980년대 서울 사진 고증 기반 반실사, 전경 1/3만 디테일, 원경은 색면 2~3단 / 비율 반실사. 은주 5.5등신, 동민 5등신, 덕수 5.5등신, 미자 6등신, 태준 6.5등신, 어른 6.5~7등신. 데포르메는 대본이 코미디로 지정한 컷만
-- 화면·연출: 가로 2분할. 위: 아침 둑길, 진흙 바퀴 자국 위를 반들반들한 구두가 진흙을 피해 까치발로 걷는다(낮게). 회색 양복 소매 끝 손이 누런 서류 봉투를 옆구리에 끼고 있다. 아래: 게시판 앞에서 멈춘 손이 봉투에서 갱지 한 장을 꺼내 금빛 테두리 종이 바로 옆에 대고 압정을 누른다. 얼굴은 화면에 넣지 않는다.
+- 화면·연출: 가로 2분할. 위: 아침 둑길, 진흙 바퀴 자국 위를 반들반들한 구두가 진흙을 피해 까치발로 걷는다(낮게). 회색 양복 소매 끝 손이 누런 서류 봉투를 옆구리에 끼고 있다. 아래: 게시판 앞에서 멈춘 손이 봉투에서 갱지 한 장을 꺼내, 어젯밤 네 귀퉁이에 압정이 꾹꾹 박힌 금빛 테두리 종이 바로 옆에 대고 압정을 누른다. 얼굴은 화면에 넣지 않는다.
 - 등장인물(외형 고정값):
 - 최정수: 46세 성인, 168cm, 보통 체형, 6.5등신, 옆가르마 머리(#1F1D1B), 피부 #D9B08C, 중키, 배가 조금 나옴, 반짝이는 7:3 포마드 가르마, 두꺼운 검은 뿔테 안경, 이마에 땀, 손에 흰 손수건, 소품: 안경, 의상(장면별): 회색 양복·넥타이·서류 봉투(#7A7C80) / 회색 양복 위 감색 오버코트(겨울)(#2B3346) / 넥타이 없는 회색 양복(2003)(#7A7C80) / 흰 반소매 와이셔츠·넥타이, 양복 상의는 의자에(여름)(#F4F4F0) / 기워 입은 헐렁한 옷·맨발(1950년대 회상)(#9A8F7E), 연기: 웃기지 않으려는데 웃긴 사람. 진지할수록 땀을 닦는다
 - 조명·색: 잉크(선) #2B2420, 새벽 청회 #5E7F99, 흙빛 쓰레기 산 #C99A62, 그늘 갈색 #6E5640, 은주 점퍼 남색 #2E3A5C, 첫 소리 금빛 #F2C14E, 밤 남색 #24304F, 공원 초록 #7FB77E, 내레이션 크림 #FFF8EA
@@ -3557,7 +3557,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 
 **레터링(후공정)**
   - [caption] 고지문: 전국 청소년 합주제 참가 설명회 · 학교별 합동 연습 공개 · 한빛문화회관 연습실
-  - [sfx] SFX(작게): 형광등 윙―
+  - [sfx] SFX(작게): (형광등) 윙―
   - [dialogue] 선영: 비발디예요. 사계 중에 '여름'.
 
 **금지·수위**
@@ -3585,7 +3585,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(청색 #5B8DEF): (비발디 '여름' 3악장, 한 덩어리 합주가 줄 하나하나로 갈라지는 소리)
+  - [sfx] SFX(차가운 청색 #5B8DEF): (비발디 '여름' 3악장, 한 덩어리 합주가 줄 하나하나로 갈라지는 소리)
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -3764,7 +3764,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(청색 #5B8DEF): 팅
+  - [sfx] SFX(차가운 청색 #5B8DEF): 팅
   - [sfx] SFX(은빛 흰색 #E9EEF5): 웅―
 
 **금지·수위**
@@ -3880,7 +3880,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 **레터링(후공정)**
   - [dialogue] 동민: 근데 누나, 저 형 손 왜 떨어?
   - [dialogue] 은주: …추운가 봐.
-  - [sfx] SFX(작게): 형광등 윙―
+  - [sfx] SFX(작게): (형광등) 윙―
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -4460,7 +4460,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 **레터링(후공정)**
   - [dialogue] 만석(E): 음악이 밥 먹여 주냐!
   - [dialogue] 만석: …들어가.
-  - [sfx] SFX: 끼익, 덜컹.
+  - [sfx] SFX: 끼익, 덜컹
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -4612,7 +4612,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 
 **레터링(후공정)**
   - [sfx] SFX: 바스락, 짤그랑
-  - [sfx] SFX(작게): 쏴아(멀리 강물)
+  - [sfx] SFX(작게): (멀리 강물) 쏴아
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -5490,7 +5490,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 
 **레터링(후공정)**
   - [sfx] SFX: 팅. 퉁. 툭.
-  - [sfx] SFX(작게): 투웅.
+  - [sfx] SFX(작게): 투웅
   - [dialogue] 미자(E): 야, 귀신!
   - [dialogue] 미자: 너 그거 거기 두면 또 내가 주우러 와야 되잖아!
 
@@ -5829,7 +5829,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 캔버스: 800×1600 (세로 스크롤 컷)
 - 시대·장소: 1987년 4월~1988년 8월 서울 변두리 한강의 가공 매립지 섬 '갈대섬'(쓰레기 산 두 개·판잣집 동네·둑길), 회상 1950·70년대, 에필로그 2003년 봄 공원. 쓰레기 산은 꼭대기가 평평한 층진 탁자형(쌓는 중). 휴대전화·현대 차량 없음. 올림픽 준비기(1988)지만 공식 마스코트·엠블럼은 그리지 않는다.
 - 그림체: 안 정밀 셀 반실사 「소리의 색」(콘티 정합형) / 선 균일한 진갈색 외곽선 2px(#2B2420), 내부선 1px, 거친 질감 없음 / 채색 셀 2단(밝은 면/그림자 면), 하늘·역광에만 부드러운 그러데이션 1층, 종이·수채·그레인 질감 없음 / 명암 그림자는 검정 대신 씬 프리셋의 따뜻한 갈색·남색 계열 HEX / 배경 1980년대 서울 사진 고증 기반 반실사, 전경 1/3만 디테일, 원경은 색면 2~3단 / 비율 반실사. 은주 5.5등신, 동민 5등신, 덕수 5.5등신, 미자 6등신, 태준 6.5등신, 어른 6.5~7등신. 데포르메는 대본이 코미디로 지정한 컷만
-- 화면·연출: 거의 어둠, 남색. 깊이 잠든 은주의 숨이 고르다. 이불 끝에 반쯤 덮인 왼쪽 귀 극접사(풀린 머리). 아주 멀리서, 아주 작게 문 두드리는 소리 글자가 뜬다(색 없음). 귀는 움직이지 않고, 귀에는 작은 창의 남색 달빛만 닿는다(소리 색 없음). 아래쪽에 내레이션 박스를 두고, 그 아래는 빈 어둠이다(침묵 2초, F.O.).
+- 화면·연출: 거의 어둠, 남색. 깊이 잠든 은주의 숨이 고르다. 이불 끝에 반쯤 덮인 왼쪽 귀 극접사(풀린 머리). 아주 멀리서, 아주 작게 문 두드리는 소리 글자가 뜬다(색 없음). 귀는 움직이지 않고, 귀에는 작은 창의 남색 달빛만 닿는다(소리 색 없음). 컷 아래는 빈 어둠이다. 내레이션은 이 컷 뒤 테두리 없는 무음 칸에 박스 없이 글자만 둔다(침묵 2초, F.O.).
 - 등장인물(외형 고정값):
 - 하은주: 13세, 140cm, 작고 가는 체형, 5.5등신, 긴 머리(#2A211C), 피부 #E2B48E, 갸름하고 작은 얼굴, 크고 긴 아몬드형 눈, 짙고 곧은 눈썹, 앞머리 없이 이마를 드러내고 잔머리가 흘러내림, 코와 볼에 옅은 주근깨, 그을린 볼, 소품: 목걸이, 의상(장면별): 큰 남색 점퍼·해진 바지·목장갑(#2E3A5C) / 흰 블라우스·감색 치마(학교)(#F1EEE6) / 빌린 흰 원피스(무대)(#FAFAF7) / 남색 점퍼·회색 손뜨개 목도리·목장갑(겨울)(#2E3A5C) / 남색 점퍼·회색 손뜨개 목도리·손끝 자른 목장갑(겨울)(#2E3A5C) / 빛바랜 하늘색 반소매 셔츠·해진 바지(여름)(#A9C6D9) / 짙은 남색 연주 드레스(2003, 어른)(#24304F), 연기: 큰 표정 대신 귀와 손. 감동은 숨 멈춤으로. 마지막 무대에서 처음 활짝 웃는다. 목에 은색 소리굽쇠 목걸이
 - 조명·색: 잉크(선) #2B2420, 새벽 청회 #5E7F99, 흙빛 쓰레기 산 #C99A62, 그늘 갈색 #6E5640, 은주 점퍼 남색 #2E3A5C, 첫 소리 금빛 #F2C14E, 밤 남색 #24304F, 공원 초록 #7FB77E, 내레이션 크림 #FFF8EA
@@ -5981,7 +5981,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(금빛 #F5C04A): 동—
+  - [sfx] SFX(금빛 #F5C04A): 동―
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -6267,7 +6267,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
   - [dialogue] 만석: 이걸 치고는 '이건 솔이에요' 하더라.
   - [dialogue] 은주: …….
   - [dialogue] 만석: 세상 모든 소리에는 음이 있다고. 네 엄마 말이다.
-  - [sfx] SFX(작게): 팅—
+  - [sfx] SFX(작게): 팅―
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -6468,7 +6468,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 
 **레터링(후공정)**
   - [sfx] SFX(은빛 흰색 #E9EEF5): 웅―
-  - [sfx] SFX(연청 #9DB7C9): 그르르르… 쿨럭.
+  - [sfx] SFX(연청 #9DB7C9): 그르르르… 쿨럭
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -7033,7 +7033,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX: 똥, 딩, 당.
+  - [sfx] SFX: 똥, 딩, 당
   - [dialogue] 동민: 근데 누나, 병도 노래해!
 
 **금지·수위**
@@ -7066,7 +7066,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
   - [sfx] SFX(빨강 #D9534A): 따닥-쿵
   - [sfx] SFX: 촤앙
   - [sfx] SFX(청록 #4FB3A9): 쉬이이이
-  - [sfx] SFX: 똥 딩 당
+  - [sfx] SFX: 똥, 딩, 당
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -7120,7 +7120,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX: 와르르 (웃음)
+  - [sfx] SFX: 와르르(웃음)
   - [caption] 고지문: 쓰레기 밴드
 
 **금지·수위**
@@ -7235,7 +7235,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(작게): 후—
+  - [sfx] SFX(작게): 후―
   - [dialogue] 선영: 선생님도 사실 무서워. 그러니까 같이 해.
 
 **금지·수위**
@@ -7780,7 +7780,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(금빛 #F5C04A): 동—
+  - [sfx] SFX(금빛 #F5C04A): 동―
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -7836,7 +7836,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX: 하하하하하—
+  - [sfx] SFX: 하하하하하―
   - [sfx] SFX: 달그락, 달그락
   - [dialogue] 동민: 근데 누나, 지진이야?
 
@@ -7948,7 +7948,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 
 **레터링(후공정)**
   - [sfx] SFX(작게): 웅웅
-  - [sfx] SFX(청색 #5B8DEF): (벽 너머 먹먹한 현악 — 비발디 「사계」 '여름' 3악장)
+  - [sfx] SFX(차가운 청색 #5B8DEF): (벽 너머 먹먹한 현악 — 비발디 「사계」 '여름' 3악장)
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -7981,7 +7981,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(청색 #5B8DEF): (폭풍 같은 현악 — '여름' 3악장, 이제 또렷하고 크게)
+  - [sfx] SFX(차가운 청색 #5B8DEF): (폭풍 같은 현악 — '여름' 3악장, 이제 또렷하고 크게)
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -8008,8 +8008,8 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(청색 #5B8DEF): 쏴아아아
-  - [sfx] SFX(청색 #5B8DEF): (활들의 폭풍)
+  - [sfx] SFX(차가운 청색 #5B8DEF): 쏴아아아
+  - [sfx] SFX(차가운 청색 #5B8DEF): (활들의 폭풍)
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -8036,7 +8036,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(청색 #5B8DEF): (현악이 한순간 멀어진다)
+  - [sfx] SFX(차가운 청색 #5B8DEF): (현악이 한순간 멀어진다)
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -8367,7 +8367,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX(주황 #E8944A): 부우— 웅
+  - [sfx] SFX(주황 #E8944A): 부우― 웅
   - [sfx] SFX(작게): 쿨럭
 
 **금지·수위**
@@ -8925,9 +8925,9 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 - 말풍선·글자는 이미지에 넣지 말 것 (레터링은 후공정)
 
 **레터링(후공정)**
-  - [sfx] SFX: 띵—
-  - [sfx] SFX: 띵—
-  - [sfx] SFX(은빛 흰색 #E9EEF5): 우웅……
+  - [sfx] SFX: 띵―
+  - [sfx] SFX: 띵―
+  - [sfx] SFX(은빛 흰색 #E9EEF5): 웅―
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -9234,7 +9234,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
   - [sfx] SFX: 덜컹
   - [dialogue] 순례 할머니: 잘했다! 잘했어, 이 똥강아지들아!
   - [sfx] SFX: 짝짝짝짝짝
-  - [sfx] SFX: 와아아—
+  - [sfx] SFX: 와아아―
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -9656,7 +9656,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 
 **레터링(후공정)**
   - [dialogue] 만석: 됐다. 밥이나 먹으러 가자.
-  - [sfx] SFX: 와아—
+  - [sfx] SFX: 와아―
   - [dialogue] 미자: 타요, 계장님. 땀은 버스에서 닦아요.
   - [sfx] SFX(작게): 하하하
 
@@ -9823,7 +9823,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 **레터링(후공정)**
   - [sfx] SFX: 딸랑
   - [sfx] SFX: 와르르
-  - [sfx] SFX: 후—
+  - [sfx] SFX: 후―
 
 **금지·수위**
 - 실존 인물·유명인과 닮은 얼굴 금지 (모든 얼굴은 창작)
@@ -10024,7 +10024,7 @@ clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic prop
 **레터링(후공정)**
   - [sfx] SFX(작게): 그르르
   - [sfx] SFX(작게): 챙
-  - [sfx] SFX(작게): 쉬이—
+  - [sfx] SFX(작게): 쉬이―
   - [sfx] SFX(작게): 탕, 탕, 탕
 
 **금지·수위**

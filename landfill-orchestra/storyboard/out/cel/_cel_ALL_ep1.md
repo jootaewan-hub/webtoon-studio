@@ -54,7 +54,7 @@
 ```
 
 **레터링(후공정, 이미지에 넣지 않음)**
-  - [sfx] SFX(연청 #9DB7C9): 쿨럭…
+  - [sfx] SFX(연청 #9DB7C9): 쿨럭
   - [sfx] SFX(연청 #9DB7C9): 쿨럭
 
 ## 1-004 — S1 갈대섬 작은 산 중턱 (새벽, 1987년 4월)
@@ -1062,7 +1062,7 @@
 
 **레터링(후공정, 이미지에 넣지 않음)**
   - [sfx] SFX(작게): (콧노래)
-  - [sfx] SFX: 사각사각— 끼이익!
+  - [sfx] SFX: 사각사각― 끼이익!
   - [dialogue] 은주: …선생님, 분필 끝이 깨졌어요.
   - [dialogue] 선영: 어, 어떻게 알았어요? 거기서 보여요?
   - [dialogue] 은주: …소리가 갈라졌어요.
@@ -1515,7 +1515,7 @@
 
 ## 1-076 — S11 작은 산 꼭대기 (저녁, 나흘째)
 - 크기 800×1200 · ECU · 측면 · 은주(중)
-- 화면(한국어): 은주의 왼쪽 귀와 옆얼굴. 웃음소리 글자가 멀어지며 흐려지고, 길게 늘어진 끼익(회갈색 보통 글자) 밑에 아주 작은 금빛 점 하나가 또렷해진다. 말풍선 없음.
+- 화면(한국어): 은주의 왼쪽 귀와 옆얼굴. 웃음소리 글자가 멀어지며 흐려지고, 길게 늘어진 끼익(진갈색 보통 글자) 밑에 아주 작은 금빛 점 하나가 또렷해진다. 말풍선 없음.
 
 ```
 [STYLE] clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic proportions, soft gradient only in sky and backlight, no paper texture, no film grain, vertical webtoon panel, panel 800x1200 (tall)
@@ -1807,7 +1807,7 @@
 
 **레터링(후공정, 이미지에 넣지 않음)**
   - [sfx] SFX: 와삭
-  - [sfx] SFX(주황 #E8944A): 부우웅.
+  - [sfx] SFX(주황 #E8944A): 부우웅
 
 ## 1-091 — S12 곽 영감 고물상 (오후, 다음 날부터 며칠)
 - 크기 800×1000 · MS · 아이레벨 · 곽 영감(우), 덕수(좌)
@@ -2133,7 +2133,7 @@
 
 ## 1-106 — S16 둑길과 섬 어귀 게시판 (아침, 이튿날)
 - 크기 800×1400 · INS · 로우 · 최 계장(손·구두)
-- 화면(한국어): 가로 2분할. 위: 아침 둑길, 진흙 바퀴 자국 위를 반들반들한 구두가 진흙을 피해 까치발로 걷는다(낮게). 회색 양복 소매 끝 손이 누런 서류 봉투를 옆구리에 끼고 있다. 아래: 게시판 앞에서 멈춘 손이 봉투에서 갱지 한 장을 꺼내 금빛 테두리 종이 바로 옆에 대고 압정을 누른다. 얼굴은 화면에 넣지 않는다.
+- 화면(한국어): 가로 2분할. 위: 아침 둑길, 진흙 바퀴 자국 위를 반들반들한 구두가 진흙을 피해 까치발로 걷는다(낮게). 회색 양복 소매 끝 손이 누런 서류 봉투를 옆구리에 끼고 있다. 아래: 게시판 앞에서 멈춘 손이 봉투에서 갱지 한 장을 꺼내, 어젯밤 네 귀퉁이에 압정이 꾹꾹 박힌 금빛 테두리 종이 바로 옆에 대고 압정을 누른다. 얼굴은 화면에 넣지 않는다.
 
 ```
 [STYLE] clean uniform dark-brown 2px outlines, two-tone cel shading, semi-realistic proportions, soft gradient only in sky and backlight, no paper texture, no film grain, vertical webtoon panel, panel 800x1400 (tall)
@@ -2146,7 +2146,7 @@
 [PROP] a gray official notice sheet with a red seal, a portrait sheet of thin gray paper written horizontally: a blank title line and rows of illegible horizontal typed text marks (match the reference image renders/props/clearance_notice_1987__s1.png)
 [PROP] a contest notice poster with a gold border, the poster pinned flat with four thumbtacks at its corners, a bold blank title bar and illegible text marks inside a double gold border (match the reference image renders/props/contest_poster__s2_pinned.png)
 [PROP] brass thumbtacks, flat round brass heads with short pins, shown loose and in a small tin box, brass, steel, head 1cm across, new, one tack smeared with mud (match the reference image renders/props/thumbtacks.png)
-[CUT] tall panel split horizontally into two frames, the man's face never in frame. Top: low shot on the muddy rutted embankment road, polished black shoes tiptoeing around the mud, a gray suit sleeve and a hand holding a manila envelope under the arm. Bottom: at the notice board, the same hand pins a gray sheet right beside the gold-bordered paper; cool low morning sun from the left, dew on the reeds
+[CUT] tall panel split horizontally into two frames, the man's face never in frame. Top: low shot on the muddy rutted embankment road, polished black shoes tiptoeing around the mud, a gray suit sleeve and a hand holding a manila envelope under the arm. Bottom: at the notice board, the same hand pins a gray sheet right beside the gold-bordered paper, which is already held by a thumbtack at each of its four corners; cool low morning sun from the left, dew on the reeds
 [NEG] no text, no letters, no speech bubbles, no brand logos, no real banknotes, no official Olympic mascot or emblem, fictional characters not resembling any real person, children drawn as ordinary kids, no injuries or blood
 ```
 
