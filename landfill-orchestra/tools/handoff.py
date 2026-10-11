@@ -1,6 +1,6 @@
 """G12 인계 패키지 도구 (표준 라이브러리만).
 
-  python3 tools/handoff.py manifest   → handoff/asset_manifest.csv (그릴 그림 전부: 인물 시트·소품·배경·컷, status=todo)
+  python3 tools/handoff.py manifest   → handoff/asset_manifest.csv (그릴 그림 전부. 기존 대장의 status·approved_by·notes는 보존)
   python3 tools/handoff.py check      → 패키지에 넣을 정본 파일이 모두 있는지, 대장의 프롬프트 참조가 실제 제목과 맞는지
   python3 tools/handoff.py pack       → five-doors와 같은 방식으로 dist/landfill_handoff_<날짜>.zip
 
@@ -32,7 +32,7 @@ INCLUDE = [
     "design/characters.json", "design/outfit_schedule.json", "design/outfits_en.json", "design/sheets",
     "design/scene_presets.md", "design/scene_presets.json",
     "design/props.md", "design/props.json", "design/sets.md", "design/sets.json",
-    "design/colorscript.svg", "design/costume_research.md", "design/gen",
+    "design/colorscript.svg", "design/costume_research.md", "design/gen", "design/board.html",
     "storyboard/README.md", "storyboard/SPEC.md",
     "storyboard/source/storyboard.md", "storyboard/source/storyboard.docx",
     "storyboard/source/cut_spec_ep1.jsonl", "storyboard/source/cut_spec_ep2.jsonl", "storyboard/source/cut_spec_ep3.jsonl",
@@ -102,11 +102,25 @@ def manifest():
     out = ROOT / "handoff" / "asset_manifest.csv"
     out.parent.mkdir(exist_ok=True)
     cols = ["file", "kind", "subject", "variant", "order", "prompt_ref", "tool", "status", "approved_by", "notes"]
+    # 기존 대장과 병합: 사람이 채운 tool·status·approved_by·notes는 file 기준으로 그대로 둔다
+    old = {}
+    if out.exists():
+        old = {r["file"]: r for r in csv.DictReader(out.open(encoding="utf-8-sig"))}
+    keep = ("tool", "status", "approved_by", "notes")
+    new_files = {r["file"] for r in rows}
+    gone = [f for f, r in old.items() if f not in new_files and r.get("status") not in ("", "todo")]
+    if gone:
+        print(f"[주의] 진행 중인 항목 {len(gone)}개가 새 대장에 없다(프롬프트 제목이 바뀌었는지 확인). 대장 끝에 남겨 둔다: {', '.join(gone[:5])}")
     with out.open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
         for r in rows:
-            w.writerow({**{c: "" for c in cols}, "tool": "ChatGPT", "status": "todo", **r})
+            base = {**{c: "" for c in cols}, "tool": "ChatGPT", "status": "todo", **r}
+            if r["file"] in old:
+                base.update({k: old[r["file"]].get(k, "") for k in keep if old[r["file"]].get(k, "") != ""})
+            w.writerow(base)
+        for fname in gone:
+            w.writerow({c: old[fname].get(c, "") for c in cols})
     kinds = {}
     for r in rows:
         kinds[r["kind"]] = kinds.get(r["kind"], 0) + 1

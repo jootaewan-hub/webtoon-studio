@@ -21,7 +21,7 @@ Codex는 그림을 판단하지 않는다. 다음을 맡는다.
 - `order`: 1 인물 → 2 소품 A → 3 소품 B → 4 소품 C → 5 배경 → 6-1/6-2/6-3 화별 컷. 이 순서로 만든다.
 - `status`: `todo` → `generated` → `approved` / `rejected`. 승인은 사람(`approved_by`)이 한다.
 - `notes`에 "참고 이미지 필수"가 있는 컷 17개는 등장인물·소품·배경 기준 이미지를 모두 첨부해 생성한다.
-- 대장을 다시 만들 때는 원본 저장소에서 `python3 tools/handoff.py manifest`(상태 열이 초기화되니 기존 대장과 병합한다).
+- 대장을 다시 만들 때는 원본 저장소에서 `python3 tools/handoff.py manifest`(이미 채운 status·approved_by·notes는 file 기준으로 보존된다).
 
 ## 컷 생성 보조
 - 컷 프롬프트는 `storyboard/out/cel/<컷>.md`를 그대로 쓴다. 문장을 고치지 않는다. 고칠 일이 생기면 원본 저장소에서 `storyboard/source/cut_spec_ep*.jsonl`을 고친 뒤 `python3 tools/cut_prompts.py build`로 다시 만든다.

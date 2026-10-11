@@ -29,6 +29,7 @@
 | `story/bible.md`, `design/characters.json`, `design/outfit_schedule.json` | 인물 바이블, 외형 고정값, 씬별 의상 | 모두 |
 | `design/scene_presets.md` | 대본 80씬의 빛·대표 색·의상·소리 색 | ChatGPT, 애니 |
 | `research/notes.md`, `design/costume_research.md`, `story/era_terms_research.md` | 1987~88 고증(출처) | 사람 |
+| `design/board.html` | 디자인 보드(결정 로그·그림체 안·인물 러프·컬러 스크립트·고증), 브라우저로 연다 | 사람 |
 | `docx/` | 주요 문서 Word 사본 | 사람 |
 
 ## 2. 기준 우선순위
