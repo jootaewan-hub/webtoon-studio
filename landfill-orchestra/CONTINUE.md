@@ -1,9 +1,9 @@
 # 이어서 작업하기 — 「깡통 바이올린」 / landfill-orchestra
 
-최종 정리: 2026-10-11 08:30 KST. 진행은 `skills/webtoon-story-studio`의 결정 게이트를 따른다. 결정 기준은 `decisions.md`.
+최종 정리: 2026-10-11 09:30 KST. 진행은 `skills/webtoon-story-studio`의 결정 게이트를 따른다. 결정 기준은 `decisions.md`.
 
 ## Claude Code에게 처음 할 말
-> landfill-orchestra/CONTINUE.md를 읽고, 「깡통 바이올린」 G12 인계 패키지부터 이어서 진행해.
+> landfill-orchestra/CONTINUE.md를 읽고, 「깡통 바이올린」은 G0~G12 완료. 작화 결과물(renders/) 검수부터 이어서 진행해.
 
 ## 진행 상태
 
@@ -22,26 +22,11 @@
 | G9 웹툰 콘티 | 완료(밀도 B안, 사용자 확정). 353컷(1화 113·2화 90·3화 150), 대본 대사 351줄 누락 0, 소리 색 컷 71. 작가 4 병렬 → 독립 검수 24건(심각 2) 전부 반영. 킷 validate 문제 0 | `storyboard/`(README·SPEC·`source/storyboard.md`·`.docx`·`cut_spec_ep1~3.jsonl`·`scene_index.md`·`work_notes.md`), 컷 프롬프트 정본 `storyboard/out/cel/`(`_cel_ALL_ep1~3.md`, `cel_prompts.jsonl`), 썸네일·보드·편집기 `storyboard/thumbs`·`tools/`, 검수 `storyboard/review/G9_review.md`·`G9_fixes.md` |
 | G10 연출 노트·효과음 | 완료(B안 3개: 소리 호흡형 템포·효과음 3단 위계·무음). 1부 원칙 10절 + 2부 장면별 75장면(대본 80씬 중 5씬은 G9에서 합침). 효과음 사전 정본(소리 서명 7종 고정 모양, 구분 7쌍, 표기 규칙, 전수 316종 부록). 작가 4 병렬 → 독립 검수 3(94건) → 수정 3. 점검 문제 0 | `story/direction.md`, `story/sfx_list.md`, `story/direction_parts/ep1~3.md`(2부 원본), `story/review/G10_review_ep1~3.md`, 도구 `tools/direction_scenes.py` |
 | G11 애니 콘티 | 완료(밀도 C '듣는 애니': 대본 길이 고정). 80장면 1,252샷, 93.7분(대본 93.9분), 웹툰 353컷 전수, 대사 351줄 누락 0. 작가 10 병렬 → 독립 검수 3(82건) → 수정 3. 점검 문제 0 | `anim/storyboard_anim.md`(합본·길이표), `anim/sound_cues.md`(타임코드 큐 시트), `anim/parts/*.md`(원본 조각), `anim/BRIEF.md`(작가 지침·검수 뒤 결정), `anim/review/G11_review_ep1~3.md`, `docx/anim_*.docx`, 도구 `tools/anim_check.py` |
-| G12 인계 | **다음 작업.** | — |
+| G12 인계 | 완료: 작화 인계 패키지(README·Codex 지침·ChatGPT 지침·에셋 대장 691장) + zip(정본 796개, 3.7MB, git 제외) | `handoff/`, `dist/landfill_handoff_2026-10-11.zip`, 도구 `tools/handoff.py`(manifest·check·pack) |
 
 ## 바로 다음 할 일
-1. **G12 인계 패키지.** 스킬 `references/deliverables.md` 형식으로 `handoff/`(또는 deliverables 지정 위치)에 소설·대본·바이블·디자인·콘티·컷 프롬프트·연출 노트·효과음 사전·애니 콘티·큐 시트를 묶고 README로 순서를 안내한다. `studio.py board`·`pack`.
-
-
-### G11에서 남긴 것(후속)
-- 애니 콘티를 고치면 `anim/parts/*.md`를 고친 뒤 `python3 tools/anim_check.py check` → `build`(합본·큐 시트는 손으로 고치지 않는다). docx는 `/opt/homebrew/bin/python3.13 tools/studio.py docx --dir .`(NODE_PATH에 node `docx`).
-- 킷의 `storyboard/outputs/anim/`(컷당 1샷 요약, 예 1-003 2.2초)은 참고용이다. 애니 정본은 `anim/storyboard_anim.md`, 컷→샷 대응은 `anim/cut_shots.md`. G12 패키지에서 둘을 섞지 않는다.
-- BGM은 대본 `M:`·화면 속 음악에만 있다(대부분 언더스코어 없음). 사용자 확인 권장.
-- 웹툰과 애니의 순서 차이: 2화 2-053(장갑 손끝 자르기)이 웹툰에서는 1월 장면(2-054~)보다 앞이다. 애니는 대본 순서(S#17부터). 웹툰 2-059·2-061 작화 시 장갑 상태 확인.
-- 씬 프리셋 메모 후보: 2-17 소리 색 줄은 웹툰·애니 모두 쓰지 않음, 2-29 보조색 #E9EEF5를 달빛 남색 계열로 바꿀지.
-- 웹툰 컷 하나에 애니 샷 5개 이상인 컷이 여럿(대본 장면이 웹툰 한 컷으로 줄어든 곳). 의도된 것.
-
-### G10에서 남긴 것(사용자 확인·후속)
-- 사용자 확인 세 건은 추천안으로 확정(2026-10-11): '밤' 섬 악기 4색, 2화 S#15 대표 색 #A9B1B6, 3-013 회상 위 목소리 사각 풍선.
-- 색 미지정 소리 몇 개(3-091 무릎 `톡, 톡, 톡`, 3-122 `따닥따닥따닥`, 3-048·3-140 `후―`, 3-054 땀방울 `똑`, 3-071 `맴맴`)는 1부 4절 일반 규칙(사람 몸 소리 회갈색, 그 밖 진갈색)을 식자 단계에서 적용한다.
-- 3-013 만석(E)은 회상 위에 얹는 현재 목소리다. 식자 때 꼬리 규칙이 맞는지 한 번 더 본다.
-- G10 중 콘티를 고쳤다: 효과음 표기 통일 29컷, 1-076 `끼익` 진갈색, 1-106 금빛 종이 네 귀퉁이 압정(컷 사양 포함), 2-090 내레이션을 다음 무음 칸으로. 킷·컷 프롬프트 재빌드 완료.
-- 연출 노트 2부를 고치면: `story/direction_parts/ep*.md`를 고친 뒤 `python3 tools/direction_scenes.py check` → `merge`. 콘티 효과음을 고치면 `kit.py import --replace` 뒤 `python3 tools/direction_scenes.py sfx`(부록 재생성·표기 점검). 2부의 '사실' 줄만 새로 뽑으려면 skeleton을 임시 폴더에 만들어 사실 줄만 바꿔 넣는다(판단 줄 보존).
+1. **사용자 작업(그림).** `handoff/README.md` 3절 순서대로 ChatGPT로 기준 이미지 → 컷 353장. 진행은 `handoff/asset_manifest.csv`의 status로 관리한다. 결과가 오면 Claude는 README 5절 체크리스트로 검수하고, Codex 몫(레터링·회차 조립)은 `handoff/AGENTS.md`.
+2. 패키지를 다시 만들 때: `python3 tools/handoff.py manifest`(대장 상태 열이 초기화되므로 기존 대장과 병합) → `check` → `pack`.
 3. 사용자 작업(그림): `design/gen/character_prompts.md` → `prop_prompts.md` → `set_prompts.md` 순서로 기준 이미지를 `renders/characters|props|sets/`에 만든 뒤, 컷은 `storyboard/out/cel/_cel_ALL_ep1.md`부터 한 컷씩. 결과는 `storyboard/renders/cel/<컷>.png`. 합주 컷(프롬프트 6천 자 넘는 17컷)은 참고 이미지를 꼭 함께 올린다. 분할 컷이 한 장에 칸대로 나오는지는 아직 시험하지 않았다.
 
 ### G9에서 남긴 것(사용자 확인·후속)
