@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """webtoon-story-studio 작업 도구 (표준 라이브러리만 사용)
 
-python studio.py init <이름>            프로젝트 폴더·템플릿 생성 (이 파일과 md2docx.js를 tools/에 복사)
+python studio.py init <이름>            프로젝트 폴더·템플릿 생성 (이 파일·md2docx.js·style_check.py를 tools/에 복사)
 python studio.py sketch [--variants]    design/characters.json → design/sheets/*.svg
 python studio.py props                  design/props.json (+design/props/<id>.svg) → design/props_sheet.svg
 python studio.py colorscript            story/beats.json → design/colorscript.svg
@@ -163,6 +163,8 @@ def cmd_init(a):
     for cand in (os.path.join(HERE, "md2docx.js"), os.path.join(HERE, "..", "assets", "md2docx.js")):
         if os.path.exists(cand):
             shutil.copy(cand, os.path.join(tools, "md2docx.js")); break
+    if os.path.exists(os.path.join(HERE, "style_check.py")):  # 문체 점검(references/prose_style.md)
+        shutil.copy(os.path.join(HERE, "style_check.py"), os.path.join(tools, "style_check.py"))
     print(f"생성: {root}\n다음: source/original.md에 원문을 넣고 G0 접수부터 진행 (python tools/studio.py <명령> --dir {a.name})")
 
 # ───────────────────────── 인물 스케치 ─────────────────────────

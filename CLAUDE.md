@@ -5,6 +5,7 @@
 - 언어: 한국어. 근거를 밝히고, 미확인·추측은 표시한다.
 - 「깡통 바이올린」(`landfill-orchestra/`) 작업은 `landfill-orchestra/CONTINUE.md`와 그 폴더의 `decisions.md`를 기준으로 한다.
 - 진행 방식: `skills/webtoon-story-studio`의 결정 게이트(G0~G12)를 따른다. 결정은 `five-doors/decisions.md`에 한 줄씩 남긴다.
+- 문체: 모든 글(소설·대본 지문·콘티 화면 칸·연출 노트·애니 콘티·인계 문서)은 `skills/webtoon-story-studio/references/prose_style.md`를 따른다. 쉬운 말, 담백한 문장. 의인화·장식 비유·해설 마무리·조각 문장·어려운 용어·가운뎃점 나열·번역투를 쓰지 않는다. 쓴 뒤 `python3 skills/webtoon-story-studio/scripts/style_check.py <파일>`로 점검한다. 이미 확정된 원고는 사용자가 요청할 때만 고친다.
 - 그림은 그리지 않는다. 작화는 ChatGPT와 Codex가 맡는다. Claude는 사양, 프롬프트, 콘티를 만든다.
 - 기준 우선순위: `decisions.md` > `story/bible.md` 0-2 확정 외형 > LOCK 문단(`handoff/`) > `story/novel.md`·`script.md`.
 - 분량이 큰 작업(회차별 콘티 등)은 서브에이전트에 병렬로 맡기고, 별도 에이전트로 검수한다.

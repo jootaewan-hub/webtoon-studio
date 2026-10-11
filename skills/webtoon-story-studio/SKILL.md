@@ -50,6 +50,10 @@ description: 짧은 일화·대화·기사를 브레인스토밍으로 웹툰·�
 
 G1~G5는 이야기, G6~G8은 그림, G9~G11은 화면이다. 사용자가 원하면 그림(G6~G8)을 이야기보다 먼저 해도 된다. 다만 G7은 G2(인물)가, G9는 G5(대본)가 확정돼 있어야 한다.
 
+## 문체: 쉬운 말, 담백한 문장 (모든 글)
+
+소설·대본 지문·콘티 화면 칸·연출 노트·애니 콘티·인계 문서를 쓸 때 `references/prose_style.md`를 따른다(사용자 지시). 요지: 사람·물건·소리로 쓰고 의인화·추상 주어를 쓰지 않는다. 서술 속 조각 문장, "그게 인사였다" 같은 해설 마무리, 감정 이름 말하기, 생활에서 나오지 않은 비유, 어려운 한자어·외래 전문어, 가운뎃점·줄표로 이어 붙인 말, 번역투를 쓰지 않는다. 짧은 문장만 잇지 말고 일이 이어지면 한 문장으로 잇는다. 쓴 뒤 `scripts/style_check.py`로 후보 줄을 보고 고친다(수치를 맞추려고 늘이지 않는다). 이미 확정된 원고는 사용자가 요청할 때만 고쳐 쓴다.
+
 ## 리서치는 게이트를 받쳐 준다
 
 리서치는 별도 게이트가 아니라, 각 게이트에서 안을 만들기 전에 필요한 만큼 한다. G0 직후 한 번(시대·장소·직업·원문 속 사실 주장), G6 전에 한 번(시각 고증·장르 그림체 관습), G8 전에 한 번(소품·장소 실물). 어떤 도구를 쓸지는 references/research.md의 라우팅 표를 따른다.
@@ -61,7 +65,7 @@ G1~G5는 이야기, G6~G8은 그림, G9~G11은 화면이다. 사용자가 원하
 
 ## 도구와 스크립트
 
-`scripts/studio.py`가 프로젝트를 만들고 그림·보드·문서를 뽑는다. 파이썬 표준 라이브러리만 쓰고, `docx`만 node와 `docx` 패키지(`scripts/md2docx.js`)가 필요하다. `init`이 studio.py와 md2docx.js를 프로젝트의 `tools/`에 복사하므로 이후에는 `python tools/studio.py <명령> --dir <프로젝트>`로 부른다. 입력 JSON 형식 견본은 `assets/example/`(낙동강 작품 발췌).
+`scripts/style_check.py`는 문체 점검 도구다(`references/prose_style.md`). `scripts/studio.py`가 프로젝트를 만들고 그림·보드·문서를 뽑는다. 파이썬 표준 라이브러리만 쓰고, `docx`만 node와 `docx` 패키지(`scripts/md2docx.js`)가 필요하다. `init`이 studio.py와 md2docx.js를 프로젝트의 `tools/`에 복사하므로 이후에는 `python tools/studio.py <명령> --dir <프로젝트>`로 부른다. 입력 JSON 형식 견본은 `assets/example/`(낙동강 작품 발췌).
 
 ```
 python studio.py init <이름>      # 프로젝트 폴더와 템플릿
@@ -102,6 +106,7 @@ references/deliverables.md에 파일명과 형식이 있다. 문서의 원본은
 - `references/intake.md` — 접수 질문, 기본값, 실화·실존 인물 처리.
 - `references/research.md` — 필요별 도구 라우팅(웹 검색·MCP·플러그인), 도구 찾기, 고증 노트.
 - `references/story.md` — 로그라인·바이블·회차 구조·비트 시트, 소설 문체 안, 대본 형식.
+- `references/prose_style.md` — 문체 기준(쉬운 말, 담백한 문장): 근거로 삼은 문학 작품·문장론, AI처럼 읽히는 문장 다섯 가지, 원칙 10개, 고친 예, 문서별 적용, 점검 도구.
 - `references/art_direction.md` — 그림체 결정 매트릭스, 3안 형식, 캐릭터 시안·시트, 소품·배경 시트, 컬러 스크립트.
 - `references/direction.md` — 웹툰 연출 문법, 효과음·사운드 연출, 조명·색, 장르별 요령.
 - `references/anim_storyboard.md` — 애니메이션급 세부 콘티 형식(샷·프레임·키포즈·카메라·사운드 큐).
