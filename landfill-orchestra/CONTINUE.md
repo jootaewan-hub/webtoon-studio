@@ -27,7 +27,6 @@
 ## 바로 다음 할 일
 1. **사용자 작업(그림).** `handoff/README.md` 3절 순서대로 ChatGPT로 기준 이미지 → 컷 353장. 진행은 `handoff/asset_manifest.csv`의 status로 관리한다. 결과가 오면 Claude는 README 5절 체크리스트로 검수하고, Codex 몫(레터링·회차 조립)은 `handoff/AGENTS.md`.
 2. 패키지를 다시 만들 때: `python3 tools/handoff.py manifest`(대장 상태 열이 초기화되므로 기존 대장과 병합) → `check` → `pack`.
-3. 사용자 작업(그림): `design/gen/character_prompts.md` → `prop_prompts.md` → `set_prompts.md` 순서로 기준 이미지를 `renders/characters|props|sets/`에 만든 뒤, 컷은 `storyboard/out/cel/_cel_ALL_ep1.md`부터 한 컷씩. 결과는 `storyboard/renders/cel/<컷>.png`. 합주 컷(프롬프트 6천 자 넘는 17컷)은 참고 이미지를 꼭 함께 올린다. 분할 컷이 한 장에 칸대로 나오는지는 아직 시험하지 않았다.
 
 ### G9에서 남긴 것(사용자 확인·후속)
 - 연습실·공방 실내 신발을 'worn canvas sneakers'로 새로 정했다(근거: 여름 의상 문구, 3-9 "신발을 턴다"). 확인 필요.
