@@ -475,7 +475,7 @@ old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted pile
 
 - 때: 1988년 1월 · 한겨울, 추위, 입김
 - 빛: Insert(게시판): 흐린 겨울 낮. 천막 안: 저녁, 연탄난로 불빛과 천막 전구, 입김이 하얗게
-- 색: 주조 #9DB7C9 · 그림자 #3E4E66 · 보조 #E06A3A #F2EFE8 #7A7C80 #C0392F
+- 색: 주조 #A9B1B6 · 그림자 #3E4E66 · 보조 #E06A3A #F2EFE8 #7A7C80 #C0392F
 - 인물·의상: choi: 회색 양복 위 감색 오버코트(겨울); eunju: 남색 점퍼·회색 손뜨개 목도리·목장갑(겨울) (소리굽쇠 목걸이 착용(옷 속). 겨울 겉옷 제안(근거 없음)); dongmin: 물려받은 누빈 갈색 점퍼·털모자(겨울); manseok: 낡은 야전상의·목수건·고무장화 (천막 입구 팔짱, 중간에 사라짐. 야전상의 그대로(겨울 내피는 제안만)); mija: 빨간 누빔 점퍼(겨울) (빨간 트레이닝 상의 소매를 꽉 쥠(대본 명시). 위에 겨울 겉옷 제안(근거 없음, 빨강 보이게)); deoksu: 체크 남방 위 회색 털스웨터(겨울) (앞쪽 평상. 겨울 겉옷 제안(근거 없음)); sunrye: 솜 누빈 조끼·털목도리(겨울) (겨울 겉옷 제안(근거 없음)); extra:미자 엄마·섬 아저씨·갈고리 아주머니·섬사람들: 어둡고 두꺼운 작업복, 머릿수건, 빨강·파랑 웃옷이 드문드문(research/notes 시각 고증 [A]14·18쪽 기준), 겨울 (보조 인물(characters.json 없음))
 - 소품: 게시판 새 공문(빨간 도장 둘, 글자는 식자), 연탄난로·주전자, 서류, 손수건
 - 소리 색: 없음
@@ -483,7 +483,7 @@ old Kwak's junk shop at the island entrance: a corrugated-iron shed, sorted pile
 - 연속성: 섬 정리 정식 통보 '8월 말까지'. 최 계장 눈이 덕수에게 잠깐(2-6 복선). 미자네 이사 이야기
 
 ```
-grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1988 January, deep winter, cold evening, warm orange glow of a coal-briquette stove with a hissing kettle and a bare bulb, white breath in the air, key color #9DB7C9, cel shadows #3E4E66; insert: a weathered plywood notice board on two posts at the island entrance, pinned papers, overcast winter daylight, a new paper's corner lifting in the wind
+grandma Sunrye's rice-soup tent at the island entrance: a patched canvas tent, a huge iron soup pot on a coal fire, low wooden sitting platforms (pyeongsang) with long low tables on them, a ladle, 1988 January, deep winter, cold evening, warm orange glow of a coal-briquette stove with a hissing kettle and a bare bulb, white breath in the air, key color #A9B1B6, cel shadows #3E4E66; insert: a weathered plywood notice board on two posts at the island entrance, pinned papers, overcast winter daylight, a new paper's corner lifting in the wind
 ```
 
 ### 2-16 둑길 (밤)

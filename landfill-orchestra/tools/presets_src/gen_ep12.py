@@ -421,7 +421,7 @@ add("2-14", "1987년 늦가을~초겨울(대본)", "늦가을에서 초겨울로
 
 add("2-15", "1988년 1월", "한겨울, 추위, 입김",
     "Insert(게시판): 흐린 겨울 낮. 천막 안: 저녁, 연탄난로 불빛과 천막 전구, 입김이 하얗게",
-    "#9DB7C9", "#3E4E66", ["#E06A3A", "#F2EFE8", "#7A7C80", "#C0392F"],
+    "#A9B1B6", "#3E4E66", ["#E06A3A", "#F2EFE8", "#7A7C80", "#C0392F"],
     [ch("choi", C1, "G7 의상 추가 필요: 두꺼운 외투(대본·소설 근거). 이마에 땀, 손수건 축축"),
      ch("eunju", E1, NECK + "(옷 속). 겨울 겉옷 제안(근거 없음)"), ch("dongmin", D1, "G7 의상 추가 필요: 겨울 겉옷 제안(근거 없음)"),
      ch("manseok", M1, "천막 입구 팔짱, 중간에 사라짐. 야전상의 그대로(겨울 내피는 제안만)"),
@@ -430,7 +430,7 @@ add("2-15", "1988년 1월", "한겨울, 추위, 입김",
      ch("extra:미자 엄마·섬 아저씨·갈고리 아주머니·섬사람들", CROWD_OUT + ", 겨울", EXTRA)],
     ["게시판 새 공문(빨간 도장 둘, 글자는 식자)", "연탄난로·주전자", "서류", "손수건"],
     [], "불안",
-    sc(TENT, "1988 January, deep winter, cold evening, warm orange glow of a coal-briquette stove with a hissing kettle and a bare bulb, white breath in the air", "#9DB7C9", "#3E4E66")
+    sc(TENT, "1988 January, deep winter, cold evening, warm orange glow of a coal-briquette stove with a hissing kettle and a bare bulb, white breath in the air", "#A9B1B6", "#3E4E66")
     + "; insert: " + NB + ", overcast winter daylight, a new paper's corner lifting in the wind",
     "섬 정리 정식 통보 '8월 말까지'. 최 계장 눈이 덕수에게 잠깐(2-6 복선). 미자네 이사 이야기")
 
