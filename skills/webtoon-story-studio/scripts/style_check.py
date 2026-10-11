@@ -3,6 +3,7 @@
   python3 tools/style_check.py story/parts/ep1.md [다른 파일 …]     → 요약 + 후보 줄
   python3 tools/style_check.py --summary story/parts/*.md          → 요약만
   python3 tools/style_check.py --column 4 storyboard/source/storyboard.md   → 표의 n번째 칸만(콘티 화면 칸은 4)
+  python3 tools/style_check.py --balloons storyboard/source/storyboard.md  → 웹툰 화면 글자(콘티 대사 칸): 긴 말풍선, 내레이션 박스, 입말이 아닌 대사
 
 목표 수치를 맞추려고 문장을 늘리지 않는다. 짚힌 줄을 사람이 읽고 고칠지 정한다.
 대사(따옴표 안)는 점검하지 않는다. 대사는 인물의 말이라 대본·콘티와 묶여 있다.
@@ -79,8 +80,53 @@ def run(path, column=None, summary_only=False):
                 print(f"  … 외 {len(hits[name]) - 60}")
 
 
+def balloons(path):
+    """콘티 대사 칸('이름: 대사 / …')을 읽어 웹툰 화면 글자를 점검한다(prose_style.md 7절)."""
+    items = []
+    for i, line in enumerate(Path(path).read_text(encoding="utf-8").splitlines(), 1):
+        if not re.match(r"^\| ?\d-\d{3} ", line):
+            continue
+        cid = line.split("|")[1].strip()
+        for part in line.split("|")[5].split(" / "):
+            m = re.match(r"^\s*([^:]{1,20}):\s*(.+?)\s*$", part)
+            if m:
+                items.append((cid, m.group(1).strip(), m.group(2)))
+    speech = [(c, w, t) for c, w, t in items if not w.startswith(("SFX", "내레이션", "고지문", "손글씨", "제목", "자막"))]
+    nar = [(c, w, t) for c, w, t in items if w.startswith("내레이션")]
+    L = [len(re.sub(r"\s", "", t)) for _, _, t in speech] or [0]
+    print(f"\n## {path} — 웹툰 화면 글자")
+    print(f"말풍선 {len(speech)} · 평균 {statistics.mean(L):.1f}자 · 25자 넘음 {sum(l > 25 for l in L)} · 내레이션 {len(nar)}")
+    longb = [(c, w, t) for c, w, t in speech if len(re.sub(r"\s", "", t)) > 25]
+    if longb:
+        print("\n[긴 말풍선] 한 호흡에 안 읽힘 — 둘로 나누거나 그림에 맡길 것")
+        for c, w, t in longb:
+            print(f"  {c} {w}: {t}")
+    written = [(c, w, t) for c, w, t in speech if re.search(r"(것이다|였다|이었다|하였다|되었다)[.!]?$", t) and not re.search(r"사회자|최 계장|과장|방송|(F)|라디오", w)]
+    if written:
+        print("\n[입말이 아닌 대사] 글말 어미로 끝남(공문·방송 말투가 아닌 인물)")
+        for c, w, t in written:
+            print(f"  {c} {w}: {t}")
+    if nar:
+        print("\n[내레이션 박스] 그림으로 못 보이는 정보(시간 경과·과거 사실)만 남기고, 뜻을 풀어 주는 마무리·조각 문장·재치 있는 꼬리말은 피한다")
+        for c, w, t in nar:
+            flags = []
+            for s in re.split(r"(?<=[.?!…])\s+", t):
+                for name, _, f in CHECKS[:3]:
+                    if f(s.strip()):
+                        flags.append(name)
+            if re.search(r"(것|중|뿐)\.(\s|$)", t):
+                flags.append("조각 문장")
+            if re.search(r"(라는|란) 뜻이었다|소리였다\.$|말한다\.$|본인은", t):
+                flags.append("뜻 풀이·꼬리말")
+            print(f"  {c}: {t}" + (f"  ← {', '.join(dict.fromkeys(flags))}" if flags else ""))
+
+
 if __name__ == "__main__":
     args = sys.argv[1:]
+    if "--balloons" in args:
+        for p in [a for a in args if not a.startswith("--")]:
+            balloons(p)
+        sys.exit(0)
     summary = "--summary" in args
     col = None
     if "--column" in args:
